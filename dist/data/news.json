@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-10T14:26:33.074Z",
+  "updatedAt": "2026-09-10T15:27:30.125Z",
   "articles": [
+    {
+      "id": "3691a538f066ecf9",
+      "title": "ダイキン・梅の花Ｇ、物流トップの経営教室 「物流起点に全社で供給網改革」",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcDNmRHRHaV9xWFlqWkpuWWZLdmNtWjlIcUU1TUJic0RlMkFTZHFtRV81elp6Tkl6UzZSR0VkaUpOYU5TcWs3RFRaU2tGOGY0RWpPYjhtVjVPWGd0dUdsTkFac2ZZUzQ?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-09-10T15:00:00.000Z"
+    },
     {
       "id": "76abfdf6d4a31fd3",
       "title": "イラン、エネルギー製品を運搬する外国船への運送料金を一時停止",
@@ -54,6 +63,15 @@
       "source": "LOGISTICS TODAY",
       "category": "法令・行政",
       "publishedAt": "2026-09-10T10:45:40.000Z"
+    },
+    {
+      "id": "ce2a1aff2a4b9490",
+      "title": "支柱“30本”なぎ倒し 目撃証言 大型トラック道路を“飛び出す” 秋田県",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZWUg5bGR0X3VPcmJIQTFHSDZJMkg5b1NpdXhlQWdfcUtZTkRJenBlMkNIRFNISlV2TWhoTjNHYVZpWTNEX0lVYy1pRFpkTlcyWUZNb3BraG1FTFlnSngxZFFiNjhrbHpuTnFGLXAzQk9rUQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T10:20:46.000Z"
     },
     {
       "id": "20f0e888f7c605fe",
@@ -218,22 +236,49 @@
       "publishedAt": "2026-09-10T08:43:59.000Z"
     },
     {
-      "id": "46ca82774ea1ecc2",
+      "id": "7c5627037724f919",
       "title": "【速報】「灰色の車が逆走し、トラックに衝突して炎上」と通報…トラックなど3台絡む事故で4人負傷 国道は通行止め 滋賀・高島市",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HZDE5clNpMlVqUmFIY19BY3RlMzhoSUFzZWFUbmVvblduLWxfSVZTMXYxbnF6bnJKYnlMSHd1QnNFRU9ZLTdvTzlWaVdyVWtvaDZPSGhjMXNUM28tVGt6S0ZISjZuM2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RbV9jaEFqdzFDT2U1bFpRNGFVWktsU0g3ZGxkYVc1SWNSVDJ5MzUxQ19CYk5wVWxtN0pSV3VFTzhncXpTQW5pMlgtUG5FdDhDNmJBOV83cw?oc=5",
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T08:34:31.000Z"
     },
     {
+      "id": "46ca82774ea1ecc2",
+      "title": "【速報】「灰色の車が逆走し、トラックに衝突して炎上」と通報…トラックなど3台絡む事故で3人死傷 国道は一時通行止めに 滋賀・高島市 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HZDE5clNpMlVqUmFIY19BY3RlMzhoSUFzZWFUbmVvblduLWxfSVZTMXYxbnF6bnJKYnlMSHd1QnNFRU9ZLTdvTzlWaVdyVWtvaDZPSGhjMXNUM28tVGt6S0ZISjZuM2M?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T08:34:00.000Z"
+    },
+    {
       "id": "3fd56bb8d3a46846",
-      "title": "【速報】「灰色の車が逆走し、トラックに衝突して炎上」と通報…トラックなど3台絡む事故で3人死傷 国道は通行止め 滋賀・高島市",
+      "title": "【速報】「灰色の車が逆走し、トラックに衝突して炎上」と通報…トラックなど3台絡む事故で3人死傷 国道は一時通行止めに 滋賀・高島市（MBSニュース）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBya0RESEtEZlhDM1NoRmVYU1lyc2pYaC1DR1dFc1Q5Wl9IWHRVUEdxOHpuOWRoakVUdVdzX3ZXcFduU0FZT1RlRTh5YmUxSi0wNnRCeDF6bjVKeldGbUFMT1A1MzlYNnNtdllZQkJiRzU4NXBBYXUtTTZCQzlqQzQ?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T08:32:21.000Z"
+    },
+    {
+      "id": "73499b46713ea832",
+      "title": "自動運転車両を用いた物流施設内の横持輸送実証事業が国土交通省事業に採択。バース予約・自動運転・地図情報を連携し物流オペレーション全体の最適化を検証 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFemFlXzRlTlpIbEFGOEZkMGszcUEzcVVRNlNyX0JDZWVOb2ZyclNhbGR2cklxdlZXYmlWaFE4QnkyLTJ1YlRjY3ZVZw?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-10T08:27:06.000Z"
+    },
+    {
+      "id": "476677f6fe2fe2b0",
+      "title": "イオンモール熊本爆発事故 爆風受けたトラックから運転手救出…男性に感謝状",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY1dabzVpOUZBN2M5MlFHaURvQW81R3Z6WERkWlppeTV4UXZOYVJORzV1Wmk4TXhzaE9CdXdyLWp6eElIU1d6T0xVT3hYazRXQWJWTUd4bGoxdEdWWHJFYXVpMUJZN1VMU0FfWmp3?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T08:02:11.000Z"
     },
     {
       "id": "ae004f917662a292",
@@ -261,6 +306,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-10T07:24:13.000Z"
+    },
+    {
+      "id": "938c0c899aea9f19",
+      "title": "東九州道でトラックなど3台が絡む事故 志布志―志布志有明間が通行止め",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93MGNad0hsOEhkN2JTaWxXcFl1WmJQUEFpYVZfaTY3c2JYMy1obnZfVHFBbHY0aUZlRGIzOFh2SzQ0NWI4ajNLNlZ3ZWkyNnJUT21yS0lJcE1wbFhoak83cXFJa2J1Y3lvYnU0YzdB?oc=5",
+      "source": "Excite エキサイト",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T07:22:00.000Z"
     },
     {
       "id": "860ec2a9237dd4f2",
@@ -296,15 +350,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZ1BvcUp1TDVad21Ycm00bTNxdWFtNEhUbWRHalJSLXpfVHZ1RkF3d3ZGRGFXVjhrMy14eXViYWhtTHRzWlYwZVI0ek80QVRLSlhFazBzV3lwT0NhNW1aTlNjaDZUclE?oc=5",
       "source": "TBS NEWS DIG",
       "category": "道路・交通",
-      "publishedAt": "2026-09-10T06:55:00.000Z"
-    },
-    {
-      "id": "231c913d24a85100",
-      "title": "東九州道でトラックなど3台が絡む事故 志布志―志布志有明間が通行止め",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQkxJbnczU0ZhZ0ExQlUzWXpZZ0g4SVpHekUxd3UyOG9fQUs3M3dJNkZWV0NjRm9uSXFudVIwdFhlS2s2eXM0V0ltZ0EwTmdiazhEand3RUJCMkY4N0lvT01R0gFiQVVfeXFMTjFCTEludzNTRmFnQTFCVTNZellnSDhJWkd6RTF3dTI4b19BSzczd0k2RlZXQ2NGb25JcW51UjB0WGVLazZ5czRXSW1nQTBOZ2JrOERqd3dFQkIyRjg3SW9PTVE?oc=5",
-      "source": "Infoseek",
-      "category": "安全・事故",
       "publishedAt": "2026-09-10T06:55:00.000Z"
     },
     {
@@ -414,15 +459,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-10T05:12:37.000Z"
-    },
-    {
-      "id": "476677f6fe2fe2b0",
-      "title": "イオンモール熊本爆発事故 爆風受けたトラックから運転手救出…男性に感謝状",
-      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY1dabzVpOUZBN2M5MlFHaURvQW81R3Z6WERkWlppeTV4UXZOYVJORzV1Wmk4TXhzaE9CdXdyLWp6eElIU1d6T0xVT3hYazRXQWJWTUd4bGoxdEdWWHJFYXVpMUJZN1VMU0FfWmp3?oc=5",
-      "source": "article.auone.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T04:56:46.000Z"
     },
     {
       "id": "507a622d2b8b6ad0",
@@ -571,9 +607,9 @@
     {
       "id": "adab5213648573da",
       "title": "新名神6人死亡事故、大型トラック運転の被告に拘禁刑7年求刑 検察側、スマホ注視など「危険運転に比肩しうる」",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzcEw2eFJNRDlRdDFfWWVpdFFTOGhYNFNNb2dJVldmT2pCRjhTOUtIUFd2N2tqaVQyWFdBUzFoWXBkc2xpTUhSZkkzTQ?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T03:23:00.000Z"
     },
@@ -650,15 +686,6 @@
       "publishedAt": "2026-09-10T02:01:25.000Z"
     },
     {
-      "id": "3dbaff3e1f91dc85",
-      "title": "【ネット通販・宅配調査】「送料無料」には敏感、配送時のCO₂には無関心？",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jalRPWUpfYVo0Y2FKbHhBam00WjAzTHV0aVBOSDlJc25zdEx4OTUxSjBUVGZNUVF2d1ZyWUdaYjNtTTJjbXYwUmhsQV9YTGd0TGZCWS1PVmFjazBJT2FDT1RNQXJLN3djN0E?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-10T02:00:02.000Z"
-    },
-    {
       "id": "a458125f48fec203",
       "title": "東電物流が「MujinRCP」でピッキング自動化／パナソニック コネクトの新サービス",
       "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-09T23:30:00.000Z"
-    },
-    {
-      "id": "3449ba8533284764",
-      "title": "バックしてきたトラックに20代男性がはねられ骨盤骨折の重傷…稲刈り後のもみを荷台へ載せるため移動中に事故〈北海道北竜町〉",
-      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpbGtEUUtqUzVhYTJLeFpLTUVIQkNoYlphVlhpeG1Db3dYZDNoUGN1VXdKN1FqaDZGeDlmRmF6N1FXTEVzQUg3TGJmeFNTcnZWOE8zQzVKYw?oc=5",
-      "source": "UHB 北海道文化放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-09T22:41:08.000Z"
-    },
-    {
-      "id": "de99629872130ca1",
-      "title": "NEC、「データドリブンによる物流ネットワーク最適化共創プログラム」の提供を開始 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KSG5YTWFNVjdveVNBUEg4QTJQbjF3akp4ZGJhRUVsRWNoZi0tczFzMERMWmhrMlprS0dETmx1Vk1nOFdocGQ5UU1sTQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-09T21:00:03.000Z"
-    },
-    {
-      "id": "2dbefc15811f06ec",
-      "title": "アマゾン、ドローン配送を全米500都市へ大幅拡大 13年越しの本格始動と即配網統合への課題",
-      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLRXFOcXQ4RVJObE9LT0tvSGo0QlFmRmtnZ2pmYXhLUlBLaTFna3I5aHFiNWc4eDZiSHA5eFV5YVNGXzdXMGhxcTl4aC1HTmJRd19tSkNR?oc=5",
-      "source": "JBpress",
-      "category": "物流",
-      "publishedAt": "2026-09-09T21:00:00.000Z"
     }
   ]
 }
