@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:23:39.476Z",
+  "updatedAt": "2026-09-10T23:22:33.348Z",
   "articles": [
     {
       "id": "9cf290b0668470b4",
@@ -83,15 +83,6 @@
       "publishedAt": "2026-09-10T18:44:47.000Z"
     },
     {
-      "id": "bb89270fbb3c464e",
-      "title": "ダイキン・梅の花Ｇ、物流トップの経営教室 「物流起点に全社で供給網改革」",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2F2aklsemZldjMzdmRHbGlGRDlBcjdwZGxVUEZQbTNDb3ptaGVJR2FFRnIxOVl0SjN6YUtmM2FwNGFVdmhWcm1YLTh1VlVWSzhMNEl0bTdTVGRxWEc5c2VDdDcweDdKX0xqVVZZSW9fOWlQdmNTNFU4U3ZPSHdSRlJTa0oxaU1KbFpJWnlR?oc=5",
-      "source": "日経ビジネス電子版",
-      "category": "物流",
-      "publishedAt": "2026-09-10T15:07:02.000Z"
-    },
-    {
       "id": "ccd9b5209264544e",
       "title": "Warum Kühllogistik zum Gamechanger für unser Netz wird: Minusgrade mit System – Das heimliche Kraftwerk im Hochregal - Xpert.Digital",
       "description": "Xpert.Digital - Konrad Wolfensteinが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -99,6 +90,15 @@
       "source": "Xpert.Digital - Konrad Wolfenstein",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-10T15:04:42.000Z"
+    },
+    {
+      "id": "3691a538f066ecf9",
+      "title": "ダイキン・梅の花Ｇ、物流トップの経営教室 「物流起点に全社で供給網改革」",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcDNmRHRHaV9xWFlqWkpuWWZLdmNtWjlIcUU1TUJic0RlMkFTZHFtRV81elp6Tkl6UzZSR0VkaUpOYU5TcWs3RFRaU2tGOGY0RWpPYjhtVjVPWGd0dUdsTkFac2ZZUzQ?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-09-10T15:00:00.000Z"
     },
     {
       "id": "c34e2e39a883cefe",
@@ -157,11 +157,20 @@
     {
       "id": "9adcd0d2f36cfdcf",
       "title": "新名神の6人死亡事故 検察は大型トラック運転の女に拘禁刑7年求刑 遺族｢私たちは納得はしません｣",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnBiNkYzTnpsQTd6QzlKS1Q0QWhjYUtmX2ZkUXFLM0otOGlFZWlyS01SWWJyaWlUZVNhMGxpX1ROUlVfOElPUERvWXJFV2hRcjM2XzFwN08yTmZ6UmhGdmMtME9maGNQVm1ISWp0Ry1NSzhubG01UU1MaGNPQ3ZpdXR6eVdNYmvSAXpBVV95cUxQTXJULTg5d1ZnUGt5RkMtQUNHVTFsOXlHVWh3bWNBRTdadGdmN0EwZVFrM1NEWlFqa3B3UkJzREM0a3hZdmVBSFJub21hdTFqd0VyZEhpeU9lTzhwRHlyR0wxcmdrVm5zZVl1OFFZYW52VzBUWHAtZ1l4dw?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T11:33:00.000Z"
+    },
+    {
+      "id": "88f625e6a3bae92b",
+      "title": "【速報】車3台が絡む多重事故で炎上の軽乗用車から1人の遺体 対向車線はみ出しか 6時間通行止め - kyoto-np.co.jp",
+      "description": "kyoto-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WNDVzREtYLVE0VE5XNU9ybnFod0tmYUFRdnBEV2wwZWJsdlhxVWt4T3ZTVWQ3N1BJQzAwUFI3aHZnRTRoX0xEeEhaeVoyWjFLZW51TXBzNnE?oc=5",
+      "source": "kyoto-np.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T11:21:00.000Z"
     },
     {
       "id": "7f91b21b2fe67f6a",
@@ -173,29 +182,20 @@
       "publishedAt": "2026-09-10T10:45:40.000Z"
     },
     {
-      "id": "0244c11792fe43d6",
-      "title": "遺族「一生許さない」三重県の新名神高速で大型トラックが車２台に追突し６人が死亡した事故の裁判 被告の女に拘禁刑７年を求刑（静岡朝日テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iemRBV2haYTNfV1dNRTlLOFZoX1ZQYzRLd29iV2s5cmpiejB4SFlvVWhjUXlCSkMtbUVOa1Bta3RzZDZkRnlaZ2Q0cnk5QzFTY19ZUWpNUjVZSzVZZnotRTFtODAxbUNvR2E0S09xWEhmQnhvaHowRWpJMHFidEU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T10:23:59.000Z"
-    },
-    {
       "id": "ce2a1aff2a4b9490",
-      "title": "支柱“30本”なぎ倒し 目撃証言 大型トラック道路を“飛び出す” 秋田県 - news.tv-asahi.co.jp",
-      "description": "news.tv-asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "支柱“30本”なぎ倒し 目撃証言 大型トラック道路を“飛び出す” 秋田県",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZWUg5bGR0X3VPcmJIQTFHSDZJMkg5b1NpdXhlQWdfcUtZTkRJenBlMkNIRFNISlV2TWhoTjNHYVZpWTNEX0lVYy1pRFpkTlcyWUZNb3BraG1FTFlnSngxZFFiNjhrbHpuTnFGLXAzQk9rUQ?oc=5",
-      "source": "news.tv-asahi.co.jp",
+      "source": "テレ朝NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-10T10:20:46.000Z"
     },
     {
       "id": "20f0e888f7c605fe",
       "title": "最大14kmの渋滞が発生…東名高速でトラックなど5台が絡む事故 巻き込まれた車に乗っていたとみられる4人を搬送",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWROeHdvOFFFUnJXSl9Sc2RWQTJOamhza3VnUEQ4S3dBTjhPb0F1Z1g5aU1UVW4tbkt6T1NhNzU2d3g4LWtIUDdOcFRCdWRWak52UVdSUUdXS2pTd3JSMV9CYk56dTd4bWVLYjFvZ2JtOV9uVzJtUFRtWVpOYWZrbTBfVXlFclRiWkHSAY8BQVVfeXFMTzh5VGFmSlVCZExNRW9RQ1VXaVpiOE9KYm5qMWNMa0FpNlY2dkJoUGNCazZCaXVGbWt1ckl5QTZsYVl1S1drVkZEdzNqSi1pZnd4YmdzR2psWDNjU3lSb3BfNkxCcGhUcTZIWjFtNGhrSU5mLVlEWHl3X1R3THlzN3JzVDN5MEN6Y2JMRS01dFk?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T10:05:00.000Z"
     },
@@ -353,13 +353,13 @@
       "publishedAt": "2026-09-10T08:45:14.000Z"
     },
     {
-      "id": "cafef4b26681448f",
-      "title": "アマゾンジャパンが関西最大の物流拠点を新設／兵庫県（サンテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSHVTZFVLZEVmemg4LS1GWVhHXzV5Wm9tcHRMOVo4d3VULU0yNE1KdF9SU2hHTkVKbl90ZWZXLWRyZE9tR1llQndQQ0w1UF9fLUFsazFRc2JGSVlkd3FyNXpRb0xidURXWWpFUWE3NUo5NWMtQVlwYnlFRVZvb2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-10T08:43:59.000Z"
+      "id": "57d82608a6136f69",
+      "title": "東九州道でトラックなど3台が絡む事故 志布志―志布志有明間が通行止め 鹿児島 (2026年9月10日掲載)",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRllPaTA5OHkyaUFhN1BuNG9Wc2JPQkxweGRmTnd5VEt2NFhUejRRVF9aNmFZeG1VZ0NRZUQtbTRvTUlXTTFVZU9nZklKazFwcWl2aUJWcGFDR0VrRWc?oc=5",
+      "source": "ライブドアニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-10T08:43:23.000Z"
     },
     {
       "id": "7c5627037724f919",
@@ -387,15 +387,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T08:32:21.000Z"
-    },
-    {
-      "id": "73499b46713ea832",
-      "title": "自動運転車両を用いた物流施設内の横持輸送実証事業が国土交通省事業に採択。バース予約・自動運転・地図情報を連携し物流オペレーション全体の最適化を検証 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFemFlXzRlTlpIbEFGOEZkMGszcUEzcVVRNlNyX0JDZWVOb2ZyclNhbGR2cklxdlZXYmlWaFE4QnkyLTJ1YlRjY3ZVZw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-10T08:27:06.000Z"
     },
     {
       "id": "a5f44ac41f02e8f0",
@@ -461,21 +452,12 @@
       "publishedAt": "2026-09-10T07:24:13.000Z"
     },
     {
-      "id": "d5e37e7b1754f948",
-      "title": "デリカフーズホールディングス[3392]：当社連結子会社による物流拠点新設に関するお知らせ 2026年9月10日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUx3MHB6aHh5dk1YdDQ2RmhRUHhZUlVlRVItbU1tTDF6VEhUN2JwQ1pqMHYzcnNrWlJyeDZLVXJrRGRSdlJlVEhqREFfWW9SRkJtUHdneXI5NjNGNW9IRS1BMlozd1VNXzRYNWU2VzFJNTNKNFBaMEVjZ052MzhhV1ZLSXlOU0NvMUxhUkIxWjhvWFJSdVdpUUZTNGRDZE5Mc3RUMy1uTm5BNmJlbGVLbFZmYW9HWTNMUUpndF9nSUxRdlpJODByQmEtakM?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
       "id": "b05de7aa3093be56",
       "title": "東九州道でトラックなど3台が絡む事故 志布志―志布志有明間が通行止め 鹿児島（MBC南日本放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0eHF6MTFjZGVEQTI2T0taeV9UeFBnOGxUVENJdzd4MTJuYWk3RXM3OEtuc08yeHFoVDRsc2RNNFpIUUhxWmt3cWg1a2szMjRWYTlOMVcxR2U0UnNGTTZzMXZWc0s5bTN1NUl4LTEwalZzbHdobWNsTkhJOWxLWWM?oc=5",
       "source": "Yahoo!ニュース",
-      "category": "道路・交通",
+      "category": "安全・事故",
       "publishedAt": "2026-09-10T06:58:13.000Z"
     },
     {
@@ -488,12 +470,12 @@
       "publishedAt": "2026-09-10T06:55:00.000Z"
     },
     {
-      "id": "584d0632acdf12f9",
+      "id": "5aa13b66cacb5118",
       "title": "東九州道でトラックなど3台が絡む事故 志布志―志布志有明間が通行止め 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81RkF5YlpHZ1drN040Mm5ENWxvM1Q1R19RbUpFdTJDc0psZzZVTTVmMWxCUHN2ZklrYTZ2TUVYN1dpaEcxZEttYlBKRFlHSXFBYzc1RkJETU1seFBobFlrLQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MNG45YnJaX0VZOUVsYWZ3eU5TTXJjT081cXpHbGpnMWNSNVFzQzNiay12dkk5QzdvbmJOclFIUDRheVN4MmR4MUJmMklOaUlUbnpiNDk4c1VOdHJWZjFCV2lUMzNqM2dxMm5hVzBySdIBdEFVX3lxTE9FcWlNN2V4WkRtUEFCSHgyNWhNbDZXTnE3M2VBcmNOdFUtV1Rwa01tRTFPUDNkaVFOLV9wNGFfdFJ2WDFmdnRpLWNYNkpHblpESmtQaUFNSXNQT2d3bUd5c1JlckVuM1hNZV9mSUI1Yjd5NnE0?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
       "publishedAt": "2026-09-10T06:55:00.000Z"
     },
     {
@@ -515,15 +497,6 @@
       "publishedAt": "2026-09-10T06:44:00.000Z"
     },
     {
-      "id": "84a6e5c64d2d5154",
-      "title": "新名神高速6人死亡事故 トラック運転手の被告に拘禁刑7年を求刑 (2026年9月10日掲載)",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wTEpNT2xNZF9yd3BPbWk0UWJtMUpjdHEtLVdIVW9Da054cjBhUV9wNmVkcWhrUzVCZHVmTU9ObVJDcXVYUXNoN1JsNmtIVkp1aUMtRWZqUU1Ub3dPS0E?oc=5",
-      "source": "ライブドアニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T06:44:00.000Z"
-    },
-    {
       "id": "2a444581e9c2d7ba",
       "title": "新名神6人死亡事故 元トラック運転手に拘禁刑7年求刑 津地裁（毎日新聞）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -533,20 +506,11 @@
       "publishedAt": "2026-09-10T06:30:13.000Z"
     },
     {
-      "id": "21476f174a1fae64",
-      "title": "三菱地所物流リート投資法人[3481]：資金の借入れ（グリーンローンを含む）に関するお知らせ 2026年9月10日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZGZxb0hqb2p5SjlSbFRoMHpST0hiQnNWNGcyZnViX0hqckYyOWYyalVHVmhid1J2SnFVcmhWaFZMcFYycXlHb2YtZGZlc1pJZlZMSkFuN3ZtTTlKQm1lNTA2OTZxUzJTYXc?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-10T06:30:00.000Z"
-    },
-    {
       "id": "6c444e033afd3611",
       "title": "新名神6人死亡事故 元トラック運転手に拘禁刑7年求刑 津地裁",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlVzSUFKeEVrTEUyUVNLTHNtSlZ0WjkyUVNNWVNBTjNIdmc4eG5aYjdVVmd0NDVWV2U4RlZWUE9vck5vV05kNl9CeWNKME0tOU9IVWgxRUNkZ3VwZXljRWU4bEcyT1NQcmlZOWxQT2ZhZmJ4Qk1JWjA1WkUyZ3NXN2ltbUJRTF9ud3V4X3ZnTG1pcU91dWRrY9IBmAFBVV95cUxNNlVzSUFKeEVrTEUyUVNLTHNtSlZ0WjkyUVNNWVNBTjNIdmc4eG5aYjdVVmd0NDVWV2U4RlZWUE9vck5vV05kNl9CeWNKME0tOU9IVWgxRUNkZ3VwZXljRWU4bEcyT1NQcmlZOWxQT2ZhZmJ4Qk1JWjA1WkUyZ3NXN2ltbUJRTF9ud3V4X3ZnTG1pcU91dWRrYw?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T06:29:00.000Z"
     },
@@ -558,6 +522,15 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T06:01:10.000Z"
+    },
+    {
+      "id": "5580174d1c04be5d",
+      "title": "「ながら運転の枠では片付けられない」元トラック運転手の女に拘禁刑7年求刑 過失運転致死罪で最も重い求刑【新名神6人死亡事故】（FNNプライムオンライン（フジテレビ系））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaENTamswdWYwSnduSGxBOHRCT0lpWlYyZERuclZEdmdDUzlqUExGYkhIdGlBYkFvcVRYYzNiZHBqM216M0MzVm5femJpWG1RZ1VCbmlrLVlTQjZVY2N0MEc0bUZodkFaSzY4amdlc2thY0VLUWFWZTlTYWJWOWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T05:48:25.000Z"
     },
     {
       "id": "2c60d87db22f2d07",
@@ -589,9 +562,9 @@
     {
       "id": "64cc2dda3dfd65d3",
       "title": "国際物流総合展／MUJIN、フィジカルAI実装へ最新実機を公開、Exotecと共同出展も",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSWnQtdmFzalBNb3RGTEFQaUx3c3BwUjRGUVZnV090SmZsUF9fZ2UtMHRMYXBDVVotU1ZVWkVIemQ5UzkzazJ0S0hFUjJJNGg5R0pjTg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-10T05:12:37.000Z"
     },
@@ -616,9 +589,9 @@
     {
       "id": "ab3d4d86a039d13b",
       "title": "日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XMlBfSGtwbk9PaGdObkFHNGFfSWtLXzFhMVZEVjZPNFVCWXFOY09EMDM3US11RjI0NHU0d1BuLTZFc04yY2E0MnV0Mzh5UE5iU3BUQw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-10T04:22:31.000Z"
     },
@@ -632,11 +605,11 @@
       "publishedAt": "2026-09-10T04:19:21.000Z"
     },
     {
-      "id": "5206d3286109b342",
+      "id": "80e5f8572d1ebdb2",
       "title": "中央道で貨物トラックが横転、出火【情報更新】",
-      "description": "岐阜新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMVZydXM3bW5EWmFnQzQwcXpkaEhGdTNRVG5kQjBUUkdURkJyb1M1TVM3OUxRbjZQSXl1Z1hQQnRkNWF5TlE0NXgwNU82U2I0NEJGYUZ3?oc=5",
-      "source": "岐阜新聞デジタル",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LU2gzOVBRS0RvNkRnc0JZcUNPbXVPM1NKLXdvX2pERkdYM0NQLThlbmZ0LVVTSVc3eHF1Y19EYUNZVmJMMjFDZ0hWbw?oc=5",
+      "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-10T04:05:00.000Z"
     },
@@ -648,15 +621,6 @@
       "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T04:02:00.000Z"
-    },
-    {
-      "id": "0195f9e6e6a2d397",
-      "title": "令和8年度「中小トラック運送事業者向けDX推進セミナー」にナブアシストが登壇 【全日本トラック協会＆都道府県トラック協会共催】",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ZF95RWRVSTFaSW5NZHNOTmVpcUJ0c0NsRTc2VFRVdTltcjE4TWVtTjhEQ0VDbE4zb1R6c0NHSlZqZTEtUDFSRkNneUdaY0VpeVl0NzBNRVVLVVpFaDhja0plLWEtQ0xiRnc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-10T04:00:02.000Z"
     },
     {
       "id": "a9a4296d3a2bdf22",
@@ -679,18 +643,18 @@
     {
       "id": "c8382b22d5b0dfe5",
       "title": "ながらスマホで新名神６人死亡事故、元トラック運転手の女に拘禁刑７年を求刑…法定刑の上限",
-      "description": "yomiuri.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUFBTZ0FKbkVFQ1BhYVg5MUcxTmpQZ2lVdW01MTRIUmlLTUo2bEJNLWt1TERNcE9PTzk3RGFfT3pyanZTUC1FbmJCdUR0N0Roa0dlZGhIVExWMGgtcjAtZ2V0bGtsQQ?oc=5",
-      "source": "yomiuri.co.jp",
+      "source": "読売新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T03:30:00.000Z"
     },
     {
       "id": "e53e13786b2b1fe6",
       "title": "ながらスマホで新名神６人死亡事故、元トラック運転手の女性に拘禁刑７年を求刑…法定刑の上限",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckNXLWZDYk05U2VBaWJXdjZXSDRfWWt3NFUxVHVLMUtKQm9tTjN2M0FSbll6djFGa2ppRjhLX0tsLXE1aUs3SEVZaEpxVDFTYmdHZ29JYl8wZ0xod2t3ZnlKTm1UX216dy1OSTZNVHNTODJ1QU1oTXo5bm5ybjh3aTdPSm1aendySXfSAYoBQVVfeXFMUHJDVy1mQ2JNOVNlQWliV3Y2V0g0X1lrdzRVMVR1SzFLSkJvbU4zdjNBUm5ZenYxRmtqaUY4S19LbC1xNWlLN0hFWWhKcVQxU2JnR2dvSWJfMGdMaHdrd2Z5Sk5tVF9tenctTkk2TVRzUzgydUFNaE16OW5ucm44d2k3T0ptWnp3ckl3?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T03:30:00.000Z"
     },
@@ -715,11 +679,47 @@
     {
       "id": "a94b394ce5d70b3a",
       "title": "【速報】新名神の6人死亡事故 検察は大型トラックを運転していた55歳女に拘禁刑7年求刑 ｢脇見は瞬間ではなく交通規範意識の欠如は甚しい｣ 三重",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EM0pEYy1xbkhnU0ktWVlDZTNLOGpWdkNqcUd6c01Fa3N6MERrTERmb2dvR2k2TFNhTWVXU3dFcEZrczVsZWFKcTgzaTNDUDhnS0g2SGZreHFWT3pOckhhU3pSb1dnVV9YcU5mQjdYd1lFSUxV0gF6QVVfeXFMTUFWRjNrYTh6ekUtXzhfLXZPZEtVSDV4VW5QTktfYXY4MmNTaHExRjdQSlZmeWZYcmE0Y3QwSVEtYVNrbWRmTjk4eDZFdU1hU3p3MTlINVh3QUhNNjBCeG5pRUktTDA1SDJyRXJGbTc0dm95MTNZMjhUMGc?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T03:26:00.000Z"
+    },
+    {
+      "id": "defd1efa3b0dabe6",
+      "title": "元トラック運転手に拘禁刑７年求刑＝新名神６人死亡事故―津地裁",
+      "description": "時事通信ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15cWJzcF91WmM4Qlk0Y0lwM1h0THMyQ2x4dFVaXzZsR29KdVlsdWhvS0R1MFRKNDJlMjJ3OS1sTlZxVFk4TjlQTTY3MGpNT29mY1Z3WQ?oc=5",
+      "source": "時事通信ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T03:25:00.000Z"
+    },
+    {
+      "id": "5e5620163df05708",
+      "title": "【速報】新名神6人死亡事故 検察が大型トラック運転の女に拘禁刑7年を求刑 津地裁",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVp3MHRzSTVyWGJmMno2WDVmNDV6MThFQXNRNUVCb3MzdmtZaWc1U1BRS0pObE1kazlKMHZrRkFRcmc0dWRwbFhsUUNrMXhQSmd5ZHZmRWs2ZE00RjN2Q1NXb3J6WDNmdGtEM0RwRmtNazllWFVvR0F5SkZSa1Z2X1BOa1VGdzA?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T03:24:00.000Z"
+    },
+    {
+      "id": "081167ff8a5a31ae",
+      "title": "新名神6人死亡事故、大型トラック運転の女に拘禁刑7年を求刑 津地裁公判",
+      "description": "中日新聞Webが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pMjdtMFk4aV9tOVJudnZPdklzc0ExblhsY21EcXJEWWp2c2JNUHYzYVB0Slo4Zkd6ZGZRNjMxeDlrZVhrZGJCODlCT1BUX3R2SzlsVGxQYzlsYUFCVGVz?oc=5",
+      "source": "中日新聞Web",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T03:23:40.000Z"
+    },
+    {
+      "id": "adab5213648573da",
+      "title": "新名神6人死亡事故、大型トラック運転の被告に拘禁刑7年求刑 検察側、スマホ注視など「危険運転に比肩しうる」",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzcEw2eFJNRDlRdDFfWWVpdFFTOGhYNFNNb2dJVldmT2pCRjhTOUtIUFd2N2tqaVQyWFdBUzFoWXBkc2xpTUhSZkkzTQ?oc=5",
+      "source": "47NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T03:23:00.000Z"
     }
   ]
 }
