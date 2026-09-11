@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T18:28:57.184Z",
+  "updatedAt": "2026-09-11T19:24:03.487Z",
   "articles": [
     {
       "id": "c1e8059f3f4c37db",
@@ -8,7 +8,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMG03b1BuS2JWdk4zNW85QjZYRUVmLTItSWkzWXMzYnlkc2VMZDdOQlNGZ3J3bEJBNFY0UEhOUTFHMHVVbjNRQ1U1TTY5VEpmbDh6NmlxOFZ5OHF3WGxNNHF6dkMyVVRhXzU2VjZEeEhXNmxnY1d3bk9Ud3h0WFE?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-09-11T18:27:56.000Z"
+      "publishedAt": "2026-09-11T18:28:58.000Z"
     },
     {
       "id": "b4b739cebbcf111b",
@@ -146,15 +146,6 @@
       "publishedAt": "2026-09-11T08:57:20.000Z"
     },
     {
-      "id": "776de8b1cd31292c",
-      "title": "大和ハウス物流施設堅調、荷主意識の変化も後押し",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VZUVmZndZMVVBa3NYQnBOUmVGUWJaME5pVS00RlNxOE5VYnlkYjZxWmw2VS1TdXZfZFNsUll5QzBxVkttR3Jpdg?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T08:57:18.000Z"
-    },
-    {
       "id": "905b6a5b63fc6b28",
       "title": "中央道上り線トラック横転 駒ヶ根ICと伊那ICの間で通行止め ※午後5時現在（テレビ信州）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -198,15 +189,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-11T08:15:53.000Z"
-    },
-    {
-      "id": "62cdea8fcd613c61",
-      "title": "宮城の運送会社が破産 プロスポーツの用具運搬も",
-      "description": "河北新報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhSGl3TmJMQ2ljNUUwT3pyZE9zVjBHQmlWeFN1MEFsVjR5eVN2aVljT1EyRGdhbzMwWXJZQXhBa012aHZBckhoc1ZHaWk5bG1tOEY1N1RVa1hLRlRUNWg5LQ?oc=5",
-      "source": "河北新報オンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-11T08:03:30.000Z"
     },
     {
       "id": "b8f530dd197ef6f7",
@@ -371,6 +353,15 @@
       "publishedAt": "2026-09-11T04:20:00.000Z"
     },
     {
+      "id": "c4d2a30549ba870e",
+      "title": "デリカフーズ子会社、三郷に物流拠点新設",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MODdUcVZmMzdHSWNlbGEtRjFuQ1RXeG9OeWkxN2R1Y3pUMGR5ai1FOHlKQm9jVy1uZTJuQnpSd18wZ3hIZnV3eA?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-11T03:34:50.000Z"
+    },
+    {
       "id": "8765fda579a93531",
       "title": "ウォルマート、ダンキン配送を全米規模へ拡大",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -418,9 +409,9 @@
     {
       "id": "02a3c0b25bc7047f",
       "title": "新宇都宮本社始動！物流の2024年問題を乗り越え、ニッカネが実現する「効率化」と「配送の働きがい」",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SVEJ4RjZ6cDZvOWRRV2YzWktNSG9sTDBDZU9sYnlIckpxVjZOdkFLOWlJS1lrclV2U19MWVBDVkFpNzRTNHR2ckVTd2NlYWI2ZjNucC1n?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-11T02:37:00.000Z"
     },
@@ -443,6 +434,15 @@
       "publishedAt": "2026-09-11T02:34:00.000Z"
     },
     {
+      "id": "06e2f5012c3d7204",
+      "title": "韓国物流大手、宅配からAIロボット・特殊貨物へ…CJ・韓進・ロッテが成長分野を開拓",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWWF2aE1tY25WX25IZkd2OG05a2tYa3FZWmZJRGlXeFAtay1hbU1xaDJDTzhESnBzbWNWVEVFOFZMV3p5ZXJXb19IeDVuYU5jb1hyUHlCb3MzdHFDQjhDMVRIZVZYQUdkWGfSAWpBVV95cUxQc1lhdmhNbWNuVl9uSGZHdjhtOWtrWGtxWVpmSURpV3hQLWstYW1NcWgyQ084REpwc21jVlRFRThWTFd6eWVyV29fSHg1bmFOY29YclB5Qm9zM3RxQ0I4QzFUSGVWWEFHZFhn?oc=5",
+      "source": "Infoseek",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T02:30:25.000Z"
+    },
+    {
       "id": "881aae66f0eabcd7",
       "title": "北海道で車横転事故相次ぐ 札幌市で3台絡む事故30代男性搬送 石狩市でトラックと衝突40〜50代の女性搬送",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -453,19 +453,19 @@
     },
     {
       "id": "aa0e8cb449fb5390",
-      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀 - kyoto-np.co.jp",
-      "description": "kyoto-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRlBrcnZyUGczYVhPNUtwcFlyeG1JVkNFU2IwbWMwWTJGeHF4TkxmMjhKcXA3Y3VOU0hMelpnckpIOWNybFZPekJMazdNNlJmdW1fN3ZRTks?oc=5",
-      "source": "kyoto-np.co.jp",
+      "source": "京都新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T02:00:00.000Z"
     },
     {
       "id": "bd32edc46c7e9eca",
       "title": "アマゾンが関西最大の物流拠点を兵庫・尼崎に開設 報道機関に公開 [兵庫県]",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tZDgwZGpjTW5NQ2pTbDdhRUNiTWZhQlgtbURYRXdsS3RqWl9ONkw1bDRWRHkydnpfM0NuSXhCWWRYcGY1NjJ5RGtDX3B5VHQ3Z3VaNDdPOXlMbWFUS1YxeHo0TG1Jd1E?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "category": "物流",
       "publishedAt": "2026-09-11T01:45:00.000Z"
     },
@@ -499,9 +499,9 @@
     {
       "id": "e20bbdf84b7fef10",
       "title": "APT、10月1日 東京ビッグサイト開催「物流DX未来会議 AFTER ACTION IN TOKYO」に登壇",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SGFEQ3pHaFdoSnNOaGZVc3BGaFU0OU9kUVZaQ3VidjVHblN6aFNrb0VlWkRYY2VoaHNHSFp0UEd4WUFsc3VCNi1WSUNhMmlkclVSRTlmczI0QmNka3V2NmJOd2NqbGFva0E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-11T01:00:02.000Z"
     },
@@ -513,6 +513,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T01:00:00.000Z"
+    },
+    {
+      "id": "56adb2497f7cc059",
+      "title": "中国運輸局／26年8月、一般貨物自動車運送事業13者許可、米子田中食品13両で参入",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6TWhXVHJYdVlrYmhpcjRIWkl0em5SVUcyNXNMTEpZem5pei12X1gtN0duVEg1Z2dvU09CTEs5ZUkxQWRuTF9KSlNsSFA4N1JScndmbg?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-11T00:57:00.000Z"
     },
     {
       "id": "06bc1174b2c1721d",
@@ -632,6 +641,15 @@
       "publishedAt": "2026-09-10T21:31:21.000Z"
     },
     {
+      "id": "4498e2c866dca2e1",
+      "title": "まるで直接触れている!? 遠隔から重さや柔らかさを感じるオカムラの物流ロボ：国際物流総合展2026",
+      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MmxQbGFZeVlvXzE5LTJZNW5LcWdyREhFb05uNGVrMG16c3A2eGlSVmI4VnQydUhvZVhRZm9GVzhUNmNWSUliaWY0Q1RXNFZDSUVhRWJqNG1iWnR6WG0zNUZaQWFveDFna2gxeHRwWQ?oc=5",
+      "source": "MONOist",
+      "category": "物流",
+      "publishedAt": "2026-09-10T21:15:00.000Z"
+    },
+    {
       "id": "9cf290b0668470b4",
       "title": "「層雲峡のトンネル」内で軽自動車やトラックなど4台が絡む事故…運転手3人が病院へ搬送〈北海道上川町〉",
       "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-10T19:03:04.000Z"
-    },
-    {
-      "id": "432bdb34456d88cf",
-      "title": "GOドライブ、運送現場に「無理のない法令対応」",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55RlFoN09QcjZWRTJiRUVGNTZKM2E0VUpqemM2dmR6Y3F1eVAxemN2OThuOUlad1lkczI0cklYYnFvYXBkWldxMg?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-10T19:03:02.000Z"
-    },
-    {
-      "id": "adbed96d300bf381",
-      "title": "イオンモール爆発、側面に大きな穴の開いたトラックに気づき…駆けつけて運転手救助・搬送の男性に感謝状",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUXE5TzRZLTRXNTdsc0ROdm93X3kyZk42MHgyQ3RDZC1Rc3RXb3RQLWd1MWRoa1o2V2M5Uk9BVTZZV3Z3aHNDTzAxWEZsRG1DenF2SW1YYWVMOXRZb0dCNGNCUE9saGlfN1JnRnFUbWhjSkl2Y3EtUUY0aHQ4cXc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T17:05:00.000Z"
     }
   ]
 }
