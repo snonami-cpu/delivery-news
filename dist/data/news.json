@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:26:10.561Z",
+  "updatedAt": "2026-09-11T16:27:09.138Z",
   "articles": [
     {
       "id": "b4b739cebbcf111b",
@@ -13,18 +13,18 @@
     {
       "id": "a668600118a4a7d2",
       "title": "名神高速道上り線でトラックがガードレールに衝突、運転手が死亡 滋賀県愛荘町",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1bnBSdFVZN3ZpazEteHVpLXVXZnhPclZmWUxyRTI4alllRHU0ZkVzZTJxam9xa0NLanlGVGhQM0ZNenllcllBazZqdw?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T13:57:00.000Z"
     },
     {
       "id": "17555b154e751870",
       "title": "川崎市、大型トラックによる事故で歩道橋を通行禁止に 再開の時期は未定",
-      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOGhwTUJzQWxkTkJnMmJ4U1ZILTBwb0xLQ2NRekl3aEZRVjBFYTJ4ck95OWEzX2hJTkRHNDJNOFJYQUhtX1h1V1dNd0MtOTJNcTRhZHctb2hqaVVDNU04NUNFamd2Ym5VMmV5Qg?oc=5",
-      "source": "kanaloco.jp",
+      "source": "カナロコ",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T13:30:00.000Z"
     },
@@ -200,6 +200,15 @@
       "publishedAt": "2026-09-11T08:19:27.000Z"
     },
     {
+      "id": "5e5605b0cb0677a0",
+      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-11T08:15:53.000Z"
+    },
+    {
       "id": "b8f530dd197ef6f7",
       "title": "鈴与商事／抹茶ビジネス展開するBlue Farmに出資、物流面でも支援",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -304,7 +313,7 @@
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UcGZib1FrVG8tT2hqT1cxVWwwbHBxekl4RVZ0alc1VDE1MFdENldhbEJSOXdhZHQ5NU9vRDF5LWR2a1Nhbk9OX0RjNWtxRDdiN0I3Wg?oc=5",
       "source": "物流ニュースのLNEWS",
-      "category": "物流",
+      "category": "法令・行政",
       "publishedAt": "2026-09-11T06:14:14.000Z"
     },
     {
@@ -326,22 +335,22 @@
       "publishedAt": "2026-09-11T05:37:00.000Z"
     },
     {
-      "id": "50a154ad20731208",
+      "id": "634896e5323802fc",
       "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ",
-      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WTGpiV29mYXQwWmpSZ0h6TEtzZ1NvTG5LWmp0RFZMWGFoVzhVdFlqanBCVjNxdnBIdlo1WnRkNTN2MFJHcVIzNTNmMA?oc=5",
-      "source": "くるまのニュース",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Z9IBhgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Zw?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T05:20:00.000Z"
     },
     {
-      "id": "5e5605b0cb0677a0",
-      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-11T05:10:19.000Z"
+      "id": "50a154ad20731208",
+      "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ - kuruma-news.jp",
+      "description": "kuruma-news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WTGpiV29mYXQwWmpSZ0h6TEtzZ1NvTG5LWmp0RFZMWGFoVzhVdFlqanBCVjNxdnBIdlo1WnRkNTN2MFJHcVIzNTNmMA?oc=5",
+      "source": "kuruma-news.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T05:20:00.000Z"
     },
     {
       "id": "f098c189cc840045",
@@ -360,15 +369,6 @@
       "source": "ktn.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T04:20:00.000Z"
-    },
-    {
-      "id": "ad1b06d5f8a014ac",
-      "title": "新名神「ながらスマホ」で6人死亡裁判、求刑7年 繰り返される「軽すぎる」の声（弁護士ドットコムニュース）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OV25uM2lHeUFpVUtPWmFMUlg2N0JkVXRrZmw4a1Bxbjlhd3lXdUdtNjhXSmpiYXpDcnVISno1blVHNXMxOC1ocTRxckhXZlBoaUV5b2d3X1pOOWRtSkp0RmcwOWRlS1RCbWtsbGdFQjRNam9rbTJPcVNqSFdLMEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T03:40:00.000Z"
     },
     {
       "id": "8765fda579a93531",
@@ -408,10 +408,10 @@
     },
     {
       "id": "d6b2caf0db6c2bd3",
-      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す",
-      "description": "アゴラ 言論プラットフォームが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す - agora-web.jp",
+      "description": "agora-web.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uamdTS3pMb004YVhRUHVIM0xvY1Z0SDhmR1VZNjN2UkdoTWFRdENpcjRoR2cyX2JGakRFY0NrLU9IajRHODFEa3dPaGx3eDZEdXpSMjdtTHhnVDg?oc=5",
-      "source": "アゴラ 言論プラットフォーム",
+      "source": "agora-web.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T02:45:24.000Z"
     },
@@ -441,15 +441,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T02:34:00.000Z"
-    },
-    {
-      "id": "06e2f5012c3d7204",
-      "title": "韓国物流大手、宅配からAIロボット・特殊貨物へ…CJ・韓進・ロッテが成長分野を開拓",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWWF2aE1tY25WX25IZkd2OG05a2tYa3FZWmZJRGlXeFAtay1hbU1xaDJDTzhESnBzbWNWVEVFOFZMV3p5ZXJXb19IeDVuYU5jb1hyUHlCb3MzdHFDQjhDMVRIZVZYQUdkWGfSAWpBVV95cUxQc1lhdmhNbWNuVl9uSGZHdjhtOWtrWGtxWVpmSURpV3hQLWstYW1NcWgyQ084REpwc21jVlRFRThWTFd6eWVyV29fSHg1bmFOY29YclB5Qm9zM3RxQ0I4QzFUSGVWWEFHZFhn?oc=5",
-      "source": "Infoseek",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T02:30:25.000Z"
     },
     {
       "id": "881aae66f0eabcd7",
@@ -720,6 +711,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-10T19:03:02.000Z"
+    },
+    {
+      "id": "adbed96d300bf381",
+      "title": "イオンモール爆発、側面に大きな穴の開いたトラックに気づき…駆けつけて運転手救助・搬送の男性に感謝状",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUXE5TzRZLTRXNTdsc0ROdm93X3kyZk42MHgyQ3RDZC1Rc3RXb3RQLWd1MWRoa1o2V2M5Uk9BVTZZV3Z3aHNDTzAxWEZsRG1DenF2SW1YYWVMOXRZb0dCNGNCUE9saGlfN1JnRnFUbWhjSkl2Y3EtUUY0aHQ4cXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-10T17:05:00.000Z"
     }
   ]
 }
