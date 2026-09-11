@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-09-11T14:26:49.626Z",
+  "updatedAt": "2026-09-11T15:26:10.561Z",
   "articles": [
+    {
+      "id": "b4b739cebbcf111b",
+      "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3RDS1l5ZXBuUDlrM3BvaXBOSkk4OEZEZXpTLTdicV81ZmJoWWFKZTVCVF9HcXRVSXhNZGNqcmMxbnd2SElvNFRNZExPSHhxaHE3cGVGS1dwelhzVHBtT202V2dSYlpjaF9iVzVwa0RGeEk0TTNwQm9WZXluUjNfNFZLaUpaX1JLczE2c1MycnlLVTNGeVlTTmNkcGJsS2ExdGFXVlZ5SmlwbjNScTRoR2FxRzVVRXA0R0dz?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T14:51:13.000Z"
+    },
+    {
+      "id": "a668600118a4a7d2",
+      "title": "名神高速道上り線でトラックがガードレールに衝突、運転手が死亡 滋賀県愛荘町",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1bnBSdFVZN3ZpazEteHVpLXVXZnhPclZmWUxyRTI4alllRHU0ZkVzZTJxam9xa0NLanlGVGhQM0ZNenllcllBazZqdw?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-11T13:57:00.000Z"
+    },
     {
       "id": "17555b154e751870",
       "title": "川崎市、大型トラックによる事故で歩道橋を通行禁止に 再開の時期は未定",
-      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOGhwTUJzQWxkTkJnMmJ4U1ZILTBwb0xLQ2NRekl3aEZRVjBFYTJ4ck95OWEzX2hJTkRHNDJNOFJYQUhtX1h1V1dNd0MtOTJNcTRhZHctb2hqaVVDNU04NUNFamd2Ym5VMmV5Qg?oc=5",
-      "source": "カナロコ",
+      "source": "kanaloco.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T13:30:00.000Z"
     },
@@ -137,6 +155,15 @@
       "publishedAt": "2026-09-11T08:57:20.000Z"
     },
     {
+      "id": "776de8b1cd31292c",
+      "title": "大和ハウス物流施設堅調、荷主意識の変化も後押し",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VZUVmZndZMVVBa3NYQnBOUmVGUWJaME5pVS00RlNxOE5VYnlkYjZxWmw2VS1TdXZfZFNsUll5QzBxVkttR3Jpdg?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-11T08:57:18.000Z"
+    },
+    {
       "id": "905b6a5b63fc6b28",
       "title": "中央道上り線トラック横転 駒ヶ根ICと伊那ICの間で通行止め ※午後5時現在（テレビ信州）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -155,6 +182,15 @@
       "publishedAt": "2026-09-11T08:32:05.000Z"
     },
     {
+      "id": "c34e2e39a883cefe",
+      "title": "リースバックは「ただの延命治療」？ 今こそ適正な原価計算を",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUWRBMVBqMUhrVW5tbWFKSXpHc1lkRmg5ampXOE1iX3lLX0h3X3Y0UUNGN1BKaThXRXd1SExGWE5nSWJFUHZhNHpjVGhIdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-11T08:24:28.000Z"
+    },
+    {
       "id": "49c6aefaa65de8c7",
       "title": "PALTAC／10月1日付で物流本部を「物流運用本部」に改称、物流企画部は事業開発本部へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -162,15 +198,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-11T08:19:27.000Z"
-    },
-    {
-      "id": "68a64d9e08aa1a63",
-      "title": "「安全確認をおこたっていた」・・・4トントラックが89歳男性はねる 男性は頭を強く打って重傷 トラックの男を現行犯逮捕 奈良・河合町",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Z0JMSHJvdy0wSlU0QUVYbEJnV04zQml1TnhDYTl6NHBaSUxaS2Y3R0FhbHRUenhwMUtHWENYN1BFaUFfNXFGZ2dkSnR5OVkyY1d2cFlSa09DWEgyOWlhRnduV3V1RlFldDc5SjVNaTg2Zkw0eVY1Z3RGR0RhTUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T07:59:37.000Z"
     },
     {
       "id": "b8f530dd197ef6f7",
@@ -236,15 +263,6 @@
       "publishedAt": "2026-09-11T07:23:12.000Z"
     },
     {
-      "id": "c34e2e39a883cefe",
-      "title": "リースバックは「ただの延命治療」？ 今こそ適正な原価計算を - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUWRBMVBqMUhrVW5tbWFKSXpHc1lkRmg5ampXOE1iX3lLX0h3X3Y0UUNGN1BKaThXRXd1SExGWE5nSWJFUHZhNHpjVGhIdw?oc=5",
-      "source": "weekly-net.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-11T07:21:57.000Z"
-    },
-    {
       "id": "dc19f70852473cac",
       "title": "アサヒロジスティクス／東京都内2か所目のサテライト拠点開設、都心部の配送網を強化",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -286,7 +304,7 @@
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UcGZib1FrVG8tT2hqT1cxVWwwbHBxekl4RVZ0alc1VDE1MFdENldhbEJSOXdhZHQ5NU9vRDF5LWR2a1Nhbk9OX0RjNWtxRDdiN0I3Wg?oc=5",
       "source": "物流ニュースのLNEWS",
-      "category": "法令・行政",
+      "category": "物流",
       "publishedAt": "2026-09-11T06:14:14.000Z"
     },
     {
@@ -318,10 +336,10 @@
     },
     {
       "id": "5e5605b0cb0677a0",
-      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-11T05:10:19.000Z"
     },
@@ -434,15 +452,6 @@
       "publishedAt": "2026-09-11T02:30:25.000Z"
     },
     {
-      "id": "ab1472849b0356d7",
-      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLakNsbzEtaHJ1bS1XRjRNZDdQR0xfM0d3MVZnUkcteTBBT0x3aDBXX3B1c3ZncFRmUWgxQVJ4SVU1V3hSSmRQdlpVaw?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-11T02:14:18.000Z"
-    },
-    {
       "id": "881aae66f0eabcd7",
       "title": "北海道で車横転事故相次ぐ 札幌市で3台絡む事故30代男性搬送 石狩市でトラックと衝突40〜50代の女性搬送",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -450,6 +459,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T02:13:19.000Z"
+    },
+    {
+      "id": "aa0e8cb449fb5390",
+      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRlBrcnZyUGczYVhPNUtwcFlyeG1JVkNFU2IwbWMwWTJGeHF4TkxmMjhKcXA3Y3VOU0hMelpnckpIOWNybFZPekJMazdNNlJmdW1fN3ZRTks?oc=5",
+      "source": "京都新聞デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T02:00:00.000Z"
     },
     {
       "id": "bd32edc46c7e9eca",
@@ -702,24 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-10T19:03:02.000Z"
-    },
-    {
-      "id": "adbed96d300bf381",
-      "title": "イオンモール爆発、側面に大きな穴の開いたトラックに気づき…駆けつけて運転手救助・搬送の男性に感謝状",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUXE5TzRZLTRXNTdsc0ROdm93X3kyZk42MHgyQ3RDZC1Rc3RXb3RQLWd1MWRoa1o2V2M5Uk9BVTZZV3Z3aHNDTzAxWEZsRG1DenF2SW1YYWVMOXRZb0dCNGNCUE9saGlfN1JnRnFUbWhjSkl2Y3EtUUY0aHQ4cXc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T17:05:00.000Z"
-    },
-    {
-      "id": "ccd9b5209264544e",
-      "title": "Warum Kühllogistik zum Gamechanger für unser Netz wird: Minusgrade mit System – Das heimliche Kraftwerk im Hochregal - Xpert.Digital",
-      "description": "Xpert.Digital - Konrad Wolfensteinが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEJMMXJyY1VVaHdWeWV2ZzFtMXpsU3VhX3dndU1CMzZrdjlpSkExR1g1MEtnVmlEWU8zX0NNUHNpRmxsX3lzR3JnWmdHczJSRW91NW81LUJGempfLXpkZWRsbUFGSlpzY2NTQldJMnNFUGxYM1ljWUFkaFRhRWZVSnBXd0lEWHFnU1I4OHVrbzh2TTFRbUdwbVNxdHJ0VnlDVHY4WWd3YjNQdGFXN2hLSTlpZDQwclVPRjhPajJqY0YtUFFWN3k0TVl2ZWFETWfSAdcBQVVfeXFMTkpjdzNINmVOYWlRZEY3bmEyb1FJMGpqV3NiT3JUclRRSUxmQUljLWdELVNfbG9UYUZ2R3E0TTNIMEQ5SFZFcVl2ZkNlUjFFTURqNFdQcVRENmJEU3N1clVPYUxGTl9mMTZFNzZsTWZmT2pycERhQk9ZRlNuZGxaZzZFTUhENGdDQW1WRjBHTkFNNkxJd09FRG1RRWRfOVVpQnpPUW1meWM3WHF3WWl1U2JvTzRaRnlFU1FBS1NPckdQZ0FsdUVuNEx4aWJCemNhR2dUVHhXbFk?oc=5",
-      "source": "Xpert.Digital - Konrad Wolfenstein",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-10T15:04:42.000Z"
     }
   ]
 }
