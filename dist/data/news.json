@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-11T21:23:55.386Z",
+  "updatedAt": "2026-09-11T22:24:45.147Z",
   "articles": [
+    {
+      "id": "c1e8059f3f4c37db",
+      "title": "「6人殺して7年」「お辞儀すらしない」遺族が怒り TikTok見て脇見運転6人死亡 元トラック運転手に法定上限の7年求刑",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMG03b1BuS2JWdk4zNW85QjZYRUVmLTItSWkzWXMzYnlkc2VMZDdOQlNGZ3J3bEJBNFY0UEhOUTFHMHVVbjNRQ1U1TTY5VEpmbDh6NmlxOFZ5OHF3WGxNNHF6dkMyVVRhXzU2VjZEeEhXNmxnY1d3bk9Ud3h0WFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T21:28:05.000Z"
+    },
     {
       "id": "fa51042db379810e",
       "title": "TSフロンティア（福岡）が貨物利用運送事業登録",
@@ -54,15 +63,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-11T19:41:15.000Z"
-    },
-    {
-      "id": "c1e8059f3f4c37db",
-      "title": "「6人殺して7年」「お辞儀すらしない」遺族が怒り TikTok見て脇見運転6人死亡 元トラック運転手に法定上限の7年求刑",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMG03b1BuS2JWdk4zNW85QjZYRUVmLTItSWkzWXMzYnlkc2VMZDdOQlNGZ3J3bEJBNFY0UEhOUTFHMHVVbjNRQ1U1TTY5VEpmbDh6NmlxOFZ5OHF3WGxNNHF6dkMyVVRhXzU2VjZEeEhXNmxnY1d3bk9Ud3h0WFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T18:28:58.000Z"
     },
     {
       "id": "b4b739cebbcf111b",
@@ -148,9 +148,9 @@
     {
       "id": "6a4cf65b85556c55",
       "title": "【続報】佐世保市の市道「トラックとバイク衝突事故」 バイクを運転していた男性(28)が死亡《長崎》",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa01FeWw3dHdUZURTWFQ1aDNwTXNKbmNQdWNoNUJ3Y2t0N2NteWxsWjdLNXRLd0tQTmxSTUZZbVRzTW01RHJDMVlqQnF5S1JRQU42WEtyUnZYdWw5TkpWX1g1OG1wRUJXTmhZNHZFemFSdlMxR2pRWV9tTVVMUnF5OFU4aFA3Tzg?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:45:00.000Z"
     },
@@ -246,10 +246,10 @@
     },
     {
       "id": "c34e2e39a883cefe",
-      "title": "リースバックは「ただの延命治療」？ 今こそ適正な原価計算を",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "リースバックは「ただの延命治療」？ 今こそ適正な原価計算を - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUWRBMVBqMUhrVW5tbWFKSXpHc1lkRmg5ampXOE1iX3lLX0h3X3Y0UUNGN1BKaThXRXd1SExGWE5nSWJFUHZhNHpjVGhIdw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-11T08:24:28.000Z"
     },
@@ -264,12 +264,21 @@
     },
     {
       "id": "5e5605b0cb0677a0",
-      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-11T08:15:53.000Z"
+    },
+    {
+      "id": "62cdea8fcd613c61",
+      "title": "宮城の運送会社が破産 プロスポーツの用具運搬も",
+      "description": "河北新報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhSGl3TmJMQ2ljNUUwT3pyZE9zVjBHQmlWeFN1MEFsVjR5eVN2aVljT1EyRGdhbzMwWXJZQXhBa012aHZBckhoc1ZHaWk5bG1tOEY1N1RVa1hLRlRUNWg5LQ?oc=5",
+      "source": "河北新報オンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-11T08:03:30.000Z"
     },
     {
       "id": "b8f530dd197ef6f7",
@@ -454,9 +463,9 @@
     {
       "id": "5213a365f13337a1",
       "title": "コンビニエンスストアに右折のトラックとバイク衝突 20代男性が意識不明の重体 佐世保市の市道《長崎》",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1VaVGl4dVdFUjhHWmtkV1RpYUZGNGxEMUFTaVcxbXlZRnpCUXdFZXB2MFVJd2xqaDk3UURWQTNSYXBQRzNCODZDLWg0T1NoajFjS2IwUmFhV1BJTHRVNzIxaWJOVW4wNEhWUmxYYWJNUlliLVdyeVdTZHZlUV9zQjJ0bUViSG8?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T03:05:00.000Z"
     },
@@ -597,10 +606,10 @@
     },
     {
       "id": "e379f8f9b72f4553",
-      "title": "【中央道】中津川市内でトラック横転事故 通行止め解除には時間がかかる見込み（11日09:00現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【中央道】中津川市内でトラック横転事故 通行止め解除には時間がかかる見込み（11日09:00現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4td1FfWVNqV0xDam5ZaTdQa0pMTHlkY1BQUF9oYUtaSFZBYTUtT2o4ZXo0YlI5azV0Ml9ySXJjZGZPaVZEYnB6WDhmaEZyRzZmeGhCZFVZM2RxMmYyd3Nz?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送株式会社",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T00:00:10.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-10T19:14:52.000Z"
-    },
-    {
-      "id": "a9e35784a3bd3d79",
-      "title": "CHロビンソン、運送会社支援を拡充し17社表彰",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oY0JoZmp6djdTaWNUWUFLWGRDalVseXFIQ21TbXZxRjM0ejZKN1lSLUdoODVSRmxNeUZRN3NtalMwc1NjaS1sTw?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-10T19:03:04.000Z"
     }
   ]
 }
