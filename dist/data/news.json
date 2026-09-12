@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-12T04:25:18.970Z",
+  "updatedAt": "2026-09-12T06:29:46.042Z",
   "articles": [
+    {
+      "id": "30ca0ccc15a5f149",
+      "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
+      "source": "news.livedoor.com",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T06:11:29.000Z"
+    },
     {
       "id": "c7d1e5a2fe88effa",
       "title": "【速報】新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で通行止め（京都新聞）",
@@ -8,16 +17,34 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OXI2c1lBVXNKY0Y0RmlpbXdEcE01T3c2ZjFteDh0QnpyZFBsQU5VUTNPYnl3cmxuT0E0RnJGVXNibGFvbFVTdDdOTndNZk5OamU0QlRKQ3pLdFlNNU5HR3NoLWdXN3Qyc0otcWpYZlRtQ3M1VHZ4dWZqaEdUZDA?oc=5",
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
-      "publishedAt": "2026-09-12T03:18:17.000Z"
+      "publishedAt": "2026-09-12T06:06:18.000Z"
     },
     {
-      "id": "3a15273e04c006a3",
-      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間で通行止め（静岡･午前7時45分現在）",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43clZ0bG1oLVU0aF80Z2Mzamlrc0NhRHN0VTQzUXFZejhyLXdQekdPbkVaNVltckRGSllQXzZ2X0tWMU1EZlplSFY5WFVadGZKTFRDZ04xQVpXVDFUdlVMcVB3dXdILTRveENhaWtkMjUwelhLQk90OC05R2tWWDg?oc=5",
-      "source": "日テレNEWS NNN",
+      "id": "1ef3092e8dac1e54",
+      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQ213SE0yX2NzcDBOVzh5NDZfZWZGcGhpOC1OT0Vla1Vyd2Y3bG9GMGsyLU5ZaUduQVR6dlc2dElkUGpzRmVkal9tUkZhX0puelBSdEthWkdpTFpqTDYw?oc=5",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
-      "publishedAt": "2026-09-12T02:15:00.000Z"
+      "publishedAt": "2026-09-12T04:41:30.000Z"
+    },
+    {
+      "id": "21837b7b399e0ca5",
+      "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
+      "source": "news.livedoor.com",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T04:11:31.000Z"
+    },
+    {
+      "id": "b2d86005f4b93d9b",
+      "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNW1YQy1oeDJHZ1pVbk9xZXg5dlFMQjRNMXQ1akhSRkJjNGxCeXotTzlzcnF2czJwZm9maGdicVNSdFpqbWhxeEtVUGF6cmJXR21xN005X28tVXFMa2h1UEs2TlBrSDJuTkVvdjBPc9IBdEFVX3lxTE43ejh5VzJ5NDVrSkpuNnVFZENSS3RlNWxrS1Z3MS1JY1JoeHZTSlI3ZEVWbktRM3RKZ2ljd2VQcHJya1BzTWY3WGd2N0Q2U1pULXJzYzI3NUYyUloxbVhtZi1OYzByLUN0eHk5Wl9rSkYyZFBs?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T04:09:00.000Z"
     },
     {
       "id": "8765fda579a93531",
@@ -76,9 +103,9 @@
     {
       "id": "fda9f6ada51b2694",
       "title": "東名上り三ケ日JCT～三ケ日IC通行止め トラックなど計6台関連事故 3人軽傷 きっかけは乗用車のスピンか",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N3hMRUlMdXVtWS13YTAtZ0VfMTlfT3h4aUhQWVJGMlkzZWh5RkRyNzZKemFBMWJraHY0cG9sRnY2MVVUTjFhYXc4eTUydw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -92,6 +119,15 @@
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
     {
+      "id": "390ee701ed98e7c0",
+      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市",
+      "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBncVVVaEQ3ZHpqaENsZnIyaFc1RUlKR1F6SU5OcVdvd1ZOS19WQkNMQ3pyM1k2UGozX2dKdnlRR0w5MWpROTU2TWRST2RtYmZRUWg1YXhqckY0dzlKZklBeg?oc=5",
+      "source": "アットエス",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-11T23:34:39.000Z"
+    },
+    {
       "id": "82ba38246f383c02",
       "title": "DPワールド、モンバサに物流・製造一体型SEZ",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -101,20 +137,20 @@
       "publishedAt": "2026-09-11T23:31:04.000Z"
     },
     {
-      "id": "0730c594a20134b7",
-      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市（静岡放送（SBS））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRDlCUkhMUWZRcUxROVhtdEhjWElFaUVhbmFINl9nSnpWR2xsM2xaeUttR1hmVlpKblhRMm5UdXNfNE5Mc00xb05YcFNOUnNPaVZpMjJ1X3o3WUxkWHVBR0g1ZHlJRXlPWkIzd1h5dmJ4ay1WdXB1RjRLMmpfUVU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-11T23:26:13.000Z"
+      "id": "33f55e0d2bb752a0",
+      "title": "【速報】高齢女性がトラックにはねられ心肺停止 横断歩道がない場所で県道を横断 和歌山市",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45WjF4ai1MVXE2bEVaZWgydC1QUzZTRnZJMWRUZENZVE5pUXgxUklpaU5TQ2lHU2hsMHdCNDhOUFZ5aWhvODhGVjNuVEM0Zw?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T23:18:00.000Z"
     },
     {
-      "id": "30ca0ccc15a5f149",
-      "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
-      "source": "ライブドアニュース",
+      "id": "3514e83ad9357a0d",
+      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間で通行止め（静岡･午前7時45分現在）",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkxXZ01mZTMxeWI5YlhMNmJPRWYxN0JIOGtpa0VobnZMbzgweDc2dDFIU3RSbjFudVB6OFk3c0hGOVlnNkdCYkdCVTA4OFZjVjNXSnlUSHkyLXIzMGd3WXFTT2hBRDk2T29Sb1ZNWW1ERi1Wamd6LUFkWkR2YWVoRW5qT3lqVm8?oc=5",
+      "source": "日テレNEWS NNN",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
@@ -227,6 +263,15 @@
       "publishedAt": "2026-09-11T19:46:07.000Z"
     },
     {
+      "id": "d69aac597c869399",
+      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
+      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
+      "source": "Moomoo",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T18:29:42.000Z"
+    },
+    {
       "id": "b4b739cebbcf111b",
       "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
       "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -247,9 +292,9 @@
     {
       "id": "17555b154e751870",
       "title": "川崎市、大型トラックによる事故で歩道橋を通行禁止に 再開の時期は未定",
-      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOGhwTUJzQWxkTkJnMmJ4U1ZILTBwb0xLQ2NRekl3aEZRVjBFYTJ4ck95OWEzX2hJTkRHNDJNOFJYQUhtX1h1V1dNd0MtOTJNcTRhZHctb2hqaVVDNU04NUNFamd2Ym5VMmV5Qg?oc=5",
-      "source": "kanaloco.jp",
+      "source": "カナロコ",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T13:30:00.000Z"
     },
@@ -310,9 +355,9 @@
     {
       "id": "b7514d932afbf637",
       "title": "バイクとトラック衝突で28歳男性死亡 トラック運転手「対向車の確認不十分だった」 長崎・佐世保",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSVF0MnJCU09SeGlGV3ZDNXQ0eFdnRDJDRUVieVNlNE5Yc2RvWC01QjRQMENobzJOWU11ZXE1WEN4c0RVbzlpM1VCZGlNdVJmOWNKY09Oa3Z3cUtiOEYzS1llSndlSEE?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:22:00.000Z"
     },
@@ -391,9 +436,9 @@
     {
       "id": "4046358acafc89d7",
       "title": "【速報・現場画像あり】中央道通行止め…トラック横転事故のため、駒ケ根と伊那インターの間の上り線…現場に廃材が散乱",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZVGdWSWZtZmNKRng2Vk1IMmsyeGtxaHJiRC1MWFRZSnpkWHMtWjk3c1g2OXFOME1xNjNyb0xobm04dkdFWXlFNlJEWl9vOGU3Z1dOY0Y5anI3UQ?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T07:36:00.000Z"
     },
@@ -488,20 +533,11 @@
       "publishedAt": "2026-09-11T05:37:00.000Z"
     },
     {
-      "id": "634896e5323802fc",
-      "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Z9IBhgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Zw?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T05:20:00.000Z"
-    },
-    {
       "id": "50a154ad20731208",
-      "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ - kuruma-news.jp",
-      "description": "kuruma-news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ",
+      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WTGpiV29mYXQwWmpSZ0h6TEtzZ1NvTG5LWmp0RFZMWGFoVzhVdFlqanBCVjNxdnBIdlo1WnRkNTN2MFJHcVIzNTNmMA?oc=5",
-      "source": "kuruma-news.jp",
+      "source": "くるまのニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T05:20:00.000Z"
     },
@@ -552,10 +588,10 @@
     },
     {
       "id": "d6b2caf0db6c2bd3",
-      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す - agora-web.jp",
-      "description": "agora-web.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す",
+      "description": "アゴラ 言論プラットフォームが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uamdTS3pMb004YVhRUHVIM0xvY1Z0SDhmR1VZNjN2UkdoTWFRdENpcjRoR2cyX2JGakRFY0NrLU9IajRHODFEa3dPaGx3eDZEdXpSMjdtTHhnVDg?oc=5",
-      "source": "agora-web.jp",
+      "source": "アゴラ 言論プラットフォーム",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T02:45:24.000Z"
     },
@@ -589,9 +625,9 @@
     {
       "id": "06e2f5012c3d7204",
       "title": "韓国物流大手、宅配からAIロボット・特殊貨物へ…CJ・韓進・ロッテが成長分野を開拓",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWWF2aE1tY25WX25IZkd2OG05a2tYa3FZWmZJRGlXeFAtay1hbU1xaDJDTzhESnBzbWNWVEVFOFZMV3p5ZXJXb19IeDVuYU5jb1hyUHlCb3MzdHFDQjhDMVRIZVZYQUdkWGfSAWpBVV95cUxQc1lhdmhNbWNuVl9uSGZHdjhtOWtrWGtxWVpmSURpV3hQLWstYW1NcWgyQ084REpwc21jVlRFRThWTFd6eWVyV29fSHg1bmFOY29YclB5Qm9zM3RxQ0I4QzFUSGVWWEFHZFhn?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-11T02:30:25.000Z"
     },
@@ -606,10 +642,10 @@
     },
     {
       "id": "aa0e8cb449fb5390",
-      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀 - kyoto-np.co.jp",
-      "description": "kyoto-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "名神高速で大型トラック運転手男性が死亡 中央分離帯のガードレール衝突 滋賀",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRlBrcnZyUGczYVhPNUtwcFlyeG1JVkNFU2IwbWMwWTJGeHF4TkxmMjhKcXA3Y3VOU0hMelpnckpIOWNybFZPekJMazdNNlJmdW1fN3ZRTks?oc=5",
-      "source": "kyoto-np.co.jp",
+      "source": "京都新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T02:00:00.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-11T00:47:31.000Z"
-    },
-    {
-      "id": "a9a4296d3a2bdf22",
-      "title": "「物流は経営の原動力」荷主が明かす自動化の真髄",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuSUN6ZmR1NHFVSFRCRkZEOXBPWk5Ea2l4MDl5S1BOc19sdVN2aG84QldkazV3QlB2bVFZbzAtdlFoR3M5S0hYaA?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T00:25:48.000Z"
-    },
-    {
-      "id": "8e6a7250ef3f54db",
-      "title": "福岡物流施設、供給ラッシュでも成長余地残る",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kbnU2OTRBM3BzTzFTYjJ6cTF2UHQ0Z3F3UFF2WkoxRlpFSVctY2NhYUU2eWpXMnpIUXgyMkV0b1gyLWNIMWNFaA?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-10T23:54:17.000Z"
-    },
-    {
-      "id": "d8bcc78153ab9c0b",
-      "title": "食品・酒類物流、配送費高騰でコスト率悪化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10VnQ4R2oxQlo0dmxFMVpNQVlpTTR3VUZ6SW80VWhXbXZIbFkydVR6YnJ3NUo3U2ZhLTB4SXQ3NG5TRjlBZTFQaw?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-10T23:51:22.000Z"
-    },
-    {
-      "id": "5ce2f6b41630b308",
-      "title": "東名高速でトラックなど車5台絡む事故 5人がけが 名古屋市でも車3台絡む事故（CBCテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VzFBRXNOLWJoQ0RpOHZzTVhwb0pVcm11eDd4Q3RwRGRSTzc3Szh2cnVFVGJHUUNXeHVsV1hjZ1pkRFJwZjVtdlNyY1AtOFJOTWxXdlUwQ2NRaUp1akFYM05zbjNUMmhYOFpiWldWOG9oS2RLZk5tRXNPaXlOQ3M?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-10T23:12:16.000Z"
     }
   ]
 }
