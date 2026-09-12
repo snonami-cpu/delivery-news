@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-12T07:23:07.785Z",
+  "updatedAt": "2026-09-12T08:25:30.872Z",
   "articles": [
-    {
-      "id": "be7ecd819750ad1d",
-      "title": "新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で一時通行止め",
-      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52blRmUEZkcklST0NLUUoyWWU2aE44dkFoSHlMbGthRy1UTVdMS1lYQmVzVVVyV19PYTM4UlMycENER0Zma25LMDVRTXBvZkxhS0xYNFZ2b1Y?oc=5",
-      "source": "京都新聞デジタル",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-12T07:09:29.000Z"
-    },
     {
       "id": "bd00bfd091fbc452",
       "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
@@ -49,11 +40,20 @@
     {
       "id": "b2d86005f4b93d9b",
       "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNW1YQy1oeDJHZ1pVbk9xZXg5dlFMQjRNMXQ1akhSRkJjNGxCeXotTzlzcnF2czJwZm9maGdicVNSdFpqbWhxeEtVUGF6cmJXR21xN005X28tVXFMa2h1UEs2TlBrSDJuTkVvdjBPc9IBdEFVX3lxTE43ejh5VzJ5NDVrSkpuNnVFZENSS3RlNWxrS1Z3MS1JY1JoeHZTSlI3ZEVWbktRM3RKZ2ljd2VQcHJya1BzTWY3WGd2N0Q2U1pULXJzYzI3NUYyUloxbVhtZi1OYzByLUN0eHk5Wl9rSkYyZFBs?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:09:00.000Z"
+    },
+    {
+      "id": "be7ecd819750ad1d",
+      "title": "新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で一時通行止め",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52blRmUEZkcklST0NLUUoyWWU2aE44dkFoSHlMbGthRy1UTVdMS1lYQmVzVVVyV19PYTM4UlMycENER0Zma25LMDVRTXBvZkxhS0xYNFZ2b1Y?oc=5",
+      "source": "京都新聞デジタル",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T03:15:00.000Z"
     },
     {
       "id": "8765fda579a93531",
@@ -62,22 +62,22 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRFBubElsdzdpRnc5N3pfM1R5akdvQkFCSEdvUnFwWGxPV01LQmFXNEQ0YUVwTmRRS1pCLUROYXB5UGdmV19ZTA?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-12T01:41:15.000Z"
-    },
-    {
-      "id": "3cd4e87706dc1e19",
-      "title": "加見商事、3温度帯物流の脱炭素へ太陽光導入",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzWVVUdUVzZE9tYlRHSHVRdjZsckNtWVM2bGN3S3NiWGRMc01LVGhMdzQ4NGxNdm1fWmM3T0J1dDJiS05Nb0ZaeQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-12T01:19:22.000Z"
+      "publishedAt": "2026-09-12T01:45:33.000Z"
     },
     {
       "id": "f1828a9ddfb064f0",
       "title": "ネオリックス、東京流通センターでレベル4配送実証",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ocnlBdjBYbUd1TXlNRjQ0TzFBdWZ0ZmRXSzBEamlJRHVLTEttVW4yTDQzS2NZOHBpbjJHNXNvRWpMYUg5YXFjUg?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-12T01:19:22.000Z"
+    },
+    {
+      "id": "3cd4e87706dc1e19",
+      "title": "加見商事、3温度帯物流の脱炭素へ太陽光導入",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzWVVUdUVzZE9tYlRHSHVRdjZsckNtWVM2bGN3S3NiWGRMc01LVGhMdzQ4NGxNdm1fWmM3T0J1dDJiS05Nb0ZaeQ?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-12T01:19:22.000Z"
@@ -137,15 +137,6 @@
       "publishedAt": "2026-09-11T23:34:39.000Z"
     },
     {
-      "id": "82ba38246f383c02",
-      "title": "DPワールド、モンバサに物流・製造一体型SEZ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BbkJ0TFMxOTRvLVVCaTBpNlBEcDlNejJWNG5iM0JMWDZrZDBGZ09VOVQ2cnBWOS1XenpKRVpzc2Y4Z05sdjd0Vg?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T23:31:04.000Z"
-    },
-    {
       "id": "33f55e0d2bb752a0",
       "title": "【速報】高齢女性がトラックにはねられ心肺停止 横断歩道がない場所で県道を横断 和歌山市",
       "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -192,10 +183,10 @@
     },
     {
       "id": "c13f658f66fea288",
-      "title": "東急不動産が神戸で関西4棟目の物流施設竣工、「中継輸送」拠点として価値と強調 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東急不動産が神戸で関西4棟目の物流施設竣工、「中継輸送」拠点として価値と強調 - online.logi-biz.com",
+      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QaWYydHFUc2J0Z1NSbVJpYU1NUnpSRThONXlLcmd4SUJhcklXNjB5S0FaZlVfdFFjVU5rSVVEMkVjeGtsRkhMR0RORQ?oc=5",
-      "source": "LOGI-BIZ online",
+      "source": "online.logi-biz.com",
       "category": "物流",
       "publishedAt": "2026-09-11T21:00:00.000Z"
     },
@@ -213,15 +204,6 @@
       "title": "インエクスプレス、14か国物流網の成長加速",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yemFZYVNSelJZSThlTFR6Q0ZFUnk0SldlX19aMk5nR3F0dVhvSURYR2lKOGZlb2tKUl9JMEdZZTUtbDB6UkxHVQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T19:46:07.000Z"
-    },
-    {
-      "id": "fa51042db379810e",
-      "title": "TSフロンティア（福岡）が貨物利用運送事業登録",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waG5JX3pKNlZWcHJEXzlsTzk0OTNBZzFtcmVPX1NHM2YyN1RRbU9rUXd5VEJJMEtwY2JZNlBuOHNBa0txNDFreQ?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-11T19:46:07.000Z"
@@ -254,6 +236,15 @@
       "publishedAt": "2026-09-11T19:46:07.000Z"
     },
     {
+      "id": "fa51042db379810e",
+      "title": "TSフロンティア（福岡）が貨物利用運送事業登録",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waG5JX3pKNlZWcHJEXzlsTzk0OTNBZzFtcmVPX1NHM2YyN1RRbU9rUXd5VEJJMEtwY2JZNlBuOHNBa0txNDFreQ?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-11T19:46:07.000Z"
+    },
+    {
       "id": "39c866afc6bc4fda",
       "title": "国交省、BCP物流ルートの実証輸送を支援",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -274,9 +265,9 @@
     {
       "id": "d69aac597c869399",
       "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
-      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "moomoo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-11T18:29:42.000Z"
     },
@@ -337,9 +328,9 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
@@ -355,9 +346,9 @@
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -578,6 +569,15 @@
       "publishedAt": "2026-09-11T03:40:00.000Z"
     },
     {
+      "id": "dd3f351bc4808f22",
+      "title": "福祉サービス「福祉有償運送」事業者が宮崎市で学習会 公共交通機関が利用困難な人の移動支援を考える",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbU1IQ1Q1M0IxUEJ5MHhra1Q0SmE0eWVYLVEtWEZGRjZrd2pHLWVpMnR6bWFlQVlKWldCb3l2cHQtV254eGdUWW5xRjZSRnpRQ3JqaG1YUkdOUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-09-11T03:09:00.000Z"
+    },
+    {
       "id": "a53c6291b51a1575",
       "title": "佐世保市 けさトラックとバイクが衝突 バイクの20代男性が重体",
       "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -597,10 +597,10 @@
     },
     {
       "id": "d6b2caf0db6c2bd3",
-      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す",
-      "description": "アゴラ 言論プラットフォームが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す - agora-web.jp",
+      "description": "agora-web.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uamdTS3pMb004YVhRUHVIM0xvY1Z0SDhmR1VZNjN2UkdoTWFRdENpcjRoR2cyX2JGakRFY0NrLU9IajRHODFEa3dPaGx3eDZEdXpSMjdtTHhnVDg?oc=5",
-      "source": "アゴラ 言論プラットフォーム",
+      "source": "agora-web.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T02:45:24.000Z"
     },
@@ -697,9 +697,9 @@
     {
       "id": "6b793cbd46489554",
       "title": "東証ＲＥＩＴ物流フォーカスＥＴＦ[489A]：ＥＴＦの収益分配金見込額のお知らせ 2026年9月11日(適時開示) ：日経会社情報DIGITAL",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1STXYyUmpkOWxSTlBWVVlLOWU0TkZuay1KS1pDaUdQeWJKX1cxdWtvaExfdHJJazNxdmo0TGRaOWdrNzJFTTRGN29nLWNaTGlTZEJuU05PaGh1QW1uZU94UDQtTHlFWTdabUE?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T01:00:00.000Z"
     },
