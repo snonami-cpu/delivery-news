@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-12T19:22:08.887Z",
+  "updatedAt": "2026-09-12T20:26:26.931Z",
   "articles": [
     {
       "id": "958cd825e88cff69",
-      "title": "和歌山市で死亡事故 - tv-wakayama.co.jp",
-      "description": "tv-wakayama.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "和歌山市で死亡事故",
+      "description": "テレビ和歌山が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YzZ0VVZjLVdOOEM3WXlZMFlERVBIS2lYU3RfbW9pZEJ1bUFwY2RCWEtYVkltUkRPQUstYjJkMW5BTDVaTmdTTkttMy1LWWNVb2w4TjJsbWVDc1c1V3dBc1UzM2Y?oc=5",
-      "source": "tv-wakayama.co.jp",
+      "source": "テレビ和歌山",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T08:24:00.000Z"
     },
@@ -137,13 +137,13 @@
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
     {
-      "id": "390ee701ed98e7c0",
-      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市",
-      "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBncVVVaEQ3ZHpqaENsZnIyaFc1RUlKR1F6SU5OcVdvd1ZOS19WQkNMQ3pyM1k2UGozX2dKdnlRR0w5MWpROTU2TWRST2RtYmZRUWg1YXhqckY0dzlKZklBeg?oc=5",
-      "source": "アットエス",
+      "id": "0730c594a20134b7",
+      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市（静岡放送（SBS））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRDlCUkhMUWZRcUxROVhtdEhjWElFaUVhbmFINl9nSnpWR2xsM2xaeUttR1hmVlpKblhRMm5UdXNfNE5Mc00xb05YcFNOUnNPaVZpMjJ1X3o3WUxkWHVBR0g1ZHlJRXlPWkIzd1h5dmJ4ay1WdXB1RjRLMmpfUVU?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
-      "publishedAt": "2026-09-11T23:34:39.000Z"
+      "publishedAt": "2026-09-11T23:26:13.000Z"
     },
     {
       "id": "33f55e0d2bb752a0",
@@ -346,9 +346,9 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
@@ -364,9 +364,9 @@
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -378,6 +378,15 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:22:00.000Z"
+    },
+    {
+      "id": "4517453b1659642c",
+      "title": "自転車に乗っていた93歳男性、トラックにはねられ死亡 伊丹の国道171号交差点|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVVhmYzVjVllJX3NzaDkycW11M0g0VDJIUzJmcWJWQWo0VzhVQWtnR2VVUi11b1YzOXh4WUEwZXZXclFKb0JJSTNqd2s3b0RvZVpoVUZXSnlkZnpPcUVycE85ckdlbllJSEh4eVNWUkpGREdHQ21mbGFvc2Q?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T09:59:06.000Z"
     },
     {
       "id": "92ea5255b9e1d27b",
@@ -414,15 +423,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T08:41:00.000Z"
-    },
-    {
-      "id": "61cbcf8e8105d9c1",
-      "title": "楽天が自動配送ロボットによる商品配送サービス「楽天無人配送」を豊洲地域に拡大（ネットショップ担当者フォーラム）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY1hrQURHRmo3WGYwU1pvdk1LYU5uS25jMnZKTW5hLWNsOHBoTEN0V3E5YUZDbFlrQURwSl9ZTUxzZnFlMHdybGZTODQxd3d0U25wUl9OcHQtbFo3anFXQWVtaTEyYURWU3RQZFVTYkk3YzBsV1ZDRlBWS195ZjQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-11T08:32:05.000Z"
     },
     {
       "id": "49c6aefaa65de8c7",
@@ -616,9 +616,9 @@
     {
       "id": "02a3c0b25bc7047f",
       "title": "新宇都宮本社始動！物流の2024年問題を乗り越え、ニッカネが実現する「効率化」と「配送の働きがい」",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SVEJ4RjZ6cDZvOWRRV2YzWktNSG9sTDBDZU9sYnlIckpxVjZOdkFLOWlJS1lrclV2U19MWVBDVkFpNzRTNHR2ckVTd2NlYWI2ZjNucC1n?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-11T02:37:00.000Z"
     },
@@ -670,9 +670,9 @@
     {
       "id": "bd32edc46c7e9eca",
       "title": "アマゾンが関西最大の物流拠点を兵庫・尼崎に開設 報道機関に公開 [兵庫県]",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tZDgwZGpjTW5NQ2pTbDdhRUNiTWZhQlgtbURYRXdsS3RqWl9ONkw1bDRWRHkydnpfM0NuSXhCWWRYcGY1NjJ5RGtDX3B5VHQ3Z3VaNDdPOXlMbWFUS1YxeHo0TG1Jd1E?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T01:45:00.000Z"
     },
@@ -706,9 +706,9 @@
     {
       "id": "6b793cbd46489554",
       "title": "東証ＲＥＩＴ物流フォーカスＥＴＦ[489A]：ＥＴＦの収益分配金見込額のお知らせ 2026年9月11日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1STXYyUmpkOWxSTlBWVVlLOWU0TkZuay1KS1pDaUdQeWJKX1cxdWtvaExfdHJJazNxdmo0TGRaOWdrNzJFTTRGN29nLWNaTGlTZEJuU05PaGh1QW1uZU94UDQtTHlFWTdabUE?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T01:00:00.000Z"
     },
