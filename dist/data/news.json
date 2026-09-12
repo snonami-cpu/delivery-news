@@ -1,48 +1,57 @@
 {
-  "updatedAt": "2026-09-12T06:29:46.042Z",
+  "updatedAt": "2026-09-12T07:23:07.785Z",
   "articles": [
+    {
+      "id": "be7ecd819750ad1d",
+      "title": "新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で一時通行止め",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52blRmUEZkcklST0NLUUoyWWU2aE44dkFoSHlMbGthRy1UTVdMS1lYQmVzVVVyV19PYTM4UlMycENER0Zma25LMDVRTXBvZkxhS0xYNFZ2b1Y?oc=5",
+      "source": "京都新聞デジタル",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T07:09:29.000Z"
+    },
+    {
+      "id": "bd00bfd091fbc452",
+      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ta2s1ZFFXSkJMM3lWTWFiRXBtbTNiWEpPR3F2N1JvdzhfMWI0ODZkMUJjcjNrWVdacHVQUWJ5Q2ROb05fUVNNZ1ZNZjlvT2k5TVZwU0dqUldMdw?oc=5",
+      "source": "上毛新聞電子版",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-12T06:38:12.000Z"
+    },
     {
       "id": "30ca0ccc15a5f149",
       "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
-      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
-      "source": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T06:11:29.000Z"
     },
     {
-      "id": "c7d1e5a2fe88effa",
-      "title": "【速報】新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で通行止め（京都新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OXI2c1lBVXNKY0Y0RmlpbXdEcE01T3c2ZjFteDh0QnpyZFBsQU5VUTNPYnl3cmxuT0E0RnJGVXNibGFvbFVTdDdOTndNZk5OamU0QlRKQ3pLdFlNNU5HR3NoLWdXN3Qyc0otcWpYZlRtQ3M1VHZ4dWZqaEdUZDA?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-12T06:06:18.000Z"
-    },
-    {
       "id": "1ef3092e8dac1e54",
       "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
-      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQ213SE0yX2NzcDBOVzh5NDZfZWZGcGhpOC1OT0Vla1Vyd2Y3bG9GMGsyLU5ZaUduQVR6dlc2dElkUGpzRmVkal9tUkZhX0puelBSdEthWkdpTFpqTDYw?oc=5",
-      "source": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:41:30.000Z"
     },
     {
       "id": "21837b7b399e0ca5",
       "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
-      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
-      "source": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:11:31.000Z"
     },
     {
       "id": "b2d86005f4b93d9b",
       "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNW1YQy1oeDJHZ1pVbk9xZXg5dlFMQjRNMXQ1akhSRkJjNGxCeXotTzlzcnF2czJwZm9maGdicVNSdFpqbWhxeEtVUGF6cmJXR21xN005X28tVXFMa2h1UEs2TlBrSDJuTkVvdjBPc9IBdEFVX3lxTE43ejh5VzJ5NDVrSkpuNnVFZENSS3RlNWxrS1Z3MS1JY1JoeHZTSlI3ZEVWbktRM3RKZ2ljd2VQcHJya1BzTWY3WGd2N0Q2U1pULXJzYzI3NUYyUloxbVhtZi1OYzByLUN0eHk5Wl9rSkYyZFBs?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:09:00.000Z"
     },
@@ -110,11 +119,11 @@
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
     {
-      "id": "9b51289ec7250377",
+      "id": "9566f1f742e4eb4c",
       "title": "温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・食品物流を支えるコールドチェーン需要",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LMUhsLU9TQ3lVQVA3NTRvUzAtTzBkRGZWMDNxd2NWV0xiaDQ2VEYxc1l2VEx6Z1FBZ3lnYTJHUk05b2djaEJUSjFUQXpCb0U?oc=5",
-      "source": "アットプレス",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTmtZZmVtaXR4TkozNThDNGlRZzV2QXZsSkRNVHI3cENMNllUVllWUWNOaDFTTkp0U3pfdGtGcjBmeF9Dc0g0UGdOQ1BKSFE?oc=5",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -328,9 +337,9 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
@@ -346,9 +355,9 @@
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -686,20 +695,11 @@
       "publishedAt": "2026-09-11T01:14:14.000Z"
     },
     {
-      "id": "e20bbdf84b7fef10",
-      "title": "APT、10月1日 東京ビッグサイト開催「物流DX未来会議 AFTER ACTION IN TOKYO」に登壇",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SGFEQ3pHaFdoSnNOaGZVc3BGaFU0OU9kUVZaQ3VidjVHblN6aFNrb0VlWkRYY2VoaHNHSFp0UEd4WUFsc3VCNi1WSUNhMmlkclVSRTlmczI0QmNka3V2NmJOd2NqbGFva0E?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-11T01:00:02.000Z"
-    },
-    {
       "id": "6b793cbd46489554",
       "title": "東証ＲＥＩＴ物流フォーカスＥＴＦ[489A]：ＥＴＦの収益分配金見込額のお知らせ 2026年9月11日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1STXYyUmpkOWxSTlBWVVlLOWU0TkZuay1KS1pDaUdQeWJKX1cxdWtvaExfdHJJazNxdmo0TGRaOWdrNzJFTTRGN29nLWNaTGlTZEJuU05PaGh1QW1uZU94UDQtTHlFWTdabUE?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T01:00:00.000Z"
     },
