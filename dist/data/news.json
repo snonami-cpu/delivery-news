@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T05:24:07.818Z",
+  "updatedAt": "2026-09-13T06:33:31.242Z",
   "articles": [
+    {
+      "id": "346cb8897d8887d5",
+      "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mM0RtdGtySmFqVnBKSk0zTzdKdGpuWTlwY19qdHJHanZuZFh5R2dEdGJCOThvVDdXV0hjWUJURXVqbmQ0Mm9qRTZyaHAyQlpYY19rdS1acEdSd1NTZXRPa0xtdEhIQTZIcWlZTdIBckFVX3lxTFB2Q1l0Z3pHRE5iSlk3cHFrLXJSUlI1S2UwdEtYdGhFa285cjFGUXZwLWFEMGt2ZVJlaVNlN3VSem83TmVJbGlKQkhwX1NOZWFRcmdBZVZQMXRCSjVnUFdIRi12WWhIaGlqNy1kNGF5UmFGZw?oc=5",
+      "source": "Infoseek",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-13T05:35:20.000Z"
+    },
     {
       "id": "b22012cef911423a",
       "title": "大型トレーラーが横転し、ヴィンハオ～ファンティエット間の高速道路が通行止めとなり、長時間にわたる交通渋滞が発生した。",
@@ -75,12 +84,21 @@
     },
     {
       "id": "958cd825e88cff69",
-      "title": "和歌山市で死亡事故",
-      "description": "テレビ和歌山が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "和歌山市で死亡事故 - tv-wakayama.co.jp",
+      "description": "tv-wakayama.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YzZ0VVZjLVdOOEM3WXlZMFlERVBIS2lYU3RfbW9pZEJ1bUFwY2RCWEtYVkltUkRPQUstYjJkMW5BTDVaTmdTTkttMy1LWWNVb2w4TjJsbWVDc1c1V3dBc1UzM2Y?oc=5",
-      "source": "テレビ和歌山",
+      "source": "tv-wakayama.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T08:24:00.000Z"
+    },
+    {
+      "id": "5e5605b0cb0677a0",
+      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-12T05:52:03.000Z"
     },
     {
       "id": "1ef3092e8dac1e54",
@@ -445,9 +463,9 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
@@ -463,9 +481,9 @@
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -490,20 +508,11 @@
     {
       "id": "92ea5255b9e1d27b",
       "title": "バイクの男性運転手(28)死亡 佐世保市 けさトラックとバイク衝突",
-      "description": "ncctv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RkdnUVRhUzBsMkJDSHdOa2ZUVWRhMV9JZ1RGbXIyRHlrWi1yRzdVS0NrMzFhcS0wYjJBY1RmNkNYOFFuVWlyY0ZJbm9OUGNVM2FoSnJfYks?oc=5",
-      "source": "ncctv.co.jp",
+      "source": "NCC長崎文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T09:35:00.000Z"
-    },
-    {
-      "id": "0e4f17aadb59c2ef",
-      "title": "【鳥取】買い物難民支援と物流課題を同時に解決へ！江府町で宅配サイトと移動販売を組み合わせた実証実験（江府町）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZVg4YlJFOEFZaXNINTRYdVYyVHljemt4ajlseGVFRVc3VUlkeGQyU09rVEJ5X0ZOdFJhNDZQdkFiakxOUy02OWNtUlNuTm0yVUJVS0JQandEektnZ3FqVHRPYzgwM2pBdVpBTVk3Q0J3T0hESHZ3REg4RGhEY0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-11T09:31:56.000Z"
     },
     {
       "id": "7c92d27010e91718",
@@ -650,6 +659,15 @@
       "publishedAt": "2026-09-11T05:37:00.000Z"
     },
     {
+      "id": "634896e5323802fc",
+      "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Z9IBhgFBVV95cUxQcXpQbnlJR2EwdDM5Y2FYUWFFYlZSZFBzS05EdnRQZ211ZTdXNlpyRjB3a2dVLVJWaWx2dC1tVFFXQ05EXzQ4a2xzczFYNzE2X3FYTkdfalk2X0l4Zm9heDZNcU8zQlUwUUkwV1BZWDRHUGJmNmEzckM2OUZCMHlROUp5NTg3Zw?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T05:20:00.000Z"
+    },
+    {
       "id": "f098c189cc840045",
       "title": "「出版流通、このままでは危機的」JPIC・近藤理事長 適正原価ヒアリングで業界に結束呼びかけ",
       "description": "bunkanews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -679,9 +697,9 @@
     {
       "id": "a53c6291b51a1575",
       "title": "佐世保市 けさトラックとバイクが衝突 バイクの20代男性が重体",
-      "description": "ncctv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMjU1emFtcUhPcTk0NE9QTmJfQlYtRV9YSklyZVZzZFJlS0Vrek9icjg1TUFBMGVoV3dzNUxIU1RMWjRuRlI1c1JyeHc2QkF1QTNxRTU3Z3Q?oc=5",
-      "source": "ncctv.co.jp",
+      "source": "NCC長崎文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T03:07:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "アゴラ 言論プラットフォーム",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T02:45:24.000Z"
-    },
-    {
-      "id": "02a3c0b25bc7047f",
-      "title": "新宇都宮本社始動！物流の2024年問題を乗り越え、ニッカネが実現する「効率化」と「配送の働きがい」",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SVEJ4RjZ6cDZvOWRRV2YzWktNSG9sTDBDZU9sYnlIckpxVjZOdkFLOWlJS1lrclV2U19MWVBDVkFpNzRTNHR2ckVTd2NlYWI2ZjNucC1n?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-11T02:37:00.000Z"
-    },
-    {
-      "id": "b6580dc16c3e279d",
-      "title": "韓国物流大手、宅配からAIロボット・特殊貨物へ…CJ・韓進・ロッテが成長分野を開拓（KOREA WAVE）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Si1uQWtDZll6M3lYUmVINU1nN0hDc19lWTZ6V0dvMTU0WnNZZEZWTEhjV0JDRk15LW1UQnNYVDNSREY4VVBNRFptTm5pY0V2QW9FeG9UYjgzenNNWkRvZlBSamVsSTlQUnhqbXdyZHB6T0tuZk1IVFlLZnZDbHM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-11T02:36:17.000Z"
     }
   ]
 }
