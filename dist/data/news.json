@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T18:27:19.560Z",
+  "updatedAt": "2026-09-13T19:22:36.332Z",
   "articles": [
+    {
+      "id": "f77e207b28b46207",
+      "title": "新東名上り新静岡IC流出ランプでトラックが単独事故 バンパーやライトなど散乱し、通行止め＝静岡市",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VQy1xTnZKWWxxLS1WYzZiaUc3TkEzM2xuLXBtR0hmcld0MWFpNmFCaDdrUXNSakZvNDJRaklFcklVREpCMlE3UnB3M3ZtV0JKNnFFU19sc01wUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-13T18:53:00.000Z"
+    },
     {
       "id": "08f424941f56048f",
       "title": "佐川急便の定温管理配送、猛暑下のチョコ品質支える 非食品にも商機",
@@ -45,15 +54,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-13T09:28:02.000Z"
-    },
-    {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-13T07:40:51.000Z"
     },
     {
       "id": "cea383349380856b",
@@ -130,9 +130,9 @@
     {
       "id": "a27a9a5c9a83cff6",
       "title": "首都高でトラックなど5台が絡む事故 4人軽傷 横羽線・大師JCT付近 川崎市",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5teGVUbWlWNVEwMUdyc3BlLWVBRzRXZTh4MGR6QThrdERFZGpsYmpINVkyT0pqbE1JdW5fRWpCQnBwSmhnNHRaME9ha0g0QQ?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-13T01:05:00.000Z"
     },
@@ -192,19 +192,19 @@
     },
     {
       "id": "958cd825e88cff69",
-      "title": "和歌山市で死亡事故",
-      "description": "テレビ和歌山が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "和歌山市で死亡事故 - tv-wakayama.co.jp",
+      "description": "tv-wakayama.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YzZ0VVZjLVdOOEM3WXlZMFlERVBIS2lYU3RfbW9pZEJ1bUFwY2RCWEtYVkltUkRPQUstYjJkMW5BTDVaTmdTTkttMy1LWWNVb2w4TjJsbWVDc1c1V3dBc1UzM2Y?oc=5",
-      "source": "テレビ和歌山",
+      "source": "tv-wakayama.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T08:24:00.000Z"
     },
     {
       "id": "1ef3092e8dac1e54",
       "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQ213SE0yX2NzcDBOVzh5NDZfZWZGcGhpOC1OT0Vla1Vyd2Y3bG9GMGsyLU5ZaUduQVR6dlc2dElkUGpzRmVkal9tUkZhX0puelBSdEthWkdpTFpqTDYw?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:41:30.000Z"
     },
@@ -238,9 +238,9 @@
     {
       "id": "21837b7b399e0ca5",
       "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:11:31.000Z"
     },
@@ -328,9 +328,9 @@
     {
       "id": "fda9f6ada51b2694",
       "title": "東名上り三ケ日JCT～三ケ日IC通行止め トラックなど計6台関連事故 3人軽傷 きっかけは乗用車のスピンか",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N3hMRUlMdXVtWS13YTAtZ0VfMTlfT3h4aUhQWVJGMlkzZWh5RkRyNzZKemFBMWJraHY0cG9sRnY2MVVUTjFhYXc4eTUydw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -355,9 +355,9 @@
     {
       "id": "33f55e0d2bb752a0",
       "title": "【速報】高齢女性がトラックにはねられ心肺停止 横断歩道がない場所で県道を横断 和歌山市",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45WjF4ai1MVXE2bEVaZWgydC1QUzZTRnZJMWRUZENZVE5pUXgxUklpaU5TQ2lHU2hsMHdCNDhOUFZ5aWhvODhGVjNuVEM0Zw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T23:18:00.000Z"
     },
@@ -382,18 +382,18 @@
     {
       "id": "30ca0ccc15a5f149",
       "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
     {
       "id": "faff527d724b0dfc",
       "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ−三ケ日ＩＣ間通行止め",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yRFVpWC1JQXl1LXdDOFNFZ29ta0Jic3FkaGFGN2haOVFlQUtoWjJiV2kyTGtDa05ReXNRWEZ3NUZtMXZNYU5oOUFZcw?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:30:00.000Z"
     },
@@ -490,9 +490,9 @@
     {
       "id": "a668600118a4a7d2",
       "title": "名神高速道上り線でトラックがガードレールに衝突、運転手が死亡 滋賀県愛荘町",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1bnBSdFVZN3ZpazEteHVpLXVXZnhPclZmWUxyRTI4alllRHU0ZkVzZTJxam9xa0NLanlGVGhQM0ZNenllcllBazZqdw?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T13:57:00.000Z"
     },
@@ -508,9 +508,9 @@
     {
       "id": "17555b154e751870",
       "title": "川崎市、大型トラックによる事故で歩道橋を通行禁止に 再開の時期は未定",
-      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOGhwTUJzQWxkTkJnMmJ4U1ZILTBwb0xLQ2NRekl3aEZRVjBFYTJ4ck95OWEzX2hJTkRHNDJNOFJYQUhtX1h1V1dNd0MtOTJNcTRhZHctb2hqaVVDNU04NUNFamd2Ym5VMmV5Qg?oc=5",
-      "source": "カナロコ",
+      "source": "kanaloco.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T13:30:00.000Z"
     },
@@ -544,9 +544,9 @@
     {
       "id": "056216d982529337",
       "title": "中央道でトラック横転 積み荷の木材散乱 駒ヶ根IC～伊那ICの上り線が通行止めに トラック運転の50代男性にけがなし【長野】",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcnVJcUR5cUxramVQR01TZ0FGMGNkVE9uaG9sYjJRT1lEN1dNd1VNaW1nX0JFalpTbnF3c0gwdTVXVlNoT1JsdU9BYXcwLVVmZVNQcmF5cGIwMVZjbVlv?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T11:31:28.000Z"
     },
@@ -686,6 +686,15 @@
       "publishedAt": "2026-09-11T07:23:12.000Z"
     },
     {
+      "id": "ddceb42648fca4e8",
+      "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcGlMVWlnTUZCdWRrcFNBc2JRX0ZOZmVRa0xyWmRyYjFza3ZabHhxMG9BcjlCUDJCUlhvcGZ2UkVwRVlGVFAzZ29TYV84QXFjeWc?oc=5",
+      "source": "山陽新聞",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T07:00:00.000Z"
+    },
+    {
       "id": "dc19f70852473cac",
       "title": "アサヒロジスティクス／東京都内2か所目のサテライト拠点開設、都心部の配送網を強化",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -710,15 +719,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Z1F6d1JGcU9UbDZIN20xNWJaaFd6NGRQSXRYMGpJa2l4Ykc3VHpqTlFsV3J3RWVtXzVXUDduYUY1RTNOeUs3d0gwdUcxTnJYV2VlRg?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-11T06:24:14.000Z"
-    },
-    {
-      "id": "580455ffaf4d4576",
-      "title": "GOジョブ／オンラインセミナー「『適正原価』に対応できない会社は生き残れない」10月20日開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1md202bWhoTzQ5US1jVExXekFmY18tNFd4Zmw5OWxIVUdBcjh3Q21RZjQ1VHpucDhQTUs3Uks2a1JEb2ZiNFlTYktoN0lBanM5S0pZWA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "法令・行政",
       "publishedAt": "2026-09-11T06:24:14.000Z"
     }
   ]
