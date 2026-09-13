@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T17:23:52.745Z",
+  "updatedAt": "2026-09-13T18:27:19.560Z",
   "articles": [
+    {
+      "id": "08f424941f56048f",
+      "title": "佐川急便の定温管理配送、猛暑下のチョコ品質支える 非食品にも商機",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Gc0dtUlBqUWFmTHd0aVpPTFp1TmRBM1U5ZEZCVDN2WHdqWTA3N0RieFNURG5ldHZGNVdwVDFaQU5TNWMyWnRTNWpWWFo5X1NQZnpjR00xS0VPR1M5XzhSaEdDRXZiV19aN3RsYg?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-13T17:00:00.000Z"
+    },
     {
       "id": "a3b09329b7b0d266",
       "title": "「トラックの下、男性動いていない」大型トラックが交差点を右折中に高齢男性を巻き込んだか 男性は意識不明の重体",
@@ -36,6 +45,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-13T09:28:02.000Z"
+    },
+    {
+      "id": "dd85a78a6016df6a",
+      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-13T07:40:51.000Z"
     },
     {
       "id": "cea383349380856b",
@@ -112,18 +130,18 @@
     {
       "id": "a27a9a5c9a83cff6",
       "title": "首都高でトラックなど5台が絡む事故 4人軽傷 横羽線・大師JCT付近 川崎市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5teGVUbWlWNVEwMUdyc3BlLWVBRzRXZTh4MGR6QThrdERFZGpsYmpINVkyT0pqbE1JdW5fRWpCQnBwSmhnNHRaME9ha0g0QQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-13T01:05:00.000Z"
     },
     {
       "id": "f9106ad765504e45",
       "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T23:00:00.000Z"
     },
@@ -310,9 +328,9 @@
     {
       "id": "fda9f6ada51b2694",
       "title": "東名上り三ケ日JCT～三ケ日IC通行止め トラックなど計6台関連事故 3人軽傷 きっかけは乗用車のスピンか",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N3hMRUlMdXVtWS13YTAtZ0VfMTlfT3h4aUhQWVJGMlkzZWh5RkRyNzZKemFBMWJraHY0cG9sRnY2MVVUTjFhYXc4eTUydw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -337,9 +355,9 @@
     {
       "id": "33f55e0d2bb752a0",
       "title": "【速報】高齢女性がトラックにはねられ心肺停止 横断歩道がない場所で県道を横断 和歌山市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45WjF4ai1MVXE2bEVaZWgydC1QUzZTRnZJMWRUZENZVE5pUXgxUklpaU5TQ2lHU2hsMHdCNDhOUFZ5aWhvODhGVjNuVEM0Zw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T23:18:00.000Z"
     },
@@ -373,9 +391,9 @@
     {
       "id": "faff527d724b0dfc",
       "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ−三ケ日ＩＣ間通行止め",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yRFVpWC1JQXl1LXdDOFNFZ29ta0Jic3FkaGFGN2haOVFlQUtoWjJiV2kyTGtDa05ReXNRWEZ3NUZtMXZNYU5oOUFZcw?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:30:00.000Z"
     },
@@ -472,9 +490,9 @@
     {
       "id": "a668600118a4a7d2",
       "title": "名神高速道上り線でトラックがガードレールに衝突、運転手が死亡 滋賀県愛荘町",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1bnBSdFVZN3ZpazEteHVpLXVXZnhPclZmWUxyRTI4alllRHU0ZkVzZTJxam9xa0NLanlGVGhQM0ZNenllcllBazZqdw?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T13:57:00.000Z"
     },
@@ -504,6 +522,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T13:10:28.000Z"
+    },
+    {
+      "id": "03e49bc2296abaa2",
+      "title": "シンガポールの企業は、ホーチミン市のグリーンロジスティクスとデジタルインフラに関心を示している。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDJpRmxPLVB2Qmk2MGtTTWswcFB2cFdQU2c1VEVhTlpIeWxRbEoyclJid2xlNHM5cF8tYzNjc010Z085UTQxcHlsRzlxZnhSMllFOUUwTENJZ19HMWpmZ3p3YjNxaFNwTW9IZGVaNTJzMjE2YmRTTzhqamxLVGVmUldsMG9VRFdLeENrYjlRMTVYZXJzclFZbTJULTJLZw?oc=5",
+      "source": "Vietnam.vn",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T12:31:21.000Z"
     },
     {
       "id": "410921d58546f1ec",
@@ -659,15 +686,6 @@
       "publishedAt": "2026-09-11T07:23:12.000Z"
     },
     {
-      "id": "ddceb42648fca4e8",
-      "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
-      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcGlMVWlnTUZCdWRrcFNBc2JRX0ZOZmVRa0xyWmRyYjFza3ZabHhxMG9BcjlCUDJCUlhvcGZ2UkVwRVlGVFAzZ29TYV84QXFjeWc?oc=5",
-      "source": "山陽新聞",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T07:00:00.000Z"
-    },
-    {
       "id": "dc19f70852473cac",
       "title": "アサヒロジスティクス／東京都内2か所目のサテライト拠点開設、都心部の配送網を強化",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T06:24:14.000Z"
-    },
-    {
-      "id": "fdc777375a97d926",
-      "title": "JILS／物流統括管理者連携推進会議「J-CLOP」本格始動、企業の枠超え交流",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UcGZib1FrVG8tT2hqT1cxVWwwbHBxekl4RVZ0alc1VDE1MFdENldhbEJSOXdhZHQ5NU9vRDF5LWR2a1Nhbk9OX0RjNWtxRDdiN0I3Wg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-11T06:14:14.000Z"
-    },
-    {
-      "id": "0d50ced9b2edab1a",
-      "title": "セイノーHD／デジタル戦略室長がSnowflakeのイベントで物流データ基盤構築について講演",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WF9hU2VILXpySXhnUUc2NExqWm4zNm9oczZ1NUhlakNENWtrcU00WkNiS28xMGlFekRHd29BQ2JxWXZlMFFVNTlheTVNc0dzYWVlNw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-11T06:04:13.000Z"
     }
   ]
 }
