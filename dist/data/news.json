@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T04:25:32.208Z",
+  "updatedAt": "2026-09-13T05:24:07.818Z",
   "articles": [
     {
       "id": "b22012cef911423a",
@@ -75,10 +75,10 @@
     },
     {
       "id": "958cd825e88cff69",
-      "title": "和歌山市で死亡事故 - tv-wakayama.co.jp",
-      "description": "tv-wakayama.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "和歌山市で死亡事故",
+      "description": "テレビ和歌山が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YzZ0VVZjLVdOOEM3WXlZMFlERVBIS2lYU3RfbW9pZEJ1bUFwY2RCWEtYVkltUkRPQUstYjJkMW5BTDVaTmdTTkttMy1LWWNVb2w4TjJsbWVDc1c1V3dBc1UzM2Y?oc=5",
-      "source": "tv-wakayama.co.jp",
+      "source": "テレビ和歌山",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T08:24:00.000Z"
     },
@@ -92,6 +92,15 @@
       "publishedAt": "2026-09-12T04:41:30.000Z"
     },
     {
+      "id": "ed2c16e7882471be",
+      "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fSzBQV3poSE5EUlB3SFVDZDY5WU1MLWQxN0VlRVJmelpJTG1QbXJrdXd0bW1jVkprellRb19Oa0ZEM1pxMWFKdkJYQW5kN3pkVTVhRDM5bmFTYXFvblJwN2gxTUM5Rm1NZHFMeVgtYVd5UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-12T04:38:23.000Z"
+    },
+    {
       "id": "bd00bfd091fbc452",
       "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
       "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -99,15 +108,6 @@
       "source": "上毛新聞電子版",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T04:36:00.000Z"
-    },
-    {
-      "id": "b8a5922711e06d51",
-      "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUDlmNnJNZWU5T0Y4S3lVeGlIU1R6d3dfdUFGaXJOMUI0T05tY3cyeUd5eVJJMVVCTkFMNU5XNkZmNWRIZFZaRmZqQVJLMnljT3I0cFNucFZIOGsyaTZYNXA1dXhJajRJNlRvNUV0dUJhVzdLQUpQNFJ5aG8ta2s?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-12T04:33:10.000Z"
     },
     {
       "id": "ab33b859ad54d902",
@@ -371,6 +371,15 @@
       "publishedAt": "2026-09-11T19:46:07.000Z"
     },
     {
+      "id": "d69aac597c869399",
+      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
+      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
+      "source": "Moomoo",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T18:29:42.000Z"
+    },
+    {
       "id": "b4b739cebbcf111b",
       "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
       "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -387,15 +396,6 @@
       "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T13:57:00.000Z"
-    },
-    {
-      "id": "d69aac597c869399",
-      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
-      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
-      "source": "Moomoo",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T13:47:59.000Z"
     },
     {
       "id": "17555b154e751870",
@@ -472,9 +472,9 @@
     {
       "id": "b7514d932afbf637",
       "title": "バイクとトラック衝突で28歳男性死亡 トラック運転手「対向車の確認不十分だった」 長崎・佐世保",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSVF0MnJCU09SeGlGV3ZDNXQ0eFdnRDJDRUVieVNlNE5Yc2RvWC01QjRQMENobzJOWU11ZXE1WEN4c0RVbzlpM1VCZGlNdVJmOWNKY09Oa3Z3cUtiOEYzS1llSndlSEE?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:22:00.000Z"
     },
@@ -490,9 +490,9 @@
     {
       "id": "92ea5255b9e1d27b",
       "title": "バイクの男性運転手(28)死亡 佐世保市 けさトラックとバイク衝突",
-      "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ncctv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RkdnUVRhUzBsMkJDSHdOa2ZUVWRhMV9JZ1RGbXIyRHlrWi1yRzdVS0NrMzFhcS0wYjJBY1RmNkNYOFFuVWlyY0ZJbm9OUGNVM2FoSnJfYks?oc=5",
-      "source": "NCC長崎文化放送",
+      "source": "ncctv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T09:35:00.000Z"
     },
@@ -544,9 +544,9 @@
     {
       "id": "4046358acafc89d7",
       "title": "【速報・現場画像あり】中央道通行止め…トラック横転事故のため、駒ケ根と伊那インターの間の上り線…現場に廃材が散乱",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZVGdWSWZtZmNKRng2Vk1IMmsyeGtxaHJiRC1MWFRZSnpkWHMtWjk3c1g2OXFOME1xNjNyb0xobm04dkdFWXlFNlJEWl9vOGU3Z1dOY0Y5anI3UQ?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T07:36:00.000Z"
     },
@@ -679,9 +679,9 @@
     {
       "id": "a53c6291b51a1575",
       "title": "佐世保市 けさトラックとバイクが衝突 バイクの20代男性が重体",
-      "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ncctv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMjU1emFtcUhPcTk0NE9QTmJfQlYtRV9YSklyZVZzZFJlS0Vrek9icjg1TUFBMGVoV3dzNUxIU1RMWjRuRlI1c1JyeHc2QkF1QTNxRTU3Z3Q?oc=5",
-      "source": "NCC長崎文化放送",
+      "source": "ncctv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T03:07:00.000Z"
     },
