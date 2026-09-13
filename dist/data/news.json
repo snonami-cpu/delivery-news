@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T06:33:31.242Z",
+  "updatedAt": "2026-09-13T07:24:33.585Z",
   "articles": [
+    {
+      "id": "f9106ad765504e45",
+      "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
+      "source": "朝日新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-13T06:28:25.000Z"
+    },
     {
       "id": "346cb8897d8887d5",
       "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田",
@@ -9,6 +18,15 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-09-13T05:35:20.000Z"
+    },
+    {
+      "id": "d0e50fe648d6ad3f",
+      "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田（2026年9月12日掲載）｜ABS NEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHVwWUlYYXRjMTdnUmxJMFIwYWtBNDVsS3lLTzBHY2Y3dU5fR2pRMDhYNEdramhIZ1NRdE5MY1ZiSk1ma0JPSmtaMDczYmI4NjZXZ0RLanVyOW02YW0xdFA4UGZiZV81OTUxenpNc3FvWXo4dHBZaXdGTHhIUUo4RURpWnV1Nmc?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "物流",
+      "publishedAt": "2026-09-13T05:34:00.000Z"
     },
     {
       "id": "b22012cef911423a",
@@ -47,15 +65,6 @@
       "publishedAt": "2026-09-13T01:05:00.000Z"
     },
     {
-      "id": "f9106ad765504e45",
-      "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
-      "source": "朝日新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-12T23:00:00.000Z"
-    },
-    {
       "id": "b7172e22f348572f",
       "title": "トラックにはねられ歩行者が重傷 横浜市西区（tvkニュース（テレビ神奈川））",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -74,6 +83,15 @@
       "publishedAt": "2026-09-12T11:25:23.000Z"
     },
     {
+      "id": "adbed96d300bf381",
+      "title": "イオンモール爆発、側面に大きな穴の開いたトラックに気づき…駆けつけて運転手救助・搬送の男性に感謝状",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUXE5TzRZLTRXNTdsc0ROdm93X3kyZk42MHgyQ3RDZC1Rc3RXb3RQLWd1MWRoa1o2V2M5Uk9BVTZZV3Z3aHNDTzAxWEZsRG1DenF2SW1YYWVMOXRZb0dCNGNCUE9saGlfN1JnRnFUbWhjSkl2Y3EtUUY0aHQ4cXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-12T11:05:00.000Z"
+    },
+    {
       "id": "531133c21a8a8a36",
       "title": "トラックと衝突 新聞配達員の男性死亡 群馬・渋川市（群馬テレビ）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -84,21 +102,12 @@
     },
     {
       "id": "958cd825e88cff69",
-      "title": "和歌山市で死亡事故 - tv-wakayama.co.jp",
-      "description": "tv-wakayama.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "和歌山市で死亡事故",
+      "description": "テレビ和歌山が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10YzZ0VVZjLVdOOEM3WXlZMFlERVBIS2lYU3RfbW9pZEJ1bUFwY2RCWEtYVkltUkRPQUstYjJkMW5BTDVaTmdTTkttMy1LWWNVb2w4TjJsbWVDc1c1V3dBc1UzM2Y?oc=5",
-      "source": "tv-wakayama.co.jp",
+      "source": "テレビ和歌山",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T08:24:00.000Z"
-    },
-    {
-      "id": "5e5605b0cb0677a0",
-      "title": "増える大型連休で運送会社のホワイト化進む？ 経営者からは悲鳴も",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxU0pGLThqTzJ6MmJ4QmFfQjgtbGxWWE9vMGk3NTB6T2dBM3Z2NmZueG15MkhncHNFcDI1QlZLczJoUWR5NzItcnZpbWU0Zw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-12T05:52:03.000Z"
     },
     {
       "id": "1ef3092e8dac1e54",
@@ -255,10 +264,10 @@
     },
     {
       "id": "390ee701ed98e7c0",
-      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市",
-      "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東名高速上り線三ヶ日インターチェンジ付近で4台絡む事故 現在も通行止め続く=浜松市 - at-s.com",
+      "description": "at-s.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBncVVVaEQ3ZHpqaENsZnIyaFc1RUlKR1F6SU5OcVdvd1ZOS19WQkNMQ3pyM1k2UGozX2dKdnlRR0w5MWpROTU2TWRST2RtYmZRUWg1YXhqckY0dzlKZklBeg?oc=5",
-      "source": "アットエス",
+      "source": "at-s.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T23:34:39.000Z"
     },
@@ -389,15 +398,6 @@
       "publishedAt": "2026-09-11T19:46:07.000Z"
     },
     {
-      "id": "d69aac597c869399",
-      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
-      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
-      "source": "Moomoo",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T18:29:42.000Z"
-    },
-    {
       "id": "b4b739cebbcf111b",
       "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
       "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -414,6 +414,15 @@
       "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T13:57:00.000Z"
+    },
+    {
+      "id": "d69aac597c869399",
+      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
+      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
+      "source": "Moomoo",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-11T13:47:59.000Z"
     },
     {
       "id": "17555b154e751870",
@@ -463,9 +472,9 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
@@ -481,9 +490,9 @@
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -498,10 +507,10 @@
     },
     {
       "id": "4517453b1659642c",
-      "title": "自転車に乗っていた93歳男性、トラックにはねられ死亡 伊丹の国道171号交差点|交通事故",
-      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "自転車に乗っていた93歳男性、トラックにはねられ死亡 伊丹の国道171号交差点|交通事故 - kobe-np.co.jp",
+      "description": "kobe-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVVhmYzVjVllJX3NzaDkycW11M0g0VDJIUzJmcWJWQWo0VzhVQWtnR2VVUi11b1YzOXh4WUEwZXZXclFKb0JJSTNqd2s3b0RvZVpoVUZXSnlkZnpPcUVycE85ckdlbllJSEh4eVNWUkpGREdHQ21mbGFvc2Q?oc=5",
-      "source": "神戸新聞",
+      "source": "kobe-np.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T09:59:06.000Z"
     },
@@ -513,6 +522,15 @@
       "source": "NCC長崎文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T09:35:00.000Z"
+    },
+    {
+      "id": "0e4f17aadb59c2ef",
+      "title": "【鳥取】買い物難民支援と物流課題を同時に解決へ！江府町で宅配サイトと移動販売を組み合わせた実証実験（江府町）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZVg4YlJFOEFZaXNINTRYdVYyVHljemt4ajlseGVFRVc3VUlkeGQyU09rVEJ5X0ZOdFJhNDZQdkFiakxOUy02OWNtUlNuTm0yVUJVS0JQandEektnZ3FqVHRPYzgwM2pBdVpBTVk3Q0J3T0hESHZ3REg4RGhEY0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-11T09:31:56.000Z"
     },
     {
       "id": "7c92d27010e91718",
@@ -650,15 +668,6 @@
       "publishedAt": "2026-09-11T06:04:13.000Z"
     },
     {
-      "id": "711c7fcda120f9d0",
-      "title": "路上駐車のトラックに追突 70代男性が足にけが ドクターヘリで病院搬送 北海道栗山町",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ld2pLa1RscXlrdVlIQktVUklySHlPSkJRZUxUU2NPaEFLRE1qN2o1WGUycVFWa2ZTRGxPQmJQS01HNm5QX0pnMmxrZVFTTGdxc1NDNlZmYlp6eEoyYXItNTZRUDJpRnNHT1JIZVYyanVRckk4aDN1N1FBb3gyRVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T05:37:00.000Z"
-    },
-    {
       "id": "634896e5323802fc",
       "title": "恐怖！ 新東名で「トラックが蛇行→衝突事故」瞬間を公開！ 事故ったのに「そのまま逃走」の結末！ 一体何があった？ ありえない「当て逃げドライバー」 見かけたら「冷静な運転を」呼びかけ",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,15 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T03:05:00.000Z"
-    },
-    {
-      "id": "d6b2caf0db6c2bd3",
-      "title": "ライドシェアはもう諦めたが知らなすぎのデマが多すぎるので全部潰す",
-      "description": "アゴラ 言論プラットフォームが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uamdTS3pMb004YVhRUHVIM0xvY1Z0SDhmR1VZNjN2UkdoTWFRdENpcjRoR2cyX2JGakRFY0NrLU9IajRHODFEa3dPaGx3eDZEdXpSMjdtTHhnVDg?oc=5",
-      "source": "アゴラ 言論プラットフォーム",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-11T02:45:24.000Z"
     }
   ]
 }
