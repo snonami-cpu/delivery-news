@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:29:39.561Z",
+  "updatedAt": "2026-09-13T13:24:03.277Z",
   "articles": [
     {
       "id": "12f4000803f77fae",
@@ -155,6 +155,15 @@
       "publishedAt": "2026-09-12T08:24:00.000Z"
     },
     {
+      "id": "1ef3092e8dac1e54",
+      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQ213SE0yX2NzcDBOVzh5NDZfZWZGcGhpOC1OT0Vla1Vyd2Y3bG9GMGsyLU5ZaUduQVR6dlc2dElkUGpzRmVkal9tUkZhX0puelBSdEthWkdpTFpqTDYw?oc=5",
+      "source": "news.livedoor.com",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-12T04:41:30.000Z"
+    },
+    {
       "id": "ed2c16e7882471be",
       "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -184,9 +193,9 @@
     {
       "id": "21837b7b399e0ca5",
       "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T04:11:31.000Z"
     },
@@ -283,9 +292,9 @@
     {
       "id": "9566f1f742e4eb4c",
       "title": "温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・食品物流を支えるコールドチェーン需要",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTmtZZmVtaXR4TkozNThDNGlRZzV2QXZsSkRNVHI3cENMNllUVllWUWNOaDFTTkp0U3pfdGtGcjBmeF9Dc0g0UGdOQ1BKSFE?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -308,20 +317,11 @@
       "publishedAt": "2026-09-11T23:18:00.000Z"
     },
     {
-      "id": "3514e83ad9357a0d",
-      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkxXZ01mZTMxeWI5YlhMNmJPRWYxN0JIOGtpa0VobnZMbzgweDc2dDFIU3RSbjFudVB6OFk3c0hGOVlnNkdCYkdCVTA4OFZjVjNXSnlUSHkyLXIzMGd3WXFTT2hBRDk2T29Sb1ZNWW1ERi1Wamd6LUFkWkR2YWVoRW5qT3lqVm8?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T22:53:00.000Z"
-    },
-    {
-      "id": "3a15273e04c006a3",
-      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）（2026年9月11日掲載）｜Daiichi-TV NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43clZ0bG1oLVU0aF80Z2Mzamlrc0NhRHN0VTQzUXFZejhyLXdQekdPbkVaNVltckRGSllQXzZ2X0tWMU1EZlplSFY5WFVadGZKTFRDZ04xQVpXVDFUdlVMcVB3dXdILTRveENhaWtkMjUwelhLQk90OC05R2tWWDg?oc=5",
-      "source": "日テレNEWS NNN",
+      "id": "6720a7fc8028c1a5",
+      "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）（Daiichi-TV（静岡第一テレビ））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZGw0c01sOVNWb2pzbTl2aEhhckJtV29DZ3RWSERTSEs3eVZIb1lHZXBwMnZERGF0MlJqZ0dTT3Z3cmVuMkM1SmdIVTZUM042T1owdFBTTjBaalB4VXdvWTlmTFVHUGlwODZ0X1NMUDZYUnFWbzFfbnlSU3dmbjQ?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
@@ -337,9 +337,9 @@
     {
       "id": "30ca0ccc15a5f149",
       "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
@@ -490,9 +490,9 @@
     {
       "id": "056216d982529337",
       "title": "中央道でトラック横転 積み荷の木材散乱 駒ヶ根IC～伊那ICの上り線が通行止めに トラック運転の50代男性にけがなし【長野】",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcnVJcUR5cUxramVQR01TZ0FGMGNkVE9uaG9sYjJRT1lEN1dNd1VNaW1nX0JFalpTbnF3c0gwdTVXVlNoT1JsdU9BYXcwLVVmZVNQcmF5cGIwMVZjbVlv?oc=5",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T11:31:28.000Z"
     },
@@ -632,15 +632,6 @@
       "publishedAt": "2026-09-11T07:23:12.000Z"
     },
     {
-      "id": "c1e8059f3f4c37db",
-      "title": "「6人殺して7年」「お辞儀すらしない」遺族が怒り TikTok見て脇見運転6人死亡 元トラック運転手に法定上限の7年求刑",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMG03b1BuS2JWdk4zNW85QjZYRUVmLTItSWkzWXMzYnlkc2VMZDdOQlNGZ3J3bEJBNFY0UEhOUTFHMHVVbjNRQ1U1TTY5VEpmbDh6NmlxOFZ5OHF3WGxNNHF6dkMyVVRhXzU2VjZEeEhXNmxnY1d3bk9Ud3h0WFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T07:04:00.000Z"
-    },
-    {
       "id": "dc19f70852473cac",
       "title": "アサヒロジスティクス／東京都内2か所目のサテライト拠点開設、都心部の配送網を強化",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "bunkanews.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-11T04:25:38.000Z"
+    },
+    {
+      "id": "6cfcaed8ff97e14c",
+      "title": "右折でコンビニに曲がろうとして 佐世保市でトラックとバイクが衝突 バイク運転の20代男性が意識不明の重体",
+      "description": "ktn.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sb2ROTEc1VUI1aW5UUllLckUyTEZqU3Q2U240WC02azF6bjdyMkdyc29hbVVCYV9NUUozakoyRW4zU2twdVZzdVZMQlN2dFZna1FqRWtTZF92N1gxSWM1N3R3?oc=5",
+      "source": "ktn.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-11T04:20:00.000Z"
     }
   ]
 }
