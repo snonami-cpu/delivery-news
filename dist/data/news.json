@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T10:27:55.598Z",
+  "updatedAt": "2026-09-13T11:23:57.315Z",
   "articles": [
+    {
+      "id": "12f4000803f77fae",
+      "title": "トラックが横転し、ヴィンハオ～ファンティエット間の幹線道路が通行止めになった。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUc0cGllNXJ4M0pPeXZoN2tTLXpwNG9sMEZ5MFhJOE8tZ0Zhemg5RmFNOGctek9NNWptcmtvaXJZRVE2NDRYWFpoQzJlRzBiZTl0Wkpad0JKUmJreE15TnhhSzRzUy05MVZLcl9TMEUwc0ZHWW5tV3N3Q1hEa0NWSQ?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-13T10:56:56.000Z"
+    },
     {
       "id": "38fb7f3d6193d755",
       "title": "トラックに触れて子どもたちが物流について楽しく学ぶイベント 秋田市で開催（秋田朝日放送）",
@@ -31,9 +40,18 @@
     {
       "id": "d0e50fe648d6ad3f",
       "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田（2026年9月12日掲載）｜ABS NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHVwWUlYYXRjMTdnUmxJMFIwYWtBNDVsS3lLTzBHY2Y3dU5fR2pRMDhYNEdramhIZ1NRdE5MY1ZiSk1ma0JPSmtaMDczYmI4NjZXZ0RLanVyOW02YW0xdFA4UGZiZV81OTUxenpNc3FvWXo4dHBZaXdGTHhIUUo4RURpWnV1Nmc?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-13T05:34:00.000Z"
+    },
+    {
+      "id": "8c77dbca18917daf",
+      "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田（ABS秋田放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSExNZTZGdks3eGR1Q3FyWHdwQXYtdkdJaGhUY2lqek9oSWJyZXFKZEdLT3VkTnpSRmxFcUxmXzQzemFIcFNiYm9CZDVaUm1jU0NXUjJRWXpiQ3JCeGp1cUlWTlZMOXJxQUtodTd0TmpwdHFhcEw3N2JNRVhuOXc?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-13T05:34:00.000Z"
     },
@@ -45,6 +63,15 @@
       "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-09-13T04:19:45.000Z"
+    },
+    {
+      "id": "be17a56b3c899e73",
+      "title": "東急不動産、神戸・長田に物流施設「LOGI’Q神戸新長田」竣工 3Dプリント休憩スペースも整備",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdTlRYnR5eDdnTThCcnQ3MDJRcGMyam93a0NyX3UxVWJoWnhZOXRNNEk2WWtkdG1GbVQ2M3J6QVliWm5VcE9iZzVRcUVQQTcteWFXbk5PQQ?oc=5",
+      "source": "AMP[アンプ]",
+      "category": "物流",
+      "publishedAt": "2026-09-13T03:49:15.000Z"
     },
     {
       "id": "f117010299ff911f",
@@ -76,9 +103,9 @@
     {
       "id": "f9106ad765504e45",
       "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T23:00:00.000Z"
     },
@@ -138,10 +165,10 @@
     },
     {
       "id": "bd00bfd091fbc452",
-      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報 - jomo-news.co.jp",
-      "description": "jomo-news.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ta2s1ZFFXSkJMM3lWTWFiRXBtbTNiWEpPR3F2N1JvdzhfMWI0ODZkMUJjcjNrWVdacHVQUWJ5Q2ROb05fUVNNZ1ZNZjlvT2k5TVZwU0dqUldMdw?oc=5",
-      "source": "jomo-news.co.jp",
+      "source": "上毛新聞電子版",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T04:36:00.000Z"
     },
@@ -174,10 +201,10 @@
     },
     {
       "id": "be7ecd819750ad1d",
-      "title": "新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で一時通行止め",
-      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "新名神高速のトンネルでトラック3台事故、積み荷の「足場」散乱 大阪府内で一時通行止め - kyoto-np.co.jp",
+      "description": "kyoto-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52blRmUEZkcklST0NLUUoyWWU2aE44dkFoSHlMbGthRy1UTVdMS1lYQmVzVVVyV19PYTM4UlMycENER0Zma25LMDVRTXBvZkxhS0xYNFZ2b1Y?oc=5",
-      "source": "京都新聞デジタル",
+      "source": "kyoto-np.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-12T03:15:00.000Z"
     },
@@ -188,7 +215,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRFBubElsdzdpRnc5N3pfM1R5akdvQkFCSEdvUnFwWGxPV01LQmFXNEQ0YUVwTmRRS1pCLUROYXB5UGdmV19ZTA?oc=5",
       "source": "logi-today.com",
       "category": "物流",
-      "publishedAt": "2026-09-12T01:41:15.000Z"
+      "publishedAt": "2026-09-12T01:45:33.000Z"
     },
     {
       "id": "1c3168f2cbb75cf0",
@@ -283,18 +310,18 @@
     {
       "id": "3514e83ad9357a0d",
       "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkxXZ01mZTMxeWI5YlhMNmJPRWYxN0JIOGtpa0VobnZMbzgweDc2dDFIU3RSbjFudVB6OFk3c0hGOVlnNkdCYkdCVTA4OFZjVjNXSnlUSHkyLXIzMGd3WXFTT2hBRDk2T29Sb1ZNWW1ERi1Wamd6LUFkWkR2YWVoRW5qT3lqVm8?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
     {
       "id": "3a15273e04c006a3",
       "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間での通行止めは解除（静岡･午前11時40分更新）（2026年9月11日掲載）｜Daiichi-TV NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43clZ0bG1oLVU0aF80Z2Mzamlrc0NhRHN0VTQzUXFZejhyLXdQekdPbkVaNVltckRGSllQXzZ2X0tWMU1EZlplSFY5WFVadGZKTFRDZ04xQVpXVDFUdlVMcVB3dXdILTRveENhaWtkMjUwelhLQk90OC05R2tWWDg?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
@@ -327,10 +354,10 @@
     },
     {
       "id": "c3a7b0a508252c55",
-      "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ－三ケ日ＩＣ間通行止め",
-      "description": "静岡新聞DIGITALが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ－三ケ日ＩＣ間通行止め - news.at-s.com",
+      "description": "news.at-s.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tSDliS2FpVTl0NEppWThHeFo2Uk5LcEpGcWJPRlNmUm1TMnI2YVZoOExlYzBhMUdrVWJfNWh5cklLYjFlMlhPLVYxZzdCdw?oc=5",
-      "source": "静岡新聞DIGITAL",
+      "source": "news.at-s.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:30:00.000Z"
     },
@@ -472,27 +499,27 @@
     {
       "id": "6e47771f490c8291",
       "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
     {
       "id": "6a4cf65b85556c55",
       "title": "【続報】佐世保市の市道「トラックとバイク衝突事故」 バイクを運転していた男性(28)が死亡《長崎》",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa01FeWw3dHdUZURTWFQ1aDNwTXNKbmNQdWNoNUJ3Y2t0N2NteWxsWjdLNXRLd0tQTmxSTUZZbVRzTW01RHJDMVlqQnF5S1JRQU42WEtyUnZYdWw5TkpWX1g1OG1wRUJXTmhZNHZFemFSdlMxR2pRWV9tTVVMUnF5OFU4aFA3Tzg?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:45:00.000Z"
     },
     {
       "id": "b521602f95ff149f",
       "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-11T10:29:00.000Z"
     },
@@ -507,10 +534,10 @@
     },
     {
       "id": "4517453b1659642c",
-      "title": "自転車に乗っていた93歳男性、トラックにはねられ死亡 伊丹の国道171号交差点|交通事故 - kobe-np.co.jp",
-      "description": "kobe-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "自転車に乗っていた93歳男性、トラックにはねられ死亡 伊丹の国道171号交差点|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVVhmYzVjVllJX3NzaDkycW11M0g0VDJIUzJmcWJWQWo0VzhVQWtnR2VVUi11b1YzOXh4WUEwZXZXclFKb0JJSTNqd2s3b0RvZVpoVUZXSnlkZnpPcUVycE85ckdlbllJSEh4eVNWUkpGREdHQ21mbGFvc2Q?oc=5",
-      "source": "kobe-np.co.jp",
+      "source": "神戸新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T09:59:06.000Z"
     },
@@ -524,15 +551,6 @@
       "publishedAt": "2026-09-11T09:35:00.000Z"
     },
     {
-      "id": "0e4f17aadb59c2ef",
-      "title": "【鳥取】買い物難民支援と物流課題を同時に解決へ！江府町で宅配サイトと移動販売を組み合わせた実証実験（江府町）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZVg4YlJFOEFZaXNINTRYdVYyVHljemt4ajlseGVFRVc3VUlkeGQyU09rVEJ5X0ZOdFJhNDZQdkFiakxOUy02OWNtUlNuTm0yVUJVS0JQandEektnZ3FqVHRPYzgwM2pBdVpBTVk3Q0J3T0hESHZ3REg4RGhEY0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-11T09:31:56.000Z"
-    },
-    {
       "id": "7c92d27010e91718",
       "title": "【現場画像あり】「積んでいた廃材が散乱してしまった…」長野・伊那市の中央道上り線でトラック横転…荷台には木材の廃材が積まれる、道路をふさぐように散乱（ＳＢＣ信越放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -544,9 +562,9 @@
     {
       "id": "7f1e7cdc4aad3ca5",
       "title": "中央道上り線トラック横転 駒ヶ根ICと伊那ICの間で通行止め ※午後5時現在（2026年9月11日掲載）｜テレビ信州NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmh5Vjh3UGVCY3h5U2I1ZkNKU01qeEdHeXBkVXkxcDdLVkpEQ2x0UnVjYVNLa3NwV0phNEVNOTZ3MU9Td3Q3aDFDOGx0TWtDY3gtalFHNGF3bW41cFNTNVhhQTgtRVVXRVhXZ2dmM21qanRRczVwNU8yeTlTWXZjN1g0Q1g1Rnc?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T08:41:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "ktn.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T04:20:00.000Z"
-    },
-    {
-      "id": "ad1b06d5f8a014ac",
-      "title": "新名神「ながらスマホ」で6人死亡裁判、求刑7年 繰り返される「軽すぎる」の声（弁護士ドットコムニュース）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OV25uM2lHeUFpVUtPWmFMUlg2N0JkVXRrZmw4a1Bxbjlhd3lXdUdtNjhXSmpiYXpDcnVISno1blVHNXMxOC1ocTRxckhXZlBoaUV5b2d3X1pOOWRtSkp0RmcwOWRlS1RCbWtsbGdFQjRNam9rbTJPcVNqSFdLMEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T03:40:00.000Z"
-    },
-    {
-      "id": "a53c6291b51a1575",
-      "title": "佐世保市 けさトラックとバイクが衝突 バイクの20代男性が重体",
-      "description": "NCC長崎文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMjU1emFtcUhPcTk0NE9QTmJfQlYtRV9YSklyZVZzZFJlS0Vrek9icjg1TUFBMGVoV3dzNUxIU1RMWjRuRlI1c1JyeHc2QkF1QTNxRTU3Z3Q?oc=5",
-      "source": "NCC長崎文化放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T03:07:00.000Z"
     }
   ]
 }
