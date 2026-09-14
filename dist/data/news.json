@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-14T05:25:31.721Z",
+  "updatedAt": "2026-09-14T06:33:55.168Z",
   "articles": [
+    {
+      "id": "e6b05f649656aefd",
+      "title": "台湾三井不動産／新たに物流施設事業へ参入、桃園で第1号プロジェクト",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbms1YzN0ajMxZHdtZENqZmFpZmxMNno2VV9oZ04xRVdraU9pbi0xX1BKdlBhTU1lOFk4Y1FFa1dPR1lXSmpEdlJUUGVCWkpndWc2Sw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:12:41.000Z"
+    },
+    {
+      "id": "d4c2d260ed8e4bf8",
+      "title": "ロジスティード／資料「物流自動化の成功法則」を公開",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42MUxWanlYbGphb2NiS0FMMGQ2NHRsZGJ6M3NGOWdrYmN4VVVlcVJBU1NfMUJfMlkwalNDcHB4Y0FwRUdYSzNlVVBXZWVzNU1IR2RZTQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-14T05:52:09.000Z"
+    },
+    {
+      "id": "d06a8813cd89117b",
+      "title": "プロロジス／岩手県金ケ崎町のマルチ型物流施設にイオングローバルSCMが入居",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeW5aTUdDdk5vQnFlOWx3OGNUYS1IU1ktUlp3c3Fkc3QxR0ktTHFkcklmYWVFdFZLQndKM3ctZ2hXczV2VW1ZSlBNSGRrbHk1cG56SA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-14T05:42:07.000Z"
+    },
+    {
+      "id": "949cb830750427b4",
+      "title": "PALTAC、物流本部再編で現場運用に軸足",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YUndDX0RjQTl2ZDVVVGdLUV9WcmdFMUxYSm5kYWhCVXplVm9xZkltTFdxU1NqYVpfdUVyMnRCaUk1TkdVWjgwXw?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-14T05:18:24.000Z"
+    },
     {
       "id": "0942bd83e6b45e76",
       "title": "三井不動産、台湾で物流施設開発に参入 - LOGI-BIZ online",
@@ -9,15 +45,6 @@
       "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-14T03:04:50.000Z"
-    },
-    {
-      "id": "c89ea5b46119be81",
-      "title": "イオン／岩手県金ケ崎町に新物流センターを開設、有事を想定して物流体制強化",
-      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6OFBlT0NuMkotUWNRQktuUkNOakVBcUdxeEY4Ni1zZFZUd0xwWmZiWFhEV2pyQ3B6T1h2SktFenlFZjRXLUExOERabkNwa2JsdUJvNFhmX2w?oc=5",
-      "source": "流通ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-14T02:35:00.000Z"
     },
     {
       "id": "d6dd3a356419c1cb",
@@ -155,15 +182,6 @@
       "publishedAt": "2026-09-13T10:56:56.000Z"
     },
     {
-      "id": "799de6cb4dea2ded",
-      "title": "「え、あのひとが？」 退職代行で即音信不通",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FWVF3ZktXZnRUOVgwdDkzMUVNX2hoMENXaDEzM3lRVm1FdG1LRXRLT2ROSkNXbTY5YnNpaHFiTlk0MUUxRVBqRlp0RUdQUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-13T10:19:43.000Z"
-    },
-    {
       "id": "38fb7f3d6193d755",
       "title": "トラックに触れて子どもたちが物流について楽しく学ぶイベント 秋田市で開催（秋田朝日放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -202,9 +220,9 @@
     {
       "id": "346cb8897d8887d5",
       "title": "“わくわくトラベンチャー” トラック協会が初開催 運送業の仕事を体験 秋田",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mM0RtdGtySmFqVnBKSk0zTzdKdGpuWTlwY19qdHJHanZuZFh5R2dEdGJCOThvVDdXV0hjWUJURXVqbmQ0Mm9qRTZyaHAyQlpYY19rdS1acEdSd1NTZXRPa0xtdEhIQTZIcWlZTdIBckFVX3lxTFB2Q1l0Z3pHRE5iSlk3cHFrLXJSUlI1S2UwdEtYdGhFa285cjFGUXZwLWFEMGt2ZVJlaVNlN3VSem83TmVJbGlKQkhwX1NOZWFRcmdBZVZQMXRCSjVnUFdIRi12WWhIaGlqNy1kNGF5UmFGZw?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-09-13T05:35:20.000Z"
     },
@@ -238,9 +256,9 @@
     {
       "id": "be17a56b3c899e73",
       "title": "東急不動産、神戸・長田に物流施設「LOGI’Q神戸新長田」竣工 3Dプリント休憩スペースも整備",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdTlRYnR5eDdnTThCcnQ3MDJRcGMyam93a0NyX3UxVWJoWnhZOXRNNEk2WWtkdG1GbVQ2M3J6QVliWm5VcE9iZzVRcUVQQTcteWFXbk5PQQ?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-13T03:49:15.000Z"
     },
@@ -345,10 +363,10 @@
     },
     {
       "id": "bd00bfd091fbc452",
-      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報 - jomo-news.co.jp",
-      "description": "jomo-news.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ta2s1ZFFXSkJMM3lWTWFiRXBtbTNiWEpPR3F2N1JvdzhfMWI0ODZkMUJjcjNrWVdacHVQUWJ5Q2ROb05fUVNNZ1ZNZjlvT2k5TVZwU0dqUldMdw?oc=5",
-      "source": "jomo-news.co.jp",
+      "source": "上毛新聞電子版",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T04:36:00.000Z"
     },
@@ -499,9 +517,9 @@
     {
       "id": "1b64e6ae8e8c259c",
       "title": "【多重事故】浜松市浜名区の東名高速でトラックなど４台関連事故…上りは現場付近区間で通行止め（静岡･午前7時45分現在）",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGZXJrMWZNSGVaYWVqdFZoYWZKUkdrdjRMMVRQbjZSTGpVeVRHQkkwMmo5NGdMTGNmYnpKY1NKckstRHFjbHU0WUg1MHZZMlM5TWNtYk9ZYS1GTER4SWxidGpEMW9XNmhnZUM0d3d30gFuQVVfeXFMUEZlcmsxZk1IZVphZWp0VmhhZkpSR2t2NEwxVFBuNlJMalV5VEdCSTAyajk0Z0xMY2ZiekpjU0pySy1EcWNsdTRZSDUwdlkyUzlNY21iT1lhLUZMRHhJbGJ0akQxb1c2aGdlQzR3d3c?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
     },
@@ -614,11 +632,20 @@
       "publishedAt": "2026-09-11T19:46:07.000Z"
     },
     {
+      "id": "e11a08674c500704",
+      "title": "観光客の手ぶら観光を促進する手荷物預かり・配送サービスの実証実験を実施します",
+      "description": "city.nagoya.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zcHd5WkZ6aXA0MmFNTnp3ODNvT1ZDelZldmxxWFdTNkNIc1BVVDZHZTRvT0E5a2dGUFlGOVd0R3RxQlE5bHpra0o3RHFvNUQzblgzaUtQalZRVmc1MWU5eUg3OVJUMHBac29nZ0xuTQ?oc=5",
+      "source": "city.nagoya.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-11T15:55:21.000Z"
+    },
+    {
       "id": "b4b739cebbcf111b",
       "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
-      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3RDS1l5ZXBuUDlrM3BvaXBOSkk4OEZEZXpTLTdicV81ZmJoWWFKZTVCVF9HcXRVSXhNZGNqcmMxbnd2SElvNFRNZExPSHhxaHE3cGVGS1dwelhzVHBtT202V2dSYlpjaF9iVzVwa0RGeEk0TTNwQm9WZXluUjNfNFZLaUpaX1JLczE2c1MycnlLVTNGeVlTTmNkcGJsS2ExdGFXVlZ5SmlwbjNScTRoR2FxRzVVRXA0R0dz?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-11T14:51:13.000Z"
     },
@@ -686,15 +713,6 @@
       "publishedAt": "2026-09-11T11:05:38.000Z"
     },
     {
-      "id": "e9a1ce830bacb85e",
-      "title": "2026年09月16日(水)開催「物流二法対応と中長期計画策定の実務ポイント～法対応で終わらせない物流効率化の進め方～」に当社コンサルタントが登壇します(主催:都築電気株式会社様)",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tQnh4QWgxNVVDOWFNU3k0YmI4UEdqVko5ZHU0dkFPNERWRXZaOUlGbk1NZDFacU43TG40QjFZbnlLYXpiRUoyWU51NVBMVGYtQVVYZkpyZExSSkF1aHdTZzNGN29sUEJQRHc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-11T11:00:02.000Z"
-    },
-    {
       "id": "6a4cf65b85556c55",
       "title": "【続報】佐世保市の市道「トラックとバイク衝突事故」 バイクを運転していた男性(28)が死亡《長崎》",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-11T10:45:00.000Z"
-    },
-    {
-      "id": "b521602f95ff149f",
-      "title": "ビーイングHD、富山・射水の物流拠点を閉鎖 金沢のセンターに統合",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTFpZTXQ3b2NiUjJvLXhDLXhNRjlCSGFPb1RYTXQtanR2WG5vMnhTVHBqajllNFM1XzBPSTVabWlCY2RRTmJpVHJtX0NFYjZ1bUZQcV85V0xHMndSdlUwUl9hdmNZSVkwSllxdQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-11T10:29:00.000Z"
-    },
-    {
-      "id": "b7514d932afbf637",
-      "title": "バイクとトラック衝突で28歳男性死亡 トラック運転手「対向車の確認不十分だった」 長崎・佐世保",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSVF0MnJCU09SeGlGV3ZDNXQ0eFdnRDJDRUVieVNlNE5Yc2RvWC01QjRQMENobzJOWU11ZXE1WEN4c0RVbzlpM1VCZGlNdVJmOWNKY09Oa3Z3cUtiOEYzS1llSndlSEE?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T10:22:00.000Z"
     }
   ]
 }
