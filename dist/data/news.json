@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:29:01.826Z",
+  "updatedAt": "2026-09-14T15:29:16.596Z",
   "articles": [
     {
       "id": "126489fa7f8ca2a4",
@@ -38,6 +38,15 @@
       "publishedAt": "2026-09-14T09:20:00.000Z"
     },
     {
+      "id": "c83802b7f36b86d0",
+      "title": "薄暮の交通事故防止へ トラック協会が交通安全グッズ寄贈",
+      "description": "KCTコミちゃんが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OVUVDSjRaNURtWTlldnVUUERGUFFzU01ua1I5MmtiZ2FkTXBmbU8za2dXWTQyZ04tY0ZRRUhDWUZDSW1WVkM3azVQOFJnN0lsaHVtUjRvd1o?oc=5",
+      "source": "KCTコミちゃん",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-14T08:44:00.000Z"
+    },
+    {
       "id": "8d17fd6ce70058cf",
       "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市 最新の社会ニュース【随時更新】",
       "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -49,9 +58,9 @@
     {
       "id": "721fb10edc43a58f",
       "title": "国交省／中小トラック事業者向け設備導入等補助金、9月28日2次公募開始",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUWE5XZDV2OXd5bloyeFhyQVhRaGk3dXA5WW1vbTlPRHpSWnk1d1ZuX0RvcndIbDdzOTl5bGpPekVYbjFDT3JCcmd1SGwyR0M0U1BDMg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "法令・行政",
       "publishedAt": "2026-09-14T08:30:08.000Z"
     },
@@ -72,15 +81,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-14T08:21:13.000Z"
-    },
-    {
-      "id": "566b8a3d694706a0",
-      "title": "生活道路の法定速度引き下げなど 宮崎市でトラックドライバー対象の交通安全研修会 | MRTニュース ｜ ＭＲＴ宮崎放送",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94ZnIwX1hJaFc0eGhJUWh2WnpCNDR2Y3haS1YwUTZVYngyOVNJT1VqVWpUMkU1TnFtNk16QzVpTG1OSy1QNmY0Q1dvWFFHR0E2X3FSUmd1d2pOUQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T08:15:00.000Z"
     },
     {
       "id": "cc8b2ad64a478515",
@@ -121,18 +121,18 @@
     {
       "id": "fc5d98ed34929646",
       "title": "環境省／自然冷媒機器の導入に補助金、冷凍冷蔵の脱フロン・脱炭素化へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVDRTOUh3WTFZQ3l1UDE2a25HbmhoTWdmVVVRc2NvWV95M1VhbzQ2NUVodF9sNTFLQ3lfX1FrWVVzUUZGbDk2MHAtU201Z2hsUXJVcw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T07:54:59.000Z"
     },
     {
       "id": "68ac77e7a0450c4d",
       "title": "国交省／9月28日に「トラック輸送省エネ化推進事業」の4次公募を開始",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydEU4ZmVXbVJ1VzVXNEZaSm9QNDhMN3djOFJxUzcxRFlOdlhKb2E2N205RkdBb0NqSWM3WllBOTdfeWtlLVZqdnpFblM5eFpGRWVaVA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "法令・行政",
       "publishedAt": "2026-09-14T07:49:58.000Z"
     },
@@ -157,9 +157,9 @@
     {
       "id": "3c2209852704f87b",
       "title": "Neolix／自動運転配送車両のレベル4試験をTRCで開始",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00bHdvalpjaEZjN2ZMMDl5QnoxVVVhOWVyWFlEVHZYZGdSQkFYTHZFdTN5Vmk1THBLNnJXQW5GMkw2cnczcnJPUHBCSFVFWjVNUHluOA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T07:07:24.000Z"
     },
@@ -184,9 +184,9 @@
     {
       "id": "56ff1a421846c196",
       "title": "NTTロジスコ／画像認識×AGVで返却通信機器を自動仕分け、静脈物流を効率化",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiVTJCZ1BCelVUbXVySjcwU1JsQTcwV2FjcUVjT203Tk9scmU5aWZIRDd6bWFjQXhMYWRlenUxbkJ4aGlnZ2RyejhIZ0ZyUXpmMVBFMA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T06:57:22.000Z"
     },
@@ -218,38 +218,29 @@
       "publishedAt": "2026-09-14T06:46:17.000Z"
     },
     {
-      "id": "c632bf7422133a43",
-      "title": "パナマ運河異変がもたらす海運株高 高まる物流・物価リスク",
-      "description": "日経CNBC onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVVDc3XzNjR3EwbFNad2NCcFpGMXpKeE5PaUdDR3M3SjRKRHIxOHF6cXUtdGdsTm5ySXdGN1VWc1p4M29IN281UDhOWVJtUks4YVF0cA?oc=5",
-      "source": "日経CNBC online",
-      "category": "物流",
-      "publishedAt": "2026-09-14T06:35:00.000Z"
-    },
-    {
       "id": "e6b05f649656aefd",
       "title": "台湾三井不動産／新たに物流施設事業へ参入、桃園で第1号プロジェクト",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbms1YzN0ajMxZHdtZENqZmFpZmxMNno2VV9oZ04xRVdraU9pbi0xX1BKdlBhTU1lOFk4Y1FFa1dPR1lXSmpEdlJUUGVCWkpndWc2Sw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T06:12:13.000Z"
     },
     {
       "id": "d4c2d260ed8e4bf8",
       "title": "ロジスティード／資料「物流自動化の成功法則」を公開",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42MUxWanlYbGphb2NiS0FMMGQ2NHRsZGJ6M3NGOWdrYmN4VVVlcVJBU1NfMUJfMlkwalNDcHB4Y0FwRUdYSzNlVVBXZWVzNU1IR2RZTQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T05:52:09.000Z"
     },
     {
       "id": "d06a8813cd89117b",
       "title": "プロロジス／岩手県金ケ崎町のマルチ型物流施設にイオングローバルSCMが入居",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeW5aTUdDdk5vQnFlOWx3OGNUYS1IU1ktUlp3c3Fkc3QxR0ktTHFkcklmYWVFdFZLQndKM3ctZ2hXczV2VW1ZSlBNSGRrbHk1cG56SA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-14T05:45:37.000Z"
     },
@@ -281,6 +272,15 @@
       "publishedAt": "2026-09-14T05:01:55.000Z"
     },
     {
+      "id": "de3c771d0e9ab634",
+      "title": "金ケ崎に新たな物流拠点「イオン岩手FDC」 プロロジスパーク北上金ケ崎内に開設 - iwate-np.co.jp",
+      "description": "iwate-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZXlXM2FGeTF0aGx4TloxTDVUeHFneGZlNkR0QkxpczB4aG9vZnQ5ZkNScjR1OWVSZWh6TV9mRFh5eTdJMXhGMDUzT3Rya3pWZDc3UUdwSUdTbG55N1p4RQ?oc=5",
+      "source": "iwate-np.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-14T04:14:00.000Z"
+    },
+    {
       "id": "8f8ed34f9db44fe5",
       "title": "東京ビッグサイトで「国際物流総合展2026」が開催",
       "description": "展示会とMICEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -309,10 +309,10 @@
     },
     {
       "id": "cec7cd586604ca5a",
-      "title": "楽天がロボット配送対象エリアを豊洲へ拡大、湾岸エリアで5万戸超をカバー - drone-journal.impress.co.jp",
-      "description": "drone-journal.impress.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "楽天がロボット配送対象エリアを豊洲へ拡大、湾岸エリアで5万戸超をカバー",
+      "description": "ドローンジャーナルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83VHlpd3ZVZUpOajI3RmlnUkIxUjJrazZISHBobVZHNHF2aE9RTHJnZnhOWWROT0sxY1lYOTJNc0ctLXBValROZTB3U3REbWhKQ2FIQ2taVG1GN19XXzMxaEx4MjFwMjVlOEE?oc=5",
-      "source": "drone-journal.impress.co.jp",
+      "source": "ドローンジャーナル",
       "category": "物流",
       "publishedAt": "2026-09-14T01:44:23.000Z"
     },
@@ -354,19 +354,19 @@
     },
     {
       "id": "9f5145c137c404b2",
-      "title": "【国道354号】坂東市内でトラック事故 一部通行止め解除（14日06:45現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【国道354号】坂東市内でトラック事故 一部通行止め解除（14日06:45現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XbnNSV1I1Q21HYVZ1YjZTX3BmSGxtOWtQS3I5UmdlRmNTUG9zMDVhOF9oY0pYVmhKQzBoQUdWUWI0bnktaDRiZzRRMHExT3Y0VS1qelJVSi1mN0tzcXdr?oc=5",
-      "source": "千葉テレビ放送株式会社",
+      "source": "chiba-tv.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-13T22:12:57.000Z"
     },
     {
       "id": "bfdca7b5c80f0552",
-      "title": "〘IC閉鎖〙新東名 新静岡ICでトラック事故 上り線出口規制解除（14日04:20現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "〘IC閉鎖〙新東名 新静岡ICでトラック事故 上り線出口規制解除（14日04:20現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81NmdRQlZ5eGR1WlJla0Vpamx0SGNEWVBvZEFXVmU5NzZqNk94NkJsaHYzR01JdEh4amRVSHpKdlhmQ2tCYjhNWEJ4RHNKMG9WZUpXbnpIZzM2eXlqM1pN?oc=5",
-      "source": "千葉テレビ放送株式会社",
+      "source": "chiba-tv.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-13T21:45:30.000Z"
     },
@@ -381,10 +381,10 @@
     },
     {
       "id": "aab7356ef2c34204",
-      "title": "非アセット型国際物流の有力企業 エクスペディターズ・インターナショナル・オブ・ワシントン 清水憲人 - weekly-economist.mainichi.jp",
-      "description": "weekly-economist.mainichi.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "非アセット型国際物流の有力企業 エクスペディターズ・インターナショナル・オブ・ワシントン 清水憲人",
+      "description": "週刊エコノミスト Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xLTlkV0VfN2d4V25zYlJOYjNKd2JmV1ZCWnQ0MjVVUDhqWkNGT1hvV3pxbWJEOEZCdUlteEJCWnd6WXhIRFVzYlJmRE9kVkM5SzFacUxRWTNwY3Z1SVNZT1FsbTMzTGxrQzh0OXpobENldFVkTHBRcW1HTlhVcnc?oc=5",
-      "source": "weekly-economist.mainichi.jp",
+      "source": "週刊エコノミスト Online",
       "category": "物流",
       "publishedAt": "2026-09-13T20:03:46.000Z"
     },
@@ -453,10 +453,10 @@
     },
     {
       "id": "97055d7815735c3a",
-      "title": "トラックに触れて子どもたちが物流について楽しく学ぶイベント 秋田市で開催 - aab-tv.co.jp",
-      "description": "aab-tv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トラックに触れて子どもたちが物流について楽しく学ぶイベント 秋田市で開催",
+      "description": "AAB秋田朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fVnNYcDRjN3g0S3NodElrem1LRGs2NnBJYkFUbUp2Zk9tTHdUTnlmWk5MbnhPTlhNdlRVT2ZMRkt4NHhvekhRaUNGZEh2c09iai1MYXpWZnpmbFVXZ19FS1Zfdw?oc=5",
-      "source": "aab-tv.co.jp",
+      "source": "AAB秋田朝日放送",
       "category": "物流",
       "publishedAt": "2026-09-13T09:27:00.000Z"
     },
@@ -632,13 +632,13 @@
       "publishedAt": "2026-09-12T04:36:00.000Z"
     },
     {
-      "id": "ab33b859ad54d902",
-      "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷（静岡放送（SBS））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91d1VqeHpLQ0dFUHByT3JJeXFPbXpCQUh3QXZLcVZtT2pSY3JicW5RSDVnNTcxRktPRjlRMkEtVkxwWlVZZkoyLVRBdEY0V2JYZUczMjg4b0tfYUFEZlJjczBndmM3TzVhb0tablVMNDZfcy1nLUR2MERNV2podG8?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "b2c85b82bb4b8323",
+      "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷 | 静岡のニュース | SBSNEWS | 静岡放送 (1ページ)",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GT1RnTWsxOTJDWnJlOXlTMVBCc2gzQTRFTEdmMUJSaHhYMHR0T1ctaE1sdDRVaVJtM0hBemVRNHJDZEcyUk1qTmpUR0xhQzV0NDdvWU9UMWtkX2t0NnBsaUZSMzdlcDA?oc=5",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
-      "publishedAt": "2026-09-12T04:20:26.000Z"
+      "publishedAt": "2026-09-12T04:09:00.000Z"
     },
     {
       "id": "5978fc1dc4a3b64a",
