@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-14T06:33:55.168Z",
+  "updatedAt": "2026-09-14T07:28:17.232Z",
   "articles": [
+    {
+      "id": "3c2209852704f87b",
+      "title": "Neolix／自動運転配送車両のレベル4試験をTRCで開始",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00bHdvalpjaEZjN2ZMMDl5QnoxVVVhOWVyWFlEVHZYZGdSQkFYTHZFdTN5Vmk1THBLNnJXQW5GMkw2cnczcnJPUHBCSFVFWjVNUHluOA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-14T07:07:42.000Z"
+    },
+    {
+      "id": "56ff1a421846c196",
+      "title": "NTTロジスコ／画像認識×AGVで返却通信機器を自動仕分け、静脈物流を効率化",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiVTJCZ1BCelVUbXVySjcwU1JsQTcwV2FjcUVjT203Tk9scmU5aWZIRDd6bWFjQXhMYWRlenUxbkJ4aGlnZ2RyejhIZ0ZyUXpmMVBFMA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:56:15.000Z"
+    },
+    {
+      "id": "a246b6d1f211f53b",
+      "title": "イオン、岩手・金ケ崎に新物流拠点 災害時の安定供給目指す（毎日新聞）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95ekxFbExYMWpGS3UyVVpQS1d5WHh4TUJSSXpRVVVNOW9DX2d6VG9JV1NoQW9HNWNwSmVXYmJtV0VERDdCRFNnQWNVSTNOTFhDNndSdmpOb25NVU1pcVFZd2RyWURncVZvZmlJa3BQMTY0SW1HVUMyV3BJdDRaSG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:46:17.000Z"
+    },
     {
       "id": "e6b05f649656aefd",
       "title": "台湾三井不動産／新たに物流施設事業へ参入、桃園で第1号プロジェクト",
@@ -26,7 +53,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeW5aTUdDdk5vQnFlOWx3OGNUYS1IU1ktUlp3c3Fkc3QxR0ktTHFkcklmYWVFdFZLQndKM3ctZ2hXczV2VW1ZSlBNSGRrbHk1cG56SA?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-14T05:42:07.000Z"
+      "publishedAt": "2026-09-14T05:45:37.000Z"
     },
     {
       "id": "949cb830750427b4",
@@ -389,15 +416,6 @@
       "publishedAt": "2026-09-12T04:20:26.000Z"
     },
     {
-      "id": "21837b7b399e0ca5",
-      "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
-      "source": "ライブドアニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-12T04:11:31.000Z"
-    },
-    {
       "id": "5978fc1dc4a3b64a",
       "title": "通行止め解除 東名上り・三ヶ日IC付近の4台関連事故2人軽傷",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -490,9 +508,9 @@
     {
       "id": "9566f1f742e4eb4c",
       "title": "温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・食品物流を支えるコールドチェーン需要",
-      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTmtZZmVtaXR4TkozNThDNGlRZzV2QXZsSkRNVHI3cENMNllUVllWUWNOaDFTTkp0U3pfdGtGcjBmeF9Dc0g0UGdOQ1BKSFE?oc=5",
-      "source": "Newscast.jp",
+      "source": "newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -528,6 +546,15 @@
       "title": "東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め (2026年9月12日掲載)",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tOThQVzdMbXhndExaSnRmRlpjTTNSalpoRUZ4dGRBdm5LUmRQVWpyWG1OQmVJbDg1cC14Y2hyTTBMcENjcXZwMnRXSy1wa2UwZXQ3Y2RiS2h1eXVmR0E?oc=5",
+      "source": "ライブドアニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-11T22:53:00.000Z"
+    },
+    {
+      "id": "21837b7b399e0ca5",
+      "title": "【画像】東名高速でトラック4台絡む事故…上り「三ヶ日JCT～三ヶ日IC」が通行止め",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSNERvVk53azJvcmlCZmJybWZEbkNhbFhwTVd5VHpfdDBrU2xWVXFDTFl0a2lqTDM2aXhGb19tRFBkbFF2aHNyQklSUzV2cUNjMjk3R25QQlluUVFWQVdfVm0zUVVxeVcxblZxd2llTVBTT0ZGQWV1VXRlb3k?oc=5",
       "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:53:00.000Z"
@@ -693,33 +720,6 @@
       "source": "Vietnam.vn",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-11T12:31:21.000Z"
-    },
-    {
-      "id": "056216d982529337",
-      "title": "中央道でトラック横転 積み荷の木材散乱 駒ヶ根IC～伊那ICの上り線が通行止めに トラック運転の50代男性にけがなし【長野】",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcnVJcUR5cUxramVQR01TZ0FGMGNkVE9uaG9sYjJRT1lEN1dNd1VNaW1nX0JFalpTbnF3c0gwdTVXVlNoT1JsdU9BYXcwLVVmZVNQcmF5cGIwMVZjbVlv?oc=5",
-      "source": "ライブドアニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-11T11:31:28.000Z"
-    },
-    {
-      "id": "6e47771f490c8291",
-      "title": "エグゾテックとMujinが統合物流システム コスト3割減提案",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cDNlbXVEM0dEN1lWdFRNTHY4djc2SkE1X1g3RDZJTkZwMmJLVlZ0YV92QlFFOVo5VmlnQVduZDJnMGpES2J0M1lCak5YOGhjYWFOWEx3NUdRRDdzdXQyM2J2WTIwaEdoT2ZlSg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-11T11:05:38.000Z"
-    },
-    {
-      "id": "6a4cf65b85556c55",
-      "title": "【続報】佐世保市の市道「トラックとバイク衝突事故」 バイクを運転していた男性(28)が死亡《長崎》",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa01FeWw3dHdUZURTWFQ1aDNwTXNKbmNQdWNoNUJ3Y2t0N2NteWxsWjdLNXRLd0tQTmxSTUZZbVRzTW01RHJDMVlqQnF5S1JRQU42WEtyUnZYdWw5TkpWX1g1OG1wRUJXTmhZNHZFemFSdlMxR2pRWV9tTVVMUnF5OFU4aFA3Tzg?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T10:45:00.000Z"
     }
   ]
 }
