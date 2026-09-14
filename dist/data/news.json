@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-14T09:28:48.730Z",
+  "updatedAt": "2026-09-14T10:27:10.117Z",
   "articles": [
+    {
+      "id": "d1be403ead8e03a5",
+      "title": "秋の交通安全運動を前に トラックドライバー対象の安全講習会（宮崎ニュースUMK）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSVZvcnNiRThLQkJpcDd5NGg4dzIwZ2JrM3d4NHJwc1dOX0dOS1ZxVzdkbkd3WmZIWG1qOGdXa1JGX0t4VUFPbEdGbXAtMmVyTGQwNmhlZ0NBaWcwdDlEMlYySG4wdk9IYjNCSXRhLXpnNmxCRmNzdlZmR0FjNDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-14T10:14:01.000Z"
+    },
     {
       "id": "721fb10edc43a58f",
       "title": "国交省／中小トラック事業者向け設備導入等補助金、9月28日2次公募開始",
@@ -13,20 +22,20 @@
     {
       "id": "cd5d064653b1da80",
       "title": "埼玉運輸支局／トラック部門19名・トラック（物流）部門17名のドライバーを表彰",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15V1lZQnVxSk0zX09Nc2llMFhoaVhpRW5fbHhldVk4RFRpbHczYWFnUFpNVEZmQm9mc05oOWZCNUhOOFZiTjZSb0lFcTYzMDJJYjg4Yg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-14T08:26:00.000Z"
     },
     {
-      "id": "f2736b1ae9849582",
-      "title": "生活道路の法定速度引き下げなど 宮崎市でトラックドライバー対象の交通安全研修会（MRT宮崎放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZDRvR3BFOUFPQldZeEUtS2M5bUFSU2R5dlB5ZDJsOG5PcjhfVW1qcDJ2b2VMbXhrekROLUNmb1NIWFhVLVFTUTZuTTFMWnZDVWpYMzZiNlBWV1d0cVYtXzh5dFNUaUFwSmxUZjNOaFFreGFwRVpvaU93RXdBYzA?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T08:17:12.000Z"
+      "id": "29f81ddee55e25a9",
+      "title": "物流補助金2次公募、テールゲートやM&Aも対象",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VSnpiM09wODhTdlhqQmJtMGVLa0ZYUDJxNmhUQWVOMkstX3VaTXlzUklkZXNVdmZ3X1pKcEZDNk9LRVRjQUswMW9B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-14T08:21:13.000Z"
     },
     {
       "id": "566b8a3d694706a0",
@@ -38,6 +47,15 @@
       "publishedAt": "2026-09-14T08:15:00.000Z"
     },
     {
+      "id": "cc8b2ad64a478515",
+      "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cnZUZm12TV9mYmNaOTJPZzhnSTJqamkwcmRuQkI2bEw1ZWs3cEY4TmQ2TW1lUXJuaUxYWG1XZ2pWQ2lzZnRsXzVrZVRMV2JiNVZzeXd2dHJwNzdCZEk0ZHdBeDZtV18tVk9qVjNZUmpfRm9vV1lfQjhqR2FLWU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-14T08:06:55.000Z"
+    },
+    {
       "id": "425c0a81726f4939",
       "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -47,13 +65,13 @@
       "publishedAt": "2026-09-14T08:06:55.000Z"
     },
     {
-      "id": "cc8b2ad64a478515",
-      "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cnZUZm12TV9mYmNaOTJPZzhnSTJqamkwcmRuQkI2bEw1ZWs3cEY4TmQ2TW1lUXJuaUxYWG1XZ2pWQ2lzZnRsXzVrZVRMV2JiNVZzeXd2dHJwNzdCZEk0ZHdBeDZtV18tVk9qVjNZUmpfRm9vV1lfQjhqR2FLWU0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T08:06:55.000Z"
+      "id": "f51ea0afbcae7243",
+      "title": "中継輸送施設、到着表示は38センチ以上に",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XZjktTTVWV2tjOFlBTTVob2ZWRzNvVmpKQ096ZmtoYms3akl5bmV1U2ozbU1RbHJGUmxZNEIwRUlscEF2djRwaWlB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-14T08:03:29.000Z"
     },
     {
       "id": "8c32db6bb1c9325a",
@@ -103,9 +121,9 @@
     {
       "id": "cfce8f637998730b",
       "title": "東北運輸局／26年8月、貨物運送事業・聖和建設12両など17者許可、第一種利用運送2者登録",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sakFqSE40SlNwNmlOMGJXbF93OUd4UC1JbHRZWTFNVlNVVEtILW5SUGkwVE1tdy00QUE4U192T2J5UFIwY19rVUF2b3UwTXBKVDNGMA?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-14T06:59:00.000Z"
     },
@@ -161,7 +179,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbms1YzN0ajMxZHdtZENqZmFpZmxMNno2VV9oZ04xRVdraU9pbi0xX1BKdlBhTU1lOFk4Y1FFa1dPR1lXSmpEdlJUUGVCWkpndWc2Sw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-14T06:12:41.000Z"
+      "publishedAt": "2026-09-14T06:12:13.000Z"
     },
     {
       "id": "d4c2d260ed8e4bf8",
@@ -189,6 +207,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-14T05:18:24.000Z"
+    },
+    {
+      "id": "ccb097f909b8aa5f",
+      "title": "セィフティボイス 声で安全支援、外国人ドライバーに「聞こえる標識」",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3aVNaSUY0a1kwSkdNd3JBTzFsYXg1OUEtQVNJSXhBUW0wRFR0MlczUnlXcml2eFNmaUN1T1dybl90cVJGd0NmS3F2YlVUdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-14T05:01:55.000Z"
     },
     {
       "id": "de3c771d0e9ab634",
@@ -254,13 +281,13 @@
       "publishedAt": "2026-09-14T01:03:00.000Z"
     },
     {
-      "id": "9b4b324f957d420f",
-      "title": "SAKIGAKE JAPAN、インドネシア・バンドン工科大学（ITB）とMOU締結へ合意",
-      "description": "cinemacafe.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5SW92eF9sNXF1cnlXWUpGRjF3SmxIVG1uWVEwRzVVQ0w0MmcwYmhDdUZUNHVpbUgwbGlXdDlRX1hHR1ZiaURVR0tiZWRRdVNwZWx3ZVZCU3dUdkY5bWtCNXdlSWxmZWZJamFkeXZsRkNEOHc?oc=5",
-      "source": "cinemacafe.net",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-14T00:00:00.000Z"
+      "id": "9f5145c137c404b2",
+      "title": "【国道354号】坂東市内でトラック事故 一部通行止め解除（14日06:45現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XbnNSV1I1Q21HYVZ1YjZTX3BmSGxtOWtQS3I5UmdlRmNTUG9zMDVhOF9oY0pYVmhKQzBoQUdWUWI0bnktaDRiZzRRMHExT3Y0VS1qelJVSi1mN0tzcXdr?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-13T22:12:57.000Z"
     },
     {
       "id": "7c69a28f30320535",
@@ -351,15 +378,6 @@
       "source": "AAB秋田朝日放送",
       "category": "物流",
       "publishedAt": "2026-09-13T09:27:00.000Z"
-    },
-    {
-      "id": "4cc7d1fe214c6714",
-      "title": "電気バン改造の世界市場（2026年～2032年）、市場規模（基本的な簡易改造、規格準拠の改造、高性能カスタマイズ改造、専用機能統合型改造）・分析レポートを発表",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uckFDaHUwR21RRDVOTjQ1YkVTT2U1NEdzMGR3aWJSMkVVb2pqcFM5blBLWkRhQUxIY0hQbmlTSGpEREhzMlIwMldaYXNyWVE?oc=5",
-      "source": "アットプレス",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-13T08:30:00.000Z"
     },
     {
       "id": "dd85a78a6016df6a",
@@ -543,10 +561,10 @@
     },
     {
       "id": "bd00bfd091fbc452",
-      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
-      "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報 - jomo-news.co.jp",
+      "description": "jomo-news.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ta2s1ZFFXSkJMM3lWTWFiRXBtbTNiWEpPR3F2N1JvdzhfMWI0ODZkMUJjcjNrWVdacHVQUWJ5Q2ROb05fUVNNZ1ZNZjlvT2k5TVZwU0dqUldMdw?oc=5",
-      "source": "上毛新聞電子版",
+      "source": "jomo-news.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T04:36:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:30:00.000Z"
-    },
-    {
-      "id": "c3a7b0a508252c55",
-      "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ－三ケ日ＩＣ間通行止め",
-      "description": "静岡新聞DIGITALが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tSDliS2FpVTl0NEppWThHeFo2Uk5LcEpGcWJPRlNmUm1TMnI2YVZoOExlYzBhMUdrVWJfNWh5cklLYjFlMlhPLVYxZzdCdw?oc=5",
-      "source": "静岡新聞DIGITAL",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-11T22:30:00.000Z"
-    },
-    {
-      "id": "c13f658f66fea288",
-      "title": "東急不動産が神戸で関西4棟目の物流施設竣工、「中継輸送」拠点として価値と強調 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QaWYydHFUc2J0Z1NSbVJpYU1NUnpSRThONXlLcmd4SUJhcklXNjB5S0FaZlVfdFFjVU5rSVVEMkVjeGtsRkhMR0RORQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-11T21:00:00.000Z"
     }
   ]
 }
