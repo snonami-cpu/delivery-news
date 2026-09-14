@@ -1,23 +1,95 @@
 {
-  "updatedAt": "2026-09-14T07:28:17.232Z",
+  "updatedAt": "2026-09-14T08:28:53.239Z",
   "articles": [
+    {
+      "id": "425c0a81726f4939",
+      "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WeFJ1RjFyRTVycTcwN05haFljWmtja3ZNbk1SUDBQb0pxYlB4bUE3dU5ZNk1YbVlkOXBKcXltQW5tdVlGUTVsSTc1M05UaFFqWWFVYTk0VWo1MzlabGFOa2gxYWRjZl9qem8zOHJBMkxldw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-14T08:06:55.000Z"
+    },
+    {
+      "id": "8c32db6bb1c9325a",
+      "title": "医薬品コールドチェーンの世界市場（2026年～2032年）、市場規模（冷蔵チェーン（2～8°C）、冷凍チェーン（-20°C）、超低温チェーン（-70°C以下））・分析レポートを発表",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjNkcm5XZzBpbUpDT3ZHZEZlZmxYSHNJTkRRS09KOXlMOUtfX2xpV0ZrU3dzRmJPNWR6UTk2X0dWcUp1bkUxUGZpVU50dGM?oc=5",
+      "source": "atpress.ne.jp",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-14T08:00:00.000Z"
+    },
+    {
+      "id": "f22030b918a2782c",
+      "title": "大型トラックが自転車巻き込む事故 千葉駅前の交通量多い交差点（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51eUdqT29oQ3ZwLUJXbjZnTHlJWnpIWnUyVC1PRXFRMVVhV0FlVHhhUW1SVnRDSlFzOGxIZlhtazVjNm4tZVlya3ZtX2lxVzBRemE5SHZVMldMMm9WT1VNaHVKenJKM1NqcjZnZlNDOHI4cFphdjBibV9pLXAwc3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-14T07:51:05.000Z"
+    },
+    {
+      "id": "e939f33e50cfd3ed",
+      "title": "普通免許で運転できるトラック 運送会社が導入 人手不足背景に",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OcDBCOVIwNzNFRTFMTWxOMXpGTWdCN0Iwa3R1Zlpqbjk4SU9VTXZULUNPOUt2RjN3eXRVaWhYdWtqMTd1bjNvSUk5cmR0VjFUekVHTmg0S2lDaTJvLTJZ?oc=5",
+      "source": "NHKニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-14T07:34:00.000Z"
+    },
     {
       "id": "3c2209852704f87b",
       "title": "Neolix／自動運転配送車両のレベル4試験をTRCで開始",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00bHdvalpjaEZjN2ZMMDl5QnoxVVVhOWVyWFlEVHZYZGdSQkFYTHZFdTN5Vmk1THBLNnJXQW5GMkw2cnczcnJPUHBCSFVFWjVNUHluOA?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T07:07:42.000Z"
     },
     {
+      "id": "cfce8f637998730b",
+      "title": "東北運輸局／26年8月、貨物運送事業・聖和建設12両など17者許可、第一種利用運送2者登録",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sakFqSE40SlNwNmlOMGJXbF93OUd4UC1JbHRZWTFNVlNVVEtILW5SUGkwVE1tdy00QUE4U192T2J5UFIwY19rVUF2b3UwTXBKVDNGMA?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:59:00.000Z"
+    },
+    {
       "id": "56ff1a421846c196",
       "title": "NTTロジスコ／画像認識×AGVで返却通信機器を自動仕分け、静脈物流を効率化",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiVTJCZ1BCelVUbXVySjcwU1JsQTcwV2FjcUVjT203Tk9scmU5aWZIRDd6bWFjQXhMYWRlenUxbkJ4aGlnZ2RyejhIZ0ZyUXpmMVBFMA?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T06:56:15.000Z"
+    },
+    {
+      "id": "c3f2b342a49e958f",
+      "title": "イオンの新たな物流拠点が10月、金ケ崎町に開設 報道関係者に内部を公開 岩手（IBC岩手放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Y1pXRVNEOTBrUjVvdS1DMjgwTTF1RVBhemFsWWpCb3ZWUmVtYm53WXRMVkVvQW1WM051WXJKeUU4NjBpRDV6Mjdxd25hUHBUOW5tV2U3X3R6azFzTElRbkVIYk1JOVR3ZHZtcTM4NEZQUnFzWmxlTWFoSG41Y0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:54:19.000Z"
+    },
+    {
+      "id": "ccbd72a1563aaaae",
+      "title": "「在庫設計の自由化」で、食品物流を改革",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIUGstdl9aTmdBQ2NZZGh6bUNXckpkU1BxZjZ4a2Z6bzZkZS1tOWtpSHdBSGFYeWF5RHVGeTFIT29UbjItNnkyaw?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:53:39.000Z"
+    },
+    {
+      "id": "e4dd8e82ebeefd32",
+      "title": "イオンの新たな物流拠点が10月、金ケ崎町に開設 報道関係者に内部を公開 岩手",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdEY5UkcyaDVQRG1qMldLM0VFdXZzWkItMkVGVHlfMlVVRDNkZFl2SVN2dFV0QmVIekdzcnBhVHl0dVg2M0ZCby1LdUREc3R5MnB5WnNrMExwdw?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-09-14T06:53:00.000Z"
     },
     {
       "id": "a246b6d1f211f53b",
@@ -31,27 +103,27 @@
     {
       "id": "e6b05f649656aefd",
       "title": "台湾三井不動産／新たに物流施設事業へ参入、桃園で第1号プロジェクト",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hbms1YzN0ajMxZHdtZENqZmFpZmxMNno2VV9oZ04xRVdraU9pbi0xX1BKdlBhTU1lOFk4Y1FFa1dPR1lXSmpEdlJUUGVCWkpndWc2Sw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T06:12:41.000Z"
     },
     {
       "id": "d4c2d260ed8e4bf8",
       "title": "ロジスティード／資料「物流自動化の成功法則」を公開",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42MUxWanlYbGphb2NiS0FMMGQ2NHRsZGJ6M3NGOWdrYmN4VVVlcVJBU1NfMUJfMlkwalNDcHB4Y0FwRUdYSzNlVVBXZWVzNU1IR2RZTQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T05:52:09.000Z"
     },
     {
       "id": "d06a8813cd89117b",
       "title": "プロロジス／岩手県金ケ崎町のマルチ型物流施設にイオングローバルSCMが入居",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeW5aTUdDdk5vQnFlOWx3OGNUYS1IU1ktUlp3c3Fkc3QxR0ktTHFkcklmYWVFdFZLQndKM3ctZ2hXczV2VW1ZSlBNSGRrbHk1cG56SA?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T05:45:37.000Z"
     },
@@ -63,6 +135,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-14T05:18:24.000Z"
+    },
+    {
+      "id": "de3c771d0e9ab634",
+      "title": "金ケ崎に新たな物流拠点「イオン岩手FDC」 プロロジスパーク北上金ケ崎内に開設",
+      "description": "岩手日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZXlXM2FGeTF0aGx4TloxTDVUeHFneGZlNkR0QkxpczB4aG9vZnQ5ZkNScjR1OWVSZWh6TV9mRFh5eTdJMXhGMDUzT3Rya3pWZDc3UUdwSUdTbG55N1p4RQ?oc=5",
+      "source": "岩手日報",
+      "category": "物流",
+      "publishedAt": "2026-09-14T04:14:00.000Z"
     },
     {
       "id": "0942bd83e6b45e76",
@@ -148,9 +229,9 @@
     {
       "id": "548be4cb2cd09bd2",
       "title": "「来店不要」の薬局キビヤック、都内配送拡充へ 1.5億円調達",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wQTI0cDByOGl0elBTdHpOdkFWS19FaDBiT1JzZFY5dnNDeXY1azZ1OERzbUNQV1ZsaEZ1c0pPNmZscDJyUlA2SXEwWHhKSnpvYlpPc0RrNEQ3aGRyeUxUS1BhaGdDaV9wQ011bg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-13T20:00:00.000Z"
     },
@@ -184,9 +265,9 @@
     {
       "id": "08f424941f56048f",
       "title": "佐川急便の定温管理配送、猛暑下のチョコ品質支える 非食品にも商機",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Gc0dtUlBqUWFmTHd0aVpPTFp1TmRBM1U5ZEZCVDN2WHdqWTA3N0RieFNURG5ldHZGNVdwVDFaQU5TNWMyWnRTNWpWWFo5X1NQZnpjR00xS0VPR1M5XzhSaEdDRXZiV19aN3RsYg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-13T17:00:00.000Z"
     },
@@ -216,6 +297,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-13T09:28:02.000Z"
+    },
+    {
+      "id": "97055d7815735c3a",
+      "title": "トラックに触れて子どもたちが物流について楽しく学ぶイベント 秋田市で開催",
+      "description": "AAB秋田朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fVnNYcDRjN3g0S3NodElrem1LRGs2NnBJYkFUbUp2Zk9tTHdUTnlmWk5MbnhPTlhNdlRVT2ZMRkt4NHhvekhRaUNGZEh2c09iai1MYXpWZnpmbFVXZ19FS1Zfdw?oc=5",
+      "source": "AAB秋田朝日放送",
+      "category": "物流",
+      "publishedAt": "2026-09-13T09:27:00.000Z"
     },
     {
       "id": "dd85a78a6016df6a",
@@ -389,6 +479,15 @@
       "publishedAt": "2026-09-12T04:41:30.000Z"
     },
     {
+      "id": "ed2c16e7882471be",
+      "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fSzBQV3poSE5EUlB3SFVDZDY5WU1MLWQxN0VlRVJmelpJTG1QbXJrdXd0bW1jVkprellRb19Oa0ZEM1pxMWFKdkJYQW5kN3pkVTVhRDM5bmFTYXFvblJwN2gxTUM5Rm1NZHFMeVgtYVd5UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-12T04:38:23.000Z"
+    },
+    {
       "id": "bd00bfd091fbc452",
       "title": "新聞配達員の男性、トラックと衝突し死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
       "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -396,15 +495,6 @@
       "source": "上毛新聞電子版",
       "category": "安全・事故",
       "publishedAt": "2026-09-12T04:36:00.000Z"
-    },
-    {
-      "id": "b8a5922711e06d51",
-      "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUDlmNnJNZWU5T0Y4S3lVeGlIU1R6d3dfdUFGaXJOMUI0T05tY3cyeUd5eVJJMVVCTkFMNU5XNkZmNWRIZFZaRmZqQVJLMnljT3I0cFNucFZIOGsyaTZYNXA1dXhJajRJNlRvNUV0dUJhVzdLQUpQNFJ5aG8ta2s?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-12T04:33:10.000Z"
     },
     {
       "id": "ab33b859ad54d902",
@@ -488,15 +578,6 @@
       "publishedAt": "2026-09-12T00:45:46.000Z"
     },
     {
-      "id": "caceaffb84f83e93",
-      "title": "長崎・佐世保市でトラックと衝突、バイクの男性が死亡（西日本新聞me）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZY212WFBnZlVrRkdUQmF6RkhZTnFiS0dkMjQ4MWE3Wjd3d0FIUThFelJDclpEamdfckhYNmZXWktRTEVmS21zWnd5OHlHbkluUmd1TnZTYzBlTl84NnFOaV9qX0xJODhTRTZrQ1Y2MkhIMWpvdTJoTlFIUFpvd2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-12T00:40:16.000Z"
-    },
-    {
       "id": "fda9f6ada51b2694",
       "title": "東名上り三ケ日JCT～三ケ日IC通行止め トラックなど計6台関連事故 3人軽傷 きっかけは乗用車のスピンか",
       "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -508,9 +589,9 @@
     {
       "id": "9566f1f742e4eb4c",
       "title": "温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・食品物流を支えるコールドチェーン需要",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTmtZZmVtaXR4TkozNThDNGlRZzV2QXZsSkRNVHI3cENMNllUVllWUWNOaDFTTkp0U3pfdGtGcjBmeF9Dc0g0UGdOQ1BKSFE?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-12T00:30:00.000Z"
     },
@@ -570,10 +651,10 @@
     },
     {
       "id": "c3a7b0a508252c55",
-      "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ－三ケ日ＩＣ間通行止め",
-      "description": "静岡新聞DIGITALが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【速報】東名高速上りで多重事故 上り三ケ日ＪＣＴ－三ケ日ＩＣ間通行止め - news.at-s.com",
+      "description": "news.at-s.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tSDliS2FpVTl0NEppWThHeFo2Uk5LcEpGcWJPRlNmUm1TMnI2YVZoOExlYzBhMUdrVWJfNWh5cklLYjFlMlhPLVYxZzdCdw?oc=5",
-      "source": "静岡新聞DIGITAL",
+      "source": "news.at-s.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-11T22:30:00.000Z"
     },
@@ -639,87 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-11T19:46:07.000Z"
-    },
-    {
-      "id": "fa51042db379810e",
-      "title": "TSフロンティア（福岡）が貨物利用運送事業登録",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waG5JX3pKNlZWcHJEXzlsTzk0OTNBZzFtcmVPX1NHM2YyN1RRbU9rUXd5VEJJMEtwY2JZNlBuOHNBa0txNDFreQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T19:46:07.000Z"
-    },
-    {
-      "id": "39c866afc6bc4fda",
-      "title": "国交省、BCP物流ルートの実証輸送を支援",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEbVA5enQ2SlNLdXFhQzREOEVJM1YyVnB0S0F4UFFHdG1adG1qN2kzYTRiV2QxRE10di04V1BNTHlPZ3BXY0ZadQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-11T19:46:07.000Z"
-    },
-    {
-      "id": "e11a08674c500704",
-      "title": "観光客の手ぶら観光を促進する手荷物預かり・配送サービスの実証実験を実施します",
-      "description": "city.nagoya.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zcHd5WkZ6aXA0MmFNTnp3ODNvT1ZDelZldmxxWFdTNkNIc1BVVDZHZTRvT0E5a2dGUFlGOVd0R3RxQlE5bHpra0o3RHFvNUQzblgzaUtQalZRVmc1MWU5eUg3OVJUMHBac29nZ0xuTQ?oc=5",
-      "source": "city.nagoya.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-11T15:55:21.000Z"
-    },
-    {
-      "id": "b4b739cebbcf111b",
-      "title": "温度インジケータラベル市場、コールドチェーン規制対応を背景に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3RDS1l5ZXBuUDlrM3BvaXBOSkk4OEZEZXpTLTdicV81ZmJoWWFKZTVCVF9HcXRVSXhNZGNqcmMxbnd2SElvNFRNZExPSHhxaHE3cGVGS1dwelhzVHBtT202V2dSYlpjaF9iVzVwa0RGeEk0TTNwQm9WZXluUjNfNFZLaUpaX1JLczE2c1MycnlLVTNGeVlTTmNkcGJsS2ExdGFXVlZ5SmlwbjNScTRoR2FxRzVVRXA0R0dz?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T14:51:13.000Z"
-    },
-    {
-      "id": "a668600118a4a7d2",
-      "title": "名神高速道上り線でトラックがガードレールに衝突、運転手が死亡 滋賀県愛荘町",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1bnBSdFVZN3ZpazEteHVpLXVXZnhPclZmWUxyRTI4alllRHU0ZkVzZTJxam9xa0NLanlGVGhQM0ZNenllcllBazZqdw?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-11T13:57:00.000Z"
-    },
-    {
-      "id": "d69aac597c869399",
-      "title": "順豊速運は海豊と提携し、浙江省南部にコールドチェーン直送センターを共同設立しました。ブランド価値は745億7,000万ドルで、BrandZランキング第31位に位置しています。",
-      "description": "Moomooが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYjhqTW1id2doZ3ZiWkZhR2YwMWVfMWUwSjFvR3ZSWnE3U2kwSmdQR3ZOaDlySVdZMUxaOERPUXZoMEFlaVJ6c1M3SWdlM3FhNmxRUF9fSQ?oc=5",
-      "source": "Moomoo",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T13:47:59.000Z"
-    },
-    {
-      "id": "17555b154e751870",
-      "title": "川崎市、大型トラックによる事故で歩道橋を通行禁止に 再開の時期は未定",
-      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOGhwTUJzQWxkTkJnMmJ4U1ZILTBwb0xLQ2NRekl3aEZRVjBFYTJ4ck95OWEzX2hJTkRHNDJNOFJYQUhtX1h1V1dNd0MtOTJNcTRhZHctb2hqaVVDNU04NUNFamd2Ym5VMmV5Qg?oc=5",
-      "source": "カナロコ",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T13:30:00.000Z"
-    },
-    {
-      "id": "a9e3fb721c39c006",
-      "title": "滋賀・高島の国道161号で車3台が絡む交通事故 軽乗用車炎上、1人死亡（産経新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkZmZVa09wSUc4M3c0OGgtRVI0YVJfbHFzR0xORkIxN0JncS1rV3U2dEtqYXE4dV95TG9neUt2dWxQZXZuZEFyek1adEJxVFhCRjJoNElvRXdJamxxWFNLcnItaUxTMTdqaUU4WlozTDkxVzB0V25zLUxJclNJTE0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-11T13:10:28.000Z"
-    },
-    {
-      "id": "03e49bc2296abaa2",
-      "title": "シンガポールの企業は、ホーチミン市のグリーンロジスティクスとデジタルインフラに関心を示している。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDJpRmxPLVB2Qmk2MGtTTWswcFB2cFdQU2c1VEVhTlpIeWxRbEoyclJid2xlNHM5cF8tYzNjc010Z085UTQxcHlsRzlxZnhSMllFOUUwTENJZ19HMWpmZ3p3YjNxaFNwTW9IZGVaNTJzMjE2YmRTTzhqamxLVGVmUldsMG9VRFdLeENrYjlRMTVYZXJzclFZbTJULTJLZw?oc=5",
-      "source": "Vietnam.vn",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-11T12:31:21.000Z"
     }
   ]
 }
