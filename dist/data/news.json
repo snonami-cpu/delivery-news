@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T10:27:48.121Z",
+  "updatedAt": "2026-09-15T11:25:51.449Z",
   "articles": [
     {
       "id": "7e58705a83bafbaf",
@@ -17,7 +17,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82bnVsajdMLS1UM0VoRVJoS2hfMXVJWVlyOXZEM2RjM1drZl9xVG56R3pZRThnaEdNckZ0ZDNSb3l5WmRHUi14UnA2cnhSc0pxQ2hhcEhja3NZN2hYLWQtV195OGpkUEk?oc=5",
       "source": "AMP[アンプ]",
       "category": "物流",
-      "publishedAt": "2026-09-15T09:51:31.000Z"
+      "publishedAt": "2026-09-15T09:56:15.000Z"
     },
     {
       "id": "dccd9dd09cddcdfb",
@@ -29,6 +29,15 @@
       "publishedAt": "2026-09-15T09:45:00.000Z"
     },
     {
+      "id": "33b5644fdd1f0937",
+      "title": "【関越道】停車中の大型トラックに別の大型トラックが衝突…3台関与の事故で40代男性2人が死亡 60代男性2人が重軽傷 新潟・南魚沼市",
+      "description": "新潟ニュース NSTが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JalFMMEJDdFZ5LWlCNGYtZGVpZU53cVZvNXYyZUV5c3dZYm9palhieDFZV1BaanRuMEZCM0VGX1dzZmZ5cDdvUldnMFJoSTI2eFRmOHl1UWlHREE5ZlZN?oc=5",
+      "source": "新潟ニュース NST",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-15T09:38:41.000Z"
+    },
+    {
       "id": "04e845d337f911a5",
       "title": "イオンの新たな物流拠点が岩手・金ケ崎町に 10月7日から稼働（岩手めんこいテレビ）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -38,10 +47,10 @@
       "publishedAt": "2026-09-15T08:10:01.000Z"
     },
     {
-      "id": "f3231d0b23295349",
+      "id": "c646538c6db9c977",
       "title": "「形わからなくなるほど…」トラックと衝突した乗用車が大破 運転男性は“意識朦朧”で青森市内の病院搬送",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbTNJMWhnUFVsTHJlUWFrVmZRSGFIN0VFZF9hS0tMVEFtRjhmQjRGZTNlek5mN0ZhWkk1SkMtT1dPaU5DZGVQcWZmN0Z0Z2NpRFI3UUdEcTkxaEo5V0wxa2YtWkk2Q0lJQUQ1LVZqYVVCcnQtN3FhdzBFT05LLUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDFfMTNsMnNnbnozS050LU1iczRYNUgtUnhqdGRCOVlVdEZqR3p2T1I2eE1jVE4zSzE4OGgzeVFyaXFtSEp6dERYSDExOE4zVGZ6STRtVFRYSTgwY2NNaUV0djhqN0pYMnpwb0JSVUZ0cjI4LXNFVjJwRERteG55WGZvYmppZ1U?oc=5",
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T08:06:00.000Z"
@@ -58,20 +67,29 @@
     {
       "id": "fa57596411365d97",
       "title": "フェリーで車いすを使用する際の注意点は…バリアフリー体験教室",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjNqUnpleWdxOXJQX0JtQUtTLW1VZzVGMmdrLWZ3UGdJcEh5MFRYZHM5YXZxOTJHVTUxdWlRcFNIUUdLMXlYWEdvZmlxOHRmZG8tUWhzcnRiODBmdmhHR3NUVE9NSFVlbm9MblRtQ18wYWVrMG40MDRyVU1BLVZlZdIBgAFBVV95cUxNMjNqUnpleWdxOXJQX0JtQUtTLW1VZzVGMmdrLWZ3UGdJcEh5MFRYZHM5YXZxOTJHVTUxdWlRcFNIUUdLMXlYWEdvZmlxOHRmZG8tUWhzcnRiODBmdmhHR3NUVE9NSFVlbm9MblRtQ18wYWVrMG40MDRyVU1BLVZlZQ?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-15T07:51:00.000Z"
     },
     {
       "id": "239fe682e2218839",
       "title": "物流用はかりの世界市場（2026年～2032年）、市場規模（ベンチスケール、プラットフォームスケール、フロアスケール、ベルトスケール、クレーンスケール、その他）・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52UnNoOURaY1JxX0UyZ3BFd0ZONjNQTWsyTl9hbjZrN3Vyc2JsbmY2c3pzd0FCUjVyekNuY28yNzg1TFdyMXVmUDdoNlVVaUE?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-15T07:30:00.000Z"
+    },
+    {
+      "id": "b29f5f926786f948",
+      "title": "北海道、道東物流で鉄道小口混載モデルを検証",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iUl9xUll2dldKMTZDUVZDOEZWdEFLQnVaclFRVGZYSnNlLWwtQlBPcmQyLUxKUU00UDVoS2UweFM2WnctbkQydGNn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-15T07:17:14.000Z"
     },
     {
       "id": "81289dcddbcb66b3",
@@ -85,18 +103,18 @@
     {
       "id": "90900b9a726f1f1c",
       "title": "マルチテナント型物流施設「DPL札幌南Ⅴ」着工",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV3VrRzZqQXQzOE9weGF2TTRjckRSSU9Ha3BJNTlHMXdsQWJWR21VNGUzaVo0X0EtcUR3QmZjY0poYm5HazdDQWpwVjNMd1JCV2pzSzdqVWlDMkdhR0FoMDBhcHlpWWNUaUE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-15T07:10:44.000Z"
     },
     {
       "id": "2d6142a70cc1420a",
       "title": "ビックカメラ店舗へ電力供給を開始 オフサイトPPAで物流施設の屋根置き太陽光発電を活用",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UOWVHOW4wX2FadVh5QmFZZFlfUUhjUzRqaURBNjZSQUJLNUF3SEViZkFCUEdMQWVvM2ZvUEZxNVpCOW4wUGVfYTBadlFZNWt4Z1dLMm5BZkxJa1ZrQVlvX3JrYTR0ZUo2Q0E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-15T07:00:01.000Z"
     },
@@ -130,9 +148,9 @@
     {
       "id": "222db694967c7da9",
       "title": "小学館など出版大手3社、追加配送の書籍一部直送 EC配送車に混載",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVk5CQzc1ajNhRmlYSlc2c2ZSaks4ekNGZGNtUWhydnA2cU9NM1piYXZpbmU3aEtrNm5BRjR6WXdJZmhpNjYwTExyUDNlMVd6c2V3YzhFVnd2UV8wbDJYamlVbERmZnJrdGtZZQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-15T06:06:17.000Z"
     },
@@ -182,6 +200,15 @@
       "publishedAt": "2026-09-15T05:29:31.000Z"
     },
     {
+      "id": "e4e5968359c140f5",
+      "title": "物流未開拓地へ「大手がやらないならそこに行く」",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsNnVRY1VjWmVTdl9xbVN0WjJNTXNwVVdtMkJqSHlHNEhiWDB6RlZydGpvM0RLbXNlcW5kU2JBUDdwNm9fM2ExSg?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-15T05:27:03.000Z"
+    },
+    {
       "id": "9940be2bd11400c3",
       "title": "４社のパートナーシップにより低温物流の鉄道モーダルシフトを推進",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -193,9 +220,9 @@
     {
       "id": "96a6572791f133c8",
       "title": "『DD Plus』の拡大 伊藤忠食品札幌物流センターでの納品書電子化推進～新たにメーカー12社が参加し連携を強化、改正物流効率化法に基づく取り組みの先行例に～",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bVU5RzdyMEtMbUNqaWxlRXQ0M2dybTJ2NGdkclVFalRDWUFBRVRQTEhyQXdRSHpwLWY2dXA3c0s0MjdzV2xUUG5yU2lPZHN1SEJiU1U1LXBJcTB4ajN0XzNtcDBlWVFlSlE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-15T05:00:01.000Z"
     },
@@ -254,11 +281,20 @@
       "publishedAt": "2026-09-15T03:31:36.000Z"
     },
     {
+      "id": "91e999b9984ca7d0",
+      "title": "神戸市全域や大阪市の大部分に１時間以内で配送可能、物流新拠点が完成…３Ｄプリント技術を使った休憩スペースも整備",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QY2h1ZnRmZjhpMmViMEIzaE1YajNpZU5VT3VydGZtNVllSmRGQl9pSlVIcmdpSUFlWmRSSFNUenV0S3dTbnFyS1NieUQ5dzNnNHNsTy1GTTJ2S1I3MmtyZHVQSkFNUXVVSllKZUxLNVpyOWh6bDZXcl9xYTVsRFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-15T03:11:43.000Z"
+    },
+    {
       "id": "45a81138b866d550",
       "title": "関越道で大型トラックなど3台絡む事故 男性2人死亡 新潟・南魚沼市",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NdThucG41dlFERHFkengtbWZqc0VEeTRUYktDYnpfZkRQbXVPZElGQjFlUWJQMXY5dU1ZZXlpWjRTTHhheGM2VHByaUpoTjNXTGtaWXZMTU44R3VJYWFHeGJCVEMwVkRLUUoxQmlZbWlLNmpQ0gF0QVVfeXFMT011OG5wbjV2UUREcWR6eC1tZmpzRUR5NFRiS0Niel9mRFBtdU9kSUZCMWVRYlAxdjl1TVlleWlaNFNMeGF4YzZUcHJpSmhOM1dMa1pZdkxNTjhHdUlhYUd4YkJUQzBWREtRSjFCaVltaUs2alA?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T03:11:00.000Z"
     },
@@ -346,9 +382,9 @@
     {
       "id": "2f294cdbc864b703",
       "title": "ニトリホールディングス、店舗販売や配送業務を支える基幹システムをOracle Cloud Infrastructureに移行",
-      "description": "Oracleが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "oracle.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUERYQlJMbThEVjM1QlRVU1dxUUlYeEFMdk95a1c0X2ViOTNqX3Vkdmo3M1B2OVlUeXU0VFBYVFAxbkxFWHNYSWFzRlBJZFB0SHdWRjZMSEdpb3J2TGpxYkpGSTlnV2FyXzdRVmt0cE5XaGZjeHI4Tlk4a2hyQ2pTbE94OUR0cnExS1pxV3AtbkY5MElOVWoxQW5Ddjg3RTFwb3VLcEJ4eHhvN0xoZklyZEg2S1h0eWV4eS1KWGFpVERSY1lISGZzQzNPR3g0TF9fdUs5TlQ5c2ZnWHlvclROOF94aDhkbklGV29DaHB5NUFPTVpfZVd1dTFoNmR0dzg3?oc=5",
-      "source": "Oracle",
+      "source": "oracle.com",
       "category": "物流",
       "publishedAt": "2026-09-15T02:11:10.000Z"
     },
@@ -427,9 +463,9 @@
     {
       "id": "a79b613258e3611c",
       "title": "【事故】関越道で停車中の大型トラックに大型トラックが追突…そこに普通乗用車も追突 普通乗用車に乗車中の40代男性2人が死亡",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBucE5kdHdKTlY4WmFvcThyM0JJcndDVllPUnMwUldHRlc5Q3hOcFNJYjVYQjdpZGR6dm5wdEJLSVdkRTczcmp6ZUUyMW1wYU5HSGFwb19nQ3ZITWpvUDZjVTJzbGJVT2Rwdm9QTHVQSDZGblhXOUVJ0gF3QVVfeXFMUG5wTmR0d0pOVjhaYW9xOHIzQklyd0NWWU9SczBSV0dGVzlDeE5wU0liNVhCN2lkZHp2bnB0QktJV2RFNzNyanplRTIxbXBhTkdIYXBvX2dDdkhNam9QNmNVMnNsYlVPZHB2b1BMdVBINkZuWFc5RUk?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T01:10:00.000Z"
     },
@@ -499,9 +535,9 @@
     {
       "id": "8ca39aebabf0cc32",
       "title": "神奈川・厚木の東名高速でトラック３台絡む事故、運転手３人けが 一部通行止め",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1J0R1BHQWwtU2xPcU5UQjZMZnVQbHdZU3o4VzFPVFpwM3pYVk5Gc3Z3X3JPWnNTZTV0YzdQMTRXeUw1Ylk5TTFUZXE1cFg0bTZESGdiX0NNUWFuZmYySjN5SXEtQXVvZ04xQlA1T1dNaEtIWV92M2hXeURTX0J2WU52Z2lRM2FleFFv0gGLAUFVX3lxTE5fUnRHUEdBbC1TbE9xTlRCNkxmdVBsd1lTejhXMU9UWnAzelhWTkZzdndfck9ac1NlNXRjN1AxNFd5TDViWTlNMVRlcTVwWDRtNkRIZ2JfQ01RYW5mZjJKM3lJcS1BdW9nTjFCUDVPV01oS0hZX3YzaFd5RFNfQnZZTnZnaVEzYWV4UW8?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-14T23:59:00.000Z"
     },
@@ -526,9 +562,9 @@
     {
       "id": "bc93c124a5fd13e4",
       "title": "新東名で乗用車ガードレールにぶつかり横転 後ろからトラック追突 車内にいた男性軽傷 一部車線規制",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iX0RVRHRnS0hQQ3l5dUFzOU5LN1ZtMUxlVllwTjlWWmxPQnFGMWpkSTMxMHRhZ0syS0YzQ1BHeTExRURIU0tIeUllamc2M3Y2LWloR3BUb01CLU81MzhfVnJrSFV3SDVtTXA2NEJPaWxQMnJKSnZn0gF3QVVfeXFMT2JfRFVEdGdLSFBDeXl1QXM5Tks3Vm0xTGVWWXBOOVZabE9CcUYxamRJMzEwdGFnSzJLRjNDUEd5MTFFREhTS0h5SWVqZzYzdjYtaWhHcFRvTUItTzUzOF9WcmtIVXdINW1NcDY0Qk9pbFAyckpKdmc?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-14T22:50:23.000Z"
     },
@@ -632,15 +668,6 @@
       "publishedAt": "2026-09-14T21:00:00.000Z"
     },
     {
-      "id": "6372343bd75cf6fb",
-      "title": "4社のパートナーシップにより低温物流の鉄道モーダルシフトを推進 - sg-hldgs.co.jp",
-      "description": "sg-hldgs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NWUd2a1lydWxrdHllcGNXSnczUDdmcV9nT0JVaVdGbkU0Z0RwNlJPQUlsM1lESExsdXhHazVuNV9jZjdCUHUtZ3FjaHhpN01GLUV5RWhGQ1FZT1d1ZFlxS3h1dE44bmZQY1E?oc=5",
-      "source": "sg-hldgs.co.jp",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-14T20:32:03.000Z"
-    },
-    {
       "id": "468f647b341b64ed",
       "title": "商品を安定的供給 イオン東北 金ケ崎に物流センター【岩手】（岩手日日新聞社）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -688,38 +715,11 @@
     {
       "id": "126489fa7f8ca2a4",
       "title": "金ケ崎町に新物流拠点 作業の多くが自動化【岩手】",
-      "description": "IAT岩手朝日テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "iat.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90a01VOGlLNGg1cEF2R0lma0pWX1d1blp2SGkzenBlZDltQ3I5Q0F3TlF4RXlVczE1amR1T1gtWHphQjZyTUEyd2dFN3AxcEJSczE0andsUQ?oc=5",
-      "source": "IAT岩手朝日テレビ",
+      "source": "iat.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-14T11:03:15.000Z"
-    },
-    {
-      "id": "77b102a8a4854c99",
-      "title": "生活道路の法定速度引き下げなど 宮崎市でトラックドライバー対象の交通安全研修会",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vR25jYUFiaUJBLVpTMjlFR1I3UnJ6d1Y2R1lhZF82M3FMU3ZmZVpleUZRU3RsZ00yZ2M4VnlIMjJCSHlqZjU3RHJsMlBUbnBweE5WNnJldDY4LWpXaE5VT1R6elBmaW0wdlRTVnQ3eWFPS3BjSUstcA?oc=5",
-      "source": "au Webポータル",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T10:55:17.000Z"
-    },
-    {
-      "id": "3eb015375d15c1a6",
-      "title": "平川市の国道で車３台が絡む事故 秋田県の男性（40）が死亡",
-      "description": "ABA青森朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUkZpS0FEQWNpV0w2aC1Bb3BvbElQZExvcGdndFRGaWo0NjJXQ0V3bWdJQnpzWEJUWmp3eG9XY3dlWHFHVFREblo1TTBadUJkdWNOc3dKYVg?oc=5",
-      "source": "ABA青森朝日放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T09:45:00.000Z"
-    },
-    {
-      "id": "6092ded2ec690cd1",
-      "title": "秋の交通安全運動を前に トラックドライバー対象の安全講習会｜ニュース",
-      "description": "UMKテレビ宮崎が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENEpDODB1b3A1RnJCZ2M5d3J5UG5US0ZoTUZMV2stcnBGdjRsdldaVzhhVkNQWW5uNGMwWnVoOENfV3oxUTBkM0NsM0xydEg2T1UtWXM1Qm55MERINHJr?oc=5",
-      "source": "UMKテレビ宮崎",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-14T09:20:00.000Z"
     }
   ]
 }
