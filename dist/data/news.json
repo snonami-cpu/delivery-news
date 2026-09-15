@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-15T15:25:56.761Z",
+  "updatedAt": "2026-09-15T16:26:50.781Z",
   "articles": [
+    {
+      "id": "f72aab80095b8db2",
+      "title": "第４回ロジックスカンファレンス、開催決定！",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DeDA2ZWJVRldRN2FONDFsZWd1YUJuSWgtOVQ5cENXS3ljQmdVdEl4SUN0ajItM01xQ2hrTzFNandveDNpcXdLVEVDdW9qc1RrYUg0U1htNFdFWGVWWWRaUE5OamtqLTFVVWk1N2hRQW5CLURVTmQ1aWFySQ?oc=5",
+      "source": "ニコニコニュース",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-15T16:00:26.000Z"
+    },
+    {
+      "id": "d9fb2a2d5804971c",
+      "title": "「荷主の理解」７割 国交省標準的運賃アンケート結果",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9meU1EdzhUamVhZkZVRmcwSHFBb25XOGl5TjdxNHJlb0d2eGNveEVIXzRIc0pGSy1CcnZIcko3NWtvaFFFVUYtTld0bHlEdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-15T15:56:15.000Z"
+    },
     {
       "id": "e079da5631dcb544",
       "title": "プロロジス・谷住亜紀上席執行役員「防災と環境に貢献する物流施設を」",
@@ -56,15 +74,6 @@
       "publishedAt": "2026-09-15T10:45:16.000Z"
     },
     {
-      "id": "d9fb2a2d5804971c",
-      "title": "「荷主の理解」７割 国交省標準的運賃アンケート結果",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9meU1EdzhUamVhZkZVRmcwSHFBb25XOGl5TjdxNHJlb0d2eGNveEVIXzRIc0pGSy1CcnZIcko3NWtvaFFFVUYtTld0bHlEdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-15T10:02:15.000Z"
-    },
-    {
       "id": "6109b508ac4de37c",
       "title": "大和ハウス工業、北海道・北広島でマルチテナント型物流施設「DPL札幌南Ⅴ」着工 新千歳空港・苫小牧港への広域輸送に対応",
       "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -108,6 +117,24 @@
       "source": "日本経済新聞",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-15T08:34:51.000Z"
+    },
+    {
+      "id": "78cbda011bb5686c",
+      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PblZobVc1RWR0UnVhLTRyQjlFR2lIRlRRY3l6SkFrLXBFRnFENlM2UXdkR1k2T3gwTVJLYzdUSFZiVjdwZC1fTHRkbXB1QQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-15T08:07:14.000Z"
+    },
+    {
+      "id": "30e897efbbc2756d",
+      "title": "中小が自動運転トラックと連携 ＮＬＰ協同組合がＴ２の輸送実証に参画",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QVVhMkpmZTltVk1NQ1FKWnFCWmhqbkREWVZMSTdNSlR3dFBIeHFBeEw3cDc3T3JkVWJOeU9TSGdoLU9PMGpFSzVHSmJTZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-15T08:07:13.000Z"
     },
     {
       "id": "c646538c6db9c977",
@@ -182,15 +209,6 @@
       "publishedAt": "2026-09-15T07:10:44.000Z"
     },
     {
-      "id": "b495b1846379c8a7",
-      "title": "ＢＩＰＲＯＧＹ 食品・物流事業者に携わる人に向けセミナー 生成ＡＩやフィジカルＡＩの最前線を紹介｜物流ニュース",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XSHJtSDRFb1pNSktJQS1IZ2RnWU1XNHlod0NWZlhEM05RUnptN0JHRHJ1ODFkLW1SOXpJU1h4QTU0cV83QTN0Z0IxdjFhUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-15T07:09:10.000Z"
-    },
-    {
       "id": "ca360c81dcfe59ab",
       "title": "NEC、物流データを活用した輸配送ネットワークの「最適化プログラム」開始",
       "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -209,15 +227,6 @@
       "publishedAt": "2026-09-15T06:59:50.000Z"
     },
     {
-      "id": "3d681bcff16b6081",
-      "title": "第４回ロジックスカンファレンス、開催決定！：時事ドットコム",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80UVZvTVUwSTdMTUxMNl9WaFMtanI1ZDVnR3RlbzFiUktnRi1aY3dBTXVvMFB4cGNNcjU1dFExUkw4Q21YeFlCejdRYi1sUTlLNVphdHFXaGRVbHpvenJRc0RMa3pqOHRlWFpR?oc=5",
-      "source": "時事ドットコム",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-15T06:46:00.000Z"
-    },
-    {
       "id": "435ae7a805f2b311",
       "title": "JPR／伊藤忠食品札幌物流センターでの納品伝票電子化利用企業数が15社から27社に拡大",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -225,15 +234,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-15T06:19:41.000Z"
-    },
-    {
-      "id": "222db694967c7da9",
-      "title": "小学館など出版大手3社、追加配送の書籍一部直送 EC配送車に混載",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVk5CQzc1ajNhRmlYSlc2c2ZSaks4ekNGZGNtUWhydnA2cU9NM1piYXZpbmU3aEtrNm5BRjR6WXdJZmhpNjYwTExyUDNlMVd6c2V3YzhFVnd2UV8wbDJYamlVbERmZnJrdGtZZQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-15T06:06:17.000Z"
     },
     {
       "id": "6d58a06e8d64b7ca",
@@ -256,9 +256,9 @@
     {
       "id": "627ee8877a1d4d54",
       "title": "関東運輸局／千葉県長柄町の運送事業者、事業停止30日間の行政処分",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jeXhaX1BLWk1sMDZmOEtTRlFxdmdveGs4cnFqT0FCR2FmYV9vSnFlWl91ajJSMnNHRFVqOXZqbF9SaUdiWFA0a1Z4TFFsdS0ta0U3Wg?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-15T05:57:00.000Z"
     },
@@ -297,15 +297,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-15T05:29:31.000Z"
-    },
-    {
-      "id": "78cbda011bb5686c",
-      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PblZobVc1RWR0UnVhLTRyQjlFR2lIRlRRY3l6SkFrLXBFRnFENlM2UXdkR1k2T3gwTVJLYzdUSFZiVjdwZC1fTHRkbXB1QQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-15T05:07:13.000Z"
     },
     {
       "id": "9940be2bd11400c3",
@@ -425,10 +416,10 @@
       "publishedAt": "2026-09-15T03:00:35.000Z"
     },
     {
-      "id": "30cd1f1db78b3b63",
+      "id": "0229cbe9015cdb3a",
       "title": "関越道で大型トラックなど3台絡む事故 乗用車の男性2人死亡・運転手2人重軽傷 故障で停車のトラックに追突 新潟・南魚沼市",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nSjF1R1ZiS2FMa2I3aXBuT01wYjBfLTJjWEdJUU9WYmJ5Sk5VUGY4QkwwLUk0OFB4bWRvZ0xCTzhKY3pkS19VUkhVTUdkblBzU0ZhNWZYRlFHOFdOUV9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaE1vZDBybF9HVnd4VGM4TTNwdzFoTVNtZkZPTXZrejFYZGNiODNqYTd3N2d3cWRYUE44eWJCUk1LaVNmemJMeW1SVFduMFJnOGl1VGlqU3ZKVngtRmFwdXZia3BXTnc?oc=5",
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T02:59:00.000Z"
@@ -472,18 +463,27 @@
     {
       "id": "02a017645a79bd11",
       "title": "北海道運輸局／26年9月、一般貨物自動車運送事業者3者新規許可",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCYmhwVTBCMHU3eFBCcWxXd1hObk9Tei1hdlhDdlU5MUNYVWNlYkVyNGhnOE1fVkZtZHcxTS01eDR4cTNmRFRwVURMa2NXQzNwbUJGSw?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-15T02:37:00.000Z"
     },
     {
+      "id": "0fde315b38cfebcb",
+      "title": "建設産業基本法・新万金事業法施行令改正案、国務会議で可決",
+      "description": "jp.ajunews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INTU1LVdaM25BbTRBRVVJN25XOTVzSE5YOENpeVlTVmdvMUdheUhNUEwybjBzeDhEUlpqVlFiUFJSX3Vpc3hET1I2d19wbFRQNExPdEpiTW15bXc?oc=5",
+      "source": "jp.ajunews.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-15T02:28:00.000Z"
+    },
+    {
       "id": "2f294cdbc864b703",
       "title": "ニトリホールディングス、店舗販売や配送業務を支える基幹システムをOracle Cloud Infrastructureに移行",
-      "description": "oracle.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Oracleが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUERYQlJMbThEVjM1QlRVU1dxUUlYeEFMdk95a1c0X2ViOTNqX3Vkdmo3M1B2OVlUeXU0VFBYVFAxbkxFWHNYSWFzRlBJZFB0SHdWRjZMSEdpb3J2TGpxYkpGSTlnV2FyXzdRVmt0cE5XaGZjeHI4Tlk4a2hyQ2pTbE94OUR0cnExS1pxV3AtbkY5MElOVWoxQW5Ddjg3RTFwb3VLcEJ4eHhvN0xoZklyZEg2S1h0eWV4eS1KWGFpVERSY1lISGZzQzNPR3g0TF9fdUs5TlQ5c2ZnWHlvclROOF94aDhkbklGV29DaHB5NUFPTVpfZVd1dTFoNmR0dzg3?oc=5",
-      "source": "oracle.com",
+      "source": "Oracle",
       "category": "物流",
       "publishedAt": "2026-09-15T02:11:10.000Z"
     },
@@ -540,6 +540,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-15T01:30:11.000Z"
+    },
+    {
+      "id": "2691f7414d767d4a",
+      "title": "物流倉庫を地域の「非常時電源」に「電源ドナー協会」に加盟し、 静岡県内3拠点で在宅患者への給電に協力",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSSl85eWhhNXpqNU9KaUtmbXdOQWlfS3FBTmRvMGE1TkNab3hBTnRMbmFWdkJOeHMyNG9sZ0dYdkdRZ0ZBZ1lXWkp4ZDNDZw?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-09-15T01:30:00.000Z"
     },
     {
       "id": "29f81ddee55e25a9",
@@ -614,15 +623,6 @@
       "publishedAt": "2026-09-15T00:02:40.000Z"
     },
     {
-      "id": "48b8c24ad5e7b047",
-      "title": "神奈川・厚木の東名高速でトラック３台絡む事故、運転手３人けが 一部通行止め（カナロコ by 神奈川新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aODlfSUwzcVNCczF1Y09GRU1FTGczNmdCMldjVGdlczZUQVdIb2xPeUpqdnVNWktGVHliS2dXUXNPaWZmN0xDUE81MmZpTkNjd3p3Ri1KSTJOa1NjNk5TN3BBR2haRlVqRzY5LVBZNWwyZTBES250MWktRGs3SWs?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-15T00:01:02.000Z"
-    },
-    {
       "id": "f8de7c3150019f78",
       "title": "人助けで事故死、留学生無念 「理不尽」、運転手に実刑判決 坂で立ち往生の車救助中に下敷き（神戸新聞NEXT）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -659,10 +659,10 @@
       "publishedAt": "2026-09-14T23:59:42.000Z"
     },
     {
-      "id": "8ca39aebabf0cc32",
+      "id": "f8a5021b1d8ad4dc",
       "title": "神奈川・厚木の東名高速でトラック３台絡む事故、運転手３人けが 一部通行止め",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1J0R1BHQWwtU2xPcU5UQjZMZnVQbHdZU3o4VzFPVFpwM3pYVk5Gc3Z3X3JPWnNTZTV0YzdQMTRXeUw1Ylk5TTFUZXE1cFg0bTZESGdiX0NNUWFuZmYySjN5SXEtQXVvZ04xQlA1T1dNaEtIWV92M2hXeURTX0J2WU52Z2lRM2FleFFv0gGLAUFVX3lxTE5fUnRHUEdBbC1TbE9xTlRCNkxmdVBsd1lTejhXMU9UWnAzelhWTkZzdndfck9ac1NlNXRjN1AxNFd5TDViWTlNMVRlcTVwWDRtNkRIZ2JfQ01RYW5mZjJKM3lJcS1BdW9nTjFCUDVPV01oS0hZX3YzaFd5RFNfQnZZTnZnaVEzYWV4UW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTlXTnNKZ3VXNFo0VENodnY1SVNZaTBOdHJtSk5kUGh3WHhiQW9CaXFmeUN3TTdqMkZRaFI2eFp3SVJOT1NOQ29nZ0hPS0VaNFZPbWVMMXA3NVRCNGZDX1lndzJJSFFIcWRqME1tbnAwYjdHREp4akEwaWhfekVhRzR4eFREZ9IBiwFBVV95cUxOX1J0R1BHQWwtU2xPcU5UQjZMZnVQbHdZU3o4VzFPVFpwM3pYVk5Gc3Z3X3JPWnNTZTV0YzdQMTRXeUw1Ylk5TTFUZXE1cFg0bTZESGdiX0NNUWFuZmYySjN5SXEtQXVvZ04xQlA1T1dNaEtIWV92M2hXeURTX0J2WU52Z2lRM2FleFFv?oc=5",
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-14T23:59:00.000Z"
