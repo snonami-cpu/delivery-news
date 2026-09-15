@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:25:35.102Z",
+  "updatedAt": "2026-09-15T21:24:11.536Z",
   "articles": [
     {
       "id": "4f9b5f9aae7480c9",
@@ -85,11 +85,11 @@
     {
       "id": "e079da5631dcb544",
       "title": "プロロジス・谷住亜紀上席執行役員「防災と環境に貢献する物流施設を」",
-      "description": "project.nikkeibp.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日経BPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xWW5aSHFhc3hiYVM1WVlzbFhaV2k4VjBFTmw0ajdMSkNTTmNDeXA5a0VyQ0FoeVBmOFJlWFRQMFhEQThCb3pITUhUYVgzLVBOakZjek5ndVNIN191MS1kWFQzeEtnaFpVeC1zUG1WQWs?oc=5",
-      "source": "project.nikkeibp.co.jp",
+      "source": "日経BP",
       "category": "物流",
-      "publishedAt": "2026-09-15T15:09:49.000Z"
+      "publishedAt": "2026-09-15T15:09:29.000Z"
     },
     {
       "id": "42bc83ba01280ede",
@@ -103,11 +103,20 @@
     {
       "id": "be70fd0036fed179",
       "title": "【事故】「故障で停車していたところ追突」 関越自動車道で大型トラックに後続2台が追突 4人死傷《新潟》",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelAxdmNERjFuNEI2ZU1aZTMwUFh4eGNjbi0wakVtM28tT2dHdWtDMjVQSERXSk9yME1TdTduY1FhR29yeHJzc2NIeGktUzAzdWhVMkNnYUk5d25CWDZ0clI4aDZTaVQwZnR0X3p0SGpRYmVCcjFNcDRnYk91LVRLbVcxMGJGbjFP?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T11:25:00.000Z"
+    },
+    {
+      "id": "4a515bb91fc1373f",
+      "title": "ANA Cargo、エニキャリ、朝日新聞など5者が航空機と新聞配送組み合わせた物流網実現を引き続き推進 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JV3FJbEdnUEVTbE9RMk5DTXNHalo4aHFabGs4c1Uya2RjcGRITWU5N3hjRkFBNnlMclVRYjBBUjNSbTB4TWRvSVpTTQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-15T11:14:59.000Z"
     },
     {
       "id": "0fcd8c942a33a156",
@@ -164,15 +173,6 @@
       "publishedAt": "2026-09-15T09:38:41.000Z"
     },
     {
-      "id": "5f15c649681836ca",
-      "title": "伊藤忠食品、札幌物流センターの伝票電子化拡大",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qX0RjWThuSjVGNUFESjE4Z0Nsbi1ScjNzaDQzWkhnS0pZTkNNcXpfVm1LZHFqMGZfODRHcGduZGR5Wk52dVdIUVdn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-15T09:21:21.000Z"
-    },
-    {
       "id": "03f9b56341615719",
       "title": "JR貨物など4社、冷凍食品を中心とした低温物流の鉄道へのモーダルシフトを推進",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -202,9 +202,9 @@
     {
       "id": "c646538c6db9c977",
       "title": "「形わからなくなるほど…」トラックと衝突した乗用車が大破 運転男性は“意識朦朧”で青森市内の病院搬送",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDFfMTNsMnNnbnozS050LU1iczRYNUgtUnhqdGRCOVlVdEZqR3p2T1I2eE1jVE4zSzE4OGgzeVFyaXFtSEp6dERYSDExOE4zVGZ6STRtVFRYSTgwY2NNaUV0djhqN0pYMnpwb0JSVUZ0cjI4LXNFVjJwRERteG55WGZvYmppZ1U?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T08:06:00.000Z"
     },
@@ -254,29 +254,20 @@
       "publishedAt": "2026-09-15T07:17:01.000Z"
     },
     {
-      "id": "18c2f2a1a174fed7",
-      "title": "『DD Plus』の拡大 伊藤忠食品札幌物流センターでの納品書電子化推進～新たにメーカー12社が参加し連携を強化、改正物流効率化法に基づく取り組みの先行例に",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KVGV4WjgtVFBmam02bXBaZjc1RWlRU1hXMzNHQzBhazZRNTZaX2w1WHRISERVR1lHQk5SOUE1Ul9TbkZoMUlfR0d4OUR4aEVJY1JwNlBqUjZ0RUVxeC1BSVl3QmEwdEJVRXVqRnZyWDctZ0xiN3c?oc=5",
-      "source": "Excite エキサイト",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-15T07:15:00.000Z"
-    },
-    {
       "id": "90900b9a726f1f1c",
       "title": "マルチテナント型物流施設「DPL札幌南Ⅴ」着工",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV3VrRzZqQXQzOE9weGF2TTRjckRSSU9Ha3BJNTlHMXdsQWJWR21VNGUzaVo0X0EtcUR3QmZjY0poYm5HazdDQWpwVjNMd1JCV2pzSzdqVWlDMkdhR0FoMDBhcHlpWWNUaUE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-15T07:10:44.000Z"
     },
     {
       "id": "ca360c81dcfe59ab",
       "title": "NEC、物流データを活用した輸配送ネットワークの「最適化プログラム」開始",
-      "description": "ecnomikata.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05VjBEUDFpUHd6c1VXd0Nkd0ZRRUVKVXJZd01LQURNRE1YVFdUTzQzVUIxUXlscmFJNW1NbzJrcjdwMmVMZzBkWDVtdnBDTW5xSkRrV0k2cjFvT3dYX1YxUnhUQno?oc=5",
-      "source": "ecnomikata.com",
+      "source": "ECのミカタ",
       "category": "物流",
       "publishedAt": "2026-09-15T07:00:00.000Z"
     },
@@ -373,10 +364,10 @@
     {
       "id": "96a6572791f133c8",
       "title": "『DD Plus』の拡大 伊藤忠食品札幌物流センターでの納品書電子化推進～新たにメーカー12社が参加し連携を強化、改正物流効率化法に基づく取り組みの先行例に～",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bVU5RzdyMEtMbUNqaWxlRXQ0M2dybTJ2NGdkclVFalRDWUFBRVRQTEhyQXdRSHpwLWY2dXA3c0s0MjdzV2xUUG5yU2lPZHN1SEJiU1U1LXBJcTB4ajN0XzNtcDBlWVFlSlE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
+      "source": "prtimes.jp",
+      "category": "法令・行政",
       "publishedAt": "2026-09-15T05:00:01.000Z"
     },
     {
@@ -524,6 +515,15 @@
       "publishedAt": "2026-09-15T02:37:00.000Z"
     },
     {
+      "id": "0fde315b38cfebcb",
+      "title": "建設産業基本法・新万金事業法施行令改正案、国務会議で可決",
+      "description": "jp.ajunews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INTU1LVdaM25BbTRBRVVJN25XOTVzSE5YOENpeVlTVmdvMUdheUhNUEwybjBzeDhEUlpqVlFiUFJSX3Vpc3hET1I2d19wbFRQNExPdEpiTW15bXc?oc=5",
+      "source": "jp.ajunews.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-15T02:28:00.000Z"
+    },
+    {
       "id": "2f294cdbc864b703",
       "title": "ニトリホールディングス、店舗販売や配送業務を支える基幹システムをOracle Cloud Infrastructureに移行",
       "description": "Oracleが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -661,9 +661,9 @@
     {
       "id": "574e370e5a80e36c",
       "title": "厚木の東名高速、４０分で事故４件 計１５台絡み２人けが ９時間通行止め",
-      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55X3V1cHNIZDFOSVN3Z3RSTDJZQzhfazBoaVU5TE5GbFhFQUlBSEV2MXRubHpjQmlZWTJIdlJlUTNHRjQtQVdjWDVlWS04cnNORGVqZDc1UmgxcFFaTnVmcnAyWE5SVUltQUVVWm93?oc=5",
-      "source": "kanaloco.jp",
+      "source": "カナロコ",
       "category": "道路・交通",
       "publishedAt": "2026-09-14T23:59:42.000Z"
     },
