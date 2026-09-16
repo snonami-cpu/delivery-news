@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:28:03.371Z",
+  "updatedAt": "2026-09-16T14:27:13.076Z",
   "articles": [
     {
       "id": "e693b2835b117517",
@@ -38,6 +38,15 @@
       "publishedAt": "2026-09-16T10:22:43.000Z"
     },
     {
+      "id": "6055360574c3eb6d",
+      "title": "適正原価 標準的運賃比で距離単価３５%減少？",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RlNwVmRkaVJVakFBWlhMdjFRRUNDTlIxVjBoRW9JeWVQb01rMFJucjU0ZXFvVHEyVHhlVFlyYTJGOW84dE8tbGYyOWNVdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-16T10:10:39.000Z"
+    },
+    {
       "id": "344df6e8a9db4342",
       "title": "ひとまいるなど 物流施設内でレベル４実証｜物流ニュース",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -47,22 +56,31 @@
       "publishedAt": "2026-09-16T10:05:34.000Z"
     },
     {
-      "id": "5a9d7c076eb15611",
-      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jQkp5elg0em1pSmN2c0xIOTRwZ1YyaGhhVkdHblBLanQ4SWxWb0huVG83U1FYNG5Db01WbE5KeTc0VzIzQkt2eVBPRngyc25DVkIzZzg4eWdLYzhmWElVQ3BNU3RuRTBSZktGbC1hRE95UQ?oc=5",
-      "source": "テレ朝NEWS",
+      "id": "ece0e1305b304afc",
+      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY0NGZU5FQXdrRXd3MXAwNVpVdS10Ui1VMC1waS1TT1BwQVhUVTNQYVk5aEtINjFmMUMtb0xvY1llaUxyTkZyb2sxYnVZN3drM3UxNnd0QllQbVVjQl96TkFLRnJmREpFam5QUTZSS0doU0VjSWlKOFlhMVRIY28?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T10:03:19.000Z"
     },
     {
       "id": "550492384f0adae1",
       "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代 – Quebee キュエビー",
-      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcWhGbk54NFlCMTZuTkpkSHZwQzlQZGZ4cXdGVmxueDhrRWhkY0x0LVVoWVVPeW9WaGk1MU1nTkh1cFAxTGphdHlpZ0hDREpDR1dZQi1tTG4?oc=5",
-      "source": "qab.co.jp",
+      "source": "QAB 琉球朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T10:03:19.000Z"
+    },
+    {
+      "id": "30bc6b273b73e0a9",
+      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME1mSzg0RnR5RzlkdnhiOF9HMFVQSW9WOGlaNkt0UGI2ODh3SU1DTmJqZjl4QTMyRERfYmlDYklmamJ2em1ia0xvbUY4ZUNqeDlQM1lYVTU2VC1IM3E3MXF5MGNUMm5vazBOeTlzb2JqOFRwbWowdGZpWmNOT0dNdmx3azk3OHlYWHRXZ9IBjAFBVV95cUxOME1mSzg0RnR5RzlkdnhiOF9HMFVQSW9WOGlaNkt0UGI2ODh3SU1DTmJqZjl4QTMyRERfYmlDYklmamJ2em1ia0xvbUY4ZUNqeDlQM1lYVTU2VC1IM3E3MXF5MGNUMm5vazBOeTlzb2JqOFRwbWowdGZpWmNOT0dNdmx3azk3OHlYWHRXZw?oc=5",
+      "source": "topics.smt.docomo.ne.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T10:03:00.000Z"
     },
     {
       "id": "3f7282ad8a01bd33",
@@ -184,9 +202,9 @@
     {
       "id": "c6dfd6a968a4f268",
       "title": "東名高速でトラック3台の事故 男性1人死亡",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd25rZVNhcTQ5bjRkcFpZcmdJcUYxV1V5S0IxQU40QjQxcGVucFNsdFlHWFNxLWQ5OFlHNHY1aDdVczZkM05RRkpmZ0hBR05hbGwzMVVVSGd1WGR0Q0Zac0VfbmRYOEYzQmgxTTdOTjVuN2tLeEk2RmZHTjJNV1NUSkRHQXBpc1JHTEhQedIBjAFBVV95cUxQd25rZVNhcTQ5bjRkcFpZcmdJcUYxV1V5S0IxQU40QjQxcGVucFNsdFlHWFNxLWQ5OFlHNHY1aDdVczZkM05RRkpmZ0hBR05hbGwzMVVVSGd1WGR0Q0Zac0VfbmRYOEYzQmgxTTdOTjVuN2tLeEk2RmZHTjJNV1NUSkRHQXBpc1JHTEhQeQ?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T06:33:00.000Z"
     },
@@ -229,9 +247,9 @@
     {
       "id": "7ab8f8b94ae24a9d",
       "title": "手積み・手降ろしを減らす「JITBOXチャーター便」とは？“物流の2026年問題”で注目される企業間物流の新常識",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUmpUc3FLRWQ0cnA5ejMzczFIYnpWa3hmc3piZHI4LXR5Z3dxVXNLYWJ3dGRFOGlFUzV1SXBTd3pWVkZiV3VpbktxblRpU1RVU004U3ljZUxjTTNlZFNjcGdPM0V5a2dpSmYxeXdWUU9xWFJQSmpPbGxYbldTYmdVNDc3bkswYUNTb0HSAYoBQVVfeXFMTVJqVHNxS0VkNHJwOXozM3MxSGJ6Vmt4ZnN6YmRyOC10eWd3cVVzS2Fid3RkRThpRVM1dUlwU3d6VlZGYld1aW5LcW5UaVNUVVNNOFN5Y2VMY00zZWRTY3BnTzNFeWtnaUpmMXl3VlFPcVhSUEpqT2xsWG5XU2JnVTQ3N25LMGFDU29B?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "物流",
       "publishedAt": "2026-09-16T05:00:00.000Z"
     },
@@ -261,15 +279,6 @@
       "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T03:52:00.000Z"
-    },
-    {
-      "id": "b5d4e00de621ff63",
-      "title": "東名高速でトラック3台が追突事故 30代男性運転手が死亡 1人軽傷 東京IC～東名川崎IC下り線で一時通行止め",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZW5wbXNMZURJNVZxc0x6anU3enN0S3RkcHZ5RmdKTmJXWDRCMUZtUW5hYlN2MFBiakVWZVlRYk4weDJKcGVoRGZKRmFmVlpnay1OV0l4Mm5rU1NPT2Vr?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-16T03:50:08.000Z"
     },
     {
       "id": "2d46730e243bb559",
@@ -333,6 +342,15 @@
       "source": "トラックニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T02:31:00.000Z"
+    },
+    {
+      "id": "63995892720a663b",
+      "title": "東名高速でトラック3台が追突事故 30代男性運転手が死亡 1人軽傷 東京IC～東名川崎IC下り線で一時通行止め",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNanQ1bDhISXpveXdBRF9sXzJBRFVjSkZLajRwZmYxTHZZdzRlZnNQMHNna2h1UHpYVlBzQzFZN1RWc0J4WnZvRVMyMmxrUV96aG4wWnpOWHl4ekNSbG5wMkc3ZmtFOTdxTmt0MUN1Xzl0X3V3Ykh0dA?oc=5",
+      "source": "au Webポータル",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-16T02:29:00.000Z"
     },
     {
       "id": "8690a607c97aafbc",
@@ -425,15 +443,6 @@
       "publishedAt": "2026-09-16T01:37:00.000Z"
     },
     {
-      "id": "8d17fd6ce70058cf",
-      "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市",
-      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAySHNsc3hPdDg1SXY1TzBUdWd5MU5wMGdwMzdQOGVRZ19SMl93bkRkZDFTdHpPLVFXdUNRb0NIZTdBQmdldDhUZV8yaDg3b0tSUlRZWHNKQm1TSGs?oc=5",
-      "source": "ABEMA",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T01:25:57.000Z"
-    },
-    {
       "id": "a9a9c24f5d4ae38a",
       "title": "東名高速でトラック３台絡む事故 東京ＩＣ―東名川崎ＩＣ下り線が通行止め",
       "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -463,9 +472,9 @@
     {
       "id": "fac3c996ca3a312b",
       "title": "【速報】神戸市灘区でトラックがバスに突っ込む事故 トラックの運転手重傷 バス乗客数人がケガ",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UjNzclpmYlVFb3dWUGFnQTNud3V4Q1NpYVQ0cTMyUTZaRFN2Z2h0NDI2ckhpMXd3cHNKaTFweGJnR1V5WHpkdlVKYzMyd2pLQ2haZDlWZy1JNllyN1VzbjJiU21PLXJ0d2Exa2VmY3JOdUdxdVR0UHR6NEhGMTDSAX9BVV95cUxNd1Izc3JaZmJVRW93VlBhZ0Ezbnd1eENTaWFUNHEzMlE2WkRTdmdodDQyNnJIaTF3d3BzSmkxcHhiZ0dVeVh6ZHZVSmMzMndqS0NoWmQ5VmctSTZZcjdVc24yYlNtTy1ydHdhMWtlZmNyTnVHcXVUdFB0ejRIRjEw?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T00:12:00.000Z"
     },
@@ -578,15 +587,6 @@
       "publishedAt": "2026-09-15T21:40:06.000Z"
     },
     {
-      "id": "bcc5c594d7d3de89",
-      "title": "「すごい逆走事故…」 NEXCOが高速で「路肩からいきなりUターン」の衝撃動画を公開！ あわや「トラックと正面衝突」 北陸道で起きた「超キケン事案」で注意を呼びかけ",
-      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rcTRvYldNeUp2NENOSUtVNTh5NjdyR0t6b2N3MEFxeHdrdGxxTHg3SURIeVpwbmNvWmVVT1V1ekFWWk9KZ0EwaXo1OA?oc=5",
-      "source": "くるまのニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-15T21:40:00.000Z"
-    },
-    {
       "id": "b495b1846379c8a7",
       "title": "ＢＩＰＲＯＧＹ 食品・物流事業者に携わる人に向けセミナー 生成ＡＩやフィジカルＡＩの最前線を紹介｜物流ニュース",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -597,21 +597,21 @@
     },
     {
       "id": "3661791b6e59f365",
-      "title": "岩国交通安全協会に反射ベストや物品購入費贈る/岩国地域行政連絡協と山口県トラック協会岩国",
-      "description": "山口新聞 電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "岩国交通安全協会に反射ベストや物品購入費贈る/岩国地域行政連絡協と山口県トラック協会岩国 - yama.minato-yamaguchi.co.jp",
+      "description": "yama.minato-yamaguchi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdkdUZG8tZ3BUTXZvbEtLUmtPYmgtZVRZcW81WTJZWEtRSW1uMkgzcmpJSHl2a0NLTjBYejFmVGhLRW1uVVlGYVp1RXdaRDAyZ1pvTi1xbVVQT0hoeWkyS0hKYzZPbUwxWEE?oc=5",
-      "source": "山口新聞 電子版",
+      "source": "yama.minato-yamaguchi.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T21:00:00.000Z"
     },
     {
-      "id": "1ba7685bf9606c9c",
-      "title": "原町に物流センター 昭和運輸が新築地鎮祭",
-      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RWkwbHRJZlF5OXJPRDAyQnhQWjhzOFByT3hKV1VEbWJlY3IzeWZzeG5KamNrSFhRRkdrRDR1WkRSQS1zWnVWUmpydWo2V28?oc=5",
-      "source": "福島民報デジタル",
-      "category": "物流",
-      "publishedAt": "2026-09-15T20:06:00.000Z"
+      "id": "e32a4c8eb983b971",
+      "title": "「事故が起きにくい交差点」で事故登場初日に軽トラックが運転手は90代",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTHNfRUdSVzJHeGE2cUptWGdpSks5T0lITGl0a2lkSVh3by1IUVJyMTk4cTdoRFp6b1BmTlpPSzlqLWEzbjhIQ2VXQng5WmM4ZjhoWnktdGx4RXhOZ3M1YXpGS3ZzX0k?oc=5",
+      "source": "朝日放送",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-15T20:26:00.000Z"
     },
     {
       "id": "4f9b5f9aae7480c9",
