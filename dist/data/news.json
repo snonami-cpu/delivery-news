@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T12:32:16.432Z",
+  "updatedAt": "2026-09-16T13:28:03.371Z",
   "articles": [
     {
       "id": "e693b2835b117517",
@@ -47,13 +47,22 @@
       "publishedAt": "2026-09-16T10:05:34.000Z"
     },
     {
-      "id": "bf3219a759b6bb12",
+      "id": "5a9d7c076eb15611",
       "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代",
-      "description": "HOME広島ホームテレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvNmJQZnN0SzJ2U1RCMnJLLW90LXI4enFneHZhemtBcnNyQ00zNHl2TE1wWHFLOUduUzN4RDlsNmJjbGw5TEFwaEVXUFZKaWRyVExmNzRmdkJ4RTZpakZqUENOcmRDNDR2?oc=5",
-      "source": "HOME広島ホームテレビ",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jQkp5elg0em1pSmN2c0xIOTRwZ1YyaGhhVkdHblBLanQ4SWxWb0huVG83U1FYNG5Db01WbE5KeTc0VzIzQkt2eVBPRngyc25DVkIzZzg4eWdLYzhmWElVQ3BNU3RuRTBSZktGbC1hRE95UQ?oc=5",
+      "source": "テレ朝NEWS",
       "category": "安全・事故",
-      "publishedAt": "2026-09-16T10:03:00.000Z"
+      "publishedAt": "2026-09-16T10:03:19.000Z"
+    },
+    {
+      "id": "550492384f0adae1",
+      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代 – Quebee キュエビー",
+      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcWhGbk54NFlCMTZuTkpkSHZwQzlQZGZ4cXdGVmxueDhrRWhkY0x0LVVoWVVPeW9WaGk1MU1nTkh1cFAxTGphdHlpZ0hDREpDR1dZQi1tTG4?oc=5",
+      "source": "qab.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T10:03:19.000Z"
     },
     {
       "id": "3f7282ad8a01bd33",
@@ -119,13 +128,31 @@
       "publishedAt": "2026-09-16T07:38:00.000Z"
     },
     {
+      "id": "876ce6fe07309b29",
+      "title": "葵物流（千葉）に事業停止30日、7件の法令違反",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ab1hRRnBCak5KZDNuQzFzREV3VlQ5a1ZFNU5lQ0V1UHEzSzFTNmJnVjdlb3FHMlk0WUplcUhQS0Nxb1NLV19JZUZR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-16T07:17:06.000Z"
+    },
+    {
       "id": "5a38d91d6717d478",
       "title": "SBSHD／千葉県富里市に11.8万m2のマルチテナント型物流施設竣工",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94d2tkZEhhSWw4dVUyMlRtdzBpa3VIbk9PTGZNVno2SV9sWjA0QkhxeHZBd2FDdzVGY1lKd3dEU0p2VlQ4NlFSMEFxdVhRWkVNa3hxNg?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-16T07:13:36.000Z"
+      "publishedAt": "2026-09-16T07:15:36.000Z"
+    },
+    {
+      "id": "7b1b93b7639c6596",
+      "title": "楽天、ロボットによる「楽天無人配送」対象地域を東京都江東区豊洲に拡大",
+      "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93UE5vT1psUzhZQVRPSTE3WHpfcTY3SWQwblRqZkpXSjY4M2VWcUw1N1I0TWpCLUhwN3JxZW13bzFESW45ZDJMSmEtODRXOTAyRjZsUlIwYk1vQ1Ft?oc=5",
+      "source": "ECのミカタ",
+      "category": "物流",
+      "publishedAt": "2026-09-16T07:00:00.000Z"
     },
     {
       "id": "765e84cd3455064a",
@@ -192,7 +219,7 @@
     },
     {
       "id": "38da5d9bc42738db",
-      "title": "市バスとトラック衝突で乗客ら負傷 バスに乗車の４４人のうち１０人程度けが カーブ続く坂道で以前にも事故 神戸市灘区",
+      "title": "市バスとトラック衝突で乗客ら負傷 バスに乗車の４４人のうち１０人けが カーブ続く坂道で以前にも事故 神戸市灘区",
       "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZOVpQT3BpMVN5STlYRm1aZFdHTHRJMlgySDRmeGdjN05vZXAwc2c3b1F3NC16S1piZDE4ZV8zb09SN19vMElYcmYwMkd2M0o4bEJsUzJQMWNJa1dpalJndFFR?oc=5",
       "source": "朝日放送",
@@ -207,6 +234,15 @@
       "source": "ｄメニューニュース",
       "category": "物流",
       "publishedAt": "2026-09-16T05:00:00.000Z"
+    },
+    {
+      "id": "f00819ac244352c7",
+      "title": "【速報】「ブレーキが利かなくなった」神戸・灘区でトラックがバスに突っ込んだ事故 トラック運転手が警察に説明 現場付近では先月にも“フェード現象”とみられる事故 神戸・灘区",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aUU80MDgybXJPb1FUdTZOb2p0TW5jd2hCd21YUXZuSS0yWUUyQ3BfNHBjUFJpVE1FcUxsTERMdGY4R0JMX25FQlE0UEpzc09oNFhDSUZ2T1Z6WFM1cXVvWTl2bk1DbVRtUFFVcFl3?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T04:08:00.000Z"
     },
     {
       "id": "1ec4bc3fb13455cc",
@@ -265,9 +301,9 @@
     {
       "id": "bd335712ad9d9bbe",
       "title": "東名高速でトラック3台絡む事故 30代とみられる男性運転手死亡 神奈川・川崎市",
-      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lLXZfZTJFOXVSekVBTmlXd0RaMldzT0VNOE9UaElZY0RyRmFvSnlVR1ZuZEd2bzZBYTFFZTNNR3AxTVI1UG9YYjZ2WTdHYmRaMUJ0a2tIa0lmZHBTdXFiTFlZaWdIMG9rbEJnRlJ3?oc=5",
-      "source": "article.auone.jp",
+      "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T02:57:00.000Z"
     },
@@ -328,9 +364,9 @@
     {
       "id": "e0903ffb29c2506c",
       "title": "東名高速でトラック3台絡む事故 1人死亡 下り「東京─東名川崎」IC間で通行止め",
-      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tV0haX3o5ZzE0VGlNQTFZeFZxRUFDUEE2Q0JzeDhfM3I0eFlyYkxweWZWc3pRTW51WkNHSEZRdWRNbWlNclBnaFBTRlVkekdPT1kxZjFCWEg0OU5ycFR4U0dBdFQzVjFUOWphSEFR?oc=5",
-      "source": "article.auone.jp",
+      "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-16T02:05:00.000Z"
     },
@@ -358,6 +394,15 @@
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
       "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T02:00:32.000Z"
+    },
+    {
+      "id": "4ad4f5f99df70840",
+      "title": "バスとトラックが衝突 2人けが 東京・練馬区",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oOVZ2MlJYQ0hOVUFiZzRqR09qNm9Pd0ZnZHBoQm5XWW5iRUs1QkhSOEZRM3ZRbHBXWDZUWm5BSXVsOXJka3JzWjZreTNXMjEtNWxiMDhhQlYtS2dtYVd4OEZsdXE3S0hydDZZZHZKTmdZQQ?oc=5",
+      "source": "テレ朝NEWS",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T02:00:32.000Z"
     },
@@ -427,9 +472,9 @@
     {
       "id": "78822646b7ba0488",
       "title": "東名高速でトラック3台絡む事故 運転手2人けが 東京IC～川崎IC間の下り線で通行止め",
-      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeVJ0M0JvTjhGR2JHVVNndTh3SllQeUxxLUwzUkhuSkJGOHFuYnhRZjAwTmxKV2ZkNWh3ckt1aFl1UTlZSkF1amVlUlZqV05XZlRTdmE1ZUtIeGFHODRQSXhrWnNKSU55M1FqSjB3?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "category": "道路・交通",
       "publishedAt": "2026-09-16T00:07:00.000Z"
     },
@@ -490,9 +535,9 @@
     {
       "id": "5c6cb1b14c2bb3e1",
       "title": "東名高速道路下りでトラック3台が絡む事故 東京IC～東名川崎IC間で通行止め 解除の見通し立たず",
-      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0UV9BcmEtV3UwYUtKb3J0WmFESU5GR2E0c0hFNk1NNU8tcTZWSS1SaV8yTGhDMWh4QzRHd0dqcTkxMUg5N0ZqZVgzVHIzOVBwSHNna1d5Y1hkTTRuMnZkOWNpUklsblFKdUFGdU45eXhkLWs?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "category": "道路・交通",
       "publishedAt": "2026-09-15T22:23:00.000Z"
     },
@@ -533,6 +578,15 @@
       "publishedAt": "2026-09-15T21:40:06.000Z"
     },
     {
+      "id": "bcc5c594d7d3de89",
+      "title": "「すごい逆走事故…」 NEXCOが高速で「路肩からいきなりUターン」の衝撃動画を公開！ あわや「トラックと正面衝突」 北陸道で起きた「超キケン事案」で注意を呼びかけ",
+      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rcTRvYldNeUp2NENOSUtVNTh5NjdyR0t6b2N3MEFxeHdrdGxxTHg3SURIeVpwbmNvWmVVT1V1ekFWWk9KZ0EwaXo1OA?oc=5",
+      "source": "くるまのニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-15T21:40:00.000Z"
+    },
+    {
       "id": "b495b1846379c8a7",
       "title": "ＢＩＰＲＯＧＹ 食品・物流事業者に携わる人に向けセミナー 生成ＡＩやフィジカルＡＩの最前線を紹介｜物流ニュース",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -549,6 +603,15 @@
       "source": "山口新聞 電子版",
       "category": "安全・事故",
       "publishedAt": "2026-09-15T21:00:00.000Z"
+    },
+    {
+      "id": "1ba7685bf9606c9c",
+      "title": "原町に物流センター 昭和運輸が新築地鎮祭",
+      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RWkwbHRJZlF5OXJPRDAyQnhQWjhzOFByT3hKV1VEbWJlY3IzeWZzeG5KamNrSFhRRkdrRDR1WkRSQS1zWnVWUmpydWo2V28?oc=5",
+      "source": "福島民報デジタル",
+      "category": "物流",
+      "publishedAt": "2026-09-15T20:06:00.000Z"
     },
     {
       "id": "4f9b5f9aae7480c9",
@@ -657,69 +720,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-15T14:34:55.000Z"
-    },
-    {
-      "id": "cc8b2ad64a478515",
-      "title": "大型トラックが自転車巻き込む事故 40代男性けが 千葉市（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cnZUZm12TV9mYmNaOTJPZzhnSTJqamkwcmRuQkI2bEw1ZWs3cEY4TmQ2TW1lUXJuaUxYWG1XZ2pWQ2lzZnRsXzVrZVRMV2JiNVZzeXd2dHJwNzdCZEk0ZHdBeDZtV18tVk9qVjNZUmpfRm9vV1lfQjhqR2FLWU0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-15T12:15:00.000Z"
-    },
-    {
-      "id": "be70fd0036fed179",
-      "title": "【事故】「故障で停車していたところ追突」 関越自動車道で大型トラックに後続2台が追突 4人死傷《新潟》",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelAxdmNERjFuNEI2ZU1aZTMwUFh4eGNjbi0wakVtM28tT2dHdWtDMjVQSERXSk9yME1TdTduY1FhR29yeHJzc2NIeGktUzAzdWhVMkNnYUk5d25CWDZ0clI4aDZTaVQwZnR0X3p0SGpRYmVCcjFNcDRnYk91LVRLbVcxMGJGbjFP?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-15T11:25:00.000Z"
-    },
-    {
-      "id": "4a515bb91fc1373f",
-      "title": "ANA Cargo、エニキャリ、朝日新聞など5者が航空機と新聞配送組み合わせた物流網実現を引き続き推進 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JV3FJbEdnUEVTbE9RMk5DTXNHalo4aHFabGs4c1Uya2RjcGRITWU5N3hjRkFBNnlMclVRYjBBUjNSbTB4TWRvSVpTTQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-15T11:14:59.000Z"
-    },
-    {
-      "id": "563fac059d86a8cc",
-      "title": "サトー、兼松エンジニアリングの物流倉庫作業を「VoiSol® Smart」で標準化 約2,000種の部品ピッキングでミスをほぼゼロに、属人化解消と残業時間削減を実現 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NTVUwM29qLWYtalBhc2RCM0psQlhxOVV3RlFYVWZwSzVhbnBaZ200a1BKZnItZlhPVWVGMWNRc2Z2TG04alZJZ215cw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-15T11:02:34.000Z"
-    },
-    {
-      "id": "0fcd8c942a33a156",
-      "title": "【物流で光るCSR】富士ロジテックHD、物流倉庫を地域の「非常時電源」として提供する電源ドナー協会に加盟 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzR1Jabm1IMTlrcXdzMzdmSTJqdWo3RXJPZ2dCck9YTExvSlU2cktVM2l0Vld3QkNHTkVKMVFaUEF0ZFpMNDJyTzdwaw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-15T10:55:04.000Z"
-    },
-    {
-      "id": "8794b2aef2dcf15b",
-      "title": "「すごいスピードでぶつかった」トラックと乗用車が絡む事故 大破した乗用車の男性が意識不明の重体 青森市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvNmFjd1hmZFRHcHRWT21kUmZqTnVWQ1Q0ZTE2NkdwbGd3VnQ3Mi0ySHB5X3hhTzgwRnFldUxQMk1JNHB0Um5EcTBxUjhGOVpCSXNmR0NoVGU4T1gxTGo5Z3JGU2pPX29LVktfbTdwN09HWUtoM0VRNjN4ZEZMYkk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-15T10:15:39.000Z"
-    },
-    {
-      "id": "6109b508ac4de37c",
-      "title": "大和ハウス工業、北海道・北広島でマルチテナント型物流施設「DPL札幌南Ⅴ」着工 新千歳空港・苫小牧港への広域輸送に対応",
-      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82bnVsajdMLS1UM0VoRVJoS2hfMXVJWVlyOXZEM2RjM1drZl9xVG56R3pZRThnaEdNckZ0ZDNSb3l5WmRHUi14UnA2cnhSc0pxQ2hhcEhja3NZN2hYLWQtV195OGpkUEk?oc=5",
-      "source": "AMP[アンプ]",
-      "category": "物流",
-      "publishedAt": "2026-09-15T09:56:15.000Z"
     }
   ]
 }
