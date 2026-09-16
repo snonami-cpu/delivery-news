@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-16T20:26:44.184Z",
+  "updatedAt": "2026-09-16T21:25:59.426Z",
   "articles": [
+    {
+      "id": "d0daca38422d198c",
+      "title": "ＰＡＬＴＡＣ 物流本部を「物流運用本部」に改称",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTVUFIaUxuRWx2ZDk2N3VqX0dVM083WldDY2RMQVJSVm84TVBfX2FDMGNJdWtaVzkyU0JLejBjb29rV0lWQWx0dTdWaEVsOVFBOGNqVV9zcWlJYnEtOUlV?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "4d34a436f7f6bc31",
+      "title": "荷主企業の６割が法改正対応に未着手",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52SzNwLTVzMXlSbmc4eUwtMHVHcDBUVU1sWXdHaERwdTN5cHh5THRIeWRKRWFIU01NTWpyZXd1OWo3SmVLR3JBdGVZWmhoZDMwYUJINVFyb3FleXlkdGhF?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
     {
       "id": "5e1852d06ae48745",
       "title": "北海道開発局ら、札幌で物流マッチングイベント",
@@ -33,15 +51,6 @@
       "title": "国際物流のメール依存どう減らす、日新が解説",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90UWZmeWRoMzlXeWh1M0czTXdSRlJURV9rWEtKS3RUa3Z1cXFlQzQwcW5UTUtjS3dpU0U5NU9sOEhkZFpOSlBISGxR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "5d3299630f0436f2",
-      "title": "イオンネクスト、精米後から冷蔵で米を配送",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lTk1RZVBkOXhxVDNwWjVOclhZUVpkWjZTLWJmbnJwcXdvY3oza1lpdzNkeEdjdzdOWHEwX3l4bzY5bVRfQUw0ckdB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
@@ -107,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sZmVza0J3NzBhamRPWkRaeDZDT0djb0tpS3RodGdxZjFQSmZFcDBRX2FEME8zMXZya0VVeW1IOTVHd2pmb3lDWmVlUFMtMHpxQzg0MjZqNA?oc=5",
       "source": "鉄道ファン・railf.jp",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-16T17:04:10.000Z"
+      "publishedAt": "2026-09-16T18:08:58.000Z"
     },
     {
       "id": "6055360574c3eb6d",
@@ -119,6 +128,15 @@
       "publishedAt": "2026-09-16T16:07:28.000Z"
     },
     {
+      "id": "e325e78d5d66b33f",
+      "title": "第744回物流川柳 2026年9月17日号｜物流川柳",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtemZIeDVkTTdlTFdoQy1LWE1UWTg3V195WmwxOFZGVnRlLVJSQTRDV1QtNG8xQ2ZJX3ZqdmgxZVlzaFZ0VEI0azM2LWI3NVY1Y0xSUGswNA?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-16T15:06:43.000Z"
+    },
+    {
       "id": "e693b2835b117517",
       "title": "関越道でトラックなど3台絡む事故 4人死傷 新潟・南魚沼市 最新の社会ニュース【随時更新】",
       "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -128,6 +146,15 @@
       "publishedAt": "2026-09-16T14:33:21.000Z"
     },
     {
+      "id": "8e7aa6e279f0f878",
+      "title": "2026年9月17日／新規許認可運送事業者",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92NU95Mmk5c2ZDMUxSMnlKcnpSY0ZoYmdUZ3JXS20yMU5fbU9kTFlQUjhrZWYwQ2NlWmpzNU9LQWdMNE1udFFmNmtYSUFZX1EyOHg3emsycVU?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-16T14:02:30.000Z"
+    },
+    {
       "id": "60546a9b68e43a2e",
       "title": "ライフサポート・エガワ 福岡センターが運送事業を開始",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -135,6 +162,15 @@
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-16T13:31:43.000Z"
+    },
+    {
+      "id": "44a3ae5c0f69a5c7",
+      "title": "ＣＹ完全予約制、運送会社の負担増を試算",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOEVsYTJwUWctYUVtZUhPNU5BQmltcTY0Nzc2MnRhdmp6MHFOVlBlWnY4V21LbERvNm53cnNoNzBaMlB1SVhub0JHWm93RUY3aEJma01WNmlTWDVNYUln?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-16T11:21:14.000Z"
     },
     {
       "id": "7b707cba51b94052",
@@ -147,10 +183,10 @@
     },
     {
       "id": "80f4c94f45e1ed35",
-      "title": "SBSグループ、千葉・富里で11.8万㎡の物流センター完成 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "SBSグループ、千葉・富里で11.8万㎡の物流センター完成 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55dnRYQlM1UWtTUGNfdUZTRWRGX1czUkN3dVlieWlUaEhLRUFIOFY4Vk1pa1BzNXE5RDlOU1N5dWNTZ3l2aDFUczFVdw?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-16T10:57:50.000Z"
     },
@@ -236,6 +272,15 @@
       "publishedAt": "2026-09-16T09:27:00.000Z"
     },
     {
+      "id": "38523db4d030fe77",
+      "title": "トラック協会が水島交通安全協会へ 交通安全用品を寄贈",
+      "description": "KCTコミちゃんが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IT0NUcXNmQXpwTTN0Skt4YUdsQ3BkSlpQRUR6TU9FMmNxSVlQY1FqVllEb2ZRUTJvMUFDaHpJRGxfRjNMTXFLOGlaSVh3ZGdha1RDRDEya1A?oc=5",
+      "source": "KCTコミちゃん",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T09:23:43.000Z"
+    },
+    {
       "id": "2c6980bd115d7985",
       "title": "「富里物流センター」が竣工 －延床面積約3.6万坪の大型マルチテナント施設で首都圏物流網を強化－",
       "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -261,15 +306,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T08:36:57.000Z"
-    },
-    {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-16T08:19:25.000Z"
     },
     {
       "id": "f222a32973781b09",
@@ -319,9 +355,9 @@
     {
       "id": "7b1b93b7639c6596",
       "title": "楽天、ロボットによる「楽天無人配送」対象地域を東京都江東区豊洲に拡大",
-      "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ecnomikata.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93UE5vT1psUzhZQVRPSTE3WHpfcTY3SWQwblRqZkpXSjY4M2VWcUw1N1I0TWpCLUhwN3JxZW13bzFESW45ZDJMSmEtODRXOTAyRjZsUlIwYk1vQ1Ft?oc=5",
-      "source": "ECのミカタ",
+      "source": "ecnomikata.com",
       "category": "物流",
       "publishedAt": "2026-09-16T07:00:00.000Z"
     },
@@ -364,18 +400,18 @@
     {
       "id": "21d9a7f60fec7926",
       "title": "関東運輸局／澤井新局長「値上げの理由には物流費がある。物流事業者も理論武装を」",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GV2g0SVJrRmdzYkFsaVNKbmNnOTQxVXAyQ1FzSklzQ1VoTXJxV3U0MmVFTnY3X0VUNnVaYlFCY1Vfc1RQZmpTLXB0VkYzLXd5Ynh3Mg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-09-16T06:20:00.000Z"
     },
     {
       "id": "38da5d9bc42738db",
       "title": "市バスとトラック衝突で乗客ら負傷 バスに乗車の４４人のうち１０人けが カーブ続く坂道で以前にも事故 神戸市灘区",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZOVpQT3BpMVN5STlYRm1aZFdHTHRJMlgySDRmeGdjN05vZXAwc2c3b1F3NC16S1piZDE4ZV8zb09SN19vMElYcmYwMkd2M0o4bEJsUzJQMWNJa1dpalJndFFR?oc=5",
-      "source": "朝日放送",
+      "source": "asahi.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T05:41:40.000Z"
     },
@@ -490,9 +526,9 @@
     {
       "id": "3d9986248aa35083",
       "title": "NEXCO中日本／東名・東京IC～東名川崎ICのトラック事故、現場写真公開",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JQ0JrMEEzSGdYS29Rb2ZDa3I2eWxKd2NiRDBNdjVGOXdVVmRBSWx4YXhyeHRvcE42R2xqTHFiSzFNNWtLQXdHN3F2aXRneGxzQTZSaA?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T02:31:00.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-15T22:00:06.000Z"
-    },
-    {
-      "id": "4897225294a46efe",
-      "title": "「物流効率化法」で広がる困惑 IT化進まず負荷が高まる恐れ",
-      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82RjhQTGlzcGNGNEU1STlKeWx4dVBmaEM3N2dteU1qZFlqNWt0NEo2SFFId2NvMDlvZ0cxMW9rbXdneG5rVk5XMHlXMEtvc0dWYXQ3MGZpeFNpb3FrWkNDQ2t5Y1ViZFlFLTZfTmljWWZGUQ?oc=5",
-      "source": "日経クロステック",
-      "category": "物流",
-      "publishedAt": "2026-09-15T22:00:00.000Z"
-    },
-    {
-      "id": "3ac494a70243b579",
-      "title": "【独占】なぜ福岡の運送会社は「100年続く食品メーカー」買収？ 成長戦略が異色すぎた",
-      "description": "sbbit.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85SzhjYTd0R0I0QUV3U2pVa21PWTlzMkgtdENGM19BR1liRXdQTC1abGZSXzRPUjA0TVNBWjBxQ3NCbGhBX0RzdDZ4VWhVOGM?oc=5",
-      "source": "sbbit.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-15T21:50:00.000Z"
-    },
-    {
-      "id": "0891c10a9ce23c0f",
-      "title": "【事故】東名高速、東京IC〜東名川崎IC（下り）東京料金所付近で大型トラック絡む多重事故、リアルタイム交通状況",
-      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9yU282VWVxcUVPdGZOWlRZNHNERFduWWl0aE50bHZOdDlIMzM5NVhuNjItRGYtRW1BdE5F?oc=5",
-      "source": "t.co",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-15T21:40:06.000Z"
-    },
-    {
-      "id": "bcc5c594d7d3de89",
-      "title": "「すごい逆走事故…」 NEXCOが高速で「路肩からいきなりUターン」の衝撃動画を公開！ あわや「トラックと正面衝突」 北陸道で起きた「超キケン事案」で注意を呼びかけ",
-      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rcTRvYldNeUp2NENOSUtVNTh5NjdyR0t6b2N3MEFxeHdrdGxxTHg3SURIeVpwbmNvWmVVT1V1ekFWWk9KZ0EwaXo1OA?oc=5",
-      "source": "くるまのニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-15T21:40:00.000Z"
     }
   ]
 }
