@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-17T09:26:57.572Z",
+  "updatedAt": "2026-09-17T10:26:35.565Z",
   "articles": [
+    {
+      "id": "a586c1652d196b73",
+      "title": "止まったら「一発アウト」 広がる「便利」に潜むリスク",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVGpNeTJHYTZ0WXA2eGNrTlNhUV80bDlJSHcyZHRjNk5NdVBfN0p5anF2MFkwamFId2kydEt2LVdzLTNRTFgxOHBnRE45QQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-17T10:02:15.000Z"
+    },
+    {
+      "id": "def5647b5c4e165e",
+      "title": "九州自動車道で車5台絡む事故 トラックと軽自動車が衝突し後続も 現場付近は約3時間車線規制",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0dBdHgzdUVQUU03eXNTN3FzY0pZNHNBdUlLd2RsVUd5T25KQW5SdEJoeDQybXZXaUJjN1hwUmZCclhGdlY4OHJ6eVM4ZjI1Tk5DWHhtUU5VTXZ1RERJU2gzdld1T2tqdS1CanZ1MFUwTTEzaDE5MFAtWkhrcG1lMzI4clJfckE?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T09:52:00.000Z"
+    },
     {
       "id": "9974f91b6ee8a70c",
       "title": "東京建物、オーストラリアの物流ファンドへ出資 豪州で初の物流事業",
@@ -36,6 +54,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T07:35:00.000Z"
+    },
+    {
+      "id": "f144b578a8e1f30d",
+      "title": "乗用車とトレーラーが衝突…乗用車に乗っていた女性死亡 右折トラックとバイクの事故も 北海道",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04MC11RHFFeW9fZ3FkSnRyWVZuLWZGMzZTX1NHXzdVLXpieFMzTkF4UmNKTkU5cTVhXzhXdXd0REhCOWtGcmVfRmNYQTAxdzJuM3NyNGNLR1Q2ZEowNFFWdk9WanFRVlF2WU9iUjduSDJyM2FjSWpRNUtPeWpfeDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T06:57:00.000Z"
     },
     {
       "id": "1d0d4b043511206f",
@@ -92,6 +119,24 @@
       "publishedAt": "2026-09-17T05:03:08.000Z"
     },
     {
+      "id": "3c4dce57d4db6687",
+      "title": "東京建物／豪州で物流ファンドに初参画、3大都市圏6物件・33.5万m2に出資",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpX1B3MUxxaGZjVXRuUERldUp3VVJPSzY2NnUycFNVWmFvVjJsMjZKclQtUV9tVUFDaTlqMmxRbkhVSWlpUl94TjcwZW0zaU5QWnNhdA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-17T05:03:08.000Z"
+    },
+    {
+      "id": "56cda1ae22cadbf6",
+      "title": "CBRE／兵庫県の物流施設「西宮北ロジスティクス」現地内覧会を9月29日開催",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZTVZTX1dJTGVpenQtcTlwUW0zT3FiUVRodVk2REdHLXNTa1plWHdtd0hoV1dES1NWaFZyZWxNbk1semlYbldvalI3TDN1bzNJbVpXVw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-17T04:39:45.000Z"
+    },
+    {
       "id": "02bbdf9dac5cbe80",
       "title": "野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -108,15 +153,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T04:28:28.000Z"
-    },
-    {
-      "id": "56cda1ae22cadbf6",
-      "title": "CBRE／兵庫県の物流施設「西宮北ロジスティクス」現地内覧会を9月29日開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZTVZTX1dJTGVpenQtcTlwUW0zT3FiUVRodVk2REdHLXNTa1plWHdtd0hoV1dES1NWaFZyZWxNbk1semlYbldvalI3TDN1bzNJbVpXVw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-17T04:11:15.000Z"
     },
     {
       "id": "cd6b686552467031",
@@ -255,30 +291,30 @@
     },
     {
       "id": "30e897efbbc2756d",
-      "title": "中小が自動運転トラックと連携 ＮＬＰ協同組合がＴ２の輸送実証に参画 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "中小が自動運転トラックと連携 ＮＬＰ協同組合がＴ２の輸送実証に参画",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QVVhMkpmZTltVk1NQ1FKWnFCWmhqbkREWVZMSTdNSlR3dFBIeHFBeEw3cDc3T3JkVWJOeU9TSGdoLU9PMGpFSzVHSmJTZw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-16T22:16:55.000Z"
     },
     {
       "id": "8e7aa6e279f0f878",
-      "title": "2026年9月17日／新規許認可運送事業者 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "2026年9月17日／新規許認可運送事業者",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92NU95Mmk5c2ZDMUxSMnlKcnpSY0ZoYmdUZ3JXS20yMU5fbU9kTFlQUjhrZWYwQ2NlWmpzNU9LQWdMNE1udFFmNmtYSUFZX1EyOHg3emsycVU?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-16T22:14:57.000Z"
     },
     {
       "id": "78cbda011bb5686c",
-      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PblZobVc1RWR0UnVhLTRyQjlFR2lIRlRRY3l6SkFrLXBFRnFENlM2UXdkR1k2T3gwTVJLYzdUSFZiVjdwZC1fTHRkbXB1QQ?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-09-16T22:09:41.000Z"
+      "publishedAt": "2026-09-16T22:08:47.000Z"
     },
     {
       "id": "1f58a736d4fe7614",
@@ -332,15 +368,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbFZacTZtZDhfeUZNMHhFMzdlOXBSSVlqOU1TbEpuRWxzWHY4dHZVZDFOT2hVODBGVHdtQ3g3anZpMFY3QkxPZHJSSHlPWUpZT1BaZTViLXVHZm1ZaUdR?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
-      "id": "4d34a436f7f6bc31",
-      "title": "荷主企業の６割が法改正対応に未着手",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52SzNwLTVzMXlSbmc4eUwtMHVHcDBUVU1sWXdHaERwdTN5cHh5THRIeWRKRWFIU01NTWpyZXd1OWo3SmVLR3JBdGVZWmhoZDMwYUJINVFyb3FleXlkdGhF?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "法令・行政",
       "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
@@ -416,19 +443,19 @@
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
-      "id": "6ef06ac8b881e254",
-      "title": "鴻池運輸、食品物流の定温網と集中配車を披露",
+      "id": "d7cff6d14a26e94d",
+      "title": "国際物流のメール依存どう減らす、日新が解説",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYMGpXMGstOUYwNHBMTzNlblhSVWk4eDdJU3RWZS15akxYTU50VWw5cENaMGg0VXpsTnN4dVVnMzdFVlhuYTJxMmpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90UWZmeWRoMzlXeWh1M0czTXdSRlJURV9rWEtKS3RUa3Z1cXFlQzQwcW5UTUtjS3dpU0U5NU9sOEhkZFpOSlBISGxR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
-      "id": "d7cff6d14a26e94d",
-      "title": "国際物流のメール依存どう減らす、日新が解説",
+      "id": "6ef06ac8b881e254",
+      "title": "鴻池運輸、食品物流の定温網と集中配車を披露",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90UWZmeWRoMzlXeWh1M0czTXdSRlJURV9rWEtKS3RUa3Z1cXFlQzQwcW5UTUtjS3dpU0U5NU9sOEhkZFpOSlBISGxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYMGpXMGstOUYwNHBMTzNlblhSVWk4eDdJU3RWZS15akxYTU50VWw5cENaMGg0VXpsTnN4dVVnMzdFVlhuYTJxMmpn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
@@ -445,18 +472,18 @@
     {
       "id": "3ad1379493e556b8",
       "title": "JR貨物・ヒューテックノオリン・博多運輸・全国通運 31フィート冷凍コンテナを活用した低温物流の鉄道モーダルシフトを推進",
-      "description": "railf.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "鉄道ファン・railf.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sZmVza0J3NzBhamRPWkRaeDZDT0djb0tpS3RodGdxZjFQSmZFcDBRX2FEME8zMXZya0VVeW1IOTVHd2pmb3lDWmVlUFMtMHpxQzg0MjZqNA?oc=5",
-      "source": "railf.jp",
+      "source": "鉄道ファン・railf.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-16T18:08:58.000Z"
     },
     {
       "id": "6055360574c3eb6d",
-      "title": "適正原価 標準的運賃比で距離単価３５%減少？ - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "適正原価 標準的運賃比で距離単価３５%減少？",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RlNwVmRkaVJVakFBWlhMdjFRRUNDTlIxVjBoRW9JeWVQb01rMFJucjU0ZXFvVHEyVHhlVFlyYTJGOW84dE8tbGYyOWNVdw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-16T16:07:28.000Z"
     },
@@ -477,6 +504,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T13:23:04.000Z"
+    },
+    {
+      "id": "f0f89c3e9770b915",
+      "title": "神戸・灘の事故多発の県道「下りの危険性」浮き彫り 6年間の死傷者、上りの2倍 勾配きつい2.5キロ区間",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtbERPbDRhUFVBcmd0Qkw5MkdvZGF2Q1VzLXpETnl1RzNXNkdaUHhaLUo4enhsWWZqejNDNTlUYlN0QTdON29oWDJQYXh6cWVzdHBGc0ZXUnhDVmhxYkZiU013U0NJSFR1U3Z2Z3Fn?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T12:26:10.000Z"
     },
     {
       "id": "7b707cba51b94052",
@@ -525,10 +561,10 @@
     },
     {
       "id": "344df6e8a9db4342",
-      "title": "ひとまいるなど 物流施設内でレベル４実証｜物流ニュース - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ひとまいるなど 物流施設内でレベル４実証｜物流ニュース",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PMW5aYklRLVdOUHoxUGVSTU1MTXBOUm9aZXhBVWNwOW8xdV9WajNTLV83aS1HWnB2VldyWEFPTXFpMHROWTh4ODhsN3VHZw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-16T10:05:01.000Z"
     },
@@ -576,15 +612,6 @@
       "source": "KCTコミちゃん",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T09:23:43.000Z"
-    },
-    {
-      "id": "2c6980bd115d7985",
-      "title": "「富里物流センター」が竣工 －延床面積約3.6万坪の大型マルチテナント施設で首都圏物流網を強化－",
-      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92azlHU0xOQzMxUGJmcHRHRWtUZFp6bXFfVFUyYVNMbWhCa3Z1ZjR4R0l0ZWFPY282Q2hkQUVoNEdoUUwtRVRtSnI5b0p4QnpZa1Jj?oc=5",
-      "source": "ドリームニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-16T09:00:00.000Z"
     },
     {
       "id": "da3138fa1822a5c4",
@@ -652,9 +679,9 @@
     {
       "id": "7b1b93b7639c6596",
       "title": "楽天、ロボットによる「楽天無人配送」対象地域を東京都江東区豊洲に拡大",
-      "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ecnomikata.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93UE5vT1psUzhZQVRPSTE3WHpfcTY3SWQwblRqZkpXSjY4M2VWcUw1N1I0TWpCLUhwN3JxZW13bzFESW45ZDJMSmEtODRXOTAyRjZsUlIwYk1vQ1Ft?oc=5",
-      "source": "ECのミカタ",
+      "source": "ecnomikata.com",
       "category": "物流",
       "publishedAt": "2026-09-16T07:00:00.000Z"
     },
@@ -664,6 +691,15 @@
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLMTFicGl4STFhSVdoMzY5NFVoM2ZRT19NR0dBZTJnWDZBNXh5ajBrSzFJLUVlcW5LV1h3YzJ1Tm9OOUxkZmxJbEVwVm5ad1ZxdE40M3hkb0tPdmF2eDRxZGJkaTZFY2ltN2N3Z05pdENjQQ?oc=5",
       "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T06:33:48.000Z"
+    },
+    {
+      "id": "ac0355bfd617d94c",
+      "title": "東名高速でトラック3台の事故 男性1人死亡 (テレビ朝日系（ANN）)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRuQVhJc1BoekVkLWxOM0lUd0kzVkhNZml0ZnNpMU5pR3JnZTVzNlY0VXdadGhYaFpsWm8xbUJTX1NXdGJkMUR1eVF0V1NCc1ZuVVAwRl9yT3M0T1FORG1QZnJ5S2VQM2ZacUFNSFYtcUcyTDBSVmVPTmtLdWlYLThGVTV4V2RXZXlranlB?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T06:33:48.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-16T06:30:00.000Z"
-    },
-    {
-      "id": "21d9a7f60fec7926",
-      "title": "関東運輸局／澤井新局長「値上げの理由には物流費がある。物流事業者も理論武装を」",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GV2g0SVJrRmdzYkFsaVNKbmNnOTQxVXAyQ1FzSklzQ1VoTXJxV3U0MmVFTnY3X0VUNnVaYlFCY1Vfc1RQZmpTLXB0VkYzLXd5Ynh3Mg?oc=5",
-      "source": "トラックニュース",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-16T06:20:00.000Z"
-    },
-    {
-      "id": "38da5d9bc42738db",
-      "title": "市バスとトラック衝突で乗客ら負傷 バスに乗車の４４人のうち１０人けが カーブ続く坂道で以前にも事故 神戸市灘区",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZOVpQT3BpMVN5STlYRm1aZFdHTHRJMlgySDRmeGdjN05vZXAwc2c3b1F3NC16S1piZDE4ZV8zb09SN19vMElYcmYwMkd2M0o4bEJsUzJQMWNJa1dpalJndFFR?oc=5",
-      "source": "朝日放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T05:41:40.000Z"
-    },
-    {
-      "id": "7ab8f8b94ae24a9d",
-      "title": "手積み・手降ろしを減らす「JITBOXチャーター便」とは？“物流の2026年問題”で注目される企業間物流の新常識",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUmpUc3FLRWQ0cnA5ejMzczFIYnpWa3hmc3piZHI4LXR5Z3dxVXNLYWJ3dGRFOGlFUzV1SXBTd3pWVkZiV3VpbktxblRpU1RVU004U3ljZUxjTTNlZFNjcGdPM0V5a2dpSmYxeXdWUU9xWFJQSmpPbGxYbldTYmdVNDc3bkswYUNTb0HSAYoBQVVfeXFMTVJqVHNxS0VkNHJwOXozM3MxSGJ6Vmt4ZnN6YmRyOC10eWd3cVVzS2Fid3RkRThpRVM1dUlwU3d6VlZGYld1aW5LcW5UaVNUVVNNOFN5Y2VMY00zZWRTY3BnTzNFeWtnaUpmMXl3VlFPcVhSUEpqT2xsWG5XU2JnVTQ3N25LMGFDU29B?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-16T05:00:00.000Z"
-    },
-    {
-      "id": "affed71fb284b157",
-      "title": "JILS／オンライン公開講義「中長期計画書の提出について」10月9日開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXWjM4RGN5MzJkZ0l4V1kyQmtBaHNwY1NOalpUeEJPaG4xOThkanV6T3V0Nmx1S2t1azIwSy1kUjBQZk0tUVUzTkpRdGtYelh6aHBEbw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-16T04:30:03.000Z"
     }
   ]
 }
