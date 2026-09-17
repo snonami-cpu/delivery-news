@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T15:26:40.239Z",
+  "updatedAt": "2026-09-17T16:26:51.349Z",
   "articles": [
     {
       "id": "dcf7392260583117",
@@ -9,6 +9,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T12:49:38.000Z"
+    },
+    {
+      "id": "39ca8bf5b5f595fd",
+      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-17T10:07:17.000Z"
     },
     {
       "id": "a586c1652d196b73",
@@ -38,15 +47,6 @@
       "publishedAt": "2026-09-17T08:59:16.000Z"
     },
     {
-      "id": "4ff701f8511fc20b",
-      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbUo2WHlvOUtxaVQyRGpnLU5uU1J6SjJaVzNPMWpleHVQTlluS05ETnhBMjd6aEdTUElRb25xRUQ3YURHODBEOWRR0gFPQVVfeXFMTWFWMFVKTVR5emFwWk9XN0dfZkJ2dU5ZYzVrQUEtZUNMRlNzYzVVX1Jnd1hLWGZHRmQ5a011bHhYbDVfc3N1M3dseE1TZmQySQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T07:56:12.000Z"
-    },
-    {
       "id": "7b8b23d4415fc139",
       "title": "ロジテクノサービス／第9回物流研究会、現役慶応大生交え物流の認知ギャップを議論",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -72,15 +72,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T07:35:00.000Z"
-    },
-    {
-      "id": "78cbda011bb5686c",
-      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PblZobVc1RWR0UnVhLTRyQjlFR2lIRlRRY3l6SkFrLXBFRnFENlM2UXdkR1k2T3gwTVJLYzdUSFZiVjdwZC1fTHRkbXB1QQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-17T07:23:12.000Z"
     },
     {
       "id": "1c9e7a0e8b9e766a",
@@ -135,15 +126,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:43:16.000Z"
-    },
-    {
-      "id": "9ddabacc650bd68f",
-      "title": "三重で10/19に物流就職相談会、運送9社が参加",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wQVBPUHZoVnFDaGZpWkpRM3ZabS1SOW1Fb2tVaklFeXZXdF9DLVBGUGkwZHpUQWdpbGJBYUMwcnZFVlNQS1pLUlhB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T05:27:21.000Z"
     },
     {
       "id": "8e4c50da9922accd",
@@ -310,9 +292,9 @@
     {
       "id": "b393a756d1f17254",
       "title": "パッシブ温度記録ストリップ市場2035年予測：コールドチェーン規制義務が成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHJpWGl4RnM2MDNRZG1YWE5sbV9DWFVzdEJIbFhYaVBrY1FGQ2NBcndFeUNxZDJlRkVSLUlNWmp1UFdVcThJR0JJRTBVV09IdXg0NWlNQjFXTWhZVVlCcEVtenpMbTZPX0ZUMVc5NnVtRGs2V2R1VTJhS0tKWGVsRVk1MXNUOUhjVW43Ujd2c2NSZXpIYllyY3ZKMDhmazRNY3VFdEthdEE0Si0tbFhkTTl0RnZudGVPZ1ZMU3RKdzFYRXdUNnYxd3NjVXp6dmZuT0FXQVFR?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-17T00:41:14.000Z"
     },
@@ -411,6 +393,15 @@
       "title": "三井不動産 台湾で新たに物流施設事業へ参入",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbFZacTZtZDhfeUZNMHhFMzdlOXBSSVlqOU1TbEpuRWxzWHY4dHZVZDFOT2hVODBGVHdtQ3g3anZpMFY3QkxPZHJSSHlPWUpZT1BaZTViLXVHZm1ZaUdR?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "78056b1057f9cdc9",
+      "title": "東急不動産 神戸にマルチテナント型物流施設を竣工",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VzhqQUZJU3YyTmxMUGhtMUVCVTcyVWRSM3ctM0tPU285TUxyWWl3cHpuVElScENhU29vRUVGWkdsUzJvVzRLNUZiOXJKTm5yVHdmR1c5d0U2MVNadmw4?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-16T21:00:00.000Z"
@@ -517,9 +508,9 @@
     {
       "id": "9c7044e8107f9e22",
       "title": "断熱パッシブ冷却輸送容器市場、電子機器コールドチェーン物流を背景に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWxjcmtpNHJ3MDg1dnJJM1BuZEpESFRNcTB5QXVZWTJzSGJEZ2htOXpJZ2JVaElaSUlEZnFZLVhTQTVmX2M1M050VXNremo0ekVwV0ZMX1p6MHFuT05LRFU4Ry00NXV2Zzk0ajZlV0NqWWxHTzBpMzkyb0FyaEtYOVgyd09ZeUZOR19YOEV4aEJTaDdMcV9mcnpnN1BmMGJtV3BxNHlTNGJiOEM3b1luVWRYRzdERDRkWjYyeDJnTGJEYjY2TkRrVEd1WllfRjRRc0Q3UEd2RGtuZXYzdDFqNlZQamswTU9HZzJqQndlLU8ydw?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-16T18:26:19.000Z"
     },
@@ -706,9 +697,9 @@
     {
       "id": "f222a32973781b09",
       "title": "物流サービス向けソフトウェア市場―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xMTdFa3JfM1lwX2x4MC0wSVloV0dnX1pvd2lHZ19uUTZsREhDT1BBZ182Z2ptZEc0bGo3R2JiV0szWWlWT1ZuVy1nOHlqclE?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "物流",
       "publishedAt": "2026-09-16T08:12:00.000Z"
     },
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-16T07:57:47.000Z"
+    },
+    {
+      "id": "2e72ce5bda2dffda",
+      "title": "「ブレーキが利かなかった」トラックがバス追突 下り坂での「フェード現象」か 神戸市・灘区（読売テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81b2p1enpRQjBoSnVXVXRmdHZpbE9RN0NLSmFuVW1wNHBNUFB2bEttZEVWWXd2SERCTmFrNXYwV2loLVlFaWJFcTFnNXRTOTdEdVhxODlzdXJTckVzNmRjQjZyaFpPVVZUUkJFVy1QVnBLT0hXVmtHM0F4NW5yWk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T07:38:00.000Z"
     }
   ]
 }
