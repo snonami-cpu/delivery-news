@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T17:23:16.552Z",
+  "updatedAt": "2026-09-17T18:29:16.756Z",
   "articles": [
     {
       "id": "dcf7392260583117",
@@ -9,6 +9,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T12:49:38.000Z"
+    },
+    {
+      "id": "07f7a6b904fc5acb",
+      "title": "京王電鉄、薬配送と不動産仲介支援の2社に出資 事業領域拡大探る",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSk9nZUVZWW1BbFJtMDIwc1k1LTFIQ1QtRURUdHlsN3FpQ0VRbUsxOG9RR0plbFNhUzRfanNaNGRDSDl5OWstWFVDYldYWkpnbURrU0xEZGN2V1R6OWkxbnVCQnJXOFlNaFdvTg?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-17T10:53:37.000Z"
     },
     {
       "id": "a586c1652d196b73",
@@ -36,15 +45,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-17T08:59:16.000Z"
-    },
-    {
-      "id": "4ff701f8511fc20b",
-      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbUo2WHlvOUtxaVQyRGpnLU5uU1J6SjJaVzNPMWpleHVQTlluS05ETnhBMjd6aEdTUElRb25xRUQ3YURHODBEOWRR0gFPQVVfeXFMTWFWMFVKTVR5emFwWk9XN0dfZkJ2dU5ZYzVrQUEtZUNMRlNzYzVVX1Jnd1hLWGZHRmQ5a011bHhYbDVfc3N1M3dseE1TZmQySQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T07:56:12.000Z"
     },
     {
       "id": "7b8b23d4415fc139",
@@ -128,15 +128,6 @@
       "publishedAt": "2026-09-17T05:43:16.000Z"
     },
     {
-      "id": "9ddabacc650bd68f",
-      "title": "三重で10/19に物流就職相談会、運送9社が参加",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wQVBPUHZoVnFDaGZpWkpRM3ZabS1SOW1Fb2tVaklFeXZXdF9DLVBGUGkwZHpUQWdpbGJBYUMwcnZFVlNQS1pLUlhB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T05:27:21.000Z"
-    },
-    {
       "id": "8e4c50da9922accd",
       "title": "三井物産リアルティほか／物流施設の遊休屋根を再エネ供給拠点に転換へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -211,9 +202,9 @@
     {
       "id": "211dc096d12417ce",
       "title": "帯広市 交差点で右折しようとしたトラックと直進のバイクが衝突 バイクに乗っていた60代男性が重体",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMTzZzNGVJNjFSQkhfR1p1N2xfYWkyYzA3OXhVbHNHSGxaSTlYSGVsaGZiaWM4SFlpV1VpRDdselRVSUhTM3JSZlZvRGpmdHN5NGVVRTZZaUY5Zw?oc=5",
-      "source": "HTB 北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:48:00.000Z"
     },
@@ -272,15 +263,6 @@
       "publishedAt": "2026-09-17T02:26:00.000Z"
     },
     {
-      "id": "78cbda011bb5686c",
-      "title": "「時短」で給料はどうなる？ 残業減＆生産増の難問に挑む運送業界",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PblZobVc1RWR0UnVhLTRyQjlFR2lIRlRRY3l6SkFrLXBFRnFENlM2UXdkR1k2T3gwTVJLYzdUSFZiVjdwZC1fTHRkbXB1QQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:20:25.000Z"
-    },
-    {
       "id": "1cb60fa827819415",
       "title": "【国道4号】柴田バイパス 大河原町内でトラック事故 4時間ぶり通行止め解除（17日06:45現在）",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -310,9 +292,9 @@
     {
       "id": "b393a756d1f17254",
       "title": "パッシブ温度記録ストリップ市場2035年予測：コールドチェーン規制義務が成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHJpWGl4RnM2MDNRZG1YWE5sbV9DWFVzdEJIbFhYaVBrY1FGQ2NBcndFeUNxZDJlRkVSLUlNWmp1UFdVcThJR0JJRTBVV09IdXg0NWlNQjFXTWhZVVlCcEVtenpMbTZPX0ZUMVc5NnVtRGs2V2R1VTJhS0tKWGVsRVk1MXNUOUhjVW43Ujd2c2NSZXpIYllyY3ZKMDhmazRNY3VFdEthdEE0Si0tbFhkTTl0RnZudGVPZ1ZMU3RKdzFYRXdUNnYxd3NjVXp6dmZuT0FXQVFR?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-17T00:41:14.000Z"
     },
@@ -411,6 +393,15 @@
       "title": "三井不動産 台湾で新たに物流施設事業へ参入",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbFZacTZtZDhfeUZNMHhFMzdlOXBSSVlqOU1TbEpuRWxzWHY4dHZVZDFOT2hVODBGVHdtQ3g3anZpMFY3QkxPZHJSSHlPWUpZT1BaZTViLXVHZm1ZaUdR?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "78056b1057f9cdc9",
+      "title": "東急不動産 神戸にマルチテナント型物流施設を竣工",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VzhqQUZJU3YyTmxMUGhtMUVCVTcyVWRSM3ctM0tPU285TUxyWWl3cHpuVElScENhU29vRUVGWkdsUzJvVzRLNUZiOXJKTm5yVHdmR1c5d0U2MVNadmw4?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-16T21:00:00.000Z"
@@ -517,9 +508,9 @@
     {
       "id": "9c7044e8107f9e22",
       "title": "断熱パッシブ冷却輸送容器市場、電子機器コールドチェーン物流を背景に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWxjcmtpNHJ3MDg1dnJJM1BuZEpESFRNcTB5QXVZWTJzSGJEZ2htOXpJZ2JVaElaSUlEZnFZLVhTQTVmX2M1M050VXNremo0ekVwV0ZMX1p6MHFuT05LRFU4Ry00NXV2Zzk0ajZlV0NqWWxHTzBpMzkyb0FyaEtYOVgyd09ZeUZOR19YOEV4aEJTaDdMcV9mcnpnN1BmMGJtV3BxNHlTNGJiOEM3b1luVWRYRzdERDRkWjYyeDJnTGJEYjY2TkRrVEd1WllfRjRRc0Q3UEd2RGtuZXYzdDFqNlZQamswTU9HZzJqQndlLU8ydw?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-16T18:26:19.000Z"
     },
@@ -607,9 +598,9 @@
     {
       "id": "caa4f166e941c0fc",
       "title": "【現場報告】「ブレーキが利かなくなった」 トラックがバスに衝突 ガードパイプに接触してスピンしバスに衝突 相次ぐ同様の事故 現場では『フェード現象』への注意喚起も 神戸・灘区",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFNWE1SnBuSDN0REY1SkxEVEpDN01fdFJNQ0hzcjFNeUhTZmFTOXlrTDF0Y0wzOFpKcjVwQkQxRVBIQWg2eTV2dWZuLWJTZw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T10:39:00.000Z"
     },
@@ -641,38 +632,29 @@
       "publishedAt": "2026-09-16T10:05:01.000Z"
     },
     {
+      "id": "ece0e1305b304afc",
+      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY0NGZU5FQXdrRXd3MXAwNVpVdS10Ui1VMC1waS1TT1BwQVhUVTNQYVk5aEtINjFmMUMtb0xvY1llaUxyTkZyb2sxYnVZN3drM3UxNnd0QllQbVVjQl96TkFLRnJmREpFam5QUTZSS0doU0VjSWlKOFlhMVRIY28?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T10:03:19.000Z"
+    },
+    {
       "id": "550492384f0adae1",
       "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代 – Quebee キュエビー",
-      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcWhGbk54NFlCMTZuTkpkSHZwQzlQZGZ4cXdGVmxueDhrRWhkY0x0LVVoWVVPeW9WaGk1MU1nTkh1cFAxTGphdHlpZ0hDREpDR1dZQi1tTG4?oc=5",
-      "source": "qab.co.jp",
+      "source": "QAB 琉球朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T10:03:19.000Z"
-    },
-    {
-      "id": "5a9d7c076eb15611",
-      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代 - news.tv-asahi.co.jp",
-      "description": "news.tv-asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jQkp5elg0em1pSmN2c0xIOTRwZ1YyaGhhVkdHblBLanQ4SWxWb0huVG83U1FYNG5Db01WbE5KeTc0VzIzQkt2eVBPRngyc25DVkIzZzg4eWdLYzhmWElVQ3BNU3RuRTBSZktGbC1hRE95UQ?oc=5",
-      "source": "news.tv-asahi.co.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T10:03:19.000Z"
-    },
-    {
-      "id": "30bc6b273b73e0a9",
-      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME1mSzg0RnR5RzlkdnhiOF9HMFVQSW9WOGlaNkt0UGI2ODh3SU1DTmJqZjl4QTMyRERfYmlDYklmamJ2em1ia0xvbUY4ZUNqeDlQM1lYVTU2VC1IM3E3MXF5MGNUMm5vazBOeTlzb2JqOFRwbWowdGZpWmNOT0dNdmx3azk3OHlYWHRXZ9IBjAFBVV95cUxOME1mSzg0RnR5RzlkdnhiOF9HMFVQSW9WOGlaNkt0UGI2ODh3SU1DTmJqZjl4QTMyRERfYmlDYklmamJ2em1ia0xvbUY4ZUNqeDlQM1lYVTU2VC1IM3E3MXF5MGNUMm5vazBOeTlzb2JqOFRwbWowdGZpWmNOT0dNdmx3azk3OHlYWHRXZw?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T10:03:00.000Z"
     },
     {
       "id": "3f7282ad8a01bd33",
       "title": "秋の全国交通安全運動へ バスやトラックも交通事故の防止を呼びかけ 松山市で出発式【愛媛】",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NSFZ3c1RTMUlfZXpMNmNrNjRneG93eGRhUjN6NTl0Y0x1M3JjVWJHaGdGNGxVV3l5X2xnSnUzb0NLWGlzVkdtdlFndkQtUQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T09:37:00.000Z"
     },
@@ -695,22 +677,22 @@
       "publishedAt": "2026-09-16T09:23:43.000Z"
     },
     {
-      "id": "da3138fa1822a5c4",
-      "title": "「ブレーキが利かなくなった」8月も事故起きた急な下り坂でまた…トラックが市バスに追突 トラック運転手は重傷か 神戸・灘区",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1RkktNnRFS2J4NlVnRUhIS2tBbUxiZEt1OVVXM3FYQUFwX2xqcHV3WU1yaTVpZnN1WER2WVlsdno1c2trZU1JUXdEOExFZVVDQjBDZC1OcUtXN1lBbXdRd0k0T1g2UzhXMERpcUd3NHlwbzVTRWdQNVd6NWfSAYIBQVVfeXFMUFR3ckNoU3lrM3JxMGRlSW1LRk1LWHl6WUJGdTROZjJXNjJ1SUM1VHJrSEYwc3hzX2hWLVE2cmtLQzdtMU8xSnc5RDlsWW02NXNBdzJxSzdVNHQxWmVEajdVTmZfVk1rbHctNVNhWnNJTHdwanJzSTdBTlI4TGtGSmlmdw?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T08:43:00.000Z"
+      "id": "2c6980bd115d7985",
+      "title": "「富里物流センター」が竣工 －延床面積約3.6万坪の大型マルチテナント施設で首都圏物流網を強化－",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92azlHU0xOQzMxUGJmcHRHRWtUZFp6bXFfVFUyYVNMbWhCa3Z1ZjR4R0l0ZWFPY282Q2hkQUVoNEdoUUwtRVRtSnI5b0p4QnpZa1Jj?oc=5",
+      "source": "ドリームニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-16T09:00:00.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-16T08:19:25.000Z"
+      "id": "da3138fa1822a5c4",
+      "title": "「ブレーキが利かなくなった」8月も事故起きた急な下り坂でまた…トラックが市バスに追突 トラック運転手は重傷か 神戸・灘区",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1RkktNnRFS2J4NlVnRUhIS2tBbUxiZEt1OVVXM3FYQUFwX2xqcHV3WU1yaTVpZnN1WER2WVlsdno1c2trZU1JUXdEOExFZVVDQjBDZC1OcUtXN1lBbXdRd0k0T1g2UzhXMERpcUd3NHlwbzVTRWdQNVd6NWfSAYIBQVVfeXFMUFR3ckNoU3lrM3JxMGRlSW1LRk1LWHl6WUJGdTROZjJXNjJ1SUM1VHJrSEYwc3hzX2hWLVE2cmtLQzdtMU8xSnc5RDlsWW02NXNBdzJxSzdVNHQxWmVEajdVTmZfVk1rbHctNVNhWnNJTHdwanJzSTdBTlI4TGtGSmlmdw?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T08:43:00.000Z"
     },
     {
       "id": "f222a32973781b09",
@@ -720,6 +702,24 @@
       "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-16T08:12:00.000Z"
+    },
+    {
+      "id": "ff1bca245eeefd1e",
+      "title": "CBRE／神奈川県10月末竣工の物流施設で内覧会を10月1・2日に開催",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZktDN2ZTSnZCVzIwZjR4ajJtUDg0d2RMV1U1WUZVMFpPRVdDdjl1RUc3UndaQXBpRk5zQkI4MXE4TDJRVkpyb1h3M1Z4R21Pa0R5VA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-16T07:57:47.000Z"
+    },
+    {
+      "id": "2e72ce5bda2dffda",
+      "title": "「ブレーキが利かなかった」トラックがバス追突 下り坂での「フェード現象」か 神戸市・灘区（読売テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81b2p1enpRQjBoSnVXVXRmdHZpbE9RN0NLSmFuVW1wNHBNUFB2bEttZEVWWXd2SERCTmFrNXYwV2loLVlFaWJFcTFnNXRTOTdEdVhxODlzdXJTckVzNmRjQjZyaFpPVVZUUkJFVy1QVnBLT0hXVmtHM0F4NW5yWk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T07:38:00.000Z"
     }
   ]
 }
