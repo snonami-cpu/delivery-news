@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:32:37.890Z",
+  "updatedAt": "2026-09-17T01:25:59.699Z",
   "articles": [
     {
       "id": "07fe3d20d4d999af",
@@ -11,22 +11,13 @@
       "publishedAt": "2026-09-17T00:15:09.000Z"
     },
     {
-      "id": "111d909411539040",
-      "title": "バスとトラックが衝突 2人けが 東京・練馬区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T23:43:25.000Z"
-    },
-    {
       "id": "1f58a736d4fe7614",
       "title": "歌舞伎町でトラックが歩道に乗り上げ 荷台部分に“ポール”突き刺さる けが人なし 東京・新宿区役所前",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QnlPZmhTR3FVNUpoODBNVGZIeVdydEIwUmMwZVlTaVNCVDE3ejNrRFZfRy10WEFQTDdTb0JXdFdQY1pmOXF5anlnOUFPdlVQNC1UdnNPbm5WZV9fMjNPQnZBbzJhbUpLYlZ0cnpoTl9RRW9hYVpJVGt2WUtxS1E?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-09-16T21:46:30.000Z"
+      "publishedAt": "2026-09-16T21:44:20.000Z"
     },
     {
       "id": "03a5ccebabb399e3",
@@ -45,6 +36,15 @@
       "source": "cargo-news.online",
       "category": "法令・行政",
       "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "e18dd63cb6812795",
+      "title": "京都府 京田辺市 パナソニックHD、京都の最大物流施設に関西９拠点を集約…年10億円超のコスト減へ",
+      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9USWlEMU1hZUZ6dlNNZUcwSk1oZ2FHTjF1R2xwbFB6d29Rb2YtRWdMVlJHY09sTHJfY2d1OU03dmlUbjhzaFprU1FRdnRrdnNCT1AwcGN1bGpsa3hsQXpwUGVsQkRtWm44RmlxT0V4a0FUUQ?oc=5",
+      "source": "読売新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-16T20:30:00.000Z"
     },
     {
       "id": "965a6fbd4ec567ff",
@@ -74,6 +74,15 @@
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
+      "id": "765e84cd3455064a",
+      "title": "オランダ大使館、欧州物流と環境規制の最新動向解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WOFhMSFBHMFlDUEFvRF9mTWo3NkY5TlVNc3BGWFhmVVlzTzhRT0VMcGNTTjI0R2VlMFdELTVKQ3daZDNJcTd5amd3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-16T19:24:11.000Z"
+    },
+    {
       "id": "876ce6fe07309b29",
       "title": "葵物流（千葉）に事業停止30日、7件の法令違反",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -92,13 +101,13 @@
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
-      "id": "765e84cd3455064a",
-      "title": "オランダ大使館、欧州物流と環境規制の最新動向解説",
+      "id": "5d3299630f0436f2",
+      "title": "イオンネクスト、精米後から冷蔵で米を配送",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WOFhMSFBHMFlDUEFvRF9mTWo3NkY5TlVNc3BGWFhmVVlzTzhRT0VMcGNTTjI0R2VlMFdELTVKQ3daZDNJcTd5amd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lTk1RZVBkOXhxVDNwWjVOclhZUVpkWjZTLWJmbnJwcXdvY3oza1lpdzNkeEdjdzdOWHEwX3l4bzY5bVRfQUw0ckdB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-16T19:18:45.000Z"
+      "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
       "id": "2ea82ac2a0faced7",
@@ -114,15 +123,6 @@
       "title": "鴻池運輸、食品物流の定温網と集中配車を披露",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYMGpXMGstOUYwNHBMTzNlblhSVWk4eDdJU3RWZS15akxYTU50VWw5cENaMGg0VXpsTnN4dVVnMzdFVlhuYTJxMmpn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:18:45.000Z"
-    },
-    {
-      "id": "5c8f6aef7d61d59a",
-      "title": "中国EC物流持ち直し、農村需要と履約率改善",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RNVJBdTc5UmtnUEhYZHdXa0dkWkljSVM2YjVqWlFENU1KQ1FBRk11WVZfMnZjaHFJbm4wYkotcklnQXF5Q3NHd3ZR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:18:45.000Z"
@@ -281,6 +281,15 @@
       "publishedAt": "2026-09-16T10:05:01.000Z"
     },
     {
+      "id": "ece0e1305b304afc",
+      "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY0NGZU5FQXdrRXd3MXAwNVpVdS10Ui1VMC1waS1TT1BwQVhUVTNQYVk5aEtINjFmMUMtb0xvY1llaUxyTkZyb2sxYnVZN3drM3UxNnd0QllQbVVjQl96TkFLRnJmREpFam5QUTZSS0doU0VjSWlKOFlhMVRIY28?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T10:03:19.000Z"
+    },
+    {
       "id": "30bc6b273b73e0a9",
       "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -416,13 +425,13 @@
       "publishedAt": "2026-09-16T07:00:00.000Z"
     },
     {
-      "id": "ab9a3264e46f2c3e",
+      "id": "c6dfd6a968a4f268",
       "title": "東名高速でトラック3台の事故 男性1人死亡",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLMTFicGl4STFhSVdoMzY5NFVoM2ZRT19NR0dBZTJnWDZBNXh5ajBrSzFJLUVlcW5LV1h3YzJ1Tm9OOUxkZmxJbEVwVm5ad1ZxdE40M3hkb0tPdmF2eDRxZGJkaTZFY2ltN2N3Z05pdENjQQ?oc=5",
-      "source": "テレ朝NEWS",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd25rZVNhcTQ5bjRkcFpZcmdJcUYxV1V5S0IxQU40QjQxcGVucFNsdFlHWFNxLWQ5OFlHNHY1aDdVczZkM05RRkpmZ0hBR05hbGwzMVVVSGd1WGR0Q0Zac0VfbmRYOEYzQmgxTTdOTjVuN2tLeEk2RmZHTjJNV1NUSkRHQXBpc1JHTEhQedIBjAFBVV95cUxQd25rZVNhcTQ5bjRkcFpZcmdJcUYxV1V5S0IxQU40QjQxcGVucFNsdFlHWFNxLWQ5OFlHNHY1aDdVczZkM05RRkpmZ0hBR05hbGwzMVVVSGd1WGR0Q0Zac0VfbmRYOEYzQmgxTTdOTjVuN2tLeEk2RmZHTjJNV1NUSkRHQXBpc1JHTEhQeQ?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-09-16T06:33:48.000Z"
+      "publishedAt": "2026-09-16T06:33:00.000Z"
     },
     {
       "id": "2dc433841151d9d3",
@@ -605,6 +614,15 @@
       "publishedAt": "2026-09-16T02:03:00.000Z"
     },
     {
+      "id": "111d909411539040",
+      "title": "バスとトラックが衝突 2人けが 東京・練馬区（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-16T02:00:32.000Z"
+    },
+    {
       "id": "4ad4f5f99df70840",
       "title": "バスとトラックが衝突 2人けが 東京・練馬区",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-15T23:43:28.000Z"
-    },
-    {
-      "id": "b29f5f926786f948",
-      "title": "北海道、道東物流で鉄道小口混載モデルを検証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iUl9xUll2dldKMTZDUVZDOEZWdEFLQnVaclFRVGZYSnNlLWwtQlBPcmQyLUxKUU00UDVoS2UweFM2WnctbkQydGNn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-15T23:03:24.000Z"
-    },
-    {
-      "id": "5c6cb1b14c2bb3e1",
-      "title": "東名高速道路下りでトラック3台が絡む事故 東京IC～東名川崎IC間で通行止め 解除の見通し立たず",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0UV9BcmEtV3UwYUtKb3J0WmFESU5GR2E0c0hFNk1NNU8tcTZWSS1SaV8yTGhDMWh4QzRHd0dqcTkxMUg5N0ZqZVgzVHIzOVBwSHNna1d5Y1hkTTRuMnZkOWNpUklsblFKdUFGdU45eXhkLWs?oc=5",
-      "source": "Excite エキサイト",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-15T22:23:00.000Z"
     }
   ]
 }
