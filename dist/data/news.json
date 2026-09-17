@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:29:16.756Z",
+  "updatedAt": "2026-09-17T19:24:00.980Z",
   "articles": [
     {
       "id": "dcf7392260583117",
@@ -20,10 +20,28 @@
       "publishedAt": "2026-09-17T10:53:37.000Z"
     },
     {
+      "id": "39ca8bf5b5f595fd",
+      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-17T10:07:17.000Z"
+    },
+    {
       "id": "a586c1652d196b73",
       "title": "止まったら「一発アウト」 広がる「便利」に潜むリスク",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVGpNeTJHYTZ0WXA2eGNrTlNhUV80bDlJSHcyZHRjNk5NdVBfN0p5anF2MFkwamFId2kydEt2LVdzLTNRTFgxOHBnRE45QQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-17T10:02:15.000Z"
+    },
+    {
+      "id": "af9b61eba23c0e55",
+      "title": "トラスコ中山 新潟県三条市に「ＨＣ東日本物流センター」新設｜etc",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByTmNqVUgyb2ViS1BUam5zM0JVaE5lUENqcHVnSVJxT1RLZFZjc0NPNy1YRmhRZmhmSHNFQ0lJRzQxdVBwV1FqQ2tuV0I?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-17T10:02:15.000Z"
@@ -45,6 +63,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-17T08:59:16.000Z"
+    },
+    {
+      "id": "c96ade22edd4f95d",
+      "title": "三菱自、商用EVの位置を遠隔管理 配送効率化へ新サービス",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hV2l4Y0d1VEh3RTB2SmJ6MWJyaVdsRGF6eUZWX3p3Yk9sRU9lZGhPRUNBYTRPMUt6MWQwZ1RpU1BSYVVKSzlQa1o1LTZldW9waHd4dmpvTUU4MWF4SXYxYkxPWl9NRDlmZTliQQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-17T08:10:12.000Z"
     },
     {
       "id": "7b8b23d4415fc139",
@@ -164,6 +191,15 @@
       "publishedAt": "2026-09-17T04:38:57.000Z"
     },
     {
+      "id": "7269f3fbf757d115",
+      "title": "関東運輸局／26年9月3日、トラック事業者8者許可、貨物利用運送10者登録",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JZUhKRmtiOEtaU2FYdnlCSUxZRzJpZmk5SC0xV09Gb3ZpQk5hNmZzUk4xNUVid2c3MEM0NkpHV0dwOV82akstOVBnNm90bnNkSHkxcA?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-17T03:32:00.000Z"
+    },
+    {
       "id": "cd6b686552467031",
       "title": "豊中市、災害物流でJPロジスティクスとも協定",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -202,9 +238,9 @@
     {
       "id": "211dc096d12417ce",
       "title": "帯広市 交差点で右折しようとしたトラックと直進のバイクが衝突 バイクに乗っていた60代男性が重体",
-      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "HTB北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMTzZzNGVJNjFSQkhfR1p1N2xfYWkyYzA3OXhVbHNHSGxaSTlYSGVsaGZiaWM4SFlpV1VpRDdselRVSUhTM3JSZlZvRGpmdHN5NGVVRTZZaUY5Zw?oc=5",
-      "source": "htb.co.jp",
+      "source": "HTB北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:48:00.000Z"
     },
@@ -292,9 +328,9 @@
     {
       "id": "b393a756d1f17254",
       "title": "パッシブ温度記録ストリップ市場2035年予測：コールドチェーン規制義務が成長を牽引 - ニュースと統計",
-      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHJpWGl4RnM2MDNRZG1YWE5sbV9DWFVzdEJIbFhYaVBrY1FGQ2NBcndFeUNxZDJlRkVSLUlNWmp1UFdVcThJR0JJRTBVV09IdXg0NWlNQjFXTWhZVVlCcEVtenpMbTZPX0ZUMVc5NnVtRGs2V2R1VTJhS0tKWGVsRVk1MXNUOUhjVW43Ujd2c2NSZXpIYllyY3ZKMDhmazRNY3VFdEthdEE0Si0tbFhkTTl0RnZudGVPZ1ZMU3RKdzFYRXdUNnYxd3NjVXp6dmZuT0FXQVFR?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-17T00:41:14.000Z"
     },
@@ -324,15 +360,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T23:23:51.000Z"
-    },
-    {
-      "id": "30e897efbbc2756d",
-      "title": "中小が自動運転トラックと連携 ＮＬＰ協同組合がＴ２の輸送実証に参画",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QVVhMkpmZTltVk1NQ1FKWnFCWmhqbkREWVZMSTdNSlR3dFBIeHFBeEw3cDc3T3JkVWJOeU9TSGdoLU9PMGpFSzVHSmJTZw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-16T22:16:55.000Z"
     },
     {
       "id": "8e7aa6e279f0f878",
@@ -418,9 +445,9 @@
     {
       "id": "16899095057291b7",
       "title": "関西物流改革の拠点 パナHD、京田辺倉庫公開",
-      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcDQtNGJkMDR0QjB5Vmh5bW9pUUwzc21uX0NfTmpHZVJ4MEJHLWp1UjVQTnJjUVNDVUNUTndoZE5hTGw5ZFBsNWZiT3NLdEVIOGZ3WjdfUlE?oc=5",
-      "source": "日刊工業新聞",
+      "source": "nikkan.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-16T20:00:00.000Z"
     },
@@ -508,9 +535,9 @@
     {
       "id": "9c7044e8107f9e22",
       "title": "断熱パッシブ冷却輸送容器市場、電子機器コールドチェーン物流を背景に2035年まで拡大へ",
-      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWxjcmtpNHJ3MDg1dnJJM1BuZEpESFRNcTB5QXVZWTJzSGJEZ2htOXpJZ2JVaElaSUlEZnFZLVhTQTVmX2M1M050VXNremo0ekVwV0ZMX1p6MHFuT05LRFU4Ry00NXV2Zzk0ajZlV0NqWWxHTzBpMzkyb0FyaEtYOVgyd09ZeUZOR19YOEV4aEJTaDdMcV9mcnpnN1BmMGJtV3BxNHlTNGJiOEM3b1luVWRYRzdERDRkWjYyeDJnTGJEYjY2TkRrVEd1WllfRjRRc0Q3UEd2RGtuZXYzdDFqNlZQamswTU9HZzJqQndlLU8ydw?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-16T18:26:19.000Z"
     },
@@ -643,9 +670,9 @@
     {
       "id": "550492384f0adae1",
       "title": "「事故が起きにくい交差点」で事故 登場初日に軽トラックが 運転手は90代 – Quebee キュエビー",
-      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcWhGbk54NFlCMTZuTkpkSHZwQzlQZGZ4cXdGVmxueDhrRWhkY0x0LVVoWVVPeW9WaGk1MU1nTkh1cFAxTGphdHlpZ0hDREpDR1dZQi1tTG4?oc=5",
-      "source": "QAB 琉球朝日放送",
+      "source": "qab.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T10:03:19.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T08:43:00.000Z"
-    },
-    {
-      "id": "f222a32973781b09",
-      "title": "物流サービス向けソフトウェア市場―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xMTdFa3JfM1lwX2x4MC0wSVloV0dnX1pvd2lHZ19uUTZsREhDT1BBZ182Z2ptZEc0bGo3R2JiV0szWWlWT1ZuVy1nOHlqclE?oc=5",
-      "source": "アットプレス",
-      "category": "物流",
-      "publishedAt": "2026-09-16T08:12:00.000Z"
-    },
-    {
-      "id": "ff1bca245eeefd1e",
-      "title": "CBRE／神奈川県10月末竣工の物流施設で内覧会を10月1・2日に開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZktDN2ZTSnZCVzIwZjR4ajJtUDg0d2RMV1U1WUZVMFpPRVdDdjl1RUc3UndaQXBpRk5zQkI4MXE4TDJRVkpyb1h3M1Z4R21Pa0R5VA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-16T07:57:47.000Z"
-    },
-    {
-      "id": "2e72ce5bda2dffda",
-      "title": "「ブレーキが利かなかった」トラックがバス追突 下り坂での「フェード現象」か 神戸市・灘区（読売テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81b2p1enpRQjBoSnVXVXRmdHZpbE9RN0NLSmFuVW1wNHBNUFB2bEttZEVWWXd2SERCTmFrNXYwV2loLVlFaWJFcTFnNXRTOTdEdVhxODlzdXJTckVzNmRjQjZyaFpPVVZUUkJFVy1QVnBLT0hXVmtHM0F4NW5yWk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T07:38:00.000Z"
     }
   ]
 }
