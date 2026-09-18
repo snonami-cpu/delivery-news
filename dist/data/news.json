@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:24:16.498Z",
+  "updatedAt": "2026-09-18T23:24:08.462Z",
   "articles": [
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -76,9 +76,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "WEB CARTOP",
+      "source": "webcartop.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -101,6 +101,15 @@
       "publishedAt": "2026-09-18T09:15:32.000Z"
     },
     {
+      "id": "0002f0e27f07ea25",
+      "title": "タンク車から男性従業員が転落死亡 労働安全衛生法違反の疑い運送会社など書類送検 福島・田村市（TUFテレビユー福島）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaUpNVldJaVMzYlB2bFZHSkd1Y1BtX0pxdThweDlHckUyb2ZDTFRKQmN5Tl9hUXQ4TzQ4T0RTMHlsRUYxRnp1clo2UDVLZWtNampwdUJILXZuS2hDLWFBMWZCdUVTcmVCUnM2b1dpTS0yaV84OUVsVmJDSEk5Z2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T09:05:23.000Z"
+    },
+    {
       "id": "5771f5bfc3fe2ac3",
       "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - online.logi-biz.com",
       "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -110,20 +119,11 @@
       "publishedAt": "2026-09-18T09:04:13.000Z"
     },
     {
-      "id": "a02d92601de7f66b",
-      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-18T08:59:24.000Z"
-    },
-    {
       "id": "b477db9e50b9f248",
       "title": "国土交通省／運送契約締結時の書面交付義務の主体は誰か？Q＆A公開",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VdDU2LUs2Y1V0MVduOTFaTUw5UTdvMEJvNWszNXNwS1kzRzJZcWtqZ09zUjNqN01zc2VCT21HdXlYcS1KY2ZSNV9XRXU5bmpJeHpPTQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-18T08:34:00.000Z"
     },
@@ -389,15 +389,6 @@
       "publishedAt": "2026-09-17T19:32:02.000Z"
     },
     {
-      "id": "10ea0b975cef3583",
-      "title": "東京建物、豪物流6物件で足場ファンド初参画",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdHJJVGVxeTZVQ3FkYmtaZ2tmYkxqbUN0M0NXMlExMC04b0ZDck5SeWhyRnU1LWUyZzVqejdZTm1XbWc2SHQzNm5n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T19:32:02.000Z"
-    },
-    {
       "id": "cd6b686552467031",
       "title": "豊中市、災害物流でJPロジスティクスとも協定",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -418,9 +409,9 @@
     {
       "id": "db30bbbed990a48c",
       "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
-      "description": "business.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWjZLMGNvS0pEbUZfMGM5bmtqek82OFZIUUZfSEZlaFdyb2p3SGxLT01wSlprNXdZSTNlX0tVWWp6VWEyQ3hQdjZsSEZBc2tGVmNnS2RTZHR3LUtPRkh0ZXZyUlA3VHM?oc=5",
-      "source": "business.nikkei.com",
+      "source": "日経ビジネス電子版",
       "category": "物流",
       "publishedAt": "2026-09-17T15:00:00.000Z"
     },
@@ -445,9 +436,9 @@
     {
       "id": "09915d5f7cd03fd9",
       "title": "鹿嶋 軽ワゴン車とトラックが正面衝突 ７４歳女性が死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibzVIeFVuSDIwSmZGWlZTV2tlYlZQd2taMExyck5EeVlIaExsX1BzNzNvTDdkbF9FOE94ckpJS19rSUlWZDd1Rk9UaEtSdWRkbDgxUzlyanQ?oc=5",
-      "source": "NHKニュース",
+      "source": "news.web.nhk",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T11:09:00.000Z"
     },
@@ -553,9 +544,9 @@
     {
       "id": "e80836037d4a79e2",
       "title": "【プレスリリースのご案内】インド北部に大型物流センターを開設",
-      "description": "digitalpr.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Digital PR Platformが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDd1Q5cnliX1FlblpGOFVHQlVlSlFPMlhTU0U5bU1EWS1KUHl1QzFQSjRPay1ucWJlZWc4WGVVOUp2dDA?oc=5",
-      "source": "digitalpr.jp",
+      "source": "Digital PR Platform",
       "category": "物流",
       "publishedAt": "2026-09-17T06:56:14.000Z"
     },
@@ -668,6 +659,15 @@
       "publishedAt": "2026-09-17T02:48:19.000Z"
     },
     {
+      "id": "f935113f4a558c29",
+      "title": "【速報】信号待ちの神戸市バスに大型トラックが突っ込む 乗客1人とトラックの運転手が病院搬送 神戸市灘区（読売テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTlIyd2VpekVnTnZCd0FEWVcwOVpyYXdzTWZ0dC1adUpvQlZlYmJFOWFxeEFlV085N3FHb3FmOGdfU2xmUW1MZGxQVHhrMjFCYkdyWG5rSkdTUkJLQzRQbzY0b3ktVWdSOTZqeXJ6MjFURkMwc2tZLUxESVN4WG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T02:42:00.000Z"
+    },
+    {
       "id": "541fc629d42b08ab",
       "title": "物流連／第1回 環境・サステナビリティ委員会、北海道ロジサービスが講演",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -706,18 +706,18 @@
     {
       "id": "f9a04cb7f599e7c4",
       "title": "北海道のニュース",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83X3JJNTlDak5vVU1hc0c5RkNVSFFDRFEwZlpNNzA5NG5qcGpPbFlrZmNIbi1RREtpUm1fSjRRWHZDWHJsYTNXeXYya0w0TXRNV0ZTbF9hMjNhbTRHcExZUmNzcFBhR28?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:26:00.000Z"
     },
     {
       "id": "b49e37e4cce419da",
       "title": "ユニクロ／カスタムオーダースーツ、工場から「ダイレクト配送」開始",
-      "description": "ryutsuu.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWXJpcnFGdFBPSjhMWUlCdFdDTzg3dHFrR3JUOTNuRjVhb1BFb3VlTEdrTWVuUWZsOFl1VGRXU0tLbG9hV1hOa3VvNmNoZW5yYWt3SVZIck5QZw?oc=5",
-      "source": "ryutsuu.biz",
+      "source": "流通ニュース",
       "category": "物流",
       "publishedAt": "2026-09-17T02:19:00.000Z"
     }
