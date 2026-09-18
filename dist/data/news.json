@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-18T04:26:30.267Z",
+  "updatedAt": "2026-09-18T05:24:11.454Z",
   "articles": [
+    {
+      "id": "e0482d1a27017588",
+      "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
+      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ejR6cWRzc3ZVbTBicF9IYU1wSGVxWUg3YzdpX2NEaWdSUVFqcnlJUU1vdjdGdTVIVXVVbkdNN3g1SVBKMDlhcHNWQkoweTljS2FON0hsRk8yQQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "category": "物流",
+      "publishedAt": "2026-09-18T03:25:03.000Z"
+    },
     {
       "id": "7ff5bed498fd3401",
       "title": "ヒューテックノオリンなど４社、低温物流の鉄道利用を拡大 - ye-live.com",
@@ -225,6 +234,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T12:49:38.000Z"
+    },
+    {
+      "id": "09915d5f7cd03fd9",
+      "title": "鹿嶋 軽ワゴン車とトラックが正面衝突 ７４歳女性が死亡",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibzVIeFVuSDIwSmZGWlZTV2tlYlZQd2taMExyck5EeVlIaExsX1BzNzNvTDdkbF9FOE94ckpJS19rSUlWZDd1Rk9UaEtSdWRkbDgxUzlyanQ?oc=5",
+      "source": "NHKニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T11:09:00.000Z"
     },
     {
       "id": "39ca8bf5b5f595fd",
@@ -580,9 +598,9 @@
     {
       "id": "03a5ccebabb399e3",
       "title": "鹿児島県とANAカーゴ、航空貨物×新聞配送網の事業化検討 国交省補助金で",
-      "description": "Aviation Wireが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "aviationwire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YcTEwMVhqSXRITFFIQzhIMFoyR285VDV6M1dHMkZETUhQVm9zNUFpQkw3cWtDQzRpZDJITER3Y0c3VEU1MEQwRzBwZGtXNlBZRnA2ckhR?oc=5",
-      "source": "Aviation Wire",
+      "source": "aviationwire.jp",
       "category": "物流",
       "publishedAt": "2026-09-16T21:23:00.000Z"
     },
@@ -605,15 +623,6 @@
       "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
-      "id": "1f75f4506ed2215e",
-      "title": "中小物流事業者の労働生産性向上事業で２次公募",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pOWZZc0hLR2VsbnFBM1dJQ3NDdW1fZlJ5S2dCREN5Q2VMcE9maFJhNlpIclYxaDdVVVBCaER1VGJvMFl1SkltWDZWbGJCblZIcUtzM1JmeW5SR2lEMjZF?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
       "id": "e18dd63cb6812795",
       "title": "京都府 京田辺市 パナソニックHD、京都の最大物流施設に関西９拠点を集約…年10億円超のコスト減へ",
       "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -623,20 +632,20 @@
       "publishedAt": "2026-09-16T20:30:00.000Z"
     },
     {
-      "id": "16899095057291b7",
-      "title": "関西物流改革の拠点 パナHD、京田辺倉庫公開",
-      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcDQtNGJkMDR0QjB5Vmh5bW9pUUwzc21uX0NfTmpHZVJ4MEJHLWp1UjVQTnJjUVNDVUNUTndoZE5hTGw5ZFBsNWZiT3NLdEVIOGZ3WjdfUlE?oc=5",
-      "source": "日刊工業新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-16T20:00:00.000Z"
-    },
-    {
       "id": "965a6fbd4ec567ff",
       "title": "米ウォルマートEC売上高2割増の陰にグーグル効果 店舗網が支える物流革命",
       "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZExDX2NXbkZ3TGRtTERJcmwxTUEwa3laX1hpc3JTZjI5MzhsWUV1RWt5eVhhOGZwOVNSWWxFcENxaGwwRTdpeTIwdXd2cmlQNk5PbEhiRy1wWmlMeS1WQTFzVkVzVEk?oc=5",
       "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-09-16T20:00:00.000Z"
+    },
+    {
+      "id": "16899095057291b7",
+      "title": "関西物流改革の拠点 パナHD、京田辺倉庫公開",
+      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcDQtNGJkMDR0QjB5Vmh5bW9pUUwzc21uX0NfTmpHZVJ4MEJHLWp1UjVQTnJjUVNDVUNUTndoZE5hTGw5ZFBsNWZiT3NLdEVIOGZ3WjdfUlE?oc=5",
+      "source": "nikkan.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-16T20:00:00.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-16T18:26:19.000Z"
-    },
-    {
-      "id": "6055360574c3eb6d",
-      "title": "適正原価 標準的運賃比で距離単価３５%減少？",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RlNwVmRkaVJVakFBWlhMdjFRRUNDTlIxVjBoRW9JeWVQb01rMFJucjU0ZXFvVHEyVHhlVFlyYTJGOW84dE8tbGYyOWNVdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-16T16:07:28.000Z"
     }
   ]
 }
