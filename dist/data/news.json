@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:23:40.510Z",
+  "updatedAt": "2026-09-18T20:24:38.275Z",
   "articles": [
     {
       "id": "0c09582d386d12e5",
@@ -9,6 +9,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T19:07:30.000Z"
+    },
+    {
+      "id": "d2b8b17f1a6b1a7d",
+      "title": "違法残業が突出する物流現場は外国人材も敬遠する",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NS0FTazZlTE5tNDkzRVhWSGhMeU5PZjJNa0taTnJxcUVIQm9EaWxkdEx0RzQ4cnZqNTBJbGc1cUF1bkNOZWMycnBB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T18:56:15.000Z"
     },
     {
       "id": "1370a136a6fd6845",
@@ -49,9 +58,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "WEB CARTOP",
+      "source": "webcartop.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -146,13 +155,13 @@
       "publishedAt": "2026-09-18T06:49:52.000Z"
     },
     {
-      "id": "d2b8b17f1a6b1a7d",
-      "title": "違法残業が突出する物流現場は外国人材も敬遠する",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NS0FTazZlTE5tNDkzRVhWSGhMeU5PZjJNa0taTnJxcUVIQm9EaWxkdEx0RzQ4cnZqNTBJbGc1cUF1bkNOZWMycnBB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T06:40:22.000Z"
+      "id": "7353cb9be2b676e4",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 通行止め解除には時間がかかる見込み（18日15:35現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-18T06:49:19.000Z"
     },
     {
       "id": "906a820ab18d6368",
@@ -238,9 +247,9 @@
     {
       "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "dreamnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
-      "source": "dreamnews.jp",
+      "source": "ドリームニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -300,10 +309,10 @@
     },
     {
       "id": "94c20ad848de96fc",
-      "title": "南相馬に鶏卵配送センター、フクベイフーズ10月稼働 関東圏に販路拡大へ:福島ニュース - minyu-net.com",
-      "description": "minyu-net.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "南相馬に鶏卵配送センター、フクベイフーズ10月稼働 関東圏に販路拡大へ:福島ニュース",
+      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCLTZ2c3BZU0tMMUxTbGNJOWlGVW16dTl3dGlRM29sVkFIZzU1N1JibHRxbGduaE5ZX3BZTldXWDdPSDhyOVhGaHVKZzd3NEx5OGVDYVg0bW1oWU1zWUtuLVJVcGhKcXdE?oc=5",
-      "source": "minyu-net.com",
+      "source": "福島民友新聞社",
       "category": "物流",
       "publishedAt": "2026-09-17T22:01:53.000Z"
     },
@@ -398,6 +407,15 @@
       "publishedAt": "2026-09-17T19:31:49.000Z"
     },
     {
+      "id": "0fea4d3bb9fb27ec",
+      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略 - ma-cp.com",
+      "description": "ma-cp.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
+      "source": "ma-cp.com",
+      "category": "物流",
+      "publishedAt": "2026-09-17T15:00:00.000Z"
+    },
+    {
       "id": "db30bbbed990a48c",
       "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
       "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -436,9 +454,9 @@
     {
       "id": "4f6c84fbba2dddbc",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋",
-      "description": "ibarakinews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZmd2U2lqNUltek1KREVmYUE3SVA3UlFiaTZfZlRxMVBYMG1pSnNpSGx5dTNJODJ0WVFTalQ2VHVLcFUtT2xLanQ4RkFfV1hmRFJZNUxDS1dBd2xWYzdSb2ZFRlFhNVN2MGtoTy13STZQcW8?oc=5",
-      "source": "ibarakinews.jp",
+      "source": "茨城新聞クロスアイ",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T10:56:02.000Z"
     },
@@ -668,15 +686,6 @@
       "publishedAt": "2026-09-17T02:32:33.000Z"
     },
     {
-      "id": "6d19e901066d84c4",
-      "title": "【韓国】コンビニＢＧＦ、釜山に物流センター設立（NNA）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QVEFfNjF5Z3pyNi03VW1ROXhpLVR6R0FUQ21BX2dtbVdRQmhxdWhyak1lUVdSYU5qS0ZfeDhsMjc4X0V4Qkdza0tpS0xhSWpXdzZxZ0VNRURnUklJdTNsSDVuSzlXdUNpa1NkRDZ6MXRoNXJtYlRld1VaWWlOMG8?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:30:46.000Z"
-    },
-    {
       "id": "c240c253cf8dd222",
       "title": "【シンガポール】メープルツリー、宮城で物流施設着工（NNA）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -697,9 +706,9 @@
     {
       "id": "b49e37e4cce419da",
       "title": "ユニクロ／カスタムオーダースーツ、工場から「ダイレクト配送」開始",
-      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ryutsuu.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWXJpcnFGdFBPSjhMWUlCdFdDTzg3dHFrR3JUOTNuRjVhb1BFb3VlTEdrTWVuUWZsOFl1VGRXU0tLbG9hV1hOa3VvNmNoZW5yYWt3SVZIck5QZw?oc=5",
-      "source": "流通ニュース",
+      "source": "ryutsuu.biz",
       "category": "物流",
       "publishedAt": "2026-09-17T02:19:00.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:13:08.000Z"
-    },
-    {
-      "id": "3a4260ab7da8d883",
-      "title": "企業へのサイバー攻撃の動向や対策学ぶ 製造、物流、小売りなど15社参加 課題などの意見交換も=静岡市葵区",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGRlI2TUZQdkd4M1NIbndoTGF5UE1vQ3pZMHA0THVMQ1Y3cG5OaGVjbjZXVk5zQnhRZ3F5LUZTd0pqZjhGVTFTNkFoSjByV2lxVzllQndNaw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-09-17T01:19:00.000Z"
     }
   ]
 }
