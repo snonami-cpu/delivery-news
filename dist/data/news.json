@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T12:30:07.166Z",
+  "updatedAt": "2026-09-18T13:25:15.289Z",
   "articles": [
     {
       "id": "0f77697b0207d6ee",
@@ -49,9 +49,9 @@
     {
       "id": "c9d0109064f77217",
       "title": "トラックなど大型車の死角は危険 園児が交通安全学ぶ（2026年9月18日掲載）｜TVI NEWS NNN",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJCZFhzWEdDdmpmZHR4UUhYd2hhbTFMamVVVzVXM2Jacl84Rlh1THA5U3hhdzctWE1TV1JFaDhDOU5KNnZHb3o1Tml3bklMcUp1VlAxY2V5bGNBYnhCRkNYR1loWlZLY1JrWU55dml3RjBMUXRDRldEMTZLMkpUcjFUc2RocWM?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T08:00:00.000Z"
     },
@@ -72,6 +72,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T07:55:07.000Z"
+    },
+    {
+      "id": "c09888f06f082f8e",
+      "title": "キッコーマン／米国ウィスコンシン州に第3工場オープン、10年間で800億円の投資",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdFhlX21SOWpvVjYzQU1tZzljLUZCMUlJV3g3Q0NLVHpqQXItd1FGVmtiVzBSTGZ4djRxaktaUlRTREJlWHVPYWRRVTZtbWNNb0N5Yw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T06:51:44.000Z"
     },
     {
       "id": "5556140ce0b6018a",
@@ -119,11 +128,20 @@
       "publishedAt": "2026-09-18T04:59:28.000Z"
     },
     {
+      "id": "522ce3a8755e7634",
+      "title": "【10月14～15日】関東近郊の物流施設・大型物流倉庫「プロロジスパーク北本」内覧会を開催",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YnVLOWZpUUJBbi16T2FkZkt5U0hDRW9haXphNVJzVG8xY0t2YU1YQTZTVFJnRFdrbW5BVlpKdFdfc2tuYklMN2RDUE1SS1V2a1ZjWk1EZER5NzhZZEdQTG1MSzFySzRXaXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-18T04:10:01.000Z"
+    },
+    {
       "id": "e0482d1a27017588",
-      "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
-      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換 - hokkaido-np.co.jp",
+      "description": "hokkaido-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ejR6cWRzc3ZVbTBicF9IYU1wSGVxWUg3YzdpX2NEaWdSUVFqcnlJUU1vdjdGdTVIVXVVbkdNN3g1SVBKMDlhcHNWQkoweTljS2FON0hsRk8yQQ?oc=5",
-      "source": "北海道新聞デジタル",
+      "source": "hokkaido-np.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T03:25:03.000Z"
     },
@@ -238,9 +256,9 @@
     {
       "id": "6d3f56841e404c07",
       "title": "アルミの強みで物流現場に「半自動化」の選択肢、75万円の新型運搬カートが登場：国際物流総合展2026",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "monoist.itmedia.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUEJtLXNpSlRQQzByQ2d4dU85RGl4cXc3QnBmMjc5NHVWZ3NGVmE4enR5elFRTk9kbDZoQ3VxcmtyOHlCdnllamFOQXJpejRHS3NrS0ZuQ1JuOXJzeTY5RENYcDI4ZHo1OF80SjhYSQ?oc=5",
-      "source": "MONOist",
+      "source": "monoist.itmedia.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T21:45:00.000Z"
     },
@@ -454,9 +472,9 @@
     {
       "id": "1c9e7a0e8b9e766a",
       "title": "乗用車とトレーラーが衝突…乗用車に乗っていた女性死亡 右折トラックとバイクの事故も 北海道",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzl5c0dqQkI4T0hSRHQ0NWNfS0h6Ym0zRFc2RXZOSUNKM3haUXllbkdMUFlPX0w0T1h3a09jbEZjckQyNXVCRFVPTW41Yy1vUHQxdTZ0QjFtREt4eHdyQjdGOU4ySGpUdXdkSDBHYWdEUzRfTmhTa0F1STRTUGJ4dzVSbEZvZkk?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T06:57:00.000Z"
     },
@@ -668,6 +686,15 @@
       "publishedAt": "2026-09-17T01:19:00.000Z"
     },
     {
+      "id": "04c241510fcd70c5",
+      "title": "トラック発着時間が、ドライバーから直接届く。ネット専用スーパー「Green Beans」の舞台裏",
+      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE03bHBfMWR6WmVyN0J0dldoTWxfY0JVTGluVTEwQXlKMGFKTUJCOUZfX2V4MmRiUXgzS2xaR2EwODhtNFU?oc=5",
+      "source": "hacobu.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-17T01:09:29.000Z"
+    },
+    {
       "id": "c85e1302100ae970",
       "title": "ウエストホールディングス[1407]：物流施設などの遊休屋根を再エネ供給拠点に転換 4社連携で2028年3月までに10MW超の太陽光発電設備開発へ 2026年9月17日(適時開示) ：日経会社情報DIGITAL",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "LOGI-BIZ online",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-17T00:15:09.000Z"
-    },
-    {
-      "id": "111d909411539040",
-      "title": "バスとトラックが衝突 2人けが 東京・練馬区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T23:43:00.000Z"
-    },
-    {
-      "id": "1f58a736d4fe7614",
-      "title": "歌舞伎町でトラックが歩道に乗り上げ 荷台部分に“ポール”突き刺さる けが人なし 東京・新宿区役所前",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QnlPZmhTR3FVNUpoODBNVGZIeVdydEIwUmMwZVlTaVNCVDE3ejNrRFZfRy10WEFQTDdTb0JXdFdQY1pmOXF5anlnOUFPdlVQNC1UdnNPbm5WZV9fMjNPQnZBbzJhbUpLYlZ0cnpoTl9RRW9hYVpJVGt2WUtxS1E?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T21:44:20.000Z"
-    },
-    {
-      "id": "03a5ccebabb399e3",
-      "title": "鹿児島県とANAカーゴ、航空貨物×新聞配送網の事業化検討 国交省補助金で",
-      "description": "Aviation Wireが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YcTEwMVhqSXRITFFIQzhIMFoyR285VDV6M1dHMkZETUhQVm9zNUFpQkw3cWtDQzRpZDJITER3Y0c3VEU1MEQwRzBwZGtXNlBZRnA2ckhR?oc=5",
-      "source": "Aviation Wire",
-      "category": "物流",
-      "publishedAt": "2026-09-16T21:23:00.000Z"
     }
   ]
 }
