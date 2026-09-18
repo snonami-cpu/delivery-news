@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:24:38.275Z",
+  "updatedAt": "2026-09-18T21:24:21.956Z",
   "articles": [
     {
       "id": "0c09582d386d12e5",
@@ -56,11 +56,20 @@
       "publishedAt": "2026-09-18T11:49:14.000Z"
     },
     {
+      "id": "597c56642c080bd3",
+      "title": "物流会社の「含み益」狙うファンドの攻勢は続く",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNE50dFl6YzktUG5jQ1NxUEVkVURLeG1yREsxSHJGY1FpQ3c5NlZhUnRXUzB4aXRjRWVNNVltR0VLQmZTc21TNVR3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T11:11:20.000Z"
+    },
+    {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "webcartop.jp",
+      "source": "WEB CARTOP",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -407,20 +416,29 @@
       "publishedAt": "2026-09-17T19:31:49.000Z"
     },
     {
+      "id": "44650a8fcf22cfdc",
+      "title": "東名高速でトラック3台の事故男性1人死亡",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSTFMeFlnRElkS0VRMThQSFF3eFYzekExYUNvVmVCOWVSQ3NyMUtXWmdhcExsblBidGNPakliV0ZaNVY5RnFqVmVXQ01SNXZ2OGtpMXhOZEhBTmE5djZ6WUMzSEZEdGM?oc=5",
+      "source": "朝日放送",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T16:06:00.000Z"
+    },
+    {
       "id": "0fea4d3bb9fb27ec",
-      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略 - ma-cp.com",
-      "description": "ma-cp.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
+      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
-      "source": "ma-cp.com",
+      "source": "M&Aキャピタルパートナーズ",
       "category": "物流",
       "publishedAt": "2026-09-17T15:00:00.000Z"
     },
     {
       "id": "db30bbbed990a48c",
       "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "business.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWjZLMGNvS0pEbUZfMGM5bmtqek82OFZIUUZfSEZlaFdyb2p3SGxLT01wSlprNXdZSTNlX0tVWWp6VWEyQ3hQdjZsSEZBc2tGVmNnS2RTZHR3LUtPRkh0ZXZyUlA3VHM?oc=5",
-      "source": "日経ビジネス電子版",
+      "source": "business.nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-17T15:00:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:26:00.000Z"
-    },
-    {
-      "id": "b49e37e4cce419da",
-      "title": "ユニクロ／カスタムオーダースーツ、工場から「ダイレクト配送」開始",
-      "description": "ryutsuu.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWXJpcnFGdFBPSjhMWUlCdFdDTzg3dHFrR3JUOTNuRjVhb1BFb3VlTEdrTWVuUWZsOFl1VGRXU0tLbG9hV1hOa3VvNmNoZW5yYWt3SVZIck5QZw?oc=5",
-      "source": "ryutsuu.biz",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:19:00.000Z"
-    },
-    {
-      "id": "1cb60fa827819415",
-      "title": "【国道4号】柴田バイパス 大河原町内でトラック事故 4時間ぶり通行止め解除（17日06:45現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxVENTZmtLUEVrMk53NXpHNGs5QkdzQ3pwVUxPdkR4Z0NacW95WGdQM3B6d19SOXBtN2EwOHRFUHpaaUUyMlFKcmtYQUFScEdXZkZMWTBVOU9VNXh6bzg4?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-17T02:13:08.000Z"
     }
   ]
 }
