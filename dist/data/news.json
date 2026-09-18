@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-18T06:30:48.728Z",
+  "updatedAt": "2026-09-18T07:25:53.119Z",
   "articles": [
+    {
+      "id": "5556140ce0b6018a",
+      "title": "国交省／国際物流のRTI普及に向け実証輸送に補助金、1輸送30万円を予定",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GZkxMNURFWWpRalNfWi1CQkdGeWlmOFdSNGtTUjQzQ09QVEdNYVZNa0NXYXRLMlUtcGJVZ1RVVXplS0RkSlpIZEFjUVd3a3RsN0l2NA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T06:49:52.000Z"
+    },
     {
       "id": "e9349c3efbe98c1c",
       "title": "ダイナパック、MOVO Vistaを導入。積載率を確認しながら無駄の少ない配送計画を立てる体制で、安定的な輸送力確保へ",
@@ -29,13 +38,13 @@
       "publishedAt": "2026-09-18T05:36:35.000Z"
     },
     {
-      "id": "27017efe39d14137",
-      "title": "JR貨物北海道支社／空コンテナ活用し札幌～北見・釧路で新モーダルシフト実証",
+      "id": "906a820ab18d6368",
+      "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xeEVadERSWTZ5azJEbGZVeVh2UGpMMmtSZ1dIcF95cWpBNUVlUHlpRXUtWE9jeUliN1plTDZ0eExRa1kzUEVNYWNYYmpSME8xanEtcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iaGo0N2JiUkNIYVNmbVVPam80SS11MTFQQTNOaTI3SERtazN6MVdPeDRfQndSNFg1cnhNZHZRcVo2OUctclR3Qnd6Qm8yb0RtdVVzdw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-18T04:59:28.000Z"
+      "publishedAt": "2026-09-18T05:27:09.000Z"
     },
     {
       "id": "e0482d1a27017588",
@@ -157,9 +166,9 @@
     {
       "id": "6d3f56841e404c07",
       "title": "アルミの強みで物流現場に「半自動化」の選択肢、75万円の新型運搬カートが登場：国際物流総合展2026",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "monoist.itmedia.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUEJtLXNpSlRQQzByQ2d4dU85RGl4cXc3QnBmMjc5NHVWZ3NGVmE4enR5elFRTk9kbDZoQ3VxcmtyOHlCdnllamFOQXJpejRHS3NrS0ZuQ1JuOXJzeTY5RENYcDI4ZHo1OF80SjhYSQ?oc=5",
-      "source": "MONOist",
+      "source": "monoist.itmedia.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T21:45:00.000Z"
     },
@@ -310,9 +319,9 @@
     {
       "id": "dc6450631b3e9df4",
       "title": "九州自動車道で車5台絡む事故 トラックと軽自動車が衝突し後続も 現場付近は約3時間車線規制（ＫＫＴ熊本県民テレビ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N19QS2lDR2pzcG5LMzRwQTlrLVRVOWF2ZFdnYU1nTnNEOV9JNWxNMVYwOUNjQ2g2SUczN1RuU3REN3lLUTlJSnUwR2hTYkI3cE9yM05SWU1yUDc2WnM5UkdnOC01cjZwdTB0enpoVVJfUjMxbzFONDBHM1ViR2c?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T09:52:00.000Z"
     },
@@ -337,9 +346,9 @@
     {
       "id": "a04de534749b0e2e",
       "title": "【代表者が急死し後継者もおらず・・・】岩手県大船渡市の運送業者が経営破綻 破産開始決定受ける",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SzZERDVaYXlnQ2J5WTloOVBxbDNhbS1LRjc3dkRYaWh2YUlweVdfZ3paVExSX0xVLU5XNElmT2R3bWQ4Q2RobjdEWEl4eWJ3eTlfTmwtUTBRRHRzdUYtNmJULU1LRmR1MWhkdGlIQlc5T3BTcjJ5RVYwcDFaWHc?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-17T08:56:00.000Z"
     },
@@ -373,9 +382,9 @@
     {
       "id": "50b6e0078d325456",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋（茨城新聞クロスアイ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZmF6dF9xQUZJWW85cnVCNUg3S3ZHcTZaNTc1cV9QWjJCZ2ZfMWNjM1lsRVVUMnktQXRNRl9jV3hmUEVMbXUtN2dfcVdmNkQ4RzZseFZhY1dqODY0eFhwX1kzbjB3WFg1SjN1XzNTeTlBbE1DZXFhVlpoSVI0SDg?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T07:35:00.000Z"
     },
@@ -499,18 +508,18 @@
     {
       "id": "a10687f28b2233f4",
       "title": "ダンプカーと車が正面衝突 高齢男女がけが…病院搬送 バイクとトラックの衝突も…事故相次ぐ 北海道",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybW5qWWJjTnY1dDNPLURlWENEbDJndnR2VlZ3MFVDUjlraU9nOC1hQ1NfMTZXRlFuX1d1ZmF2RVNybGpibUNSeUN0eWtORVdmczRVLWhfNnRDWkZ3ZkdSbFAwSnlZMVY4TVhZODBlRm9HVmFxcXlmR01aS3FmaW8?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:55:00.000Z"
     },
     {
       "id": "c8a354ed5ce99285",
       "title": "帯広市 交差点で右折しようとしたトラックと直進のバイクが衝突 バイクに乗っていた60代男性が重体",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VEFvbWdsLVhMb3pBcWRScGo3bDhGaGhBbkEyZkIwLV8yUHVpRmZJV1hxRnZiZElqcU5Db1p5YUY4VWp2N0FLYVktM1dvWTF3TndGVFRWVDJ1QlQxQUZhZzREa25CM0hvRnRwbUUxdHJfMTdSS24xZThNTFhXWDQ?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:48:19.000Z"
     },
@@ -542,11 +551,20 @@
       "publishedAt": "2026-09-17T02:32:33.000Z"
     },
     {
+      "id": "6d19e901066d84c4",
+      "title": "【韓国】コンビニＢＧＦ、釜山に物流センター設立（NNA）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QVEFfNjF5Z3pyNi03VW1ROXhpLVR6R0FUQ21BX2dtbVdRQmhxdWhyak1lUVdSYU5qS0ZfeDhsMjc4X0V4Qkdza0tpS0xhSWpXdzZxZ0VNRURnUklJdTNsSDVuSzlXdUNpa1NkRDZ6MXRoNXJtYlRld1VaWWlOMG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-17T02:30:46.000Z"
+    },
+    {
       "id": "c240c253cf8dd222",
       "title": "【シンガポール】メープルツリー、宮城で物流施設着工（NNA）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfYnZWdl9JZkFydGVRUklCUkFQNFQ0WjZLVUV0ME1GYjVrcnVmS3UxX3MyN1NsbllRc2J3cWE5elF2cnZUZjl5XzBmdHFpbVB6VjBOYXNUcWtxYnM5eDBjNWdIRnFOVWlxYUZGOWtpQkdfVmcwUFVkNy1OWEZvRjg?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-17T02:30:46.000Z"
     },
@@ -616,18 +634,18 @@
     {
       "id": "111d909411539040",
       "title": "バスとトラックが衝突 2人けが 東京・練馬区（テレビ朝日系（ANN））",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T23:43:00.000Z"
     },
     {
       "id": "1f58a736d4fe7614",
       "title": "歌舞伎町でトラックが歩道に乗り上げ 荷台部分に“ポール”突き刺さる けが人なし 東京・新宿区役所前",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QnlPZmhTR3FVNUpoODBNVGZIeVdydEIwUmMwZVlTaVNCVDE3ejNrRFZfRy10WEFQTDdTb0JXdFdQY1pmOXF5anlnOUFPdlVQNC1UdnNPbm5WZV9fMjNPQnZBbzJhbUpLYlZ0cnpoTl9RRW9hYVpJVGt2WUtxS1E?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T21:44:20.000Z"
     },
@@ -645,15 +663,6 @@
       "title": "ＰＡＬＴＡＣ 物流本部を「物流運用本部」に改称",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTVUFIaUxuRWx2ZDk2N3VqX0dVM083WldDY2RMQVJSVm84TVBfX2FDMGNJdWtaVzkyU0JLejBjb29rV0lWQWx0dTdWaEVsOVFBOGNqVV9zcWlJYnEtOUlV?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
-      "id": "1e3c7142ba9eb1b1",
-      "title": "アサヒロジスティクス 神田に都心店舗向け配送拠点開設",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQWZUWDY1eGphRmdwTHhjSS0tUGdMdEpVbDBXb3VZWnB4WWpFTTYxZkFvQXhJSlZXeGdvam44Rlk0SEdTeFVqREkwZlFMeUFKVzYwVWZRc01UeTYxLW53?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-16T21:00:00.000Z"
@@ -708,15 +717,6 @@
       "title": "葵物流（千葉）に事業停止30日、7件の法令違反",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ab1hRRnBCak5KZDNuQzFzREV3VlQ5a1ZFNU5lQ0V1UHEzSzFTNmJnVjdlb3FHMlk0WUplcUhQS0Nxb1NLV19JZUZR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "0b9c7807adadfc81",
-      "title": "運転席のないL4トラック、独小売物流で日常配送へ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwRUdqLWpXOTZlTFBaWXR4YzBfT1l2UHZFM21yTE82ZWUxWm5BdFlXeHpPTHI1VjBIWXlyWkUzekxKTmVfYlM3bnhB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
