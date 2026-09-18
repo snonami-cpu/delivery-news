@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T03:25:29.793Z",
+  "updatedAt": "2026-09-18T04:26:30.267Z",
   "articles": [
     {
       "id": "7ff5bed498fd3401",
@@ -632,6 +632,15 @@
       "publishedAt": "2026-09-16T20:00:00.000Z"
     },
     {
+      "id": "965a6fbd4ec567ff",
+      "title": "米ウォルマートEC売上高2割増の陰にグーグル効果 店舗網が支える物流革命",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZExDX2NXbkZ3TGRtTERJcmwxTUEwa3laX1hpc3JTZjI5MzhsWUV1RWt5eVhhOGZwOVNSWWxFcENxaGwwRTdpeTIwdXd2cmlQNk5PbEhiRy1wWmlMeS1WQTFzVkVzVEk?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-09-16T20:00:00.000Z"
+    },
+    {
       "id": "5e1852d06ae48745",
       "title": "北海道開発局ら、札幌で物流マッチングイベント",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,15 +720,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-16T16:07:28.000Z"
-    },
-    {
-      "id": "e693b2835b117517",
-      "title": "関越道でトラックなど3台絡む事故 4人死傷 新潟・南魚沼市 最新の社会ニュース【随時更新】",
-      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMkZ3bHVLN0JZN1Y3V1NId2VicHJiWGpwTEZpcmlyeFpvaXdtbjFHcTRIZlNPVlpmZVZZRENkd0tSVDNvay1ZRHlwYjA3NU5jTnFxN2ZSR2VOVmc?oc=5",
-      "source": "ABEMA",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T14:33:21.000Z"
     }
   ]
 }
