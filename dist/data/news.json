@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-18T01:24:27.823Z",
+  "updatedAt": "2026-09-18T02:27:14.461Z",
   "articles": [
+    {
+      "id": "3605d739ba8c7de1",
+      "title": "航空貨物運送協会／8月国際航空貨物の輸出件数0.11％増、重量12.66％増",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Q05TeUY4bGlZRVVxbERQSnpZVXBTeHIzRUFkTUU4SHpHYUZHWFFZYThYcnY4NDZPN3hVUFdQNjdCV0ZWdjhMeGc3c1pVOUlfM1YxZg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T01:48:49.000Z"
+    },
+    {
+      "id": "8d4e8d57f90ff19d",
+      "title": "オープンロジ／提携倉庫に「自動補充算出ツール」導入、保管効率13％向上",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRWZmQ1FobWRsSEN1d0dQaS05Y1Y4WjhxcXlTbno0MkVSTjNzcGVJNURaVWp1NGE4eFd0Tm5wUlJ5azZfOTZYNXZ0Vl9vaFRZLTRsLQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T01:38:47.000Z"
+    },
+    {
+      "id": "db51c9f75f3fff5f",
+      "title": "セイノースタッフサービス／創立30周年、福岡県に九州出張所を9月開設",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNk90MU8zckhhYS1QNkFsTDRCTmpqNUZkUWJaVDZ4eDJLYVEyZEU1M1RSTl9sUE1nNS10WVdNZGl2Z1ZaMGdSb1Y1WndnWk9od0ZVNw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T01:36:36.000Z"
+    },
+    {
+      "id": "c8ecaf9a3bb08086",
+      "title": "物流連、北海道ロジサービスの共同配送事例を共有",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Yd1FnMXdzQ1NrV2JwWV9MZnMycnlfNjJndFA2TUdKUEdJaHNSemNxcG1jQUpPMFB2RXJNOFlsR3htc0RnOG8zUXhB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T01:27:33.000Z"
+    },
+    {
+      "id": "07d8985c562b66ab",
+      "title": "トラボックス、運送会社向け新規取引開拓セミナー",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVDJVak1nS09pdEZVQnoyNHJEOEpPWUs1bkxKZk9lLUg1bTNsZWE5YzJFUE9vSUpaM2o4azMwRV8zX190T1FjY2F3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T00:18:43.000Z"
+    },
     {
       "id": "cbc008b01a825ead",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
@@ -11,13 +56,67 @@
       "publishedAt": "2026-09-18T00:03:48.000Z"
     },
     {
+      "id": "e7e9d016b87283d4",
+      "title": "Hmcomm、物流車両活用の監視技術で特許",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2dEZoRUZ1d2RVN3dYSEVwbkdsLTUxN0o3VVBXZXBMM1NacWZ1cVVzTGRRNUl6aklrVXA0MHByOXkyaUpWZllFclRR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T23:46:10.000Z"
+    },
+    {
+      "id": "8064a839d5497963",
+      "title": "DHLサプライチェーン、コロンビア物流会社を買収へ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WS3FpdktmbURqMm5rVENYUlJmam9uRjNIZnVyelJLN1B3VktqbFpLWDVmcS1XbXc4blNqYU5EOUpIR01mNF9MWEZR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:47:59.000Z"
+    },
+    {
+      "id": "d3292eb12c65b601",
+      "title": "アパレル景況3か月低迷、季節物流に見直し迫る",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aM01LenJTcFdJMktsb1Qzd2xybnpuTzlDTHNwd0NQUHYzLU1jWGItXzBPMHNhOHE2eDNkYmYweXJDV01helREVnRR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:47:52.000Z"
+    },
+    {
       "id": "10c85f67b7ed08e1",
-      "title": "運送会社の営業利益を向上させる原価計算の実務術 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "運送会社の営業利益を向上させる原価計算の実務術",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95NWVlQ3llRkRYSFdMSHZWd3JQZkM5clNtaGVEN3lDVzVvT3hhS3hLYlJVYkx4b2Y1cHpEbFRjdHpGek4tM1NtQnBR?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-17T22:37:49.000Z"
+    },
+    {
+      "id": "6fb2c35a3f3bda34",
+      "title": "キューネ、フランクフルトを医薬品物流の中核に",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KNzh1Wm9xMVBEZzNkRVdkZ2htVTRiWEdBSFZ2U1dKdWVGVW5ISTZhdGdWQzFmLVVHSUxEOGwtcC15cnBWTHdhMkxB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:37:49.000Z"
+    },
+    {
+      "id": "70dd2647e196e07a",
+      "title": "ホーチミン、港湾連携で国際物流網との接続強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Vd2Z1bWJPOEVManhpU2RhYTRCZUswOHJHLUxNdDFsT1FCakpNQkdTTkx6THdvQWRiMU5WWVRVbVdlNER4QW1Nc05B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:25:45.000Z"
+    },
+    {
+      "id": "94c20ad848de96fc",
+      "title": "南相馬に鶏卵配送センター、フクベイフーズ10月稼働 関東圏に販路拡大へ:福島ニュース - minyu-net.com",
+      "description": "minyu-net.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCLTZ2c3BZU0tMMUxTbGNJOWlGVW16dTl3dGlRM29sVkFIZzU1N1JibHRxbGduaE5ZX3BZTldXWDdPSDhyOVhGaHVKZzd3NEx5OGVDYVg0bW1oWU1zWUtuLVJVcGhKcXdE?oc=5",
+      "source": "minyu-net.com",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:01:53.000Z"
     },
     {
       "id": "6d3f56841e404c07",
@@ -27,6 +126,24 @@
       "source": "MONOist",
       "category": "物流",
       "publishedAt": "2026-09-17T21:45:00.000Z"
+    },
+    {
+      "id": "d9269b2c23b38406",
+      "title": "東京建物、オーストラリアの物流施設対象ファンドに出資 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kWHJrbHA3aGtiRjk4cTZGLUJYZlZFcVpHcjRHa1FDQWNzMG1IZktVM1JWdzNSNGo3MUQ5enE2RDl1QUpnbEFpbEVNNA?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-17T21:00:09.000Z"
+    },
+    {
+      "id": "8598926108b4ece2",
+      "title": "山九、インド北部に1.8万㎡の物流センターを11月開設へ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2akJ1RWE4TUFCbVNvZENDbWo4dXotX216OW9Dc1FoRjM2a0ZTR3lHTkFzXy1XX3JnaHBCNHZQdXdCbDBCNzR4TXpBOA?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-17T21:00:01.000Z"
     },
     {
       "id": "c8d1ad110b51d2e4",
@@ -39,57 +156,48 @@
     },
     {
       "id": "9ddabacc650bd68f",
-      "title": "三重で10/19に物流就職相談会、運送9社が参加 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "三重で10/19に物流就職相談会、運送9社が参加",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wQVBPUHZoVnFDaGZpWkpRM3ZabS1SOW1Fb2tVaklFeXZXdF9DLVBGUGkwZHpUQWdpbGJBYUMwcnZFVlNQS1pLUlhB?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
+      "publishedAt": "2026-09-17T19:32:15.000Z"
     },
     {
       "id": "f7de59432db7acdb",
-      "title": "アレスとPSP、米物流不動産に最大24億ドル投資 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "アレスとPSP、米物流不動産に最大24億ドル投資",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43a0dPd2pDc2Fuck95d0JtQWhzQmZRWjlVNVR5dDRqaEtLNVJCVVlkZGRZRVhVMHhraEc0Mi14eWhoUXg1aEVBNTBn?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
-    },
-    {
-      "id": "cd6b686552467031",
-      "title": "豊中市、災害物流でJPロジスティクスとも協定 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pRUtxblBtcEZUbGFPS1ZGVWJ1YkprWXRQMzN5R25pTDJvd0o5bloyV1lnWXh1djZOc3lPWFBGWF91WnpPN1pKeTdB?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
+      "publishedAt": "2026-09-17T19:32:02.000Z"
     },
     {
       "id": "10ea0b975cef3583",
-      "title": "東京建物、豪物流6物件で足場ファンド初参画 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東京建物、豪物流6物件で足場ファンド初参画",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdHJJVGVxeTZVQ3FkYmtaZ2tmYkxqbUN0M0NXMlExMC04b0ZDck5SeWhyRnU1LWUyZzVqejdZTm1XbWc2SHQzNm5n?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
+      "publishedAt": "2026-09-17T19:32:02.000Z"
     },
     {
       "id": "b6c41495bd54b320",
-      "title": "MODE、物流現場の確認・連絡を自動化 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "MODE、物流現場の確認・連絡を自動化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JTmxlZzlGdTUtNEdBQm94aktHT1A4TUNJLUs5ZzRQTm42R0E3RTZYTWZIeHd1cFNDUHdBNm5qWnBoMjVVTWo1ejV3?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
+      "publishedAt": "2026-09-17T19:32:02.000Z"
     },
     {
-      "id": "61d63a49ce4f3f07",
-      "title": "フライトレックス、店舗屋上をドローン配送拠点に - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2S1FISVdTZHU2SC1qWkowaGJQYnA4RmJ5eDBQaC1NME0wUTIxemg5SWlCcEpxWDRPTzAzUGYzMkRJTXRQa2tlc1pB?oc=5",
-      "source": "logi-today.com",
+      "id": "cd6b686552467031",
+      "title": "豊中市、災害物流でJPロジスティクスとも協定",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pRUtxblBtcEZUbGFPS1ZGVWJ1YkprWXRQMzN5R25pTDJvd0o5bloyV1lnWXh1djZOc3lPWFBGWF91WnpPN1pKeTdB?oc=5",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-17T19:30:00.000Z"
+      "publishedAt": "2026-09-17T19:31:49.000Z"
     },
     {
       "id": "db30bbbed990a48c",
@@ -119,15 +227,6 @@
       "publishedAt": "2026-09-17T10:53:37.000Z"
     },
     {
-      "id": "c8ecaf9a3bb08086",
-      "title": "物流連、北海道ロジサービスの共同配送事例を共有 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Yd1FnMXdzQ1NrV2JwWV9MZnMycnlfNjJndFA2TUdKUEdJaHNSemNxcG1jQUpPMFB2RXJNOFlsR3htc0RnOG8zUXhB?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T10:28:26.000Z"
-    },
-    {
       "id": "39ca8bf5b5f595fd",
       "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -153,6 +252,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-17T10:02:15.000Z"
+    },
+    {
+      "id": "1fb4e77e893eccbd",
+      "title": "東京海上日動、荷主・運送双方の制度対応を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IdE81c3E0R1FsR0NGdkRLcGtONy1BTjlFZ1dTcTdfcDA1dS1HWkZGdjZzdEo4Qm1zaUFzUUlOSERiS1VjM09JQUhB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T09:57:51.000Z"
     },
     {
       "id": "dc6450631b3e9df4",
@@ -182,20 +290,11 @@
       "publishedAt": "2026-09-17T08:56:00.000Z"
     },
     {
-      "id": "07d8985c562b66ab",
-      "title": "トラボックス、運送会社向け新規取引開拓セミナー - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVDJVak1nS09pdEZVQnoyNHJEOEpPWUs1bkxKZk9lLUg1bTNsZWE5YzJFUE9vSUpaM2o4azMwRV8zX190T1FjY2F3?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T07:56:13.000Z"
-    },
-    {
       "id": "4ff701f8511fc20b",
-      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbUo2WHlvOUtxaVQyRGpnLU5uU1J6SjJaVzNPMWpleHVQTlluS05ETnhBMjd6aEdTUElRb25xRUQ3YURHODBEOWRR0gFPQVVfeXFMTWFWMFVKTVR5emFwWk9XN0dfZkJ2dU5ZYzVrQUEtZUNMRlNzYzVVX1Jnd1hLWGZHRmQ5a011bHhYbDVfc3N1M3dseE1TZmQySQ?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-17T07:56:12.000Z"
     },
@@ -218,6 +317,15 @@
       "publishedAt": "2026-09-17T07:43:41.000Z"
     },
     {
+      "id": "50b6e0078d325456",
+      "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋（茨城新聞クロスアイ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZmF6dF9xQUZJWW85cnVCNUg3S3ZHcTZaNTc1cV9QWjJCZ2ZfMWNjM1lsRVVUMnktQXRNRl9jV3hmUEVMbXUtN2dfcVdmNkQ4RzZseFZhY1dqODY0eFhwX1kzbjB3WFg1SjN1XzNTeTlBbE1DZXFhVlpoSVI0SDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T07:35:00.000Z"
+    },
+    {
       "id": "1c9e7a0e8b9e766a",
       "title": "乗用車とトレーラーが衝突…乗用車に乗っていた女性死亡 右折トラックとバイクの事故も 北海道",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -236,15 +344,6 @@
       "publishedAt": "2026-09-17T06:56:14.000Z"
     },
     {
-      "id": "6fb2c35a3f3bda34",
-      "title": "キューネ、フランクフルトを医薬品物流の中核に - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KNzh1Wm9xMVBEZzNkRVdkZ2htVTRiWEdBSFZ2U1dKdWVGVW5ISTZhdGdWQzFmLVVHSUxEOGwtcC15cnBWTHdhMkxB?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T06:48:59.000Z"
-    },
-    {
       "id": "0e8ac19296dcc1c2",
       "title": "ESR／横浜市内の物流施設で「高機動型ドローンポーター」に関するセミナーなど開催",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -261,15 +360,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T06:33:27.000Z"
-    },
-    {
-      "id": "8064a839d5497963",
-      "title": "DHLサプライチェーン、コロンビア物流会社を買収へ - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WS3FpdktmbURqMm5rVENYUlJmam9uRjNIZnVyelJLN1B3VktqbFpLWDVmcS1XbXc4blNqYU5EOUpIR01mNF9MWEZR?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T06:29:44.000Z"
     },
     {
       "id": "ed1060d4b0b2a01c",
@@ -297,15 +387,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:43:16.000Z"
-    },
-    {
-      "id": "94c20ad848de96fc",
-      "title": "鶏卵卸売のフクベイフーズ、南相馬配送センター整備:福島ニュース",
-      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCLTZ2c3BZU0tMMUxTbGNJOWlGVW16dTl3dGlRM29sVkFIZzU1N1JibHRxbGduaE5ZX3BZTldXWDdPSDhyOVhGaHVKZzd3NEx5OGVDYVg0bW1oWU1zWUtuLVJVcGhKcXdE?oc=5",
-      "source": "福島民友新聞社",
-      "category": "物流",
-      "publishedAt": "2026-09-17T05:20:00.000Z"
     },
     {
       "id": "8e4c50da9922accd",
@@ -342,15 +423,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T04:38:57.000Z"
-    },
-    {
-      "id": "70dd2647e196e07a",
-      "title": "ホーチミン、港湾連携で国際物流網との接続強化 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Vd2Z1bWJPOEVManhpU2RhYTRCZUswOHJHLUxNdDFsT1FCakpNQkdTTkx6THdvQWRiMU5WWVRVbVdlNER4QW1Nc05B?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T03:02:11.000Z"
     },
     {
       "id": "80f81f745185a78f",
@@ -452,15 +524,6 @@
       "publishedAt": "2026-09-17T02:13:08.000Z"
     },
     {
-      "id": "e7e9d016b87283d4",
-      "title": "Hmcomm、物流車両活用の監視技術で特許 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2dEZoRUZ1d2RVN3dYSEVwbkdsLTUxN0o3VVBXZXBMM1NacWZ1cVVzTGRRNUl6aklrVXA0MHByOXkyaUpWZllFclRR?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T01:54:29.000Z"
-    },
-    {
       "id": "3a4260ab7da8d883",
       "title": "企業へのサイバー攻撃の動向や対策学ぶ 製造、物流、小売りなど15社参加 課題などの意見交換も=静岡市葵区",
       "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -506,15 +569,6 @@
       "publishedAt": "2026-09-17T00:15:09.000Z"
     },
     {
-      "id": "8e7aa6e279f0f878",
-      "title": "2026年9月17日／新規許認可運送事業者",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92NU95Mmk5c2ZDMUxSMnlKcnpSY0ZoYmdUZ3JXS20yMU5fbU9kTFlQUjhrZWYwQ2NlWmpzNU9LQWdMNE1udFFmNmtYSUFZX1EyOHg3emsycVU?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-16T22:14:57.000Z"
-    },
-    {
       "id": "1f58a736d4fe7614",
       "title": "歌舞伎町でトラックが歩道に乗り上げ 荷台部分に“ポール”突き刺さる けが人なし 東京・新宿区役所前",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -531,15 +585,6 @@
       "source": "Aviation Wire",
       "category": "物流",
       "publishedAt": "2026-09-16T21:23:00.000Z"
-    },
-    {
-      "id": "1219e3e1d09225ed",
-      "title": "大和ハウス、北海道・北広島で1.2万㎡のマルチ型物流施設着工 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RY1FWZmw3RklGZnNjS21ETVBsU2pEaHBtUVl0SjhHYzhYUllHYzN6QlhGaVhCVjhDSXliNC1tY0VqZ3NOREwtTVFJSQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-16T21:00:04.000Z"
     },
     {
       "id": "1e3c7142ba9eb1b1",
@@ -569,15 +614,6 @@
       "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
-      "id": "7d2c445f5ec63856",
-      "title": "三井不動産 台湾で新たに物流施設事業へ参入",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbFZacTZtZDhfeUZNMHhFMzdlOXBSSVlqOU1TbEpuRWxzWHY4dHZVZDFOT2hVODBGVHdtQ3g3anZpMFY3QkxPZHJSSHlPWUpZT1BaZTViLXVHZm1ZaUdR?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
       "id": "e18dd63cb6812795",
       "title": "京都府 京田辺市 パナソニックHD、京都の最大物流施設に関西９拠点を集約…年10億円超のコスト減へ",
       "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -587,74 +623,74 @@
       "publishedAt": "2026-09-16T20:30:00.000Z"
     },
     {
-      "id": "965a6fbd4ec567ff",
-      "title": "米ウォルマートEC売上高2割増の陰にグーグル効果 店舗網が支える物流革命",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZExDX2NXbkZ3TGRtTERJcmwxTUEwa3laX1hpc3JTZjI5MzhsWUV1RWt5eVhhOGZwOVNSWWxFcENxaGwwRTdpeTIwdXd2cmlQNk5PbEhiRy1wWmlMeS1WQTFzVkVzVEk?oc=5",
-      "source": "日経ビジネス電子版",
+      "id": "16899095057291b7",
+      "title": "関西物流改革の拠点 パナHD、京田辺倉庫公開",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcDQtNGJkMDR0QjB5Vmh5bW9pUUwzc21uX0NfTmpHZVJ4MEJHLWp1UjVQTnJjUVNDVUNUTndoZE5hTGw5ZFBsNWZiT3NLdEVIOGZ3WjdfUlE?oc=5",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-16T20:00:00.000Z"
     },
     {
       "id": "5e1852d06ae48745",
-      "title": "北海道開発局ら、札幌で物流マッチングイベント - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "北海道開発局ら、札幌で物流マッチングイベント",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3NDhzOXU0UXc4bkliWVFMb2gwNW1uc3NRRVhVYi1GRlhKeUc3Y2lRZjZza0kzaVRjX1JxWllEWDJ3S3k3NkxzcHRB?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:40.000Z"
     },
     {
       "id": "876ce6fe07309b29",
-      "title": "葵物流（千葉）に事業停止30日、7件の法令違反 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "葵物流（千葉）に事業停止30日、7件の法令違反",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ab1hRRnBCak5KZDNuQzFzREV3VlQ5a1ZFNU5lQ0V1UHEzSzFTNmJnVjdlb3FHMlk0WUplcUhQS0Nxb1NLV19JZUZR?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-16T19:24:11.000Z"
+    },
+    {
+      "id": "0b9c7807adadfc81",
+      "title": "運転席のないL4トラック、独小売物流で日常配送へ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwRUdqLWpXOTZlTFBaWXR4YzBfT1l2UHZFM21yTE82ZWUxWm5BdFlXeHpPTHI1VjBIWXlyWkUzekxKTmVfYlM3bnhB?oc=5",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
       "id": "2ea82ac2a0faced7",
-      "title": "食品物流の再設計支援、25・26年度で3次公募 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "食品物流の再設計支援、25・26年度で3次公募",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHeXlhTndYVzRweUZ4ZXZJbjZRMVphbEx4cHF6NTFBaTZHUjEzejJ0by1LUDZQN1EtTnh2VmNfWDJrMlJOdTZiMXRB?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
       "id": "765e84cd3455064a",
-      "title": "オランダ大使館、欧州物流と環境規制の最新動向解説 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "オランダ大使館、欧州物流と環境規制の最新動向解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WOFhMSFBHMFlDUEFvRF9mTWo3NkY5TlVNc3BGWFhmVVlzTzhRT0VMcGNTTjI0R2VlMFdELTVKQ3daZDNJcTd5amd3?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
       "id": "d7cff6d14a26e94d",
-      "title": "国際物流のメール依存どう減らす、日新が解説 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "国際物流のメール依存どう減らす、日新が解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90UWZmeWRoMzlXeWh1M0czTXdSRlJURV9rWEtKS3RUa3Z1cXFlQzQwcW5UTUtjS3dpU0U5NU9sOEhkZFpOSlBISGxR?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
     {
       "id": "6ef06ac8b881e254",
-      "title": "鴻池運輸、食品物流の定温網と集中配車を披露 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "鴻池運輸、食品物流の定温網と集中配車を披露",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYMGpXMGstOUYwNHBMTzNlblhSVWk4eDdJU3RWZS15akxYTU50VWw5cENaMGg0VXpsTnN4dVVnMzdFVlhuYTJxMmpn?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "835ec5b974b4a215",
-      "title": "らいおんはーと、子ども向け物流現場見学ツアー - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nWVFGNUk1d0ZqX0J0UTZzb1VnRTVBV3FmS3pQTm14RE1lUVBteWppcGRaTHZTX1lSVE9vMzk0Q0NXaWhOV0hta2hR?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "ABEMA",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T14:33:21.000Z"
-    },
-    {
-      "id": "485717dfc4304450",
-      "title": "トラックが市バスに追突、乗客ら多数けが 神戸市灘区、下り坂でのフェード現象か（産経新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rM2J1QlhGVk9OczR4eTF1WlZBTzNFYnJCRkRUNzdJcWhmSjRpQWJzZ1I3LTBiS3JuRm8wR282UC1qdHd0dzVvMTROaTFfTHd0aEkzQUlYUTM5Zkk3aVNpUGUtUThxQmhFNFdqRk9PZ1dYb1haZkUyTkp3cUJvaHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T13:23:04.000Z"
-    },
-    {
-      "id": "f0f89c3e9770b915",
-      "title": "神戸・灘の事故多発の県道「下りの危険性」浮き彫り 6年間の死傷者、上りの2倍 勾配きつい2.5キロ区間",
-      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtbERPbDRhUFVBcmd0Qkw5MkdvZGF2Q1VzLXpETnl1RzNXNkdaUHhaLUo4enhsWWZqejNDNTlUYlN0QTdON29oWDJQYXh6cWVzdHBGc0ZXUnhDVmhxYkZiU013U0NJSFR1U3Z2Z3Fn?oc=5",
-      "source": "神戸新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-16T12:26:10.000Z"
-    },
-    {
-      "id": "7b707cba51b94052",
-      "title": "パナソニックHD、関東の物流拠点を再編 他社との共同輸送も",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bFJsUmRHMUVueXc2VE14V2p5VmdLS0p4QzY4UXNzUWJvLXBtbUpBUUtvaGx3dkJ3c2J5TXBILW84U2tYcnpQenRfQjVuZkQ0c3VJUGt4Wm84MVZpVXNwTHVuR2FsN3ZSZGI2dg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-16T11:16:30.000Z"
-    },
-    {
-      "id": "80f4c94f45e1ed35",
-      "title": "SBSグループ、千葉・富里で11.8万㎡の物流センター完成 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55dnRYQlM1UWtTUGNfdUZTRWRGX1czUkN3dVlieWlUaEhLRUFIOFY4Vk1pa1BzNXE5RDlOU1N5dWNTZ3l2aDFUczFVdw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-16T10:57:50.000Z"
     }
   ]
 }
