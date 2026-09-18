@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-18T05:24:11.454Z",
+  "updatedAt": "2026-09-18T06:30:48.728Z",
   "articles": [
+    {
+      "id": "e9349c3efbe98c1c",
+      "title": "ダイナパック、MOVO Vistaを導入。積載率を確認しながら無駄の少ない配送計画を立てる体制で、安定的な輸送力確保へ",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBwbmR1ODA5eTctZlIzam5rMC02bWo0YXoxWGNELVZrcFRicXR6Ml9fQ3JjTm0xajVlM1k1LTJveHYwUGs?oc=5",
+      "source": "株式会社Hacobu",
+      "category": "物流",
+      "publishedAt": "2026-09-18T06:03:43.000Z"
+    },
+    {
+      "id": "39ca8bf5b5f595fd",
+      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-18T05:59:28.000Z"
+    },
+    {
+      "id": "2fcb7a99770d1770",
+      "title": "日鉄興和不動産／ジョージア州で6.4万m2、米国2件目の物流施設が竣工",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16b1JuX0hjSHZTVm5Hb3BJU3hwYnMzSURndHY5Q2dBTUh5US1fbURnS3dQU2RQc3ZRYndmSngtNlhGWkl5bk9SQ19xcWRVbk1kZDc3Tg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T05:36:35.000Z"
+    },
+    {
+      "id": "27017efe39d14137",
+      "title": "JR貨物北海道支社／空コンテナ活用し札幌～北見・釧路で新モーダルシフト実証",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xeEVadERSWTZ5azJEbGZVeVh2UGpMMmtSZ1dIcF95cWpBNUVlUHlpRXUtWE9jeUliN1plTDZ0eExRa1kzUEVNYWNYYmpSME8xanEtcA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T04:59:28.000Z"
+    },
     {
       "id": "e0482d1a27017588",
       "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
@@ -29,15 +65,6 @@
       "publishedAt": "2026-09-18T01:48:49.000Z"
     },
     {
-      "id": "8d4e8d57f90ff19d",
-      "title": "オープンロジ／提携倉庫に「自動補充算出ツール」導入、保管効率13％向上",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRWZmQ1FobWRsSEN1d0dQaS05Y1Y4WjhxcXlTbno0MkVSTjNzcGVJNURaVWp1NGE4eFd0Tm5wUlJ5azZfOTZYNXZ0Vl9vaFRZLTRsLQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-18T01:38:47.000Z"
-    },
-    {
       "id": "c8ecaf9a3bb08086",
       "title": "物流連、北海道ロジサービスの共同配送事例を共有",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -56,13 +83,13 @@
       "publishedAt": "2026-09-18T00:18:43.000Z"
     },
     {
-      "id": "cbc008b01a825ead",
+      "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lTXZ2NE5ObkxJTWEyekw0VU1MUmlhY3YxNGhkMzZlVXRJRlBHa1lqdFFCYVRfLWNTdWNtOTNTUEJWQWNvVjRxSVZzckVNY1hxU0F1dmE2NUM3TU5WVFBjelkxWVdtcS1EY0Nza00tMkppUlk4VkhwMmUxOA?oc=5",
-      "source": "ニコニコニュース",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
+      "source": "ドリームニュース",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-18T00:03:48.000Z"
+      "publishedAt": "2026-09-18T00:00:00.000Z"
     },
     {
       "id": "e7e9d016b87283d4",
@@ -245,13 +272,13 @@
       "publishedAt": "2026-09-17T11:09:00.000Z"
     },
     {
-      "id": "39ca8bf5b5f595fd",
-      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
-      "source": "物流ウィークリー",
+      "id": "07f7a6b904fc5acb",
+      "title": "京王電鉄、薬配送と不動産仲介支援の2社に出資 事業領域拡大探る",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSk9nZUVZWW1BbFJtMDIwc1k1LTFIQ1QtRURUdHlsN3FpQ0VRbUsxOG9RR0plbFNhUzRfanNaNGRDSDl5OWstWFVDYldYWkpnbURrU0xEZGN2V1R6OWkxbnVCQnJXOFlNaFdvTg?oc=5",
+      "source": "日本経済新聞",
       "category": "物流",
-      "publishedAt": "2026-09-17T10:07:17.000Z"
+      "publishedAt": "2026-09-17T10:53:37.000Z"
     },
     {
       "id": "a586c1652d196b73",
@@ -283,11 +310,20 @@
     {
       "id": "dc6450631b3e9df4",
       "title": "九州自動車道で車5台絡む事故 トラックと軽自動車が衝突し後続も 現場付近は約3時間車線規制（ＫＫＴ熊本県民テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N19QS2lDR2pzcG5LMzRwQTlrLVRVOWF2ZFdnYU1nTnNEOV9JNWxNMVYwOUNjQ2g2SUczN1RuU3REN3lLUTlJSnUwR2hTYkI3cE9yM05SWU1yUDc2WnM5UkdnOC01cjZwdTB0enpoVVJfUjMxbzFONDBHM1ViR2c?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T09:52:00.000Z"
+    },
+    {
+      "id": "2f640134df352ce1",
+      "title": "鹿嶋 軽ワゴン車とトラックが正面衝突 ７０代女性が死亡",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNmNlQXZrTzdqQk9oNXJZeFRRYWUyVVFxdWZTaEpnd2RySTF3bEk1WWh0RFFBSE1uT0czSHoxN1M3NG0ycll0Uk5xOFJkeko4SnpGZ011QVg?oc=5",
+      "source": "NHKニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-17T09:04:00.000Z"
     },
     {
       "id": "9974f91b6ee8a70c",
@@ -301,9 +337,9 @@
     {
       "id": "a04de534749b0e2e",
       "title": "【代表者が急死し後継者もおらず・・・】岩手県大船渡市の運送業者が経営破綻 破産開始決定受ける",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SzZERDVaYXlnQ2J5WTloOVBxbDNhbS1LRjc3dkRYaWh2YUlweVdfZ3paVExSX0xVLU5XNElmT2R3bWQ4Q2RobjdEWEl4eWJ3eTlfTmwtUTBRRHRzdUYtNmJULU1LRmR1MWhkdGlIQlc5T3BTcjJ5RVYwcDFaWHc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T08:56:00.000Z"
     },
@@ -337,9 +373,9 @@
     {
       "id": "50b6e0078d325456",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋（茨城新聞クロスアイ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZmF6dF9xQUZJWW85cnVCNUg3S3ZHcTZaNTc1cV9QWjJCZ2ZfMWNjM1lsRVVUMnktQXRNRl9jV3hmUEVMbXUtN2dfcVdmNkQ4RzZseFZhY1dqODY0eFhwX1kzbjB3WFg1SjN1XzNTeTlBbE1DZXFhVlpoSVI0SDg?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T07:35:00.000Z"
     },
@@ -463,18 +499,18 @@
     {
       "id": "a10687f28b2233f4",
       "title": "ダンプカーと車が正面衝突 高齢男女がけが…病院搬送 バイクとトラックの衝突も…事故相次ぐ 北海道",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybW5qWWJjTnY1dDNPLURlWENEbDJndnR2VlZ3MFVDUjlraU9nOC1hQ1NfMTZXRlFuX1d1ZmF2RVNybGpibUNSeUN0eWtORVdmczRVLWhfNnRDWkZ3ZkdSbFAwSnlZMVY4TVhZODBlRm9HVmFxcXlmR01aS3FmaW8?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:55:00.000Z"
     },
     {
       "id": "c8a354ed5ce99285",
       "title": "帯広市 交差点で右折しようとしたトラックと直進のバイクが衝突 バイクに乗っていた60代男性が重体",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VEFvbWdsLVhMb3pBcWRScGo3bDhGaGhBbkEyZkIwLV8yUHVpRmZJV1hxRnZiZElqcU5Db1p5YUY4VWp2N0FLYVktM1dvWTF3TndGVFRWVDJ1QlQxQUZhZzREa25CM0hvRnRwbUUxdHJfMTdSS24xZThNTFhXWDQ?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:48:19.000Z"
     },
@@ -508,9 +544,9 @@
     {
       "id": "c240c253cf8dd222",
       "title": "【シンガポール】メープルツリー、宮城で物流施設着工（NNA）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfYnZWdl9JZkFydGVRUklCUkFQNFQ0WjZLVUV0ME1GYjVrcnVmS3UxX3MyN1NsbllRc2J3cWE5elF2cnZUZjl5XzBmdHFpbVB6VjBOYXNUcWtxYnM5eDBjNWdIRnFOVWlxYUZGOWtpQkdfVmcwUFVkNy1OWEZvRjg?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T02:30:46.000Z"
     },
@@ -580,29 +616,38 @@
     {
       "id": "111d909411539040",
       "title": "バスとトラックが衝突 2人けが 東京・練馬区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOHR5bEFZV2Z3VmpaNHIwUFp4a1RkV2I1MDhlMWg3eHFmQm8yNW1qX3ptY1BjTUo1a3RtTzhyZm5OOGw5Y21NMmd4UE5XU1BEX204SXpyQkREbFVGQ3JSc09CaFBZa2ZyZ09UNG5WYmt5Z3ZJendJS1FIRTl6OFk?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T23:43:00.000Z"
     },
     {
       "id": "1f58a736d4fe7614",
       "title": "歌舞伎町でトラックが歩道に乗り上げ 荷台部分に“ポール”突き刺さる けが人なし 東京・新宿区役所前",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QnlPZmhTR3FVNUpoODBNVGZIeVdydEIwUmMwZVlTaVNCVDE3ejNrRFZfRy10WEFQTDdTb0JXdFdQY1pmOXF5anlnOUFPdlVQNC1UdnNPbm5WZV9fMjNPQnZBbzJhbUpLYlZ0cnpoTl9RRW9hYVpJVGt2WUtxS1E?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-16T21:44:20.000Z"
     },
     {
       "id": "03a5ccebabb399e3",
       "title": "鹿児島県とANAカーゴ、航空貨物×新聞配送網の事業化検討 国交省補助金で",
-      "description": "aviationwire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Aviation Wireが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YcTEwMVhqSXRITFFIQzhIMFoyR285VDV6M1dHMkZETUhQVm9zNUFpQkw3cWtDQzRpZDJITER3Y0c3VEU1MEQwRzBwZGtXNlBZRnA2ckhR?oc=5",
-      "source": "aviationwire.jp",
+      "source": "Aviation Wire",
       "category": "物流",
       "publishedAt": "2026-09-16T21:23:00.000Z"
+    },
+    {
+      "id": "d0daca38422d198c",
+      "title": "ＰＡＬＴＡＣ 物流本部を「物流運用本部」に改称",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTVUFIaUxuRWx2ZDk2N3VqX0dVM083WldDY2RMQVJSVm84TVBfX2FDMGNJdWtaVzkyU0JLejBjb29rV0lWQWx0dTdWaEVsOVFBOGNqVV9zcWlJYnEtOUlV?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
       "id": "1e3c7142ba9eb1b1",
@@ -614,10 +659,10 @@
       "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
-      "id": "d0daca38422d198c",
-      "title": "ＰＡＬＴＡＣ 物流本部を「物流運用本部」に改称",
+      "id": "7d2c445f5ec63856",
+      "title": "三井不動産 台湾で新たに物流施設事業へ参入",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTVUFIaUxuRWx2ZDk2N3VqX0dVM083WldDY2RMQVJSVm84TVBfX2FDMGNJdWtaVzkyU0JLejBjb29rV0lWQWx0dTdWaEVsOVFBOGNqVV9zcWlJYnEtOUlV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbFZacTZtZDhfeUZNMHhFMzdlOXBSSVlqOU1TbEpuRWxzWHY4dHZVZDFOT2hVODBGVHdtQ3g3anZpMFY3QkxPZHJSSHlPWUpZT1BaZTViLXVHZm1ZaUdR?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-16T21:00:00.000Z"
@@ -643,9 +688,9 @@
     {
       "id": "16899095057291b7",
       "title": "関西物流改革の拠点 パナHD、京田辺倉庫公開",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcDQtNGJkMDR0QjB5Vmh5bW9pUUwzc21uX0NfTmpHZVJ4MEJHLWp1UjVQTnJjUVNDVUNUTndoZE5hTGw5ZFBsNWZiT3NLdEVIOGZ3WjdfUlE?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-16T20:00:00.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "2ea82ac2a0faced7",
-      "title": "食品物流の再設計支援、25・26年度で3次公募",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHeXlhTndYVzRweUZ4ZXZJbjZRMVphbEx4cHF6NTFBaTZHUjEzejJ0by1LUDZQN1EtTnh2VmNfWDJrMlJOdTZiMXRB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "765e84cd3455064a",
-      "title": "オランダ大使館、欧州物流と環境規制の最新動向解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WOFhMSFBHMFlDUEFvRF9mTWo3NkY5TlVNc3BGWFhmVVlzTzhRT0VMcGNTTjI0R2VlMFdELTVKQ3daZDNJcTd5amd3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "d7cff6d14a26e94d",
-      "title": "国際物流のメール依存どう減らす、日新が解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90UWZmeWRoMzlXeWh1M0czTXdSRlJURV9rWEtKS3RUa3Z1cXFlQzQwcW5UTUtjS3dpU0U5NU9sOEhkZFpOSlBISGxR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "6ef06ac8b881e254",
-      "title": "鴻池運輸、食品物流の定温網と集中配車を披露",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYMGpXMGstOUYwNHBMTzNlblhSVWk4eDdJU3RWZS15akxYTU50VWw5cENaMGg0VXpsTnN4dVVnMzdFVlhuYTJxMmpn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-16T19:24:11.000Z"
-    },
-    {
-      "id": "9c7044e8107f9e22",
-      "title": "断熱パッシブ冷却輸送容器市場、電子機器コールドチェーン物流を背景に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWxjcmtpNHJ3MDg1dnJJM1BuZEpESFRNcTB5QXVZWTJzSGJEZ2htOXpJZ2JVaElaSUlEZnFZLVhTQTVmX2M1M050VXNremo0ekVwV0ZMX1p6MHFuT05LRFU4Ry00NXV2Zzk0ajZlV0NqWWxHTzBpMzkyb0FyaEtYOVgyd09ZeUZOR19YOEV4aEJTaDdMcV9mcnpnN1BmMGJtV3BxNHlTNGJiOEM3b1luVWRYRzdERDRkWjYyeDJnTGJEYjY2TkRrVEd1WllfRjRRc0Q3UEd2RGtuZXYzdDFqNlZQamswTU9HZzJqQndlLU8ydw?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-16T18:26:19.000Z"
     }
   ]
 }
