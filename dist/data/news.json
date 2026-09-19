@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-19T03:25:03.546Z",
+  "updatedAt": "2026-09-19T04:25:08.637Z",
   "articles": [
     {
-      "id": "e876503c8f1d9434",
+      "id": "3ba8394d81ab0742",
       "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5COHhmaU5uV1I2T2FnSVIyOWFDT1VnRW9LZzNMS2lrNEFWbzFHRVZKcndOS2k0VEpUUDNuYWNhWW1QRnhqTk5vUWVUV1FJejREU01HV0Y5c0ItbFRwUnpkSHNNMElibVpvMElITWxzOXlVaWvSAXhBVV95cUxOejhEWFFULTFIX1BJeWxRSzA5aGxOUldIdTd2anlIbWh3aW0yT3loMVJoZVlKTU1qQXFnU3V1U2FlNXFIc2hrQmNCRGNnRXpGZ3NyekFmd1hmcUZldi1YYk5kRUZONW1WZkpqQUVLTTBwOG04V3MtLTE?oc=5",
-      "source": "news.infoseek.co.jp",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOG9TSVVkWkZrVFctLTh3cEtOTlZicUREbjYzZWxjd3BIUnRfQlhvN0dfekJrNlJZTjNEdVJCY1JMdVZ0WEVXZm9jWFIwNDJQSnVEa2dJWFcwZFBweFNPWEQ4WmJlUWNocXZVSkN5MmE2R04tdFV6LQ?oc=5",
+      "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
     },
@@ -54,6 +54,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-18T15:58:40.000Z"
+    },
+    {
+      "id": "99df0ef7055a7587",
+      "title": "南牧村で観光バスと中型トラックが衝突 搬送の5人は軽傷",
+      "description": "信濃毎日新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9heUhKMnk5WnVSUHZCUGdCRFcteGxJX1U3NlU4R09PcGtycHluLXJnTmJNdGNxQlZhd05ielVtT1N0eUFHTVlpZGcxM1JGcnowRVdkTmRNMVpzS25iLW1jekZQd09yaUFPYnNpQVVaUUg?oc=5",
+      "source": "信濃毎日新聞デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-18T12:52:00.000Z"
     },
     {
       "id": "3768cbaa527a544a",
@@ -166,9 +175,9 @@
     {
       "id": "103b04993b3aed0e",
       "title": "大和物流／11施設17事案で倉庫業法違反、変更登録通知書を偽造・変造",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIQ3ZxZ1ZaWmpfSkotT3pTODNKRWtYUGhGb01GUEdBYlJHR1lsa09NMnF4RzhNQ0hUS2ZlenFpZE40MTBRaHFITVJlOEdLVnJrRTYyRQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T08:15:11.000Z"
     },
@@ -193,18 +202,18 @@
     {
       "id": "3e854e42e6fde417",
       "title": "ニチレイ／システム障害で個人情報の漏えいを確認、配送先や取引先など",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RclA2ek54azgtMDJzQ2lSek5nak1HcXRwLXczcU1qeEFlQjRhbm0xNTJxcmI2elcyMlIzTmhIWG1hMGd0YjZHRFNZenZwcWM2R0NiU1F3?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T07:55:07.000Z"
     },
     {
       "id": "5556140ce0b6018a",
       "title": "国交省／国際物流のRTI普及に向け実証輸送に補助金、1輸送30万円を予定",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GZkxMNURFWWpRalNfWi1CQkdGeWlmOFdSNGtTUjQzQ09QVEdNYVZNa0NXYXRLMlUtcGJVZ1RVVXplS0RkSlpIZEFjUVd3a3RsN0l2NA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T06:49:52.000Z"
     },
@@ -220,27 +229,27 @@
     {
       "id": "906a820ab18d6368",
       "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iaGo0N2JiUkNIYVNmbVVPam80SS11MTFQQTNOaTI3SERtazN6MVdPeDRfQndSNFg1cnhNZHZRcVo2OUctclR3Qnd6Qm8yb0RtdVVzdw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T05:54:39.000Z"
     },
     {
       "id": "2fcb7a99770d1770",
       "title": "日鉄興和不動産／ジョージア州で6.4万m2、米国2件目の物流施設が竣工",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16b1JuX0hjSHZTVm5Hb3BJU3hwYnMzSURndHY5Q2dBTUh5US1fbURnS3dQU2RQc3ZRYndmSngtNlhGWkl5bk9SQ19xcWRVbk1kZDc3Tg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T05:36:35.000Z"
     },
     {
       "id": "27017efe39d14137",
       "title": "JR貨物北海道支社／空コンテナ活用し札幌～北見・釧路で新モーダルシフト実証",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xeEVadERSWTZ5azJEbGZVeVh2UGpMMmtSZ1dIcF95cWpBNUVlUHlpRXUtWE9jeUliN1plTDZ0eExRa1kzUEVNYWNYYmpSME8xanEtcA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T04:59:28.000Z"
     },
@@ -255,10 +264,10 @@
     },
     {
       "id": "e0482d1a27017588",
-      "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
-      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換 - hokkaido-np.co.jp",
+      "description": "hokkaido-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ejR6cWRzc3ZVbTBicF9IYU1wSGVxWUg3YzdpX2NEaWdSUVFqcnlJUU1vdjdGdTVIVXVVbkdNN3g1SVBKMDlhcHNWQkoweTljS2FON0hsRk8yQQ?oc=5",
-      "source": "北海道新聞デジタル",
+      "source": "hokkaido-np.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T03:25:03.000Z"
     },
@@ -274,9 +283,9 @@
     {
       "id": "3605d739ba8c7de1",
       "title": "航空貨物運送協会／8月国際航空貨物の輸出件数0.11％増、重量12.66％増",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Q05TeUY4bGlZRVVxbERQSnpZVXBTeHIzRUFkTUU4SHpHYUZHWFFZYThYcnY4NDZPN3hVUFdQNjdCV0ZWdjhMeGc3c1pVOUlfM1YxZg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T01:48:49.000Z"
     },
@@ -454,9 +463,9 @@
     {
       "id": "dcf7392260583117",
       "title": "キューネ・アンド・ナーゲル／フランクフルト空港に医療品物流センター開設",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Qb0V0d1dIcTZEWldkVUx3Yzg0aUFUc1Jpa3h2N19EdTFTNVNGTVFWTG1iYllNbzZicFRXdWFIWVJhb1pLUDNObmh4R3lrdXBralBpNQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T12:49:38.000Z"
     },
@@ -553,18 +562,18 @@
     {
       "id": "7b8b23d4415fc139",
       "title": "ロジテクノサービス／第9回物流研究会、現役慶応大生交え物流の認知ギャップを議論",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HczB2d1J5YmluczFSZHEwMWwxN3Qxa1FrZjJhV1dZX29VR3ZmYmhkSW11dGNxYjVRaVM0cEI0SXl1dHljYmd5Nkt6WUdRaWdEUllMcA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T07:48:43.000Z"
     },
     {
       "id": "1d0d4b043511206f",
       "title": "山九／インド北部に1.8万m2の物流センターを11月開設、物流需要拡大に対応",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TXBxdk9yQk5EemlycHFiMTVTS3I1TV9MSmY2dklwcy1qRFhlSFEyNFFBakdic29IZlJZMDBaQURQUXVfOUZtcjlzd3dCU1MtVm9hRg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T07:43:41.000Z"
     },
@@ -589,83 +598,92 @@
     {
       "id": "0e8ac19296dcc1c2",
       "title": "ESR／横浜市内の物流施設で「高機動型ドローンポーター」に関するセミナーなど開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41NnZVZXVRNnBNRE5XQ0hfZW9HSnNNeUVMVXRWejZ4OU1pTE5jOExvckk2eC0xMV9HdTFBcG5RTHc2RlcyVVJ4eWJGYV84a3lVaUc4ZQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T06:35:57.000Z"
     },
     {
       "id": "abcca2276fb15086",
       "title": "川崎重工／ばら積運搬船「PACIFIC ROYAL」を引き渡し",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5odGoxRkluUGVjSkRnLXRvUktuaE9GcllTdmpYcnVzMHFYZ181M1dDNnJ5Y0pBbXZ4enJKTXpBcVNvNjFEQWp0MU9Gelk3djlEX2RDXw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T06:33:27.000Z"
     },
     {
       "id": "ed1060d4b0b2a01c",
       "title": "アルフレッサHD／営業戦略委員会を改組、物流効率化などグループ横断で推進",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qbTdIN29jTVZNb0xzWHB4MHlvaHNIVFNpOHR0dXZldWlwZDFiU3NLSlZKRnlDaTd5SC1HQVFqZzJ0LWNaZkROcTFpRXI4M2dQTjNLOQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T06:23:25.000Z"
     },
     {
       "id": "489018ea78d92a62",
       "title": "Hacobu／イオンネクストの事例公開、配車管理導入で月60時間の作業削減",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4UlZIM2o2aDJzZlZuc2NyMDZiUHBnQkJOX2NsV3FSSGFmQUt3LTZYM2NBZ2lqNkNkQXFHeWYxSEU1bkZGTlZSY09IUWVjWXFLUng5bg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:48:17.000Z"
     },
     {
       "id": "dfd478d6f8a753f7",
       "title": "ZS ROBOTICS／5.5m既存倉庫で3段化・4方向シャトルを披露、国際物流総合展で",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWeVRmZTBsNGs0bEZNdU5UaTFKVFIyVnc0dk1USWYzS3Q3Um5JRExSM0hteFJEMVFORFFYRUY5N3o1Qzg1dlNHSi1FLVhwTUpBdUw3MA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:43:16.000Z"
     },
     {
       "id": "8e4c50da9922accd",
       "title": "三井物産リアルティほか／物流施設の遊休屋根を再エネ供給拠点に転換へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50QWxOMnRKQm5RMzFDZWRrSDdkaFJBbmM5aU9ERnhON1MxSHFsQlctTGgzVW9tZkVaMGlPSUZvcHIzMm95NVNJUzB5ZlplZGNHcUxPRQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:03:08.000Z"
     },
     {
       "id": "3c4dce57d4db6687",
       "title": "東京建物／豪州で物流ファンドに初参画、3大都市圏6物件・33.5万m2に出資",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpX1B3MUxxaGZjVXRuUERldUp3VVJPSzY2NnUycFNVWmFvVjJsMjZKclQtUV9tVUFDaTlqMmxRbkhVSWlpUl94TjcwZW0zaU5QWnNhdA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:03:08.000Z"
     },
     {
       "id": "56cda1ae22cadbf6",
       "title": "CBRE／兵庫県の物流施設「西宮北ロジスティクス」現地内覧会を9月29日開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZTVZTX1dJTGVpenQtcTlwUW0zT3FiUVRodVk2REdHLXNTa1plWHdtd0hoV1dES1NWaFZyZWxNbk1semlYbldvalI3TDN1bzNJbVpXVw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T04:39:45.000Z"
     },
     {
       "id": "53b35adae2fe7abf",
       "title": "野村不動産／千葉県「Landport野田」で9月30日、内覧会と物流セミナー実施",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JenJzUXp1UE5qNlhHSWpOb1k2Ny05Wk43dHRLMld6dWpidVRlMWUxQWo5NjhZd05Dc1hoZ3BMa2g2TUxFZEtCdjRmNFZ3ZXU5RU01dg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T04:38:57.000Z"
+    },
+    {
+      "id": "02bbdf9dac5cbe80",
+      "title": "野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PV2hCVTJ1Y08yVEUtRFlVdFo0N0NJbm5IVlo0LXJibGN4b2h3dFBPZTNjeDJ3MzBZRTZJSU9ZWENsU2xMX2dXcG9Jc0VSVGZOcGdEYg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-17T04:38:03.000Z"
     },
     {
       "id": "80f81f745185a78f",
@@ -702,24 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:42:00.000Z"
-    },
-    {
-      "id": "541fc629d42b08ab",
-      "title": "物流連／第1回 環境・サステナビリティ委員会、北海道ロジサービスが講演",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13Ul9RVEZrR1pEOWhSc25LT2RnYWZxaDdPT2wtT2dSelpoWGUxc2dZS1lrU25tcnhjeEFZRTJVM1ljOWhBbzZzbTlJTk1SZHJGdllSYg?oc=5",
-      "source": "lnews.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:37:35.000Z"
-    },
-    {
-      "id": "f70866223b2ba365",
-      "title": "愛知ドビー／「バーミキュラ」フライパンなど3％値上げ、物流費高騰も影響",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11RXh6WjRtTEszeDhnLS03clRKUjV4dXVFaWRyZGplRWFwTWpXZzZUckZrWnh4cTBwS3JhTjUxQk16OWthNVRzalJTaEloSnpaS3lyRw?oc=5",
-      "source": "lnews.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:32:33.000Z"
     }
   ]
 }
