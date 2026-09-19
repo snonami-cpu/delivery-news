@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:21:09.031Z",
+  "updatedAt": "2026-09-19T20:24:01.016Z",
   "articles": [
     {
       "id": "d4622e28321c7529",
@@ -40,9 +40,9 @@
     {
       "id": "18f9ccd37b951ef4",
       "title": "早く着くため故意に逆走か、ダンプカー運転手を起訴 福岡の死傷事故 [福岡県]",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVGpHcGFjNUZEelpWeERFdlRDNnVDTnNNbjFEX0tTTDBRRWhGenFHRmxhVmIwZ1pyZ3lwRlBnMjJDalk3X0NSeU5uN2VSTmdkbm56U3dwT2JHTFlhaGs2dXhoU3FIVlk?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-19T01:30:00.000Z"
     },
@@ -54,15 +54,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-19T01:00:57.000Z"
-    },
-    {
-      "id": "3ff77df913bbcc3c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T21:00:21.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -128,6 +119,15 @@
       "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
+      "id": "886d71827aab936a",
+      "title": "ボトル装着型温度表示ラベル市場、バイオ医薬品のコールドチェーン需要で加速へ 2035年に向け予測は上振れ",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHp2U3dmNDN6MkVoRDVPZVBaX3duVmZWVVgwQ0JtRXBBclpib0JhdENndzJIdlF2NTdOUHRrV1VHT0NPTFF5VzYtNDBXY2JOVDdQTmxTZnp3ZVFIbHVVNXdzYUlzYkt2eXNUVlh0NU00NVdVQlgzS0J0d0QzYXBoSnVhZENnQlF3RF9JM2M1TVlqTFRuOU9uOGlRc0xrYWpkLTUydGNVT1pLLUpaNFRzY0FZYkxoWXM0X2FFYmZZNG5LanlpTE9kakJLdDJBUElfaHhhRms4d2EydGtNMk95UGVJN3lvdVNu?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-18T11:51:11.000Z"
+    },
+    {
       "id": "3768cbaa527a544a",
       "title": "物流の「遠隔無人化」に挑む日台連携の最前線 | 地域・分析レポート - 海外ビジネス情報",
       "description": "jetro.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -157,9 +157,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "webcartop.jp",
+      "source": "WEB CARTOP",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -175,9 +175,9 @@
     {
       "id": "0f77697b0207d6ee",
       "title": "大和ハウス系、物流施設で17件の倉庫業法違反 変更登録せず",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kb05NQVBBWEdaOS04M3h0Z1JTTElGZU9YR1ZfTGFRZk1JMkVUbTlRLTVDaE9HbWFQMWh6dHhSRlNSem5rS1l2OWZ6VEZOdVd0Z2k5MkpEckdSNHpRQzM3dEVjczYzbExjWUg0dQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-18T10:07:25.000Z"
     },
@@ -209,15 +209,6 @@
       "publishedAt": "2026-09-18T09:04:13.000Z"
     },
     {
-      "id": "a02d92601de7f66b",
-      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-18T08:59:24.000Z"
-    },
-    {
       "id": "1d68fe28aec52cda",
       "title": "ニチレイ、サイバー攻撃による個人情報漏えいを確認。配送先・取引先・従業員などの約5万件（INTERNET Watch）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -229,9 +220,9 @@
     {
       "id": "b477db9e50b9f248",
       "title": "国土交通省／運送契約締結時の書面交付義務の主体は誰か？Q＆A公開",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VdDU2LUs2Y1V0MVduOTFaTUw5UTdvMEJvNWszNXNwS1kzRzJZcWtqZ09zUjNqN01zc2VCT21HdXlYcS1KY2ZSNV9XRXU5bmpJeHpPTQ?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-09-18T08:34:00.000Z"
     },
@@ -400,9 +391,9 @@
     {
       "id": "f5370649616741bc",
       "title": "【倒産】ホームセンターや物流倉庫など大型施設の新築に伴う造成・外構工事を手掛ける土木工事業者が自己破産申請へ...資材費高騰のなか得意先から材料支給案件を受注強化をはかるも事業継続困難に【帝国データバンク】 | TBS NEWS DIG",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzNkVl9KREtIYmUtci1yTmJDZ1otSXh0NlZNcGFBUlA0ZnozdG5laG8yY1RPR2ZDQnA1OXBjRDU5RHc0SXM4aXIwUkxxMHNMeF9MVWVMNA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T23:28:00.000Z"
     },
@@ -490,9 +481,9 @@
     {
       "id": "c8d1ad110b51d2e4",
       "title": "物流効率化法が迫る業務改善 進まぬシステム化、現場負担増の懸念",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5WFpqaTJtRktqNnhabzZPWGk5STlmV1d0RjdwRnY3dkk3T1kwTHE1YXY2eW1NRzhJR2c2QVJsSWozZnNQN3lqcHdXeXJRMTFlODVjNEdWTkRJdkJaaGJKaUJDLTB2ZUk1RmVSMQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
@@ -533,22 +524,22 @@
       "publishedAt": "2026-09-17T19:31:49.000Z"
     },
     {
-      "id": "54c693381a90fafd",
-      "title": "効率性とレジリエンスを両立 「物流プラットフォーム」という新たな共通基盤",
-      "description": "ダイヤモンド・チェーンストアオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NcG1ac29XaWYwbDZYWFROWS1hVExyMHpFaUs3Tm5mWUU0NGQ0cGJEd2FlVm1RSkdzeGtoMkt1S0p1bkNwenFLMGlGSWdUb0Rjd3dqbUFjdWU5NWtxOTZYXzV1bUc?oc=5",
-      "source": "ダイヤモンド・チェーンストアオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-17T19:23:00.000Z"
-    },
-    {
       "id": "44650a8fcf22cfdc",
       "title": "東名高速でトラック3台の事故男性1人死亡",
-      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSTFMeFlnRElkS0VRMThQSFF3eFYzekExYUNvVmVCOWVSQ3NyMUtXWmdhcExsblBidGNPakliV0ZaNVY5RnFqVmVXQ01SNXZ2OGtpMXhOZEhBTmE5djZ6WUMzSEZEdGM?oc=5",
-      "source": "asahi.co.jp",
+      "source": "朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
+    },
+    {
+      "id": "0fea4d3bb9fb27ec",
+      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
+      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
+      "source": "M&Aキャピタルパートナーズ",
+      "category": "物流",
+      "publishedAt": "2026-09-17T15:00:00.000Z"
     },
     {
       "id": "dcf7392260583117",
@@ -580,18 +571,18 @@
     {
       "id": "4f6c84fbba2dddbc",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋",
-      "description": "ibarakinews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZmd2U2lqNUltek1KREVmYUE3SVA3UlFiaTZfZlRxMVBYMG1pSnNpSGx5dTNJODJ0WVFTalQ2VHVLcFUtT2xLanQ4RkFfV1hmRFJZNUxDS1dBd2xWYzdSb2ZFRlFhNVN2MGtoTy13STZQcW8?oc=5",
-      "source": "ibarakinews.jp",
+      "source": "茨城新聞クロスアイ",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T10:56:02.000Z"
     },
     {
       "id": "07f7a6b904fc5acb",
       "title": "京王電鉄、薬配送と不動産仲介支援の2社に出資 事業領域拡大探る",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSk9nZUVZWW1BbFJtMDIwc1k1LTFIQ1QtRURUdHlsN3FpQ0VRbUsxOG9RR0plbFNhUzRfanNaNGRDSDl5OWstWFVDYldYWkpnbURrU0xEZGN2V1R6OWkxbnVCQnJXOFlNaFdvTg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-17T10:53:37.000Z"
     },
@@ -634,9 +625,9 @@
     {
       "id": "9974f91b6ee8a70c",
       "title": "東京建物、オーストラリアの物流ファンドへ出資 豪州で初の物流事業",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUHdlb0tnV3hGZ2xkeE1hTVNTMDBOU1FSbVNfZ21IaS1CSE5TX1AwU1J5MmNUN09kTWJJRlVfNHI5bmhLekFYZnNmS2JHQVJsdzdxWExZMVNBaGZzd2RpZGJEcHVEdlRIeUprOA?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-17T08:59:16.000Z"
     },
@@ -679,9 +670,9 @@
     {
       "id": "e80836037d4a79e2",
       "title": "【プレスリリースのご案内】インド北部に大型物流センターを開設",
-      "description": "digitalpr.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Digital PR Platformが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDd1Q5cnliX1FlblpGOFVHQlVlSlFPMlhTU0U5bU1EWS1KUHl1QzFQSjRPay1ucWJlZWc4WGVVOUp2dDA?oc=5",
-      "source": "digitalpr.jp",
+      "source": "Digital PR Platform",
       "category": "物流",
       "publishedAt": "2026-09-17T06:56:14.000Z"
     },
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T05:48:17.000Z"
+    },
+    {
+      "id": "dfd478d6f8a753f7",
+      "title": "ZS ROBOTICS／5.5m既存倉庫で3段化・4方向シャトルを披露、国際物流総合展で",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWeVRmZTBsNGs0bEZNdU5UaTFKVFIyVnc0dk1USWYzS3Q3Um5JRExSM0hteFJEMVFORFFYRUY5N3o1Qzg1dlNHSi1FLVhwTUpBdUw3MA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-17T05:43:16.000Z"
     }
   ]
 }
