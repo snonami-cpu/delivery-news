@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:24:39.145Z",
+  "updatedAt": "2026-09-19T10:24:17.068Z",
   "articles": [
     {
       "id": "b495b1846379c8a7",
@@ -12,10 +12,10 @@
     },
     {
       "id": "4c156b3e315e8441",
-      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
-      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト - camp-fire.jp",
+      "description": "camp-fire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbGdJbjdEbDJsei1sZElGU0M2VGM0SUJWWlBBakxwdmtaeVBhdVFHa2JWNkJpenZHMlFfUTdqT0tOX0FrS1U3NVN2cW1reExuYTFN?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
+      "source": "camp-fire.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T03:21:01.000Z"
     },
@@ -36,6 +36,15 @@
       "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
+    },
+    {
+      "id": "2f17c723b42316b5",
+      "title": "独ポスト、配送電動化4万台で幹線輸送へ軸足",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CeHNUNnFDdlp3YktZaHRNTHhvX0VKMFVFZ1RVZURnN0ZEVkFTSWsyUDAwUzFLaGdGUDVFMlU3MXdCM2dMWlVYenhR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-19T01:00:57.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -156,10 +165,10 @@
     },
     {
       "id": "59626b7078d1ab6a",
-      "title": "日新、熊本・大津町で1.1万㎡の新物流拠点が竣工 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "日新、熊本・大津町で1.1万㎡の新物流拠点が竣工 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNlBJcDlDcmU3U1Q5U05ib1BqUFMtZVRPYlcyd1dBR1p3ek1mSTdhQUJGNjN3dnNvSm13VWFmc3dtWGt4aUJmajd6Yw?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T09:15:32.000Z"
     },
@@ -174,12 +183,21 @@
     },
     {
       "id": "5771f5bfc3fe2ac3",
-      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oS05hb2FZVjlvNWdqRWFyeUFJZ19KVElYbVd3UE1PTzlnQ3lXMElsTVZIb19TV0JXMGZCaGFJdTNnNjl0UE1Dei1iMA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T09:04:13.000Z"
+    },
+    {
+      "id": "a02d92601de7f66b",
+      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-18T08:59:24.000Z"
     },
     {
       "id": "1d68fe28aec52cda",
@@ -211,9 +229,9 @@
     {
       "id": "c9d0109064f77217",
       "title": "トラックなど大型車の死角は危険 園児が交通安全学ぶ（2026年9月18日掲載）｜TVI NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJCZFhzWEdDdmpmZHR4UUhYd2hhbTFMamVVVzVXM2Jacl84Rlh1THA5U3hhdzctWE1TV1JFaDhDOU5KNnZHb3o1Tml3bklMcUp1VlAxY2V5bGNBYnhCRkNYR1loWlZLY1JrWU55dml3RjBMUXRDRldEMTZLMkpUcjFUc2RocWM?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T08:00:00.000Z"
     },
@@ -279,15 +297,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T04:59:28.000Z"
-    },
-    {
-      "id": "522ce3a8755e7634",
-      "title": "【10月14～15日】関東近郊の物流施設・大型物流倉庫「プロロジスパーク北本」内覧会を開催",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YnVLOWZpUUJBbi16T2FkZkt5U0hDRW9haXphNVJzVG8xY0t2YU1YQTZTVFJnRFdrbW5BVlpKdFdfc2tuYklMN2RDUE1SS1V2a1ZjWk1EZER5NzhZZEdQTG1MSzFySzRXaXc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-18T04:10:01.000Z"
     },
     {
       "id": "e0482d1a27017588",
@@ -400,9 +409,9 @@
     {
       "id": "6d3f56841e404c07",
       "title": "アルミの強みで物流現場に「半自動化」の選択肢、75万円の新型運搬カートが登場：国際物流総合展2026",
-      "description": "monoist.itmedia.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUEJtLXNpSlRQQzByQ2d4dU85RGl4cXc3QnBmMjc5NHVWZ3NGVmE4enR5elFRTk9kbDZoQ3VxcmtyOHlCdnllamFOQXJpejRHS3NrS0ZuQ1JuOXJzeTY5RENYcDI4ZHo1OF80SjhYSQ?oc=5",
-      "source": "monoist.itmedia.co.jp",
+      "source": "MONOist",
       "category": "物流",
       "publishedAt": "2026-09-17T21:45:00.000Z"
     },
@@ -417,28 +426,28 @@
     },
     {
       "id": "7b771183207dfb2c",
-      "title": "ネットスーパー「Green Beans」の配送担うイオンネクストデリバリー、Hacobuの配車受発注・管理サービス導入 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ネットスーパー「Green Beans」の配送担うイオンネクストデリバリー、Hacobuの配車受発注・管理サービス導入 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SzZHVWZHR2xTOEJqQ0dnbjhNMHdWSG5aRDhLSXJaSVVVOURJQWZvT0RzQmIwbEtoYThBaU5acWFpWFRvTGplUUZpMA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-17T21:00:50.000Z"
     },
     {
       "id": "d9269b2c23b38406",
-      "title": "東京建物、オーストラリアの物流施設対象ファンドに出資 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東京建物、オーストラリアの物流施設対象ファンドに出資 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kWHJrbHA3aGtiRjk4cTZGLUJYZlZFcVpHcjRHa1FDQWNzMG1IZktVM1JWdzNSNGo3MUQ5enE2RDl1QUpnbEFpbEVNNA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-17T21:00:09.000Z"
     },
     {
       "id": "8598926108b4ece2",
-      "title": "山九、インド北部に1.8万㎡の物流センターを11月開設へ - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "山九、インド北部に1.8万㎡の物流センターを11月開設へ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2akJ1RWE4TUFCbVNvZENDbWo4dXotX216OW9Dc1FoRjM2a0ZTR3lHTkFzXy1XX3JnaHBCNHZQdXdCbDBCNzR4TXpBOA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-17T21:00:01.000Z"
     },
@@ -450,15 +459,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "id": "4ff701f8511fc20b",
-      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbUo2WHlvOUtxaVQyRGpnLU5uU1J6SjJaVzNPMWpleHVQTlluS05ETnhBMjd6aEdTUElRb25xRUQ3YURHODBEOWRR0gFPQVVfeXFMTWFWMFVKTVR5emFwWk9XN0dfZkJ2dU5ZYzVrQUEtZUNMRlNzYzVVX1Jnd1hLWGZHRmQ5a011bHhYbDVfc3N1M3dseE1TZmQySQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T19:34:04.000Z"
     },
     {
       "id": "9ddabacc650bd68f",
@@ -481,9 +481,9 @@
     {
       "id": "44650a8fcf22cfdc",
       "title": "東名高速でトラック3台の事故男性1人死亡",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSTFMeFlnRElkS0VRMThQSFF3eFYzekExYUNvVmVCOWVSQ3NyMUtXWmdhcExsblBidGNPakliV0ZaNVY5RnFqVmVXQ01SNXZ2OGtpMXhOZEhBTmE5djZ6WUMzSEZEdGM?oc=5",
-      "source": "朝日放送",
+      "source": "asahi.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
@@ -625,9 +625,9 @@
     {
       "id": "e80836037d4a79e2",
       "title": "【プレスリリースのご案内】インド北部に大型物流センターを開設",
-      "description": "digitalpr.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Digital PR Platformが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDd1Q5cnliX1FlblpGOFVHQlVlSlFPMlhTU0U5bU1EWS1KUHl1QzFQSjRPay1ucWJlZWc4WGVVOUp2dDA?oc=5",
-      "source": "digitalpr.jp",
+      "source": "Digital PR Platform",
       "category": "物流",
       "publishedAt": "2026-09-17T06:56:14.000Z"
     },
