@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:24:17.068Z",
+  "updatedAt": "2026-09-19T11:23:18.923Z",
   "articles": [
     {
       "id": "b495b1846379c8a7",
@@ -36,15 +36,6 @@
       "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
-    },
-    {
-      "id": "2f17c723b42316b5",
-      "title": "独ポスト、配送電動化4万台で幹線輸送へ軸足",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CeHNUNnFDdlp3YktZaHRNTHhvX0VKMFVFZ1RVZURnN0ZEVkFTSWsyUDAwUzFLaGdGUDVFMlU3MXdCM2dMWlVYenhR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-19T01:00:57.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -94,20 +85,11 @@
     {
       "id": "99df0ef7055a7587",
       "title": "南牧村で観光バスと中型トラックが衝突 搬送の5人は軽傷",
-      "description": "信濃毎日新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "shinmai.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9heUhKMnk5WnVSUHZCUGdCRFcteGxJX1U3NlU4R09PcGtycHluLXJnTmJNdGNxQlZhd05ielVtT1N0eUFHTVlpZGcxM1JGcnowRVdkTmRNMVpzS25iLW1jekZQd09yaUFPYnNpQVVaUUg?oc=5",
-      "source": "信濃毎日新聞デジタル",
+      "source": "shinmai.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T12:52:00.000Z"
-    },
-    {
-      "id": "8e084bb6e909908d",
-      "title": "感温塗料ストリップ市場2035年予測：コールドチェーンと滅菌需要が成長を牽引",
-      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWttbGYxTFJCRm9xT24yVU03Vl9ySTM5Z3c3aXR6V2RWWXhrQUo0UkJoelk3U3UyV29WM0xTNjN5b2tXLU1RaldfVnF0amltdWR6TExHM2JyTGlHaWtEMXowWGNJUmZybHkzTEFPN29nLVdydnczTVkxWVItaEN1R09TYjBfdzVSTnRHTUJRdFlHSUx1Zk1ISE5Ebmg1a3lkVXJxT2ZWRkRYcGI5TUh4dkg5NG5pLU40VzVkOEJvblhGRGFBLUlrUllNajV3NHBxVGlrNlI4MA?oc=5",
-      "source": "indexbox.io",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
       "id": "3768cbaa527a544a",
@@ -229,9 +211,9 @@
     {
       "id": "c9d0109064f77217",
       "title": "トラックなど大型車の死角は危険 園児が交通安全学ぶ（2026年9月18日掲載）｜TVI NEWS NNN",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJCZFhzWEdDdmpmZHR4UUhYd2hhbTFMamVVVzVXM2Jacl84Rlh1THA5U3hhdzctWE1TV1JFaDhDOU5KNnZHb3o1Tml3bklMcUp1VlAxY2V5bGNBYnhCRkNYR1loWlZLY1JrWU55dml3RjBMUXRDRldEMTZLMkpUcjFUc2RocWM?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T08:00:00.000Z"
     },
@@ -461,6 +443,15 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
+      "id": "4ff701f8511fc20b",
+      "title": "ESR横浜幸浦で物流新技術、高機動ドローンも",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbUo2WHlvOUtxaVQyRGpnLU5uU1J6SjJaVzNPMWpleHVQTlluS05ETnhBMjd6aEdTUElRb25xRUQ3YURHODBEOWRR0gFPQVVfeXFMTWFWMFVKTVR5emFwWk9XN0dfZkJ2dU5ZYzVrQUEtZUNMRlNzYzVVX1Jnd1hLWGZHRmQ5a011bHhYbDVfc3N1M3dseE1TZmQySQ?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T19:34:04.000Z"
+    },
+    {
       "id": "9ddabacc650bd68f",
       "title": "三重で10/19に物流就職相談会、運送9社が参加",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -481,9 +472,9 @@
     {
       "id": "44650a8fcf22cfdc",
       "title": "東名高速でトラック3台の事故男性1人死亡",
-      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSTFMeFlnRElkS0VRMThQSFF3eFYzekExYUNvVmVCOWVSQ3NyMUtXWmdhcExsblBidGNPakliV0ZaNVY5RnFqVmVXQ01SNXZ2OGtpMXhOZEhBTmE5djZ6WUMzSEZEdGM?oc=5",
-      "source": "asahi.co.jp",
+      "source": "朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T04:38:03.000Z"
+    },
+    {
+      "id": "80f81f745185a78f",
+      "title": "ＪＰＲ、芙蓉総合リース主催の「CLO・物流責任者のための物流効率化改革セミナー」に登壇～ＪＰＲの中長期計画、お客さま企業とともに取り組む改善事例をテーマに～",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ3ZXalZxeThxbkFNd0FqTXJmX1Z0WDYzY3FUNkhpNHZYNWE0RGZJN0dwcG9hb2FfWWs5cjlpcWVwRHc3NmNWaExneXhTTy00ajlReTc2Z2tMUTBYVmtKVW55enJJNl9ianc?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-17T03:00:02.000Z"
     }
   ]
 }
