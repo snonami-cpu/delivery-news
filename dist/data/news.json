@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T00:31:47.557Z",
+  "updatedAt": "2026-09-19T01:24:46.842Z",
   "articles": [
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -17,16 +17,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tbmRCQlBfVGhkRHYyRkRpUUszTmtGUFZ5MGJFa3Y2YkZQSllyMnZXUXFxdHNVb0NTalJwQU1YcXJPaUs4bzRrQklR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-18T19:07:30.000Z"
-    },
-    {
-      "id": "1370a136a6fd6845",
-      "title": "ITCとDHL、中小企業の越境物流支援で提携更新",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ET3VpZTV0X2dKMWoyZjNZTlJfS2ZzcW9XSHVIa1VuVHdHd3lCSGkzLTgwbEN5ampGXzlXQmVKaTRYYUM3anpzaF9n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T18:56:15.000Z"
+      "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
       "id": "6dbfbf39abd8fcff",
@@ -35,7 +26,16 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Wc0dZdzBEMDZYNnMxU0gzYjl1WmZOLWY0RkE1ZlllZHRpY3U0QWZsQlYzVUdzd1NVMEZuUnZ4dnAzTDRTYmxpRFZ3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-18T18:56:15.000Z"
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
+      "id": "1370a136a6fd6845",
+      "title": "ITCとDHL、中小企業の越境物流支援で提携更新",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ET3VpZTV0X2dKMWoyZjNZTlJfS2ZzcW9XSHVIa1VuVHdHd3lCSGkzLTgwbEN5ampGXzlXQmVKaTRYYUM3anpzaF9n?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
       "id": "c5ba59ec67e14037",
@@ -76,11 +76,20 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "WEB CARTOP",
+      "source": "webcartop.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
+    },
+    {
+      "id": "7353cb9be2b676e4",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-18T10:12:24.000Z"
     },
     {
       "id": "0f77697b0207d6ee",
@@ -126,6 +135,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-18T08:59:24.000Z"
+    },
+    {
+      "id": "1d68fe28aec52cda",
+      "title": "ニチレイ、サイバー攻撃による個人情報漏えいを確認。配送先・取引先・従業員などの約5万件（INTERNET Watch）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KdlRBbEtCNF95dGNRU2Z2bGJXMnhNbTMtVHdjY0lWVFptb2Z4cFFlSGs1UllCcHB4SkNTRHI5Q19uVktjdzdDUllNVG9ObE5hRE0zcHd5NDBCZ1diNEc5ZFNHLXZuZGl3QkdwQjhPNWgwUEd0dVJoMGxXSU02YjQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T08:59:00.000Z"
     },
     {
       "id": "b477db9e50b9f248",
@@ -180,6 +198,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T06:49:52.000Z"
+    },
+    {
+      "id": "ebecfaa2635a0e73",
+      "title": "山九、インド北部に大型物流センター",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tbmxmbkVneHlDbWZ1ZTNUQ20wSWxId01VTm9PbmRLZTEtRUJwQl9KVnpnLUxvWnNXWFRoMGt1MlZLMjhVYVJwc1lR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T06:30:14.000Z"
     },
     {
       "id": "906a820ab18d6368",
@@ -245,20 +272,11 @@
       "publishedAt": "2026-09-18T01:27:33.000Z"
     },
     {
-      "id": "07d8985c562b66ab",
-      "title": "トラボックス、運送会社向け新規取引開拓セミナー",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVDJVak1nS09pdEZVQnoyNHJEOEpPWUs1bkxKZk9lLUg1bTNsZWE5YzJFUE9vSUpaM2o4azMwRV8zX190T1FjY2F3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T00:18:43.000Z"
-    },
-    {
       "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "dreamnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
-      "source": "ドリームニュース",
+      "source": "dreamnews.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -389,15 +407,6 @@
       "publishedAt": "2026-09-17T19:32:15.000Z"
     },
     {
-      "id": "f7de59432db7acdb",
-      "title": "アレスとPSP、米物流不動産に最大24億ドル投資",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43a0dPd2pDc2Fuck95d0JtQWhzQmZRWjlVNVR5dDRqaEtLNVJCVVlkZGRZRVhVMHhraEc0Mi14eWhoUXg1aEVBNTBn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T19:32:02.000Z"
-    },
-    {
       "id": "cd6b686552467031",
       "title": "豊中市、災害物流でJPロジスティクスとも協定",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -414,15 +423,6 @@
       "source": "朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
-    },
-    {
-      "id": "0fea4d3bb9fb27ec",
-      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
-      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
-      "source": "M&Aキャピタルパートナーズ",
-      "category": "物流",
-      "publishedAt": "2026-09-17T15:00:00.000Z"
     },
     {
       "id": "db30bbbed990a48c",
@@ -652,9 +652,9 @@
     {
       "id": "80f81f745185a78f",
       "title": "ＪＰＲ、芙蓉総合リース主催の「CLO・物流責任者のための物流効率化改革セミナー」に登壇～ＪＰＲの中長期計画、お客さま企業とともに取り組む改善事例をテーマに～",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ3ZXalZxeThxbkFNd0FqTXJmX1Z0WDYzY3FUNkhpNHZYNWE0RGZJN0dwcG9hb2FfWWs5cjlpcWVwRHc3NmNWaExneXhTTy00ajlReTc2Z2tMUTBYVmtKVW55enJJNl9ianc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-17T03:00:02.000Z"
     },
