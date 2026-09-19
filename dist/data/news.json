@@ -1,21 +1,12 @@
 {
-  "updatedAt": "2026-09-19T15:23:41.486Z",
+  "updatedAt": "2026-09-19T16:24:44.952Z",
   "articles": [
     {
-      "id": "b495b1846379c8a7",
-      "title": "ＢＩＰＲＯＧＹ 食品・物流事業者に携わる人に向けセミナー 生成ＡＩやフィジカルＡＩの最前線を紹介｜物流ニュース",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XSHJtSDRFb1pNSktJQS1IZ2RnWU1XNHlod0NWZlhEM05RUnptN0JHRHJ1ODFkLW1SOXpJU1h4QTU0cV83QTN0Z0IxdjFhUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-19T08:30:28.000Z"
-    },
-    {
       "id": "4c156b3e315e8441",
-      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
-      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト - camp-fire.jp",
+      "description": "camp-fire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbGdJbjdEbDJsei1sZElGU0M2VGM0SUJWWlBBakxwdmtaeVBhdVFHa2JWNkJpenZHMlFfUTdqT0tOX0FrS1U3NVN2cW1reExuYTFN?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
+      "source": "camp-fire.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T03:21:01.000Z"
     },
@@ -56,13 +47,22 @@
       "publishedAt": "2026-09-19T01:00:57.000Z"
     },
     {
+      "id": "840392c24c10a8b8",
+      "title": "阪急阪神不動産と日鉄興和、京阪神ビルディングが米アトランタ都市圏で共同開発の物流施設が竣工 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4aW94S2ZYYTVYMnI4ZElEenNqME9ka2lCVmlHaHIzV19KbGpKX3VYTjd3QXNBTXhfVzZnMmIzVGRZMzh4dlJXRXJCWQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-18T21:00:52.000Z"
+    },
+    {
       "id": "3ff77df913bbcc3c",
       "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
       "source": "Yahoo!ニュース",
       "category": "物流",
-      "publishedAt": "2026-09-18T21:02:41.000Z"
+      "publishedAt": "2026-09-18T21:00:21.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -101,6 +101,24 @@
       "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
+      "id": "2fdb9df57e9170be",
+      "title": "ギークプラス、独に欧州初のAI物流実証拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sbHhVT3Z2TGtRX21odnFjamh4Z0dzdXhrUDdxUWoxaGhnUEhfZ1VZV1gxU2VINnJQc0ZXTkVyV0RQbDg2T25ZZ3VR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
+      "id": "836e921ded109790",
+      "title": "中国の航空物流、規模が引き続き過去最高を更新",
+      "description": "CGTN Japaneseが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hcDdlci02c0VFcDhXTG5XRFJwUmFSbURSUXUwejBDX0xfUUJCRnRUc1k1SWhuTWp3SExMR09SbmxacFlaLWFRbXMtRy1RaU5jTmliTU0xU09XU1MwcHV5NDI5anpxZw?oc=5",
+      "source": "CGTN Japanese",
+      "category": "物流",
+      "publishedAt": "2026-09-18T16:08:02.000Z"
+    },
+    {
       "id": "c5ba59ec67e14037",
       "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -117,15 +135,6 @@
       "source": "信濃毎日新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T12:52:00.000Z"
-    },
-    {
-      "id": "8e084bb6e909908d",
-      "title": "感温塗料ストリップ市場2035年予測：コールドチェーンと滅菌需要が成長を牽引",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWttbGYxTFJCRm9xT24yVU03Vl9ySTM5Z3c3aXR6V2RWWXhrQUo0UkJoelk3U3UyV29WM0xTNjN5b2tXLU1RaldfVnF0amltdWR6TExHM2JyTGlHaWtEMXowWGNJUmZybHkzTEFPN29nLVdydnczTVkxWVItaEN1R09TYjBfdzVSTnRHTUJRdFlHSUx1Zk1ISE5Ebmg1a3lkVXJxT2ZWRkRYcGI5TUh4dkg5NG5pLU40VzVkOEJvblhGRGFBLUlrUllNajV3NHBxVGlrNlI4MA?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
       "id": "3768cbaa527a544a",
@@ -157,9 +166,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "WEB CARTOP",
+      "source": "webcartop.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -281,6 +290,15 @@
       "publishedAt": "2026-09-18T07:00:00.000Z"
     },
     {
+      "id": "b51f94d83f937806",
+      "title": "関東運輸局・澤井局長／就任会見 「物流に適正なマーケットメカニズムを」",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ody1NSVd2YVdGX21YaVFrTmI4eHUtRzA2emRTRmFBcWhNVDRmYTlYUk9QVGU4U0FkNWN2S3lwWTJNdmk4TkNHdzd6WFZDTzl2czlzZEl3Z0hHXzJfYmJn?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-18T07:00:00.000Z"
+    },
+    {
       "id": "5556140ce0b6018a",
       "title": "国交省／国際物流のRTI普及に向け実証輸送に補助金、1輸送30万円を予定",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -299,15 +317,6 @@
       "publishedAt": "2026-09-18T06:30:14.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-18T05:59:25.000Z"
-    },
-    {
       "id": "906a820ab18d6368",
       "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -324,15 +333,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T05:36:35.000Z"
-    },
-    {
-      "id": "d565012094c2d8d2",
-      "title": "ドローン荷物配送市場―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNF9Ob2hYM21GNkdzVDNzSmFUNXhQWkJVOE1CUW10Q282dTlZUnRxYjZfZVNNOC1GdnBOQ2FqZFV6V2s2NVczUnZQUmpDcVE?oc=5",
-      "source": "アットプレス",
-      "category": "物流",
-      "publishedAt": "2026-09-18T05:05:00.000Z"
     },
     {
       "id": "27017efe39d14137",
@@ -560,15 +560,6 @@
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
     {
-      "id": "db30bbbed990a48c",
-      "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
-      "description": "business.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWjZLMGNvS0pEbUZfMGM5bmtqek82OFZIUUZfSEZlaFdyb2p3SGxLT01wSlprNXdZSTNlX0tVWWp6VWEyQ3hQdjZsSEZBc2tGVmNnS2RTZHR3LUtPRkh0ZXZyUlA3VHM?oc=5",
-      "source": "business.nikkei.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T15:00:00.000Z"
-    },
-    {
       "id": "dcf7392260583117",
       "title": "キューネ・アンド・ナーゲル／フランクフルト空港に医療品物流センター開設",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-17T06:33:27.000Z"
+    },
+    {
+      "id": "ed1060d4b0b2a01c",
+      "title": "アルフレッサHD／営業戦略委員会を改組、物流効率化などグループ横断で推進",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qbTdIN29jTVZNb0xzWHB4MHlvaHNIVFNpOHR0dXZldWlwZDFiU3NLSlZKRnlDaTd5SC1HQVFqZzJ0LWNaZkROcTFpRXI4M2dQTjNLOQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-17T06:23:25.000Z"
     }
   ]
 }
