@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:29:33.807Z",
+  "updatedAt": "2026-09-19T07:23:45.213Z",
   "articles": [
     {
       "id": "4c156b3e315e8441",
@@ -13,9 +13,9 @@
     {
       "id": "bc2232514380e71c",
       "title": "倉庫業に必要な書類を提出したように偽装、物流会社社員を懲戒解雇…違反１７件・会社に虚偽の業務報告",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "yomiuri.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUjE4LWYtZ2VxVEZpcXkxVVJZX214ZmpMWXhFYjhjWDlOMGNJaWVmNUpGbFpLOWxUbVEwX0NuUWxMZndPUE1DMlhvdEJOcG5qREZMdF8td1hGVlRyNUlFYXBBb2llRVdBRDdLNWZSNHNBQQ?oc=5",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T02:45:00.000Z"
     },
@@ -326,6 +326,15 @@
       "publishedAt": "2026-09-17T23:46:10.000Z"
     },
     {
+      "id": "f5370649616741bc",
+      "title": "【倒産】ホームセンターや物流倉庫など大型施設の新築に伴う造成・外構工事を手掛ける土木工事業者が自己破産申請へ...資材費高騰のなか得意先から材料支給案件を受注強化をはかるも事業継続困難に【帝国データバンク】 | TBS NEWS DIG",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzNkVl9KREtIYmUtci1yTmJDZ1otSXh0NlZNcGFBUlA0ZnozdG5laG8yY1RPR2ZDQnA1OXBjRDU5RHc0SXM4aXIwUkxxMHNMeF9MVWVMNA?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-09-17T23:28:00.000Z"
+    },
+    {
       "id": "8064a839d5497963",
       "title": "DHLサプライチェーン、コロンビア物流会社を買収へ",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -459,15 +468,6 @@
       "source": "朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
-    },
-    {
-      "id": "0fea4d3bb9fb27ec",
-      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
-      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
-      "source": "M&Aキャピタルパートナーズ",
-      "category": "物流",
-      "publishedAt": "2026-09-17T15:00:00.000Z"
     },
     {
       "id": "db30bbbed990a48c",
@@ -607,9 +607,9 @@
     {
       "id": "e80836037d4a79e2",
       "title": "【プレスリリースのご案内】インド北部に大型物流センターを開設",
-      "description": "Digital PR Platformが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "digitalpr.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDd1Q5cnliX1FlblpGOFVHQlVlSlFPMlhTU0U5bU1EWS1KUHl1QzFQSjRPay1ucWJlZWc4WGVVOUp2dDA?oc=5",
-      "source": "Digital PR Platform",
+      "source": "digitalpr.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T06:56:14.000Z"
     },
