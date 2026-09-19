@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-19T17:22:38.373Z",
+  "updatedAt": "2026-09-19T18:26:19.921Z",
   "articles": [
     {
       "id": "d4622e28321c7529",
       "title": "離職を防ぎ定着率UP！運送業が導入すべき「良い評価制度」6つの条件を公開しました｜株式会社船井総研サプライチェーンコンサルティング",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cXdHaG5fRU9wYTdLRWgzSXlMUGdpa1JjRDVIWEFrcGxuREJjeHh2REdpOVFkUWQxSVIwWl9SdGZRZVFyZWJKajBCd2hBSnVCZFZpR3lBelY4eWhybWU3MmtJWVVrUjJaM1E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
     {
       "id": "4c156b3e315e8441",
-      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト - camp-fire.jp",
-      "description": "camp-fire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
+      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbGdJbjdEbDJsei1sZElGU0M2VGM0SUJWWlBBakxwdmtaeVBhdVFHa2JWNkJpenZHMlFfUTdqT0tOX0FrS1U3NVN2cW1reExuYTFN?oc=5",
-      "source": "camp-fire.jp",
+      "source": "CAMPFIRE (キャンプファイヤー)",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T03:21:01.000Z"
     },
@@ -54,15 +54,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-19T01:00:57.000Z"
-    },
-    {
-      "id": "3ff77df913bbcc3c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T21:00:21.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -117,6 +108,15 @@
       "source": "信濃毎日新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T12:52:00.000Z"
+    },
+    {
+      "id": "8e084bb6e909908d",
+      "title": "感温塗料ストリップ市場2035年予測：コールドチェーンと滅菌需要が成長を牽引",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWttbGYxTFJCRm9xT24yVU03Vl9ySTM5Z3c3aXR6V2RWWXhrQUo0UkJoelk3U3UyV29WM0xTNjN5b2tXLU1RaldfVnF0amltdWR6TExHM2JyTGlHaWtEMXowWGNJUmZybHkzTEFPN29nLVdydnczTVkxWVItaEN1R09TYjBfdzVSTnRHTUJRdFlHSUx1Zk1ISE5Ebmg1a3lkVXJxT2ZWRkRYcGI5TUh4dkg5NG5pLU40VzVkOEJvblhGRGFBLUlrUllNajV3NHBxVGlrNlI4MA?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
       "id": "3768cbaa527a544a",
@@ -200,15 +200,6 @@
       "publishedAt": "2026-09-18T09:04:13.000Z"
     },
     {
-      "id": "a02d92601de7f66b",
-      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-18T08:59:24.000Z"
-    },
-    {
       "id": "1d68fe28aec52cda",
       "title": "ニチレイ、サイバー攻撃による個人情報漏えいを確認。配送先・取引先・従業員などの約5万件（INTERNET Watch）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -265,9 +256,9 @@
     {
       "id": "50ffa82d28a6cb90",
       "title": "～ アメリカにおける物流不動産開発事業の第1号案件 ～ ジョージア州アトランタの「Buford Creek Business Center（ビュフォード クリーク ビジネス センター）」が竣工しました",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vb1VkY3FBSkp3MHlfN2Q3ZjQ3UlZyWTlIQ2EyX0ZzT0c3Q1FXd1RhQU1rc2VNQTNzTmZwZzhKRWlzZGY3VmVVRjRYLVZycERmb0pwZGFyc0taOWVJZGdJNGFRYVl5XzhFTnc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T07:30:01.000Z"
     },
@@ -337,9 +328,9 @@
     {
       "id": "522ce3a8755e7634",
       "title": "【10月14～15日】関東近郊の物流施設・大型物流倉庫「プロロジスパーク北本」内覧会を開催",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YnVLOWZpUUJBbi16T2FkZkt5U0hDRW9haXphNVJzVG8xY0t2YU1YQTZTVFJnRFdrbW5BVlpKdFdfc2tuYklMN2RDUE1SS1V2a1ZjWk1EZER5NzhZZEdQTG1MSzFySzRXaXc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T04:10:01.000Z"
     },
@@ -551,6 +542,15 @@
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
     {
+      "id": "db30bbbed990a48c",
+      "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWjZLMGNvS0pEbUZfMGM5bmtqek82OFZIUUZfSEZlaFdyb2p3SGxLT01wSlprNXdZSTNlX0tVWWp6VWEyQ3hQdjZsSEZBc2tGVmNnS2RTZHR3LUtPRkh0ZXZyUlA3VHM?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-09-17T15:00:00.000Z"
+    },
+    {
       "id": "dcf7392260583117",
       "title": "キューネ・アンド・ナーゲル／フランクフルト空港に医療品物流センター開設",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -580,9 +580,9 @@
     {
       "id": "4f6c84fbba2dddbc",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋",
-      "description": "ibarakinews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZmd2U2lqNUltek1KREVmYUE3SVA3UlFiaTZfZlRxMVBYMG1pSnNpSGx5dTNJODJ0WVFTalQ2VHVLcFUtT2xLanQ4RkFfV1hmRFJZNUxDS1dBd2xWYzdSb2ZFRlFhNVN2MGtoTy13STZQcW8?oc=5",
-      "source": "ibarakinews.jp",
+      "source": "茨城新聞クロスアイ",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T10:56:02.000Z"
     },
