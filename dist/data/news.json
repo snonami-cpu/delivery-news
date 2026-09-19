@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:24:08.462Z",
+  "updatedAt": "2026-09-19T00:31:47.557Z",
   "articles": [
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -39,10 +39,10 @@
     },
     {
       "id": "c5ba59ec67e14037",
-      "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQm5QSFoyLXJZSjdsdV9pNW0yN1ZZMjRJcWhPSHF0STZubTRzU2dsS3pWcnRObjJheFpLZzlOZmE3STVFMlhnYWJwVm4ydw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-18T15:58:40.000Z"
     },
@@ -76,9 +76,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "webcartop.jp",
+      "source": "WEB CARTOP",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -93,10 +93,10 @@
     },
     {
       "id": "59626b7078d1ab6a",
-      "title": "日新、熊本・大津町で1.1万㎡の新物流拠点が竣工 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "日新、熊本・大津町で1.1万㎡の新物流拠点が竣工 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNlBJcDlDcmU3U1Q5U05ib1BqUFMtZVRPYlcyd1dBR1p3ek1mSTdhQUJGNjN3dnNvSm13VWFmc3dtWGt4aUJmajd6Yw?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T09:15:32.000Z"
     },
@@ -111,12 +111,21 @@
     },
     {
       "id": "5771f5bfc3fe2ac3",
-      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oS05hb2FZVjlvNWdqRWFyeUFJZ19KVElYbVd3UE1PTzlnQ3lXMElsTVZIb19TV0JXMGZCaGFJdTNnNjl0UE1Dei1iMA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T09:04:13.000Z"
+    },
+    {
+      "id": "a02d92601de7f66b",
+      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-18T08:59:24.000Z"
     },
     {
       "id": "b477db9e50b9f248",
@@ -336,19 +345,19 @@
     },
     {
       "id": "d9269b2c23b38406",
-      "title": "東京建物、オーストラリアの物流施設対象ファンドに出資 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東京建物、オーストラリアの物流施設対象ファンドに出資 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kWHJrbHA3aGtiRjk4cTZGLUJYZlZFcVpHcjRHa1FDQWNzMG1IZktVM1JWdzNSNGo3MUQ5enE2RDl1QUpnbEFpbEVNNA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-17T21:00:09.000Z"
     },
     {
       "id": "8598926108b4ece2",
-      "title": "山九、インド北部に1.8万㎡の物流センターを11月開設へ - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "山九、インド北部に1.8万㎡の物流センターを11月開設へ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2akJ1RWE4TUFCbVNvZENDbWo4dXotX216OW9Dc1FoRjM2a0ZTR3lHTkFzXy1XX3JnaHBCNHZQdXdCbDBCNzR4TXpBOA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-17T21:00:01.000Z"
     },
@@ -407,6 +416,15 @@
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
     {
+      "id": "0fea4d3bb9fb27ec",
+      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
+      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
+      "source": "M&Aキャピタルパートナーズ",
+      "category": "物流",
+      "publishedAt": "2026-09-17T15:00:00.000Z"
+    },
+    {
       "id": "db30bbbed990a48c",
       "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
       "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -436,9 +454,9 @@
     {
       "id": "09915d5f7cd03fd9",
       "title": "鹿嶋 軽ワゴン車とトラックが正面衝突 ７４歳女性が死亡",
-      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibzVIeFVuSDIwSmZGWlZTV2tlYlZQd2taMExyck5EeVlIaExsX1BzNzNvTDdkbF9FOE94ckpJS19rSUlWZDd1Rk9UaEtSdWRkbDgxUzlyanQ?oc=5",
-      "source": "news.web.nhk",
+      "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T11:09:00.000Z"
     },
@@ -462,19 +480,19 @@
     },
     {
       "id": "a586c1652d196b73",
-      "title": "止まったら「一発アウト」 広がる「便利」に潜むリスク - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "止まったら「一発アウト」 広がる「便利」に潜むリスク",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVGpNeTJHYTZ0WXA2eGNrTlNhUV80bDlJSHcyZHRjNk5NdVBfN0p5anF2MFkwamFId2kydEt2LVdzLTNRTFgxOHBnRE45QQ?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-17T10:02:15.000Z"
     },
     {
       "id": "af9b61eba23c0e55",
-      "title": "トラスコ中山 新潟県三条市に「ＨＣ東日本物流センター」新設｜etc - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トラスコ中山 新潟県三条市に「ＨＣ東日本物流センター」新設｜etc",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByTmNqVUgyb2ViS1BUam5zM0JVaE5lUENqcHVnSVJxT1RLZFZjc0NPNy1YRmhRZmhmSHNFQ0lJRzQxdVBwV1FqQ2tuV0I?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-17T10:02:15.000Z"
     },
@@ -686,15 +704,6 @@
       "publishedAt": "2026-09-17T02:32:33.000Z"
     },
     {
-      "id": "6d19e901066d84c4",
-      "title": "【韓国】コンビニＢＧＦ、釜山に物流センター設立（NNA）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QVEFfNjF5Z3pyNi03VW1ROXhpLVR6R0FUQ21BX2dtbVdRQmhxdWhyak1lUVdSYU5qS0ZfeDhsMjc4X0V4Qkdza0tpS0xhSWpXdzZxZ0VNRURnUklJdTNsSDVuSzlXdUNpa1NkRDZ6MXRoNXJtYlRld1VaWWlOMG8?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:30:46.000Z"
-    },
-    {
       "id": "c240c253cf8dd222",
       "title": "【シンガポール】メープルツリー、宮城で物流施設着工（NNA）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -706,20 +715,11 @@
     {
       "id": "f9a04cb7f599e7c4",
       "title": "北海道のニュース",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83X3JJNTlDak5vVU1hc0c5RkNVSFFDRFEwZlpNNzA5NG5qcGpPbFlrZmNIbi1RREtpUm1fSjRRWHZDWHJsYTNXeXYya0w0TXRNV0ZTbF9hMjNhbTRHcExZUmNzcFBhR28?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T02:26:00.000Z"
-    },
-    {
-      "id": "b49e37e4cce419da",
-      "title": "ユニクロ／カスタムオーダースーツ、工場から「ダイレクト配送」開始",
-      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWXJpcnFGdFBPSjhMWUlCdFdDTzg3dHFrR3JUOTNuRjVhb1BFb3VlTEdrTWVuUWZsOFl1VGRXU0tLbG9hV1hOa3VvNmNoZW5yYWt3SVZIck5QZw?oc=5",
-      "source": "流通ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-17T02:19:00.000Z"
     }
   ]
 }
