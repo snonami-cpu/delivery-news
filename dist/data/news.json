@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-20T09:24:03.725Z",
+  "updatedAt": "2026-09-20T11:23:27.003Z",
   "articles": [
+    {
+      "id": "9f0c77b4fdca2235",
+      "title": "予約時間に納品できない？ システム仕様の課題",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LUU40MnpfSTdEN1Nfejl4ZVdQeEhrS0xDOUE1SjBodVdMNDhMUm1hbUMwc3c2NnhHb3NfYmZXYUpVbVFTTkllNXQ3b2NGQQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-20T10:05:53.000Z"
+    },
     {
       "id": "9d42733f3fb89998",
       "title": "韓国のフリーマーケットにトラック突入、母子2人死亡…60代運転手の拘束令状請求",
@@ -9,6 +18,15 @@
       "source": "Infoseek",
       "category": "安全・事故",
       "publishedAt": "2026-09-20T07:10:33.000Z"
+    },
+    {
+      "id": "b7d1b161ee656f5f",
+      "title": "【講演レポート】「生き残る運送会社を目指す 第一回TUNAGロジ説明会」に船井総研サプライチェーンコンサルティングのコンサルタントが登壇しました(主催:株式会社スタメン様)",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNVE1Si0tM2VIdVo4STJ6c3FpTEVrVHA1NlpiYV9uSHlRSjFyMHE1c205c2hIOUhGUkZmU1NXdUc3R2IxSHZEZmZ0dUczQjZfWl83c3VnZm50allmUUZKMnVuZ1AybkYxUEE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-20T05:00:02.000Z"
     },
     {
       "id": "34997eaca9c7dc94",
@@ -56,6 +74,15 @@
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
     {
+      "id": "0f991b449b0a0687",
+      "title": "中国の航空物流、規模が引き続き過去最高を更新",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3hRR2EyM01GUHpRYWloNTVTQUtZZjFoeDJkOUk3UnB2V2VhTkNXZlYzWjdfRy0xRmJhZjdHcXYxaXNGdzRtTWhqRGxNUHhHcExMM2dQVHc4NjUtaUczWUlmTERIYk1GbGxsczdfNWpOTEpNa25VdjZCaUJLV2dqVG12TzdWam14VFFB0gGLAUFVX3lxTE9jeFFHYTIzTUZQelFhaWg1NVNBS1lmMWh4MmQ5STdScHZXZWFOQ1dmVjNaN19HLTFGYmFmN0dxdjFpc0Z3NG1NaGpEbE1QeEdwTEwzZ1BUdzg2NS1pRzNZSWZMREhiTUZsbGxzN181ak5MSk1rblV2NkJpQktXZ2pUbXZPN1ZqbXhUUUE?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-19T08:00:00.000Z"
+    },
+    {
       "id": "4c156b3e315e8441",
       "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
       "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -74,11 +101,20 @@
       "publishedAt": "2026-09-19T02:45:00.000Z"
     },
     {
+      "id": "dd85a78a6016df6a",
+      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-19T02:27:24.000Z"
+    },
+    {
       "id": "3ba8394d81ab0742",
       "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOG9TSVVkWkZrVFctLTh3cEtOTlZicUREbjYzZWxjd3BIUnRfQlhvN0dfekJrNlJZTjNEdVJCY1JMdVZ0WEVXZm9jWFIwNDJQSnVEa2dJWFcwZFBweFNPWEQ4WmJlUWNocXZVSkN5MmE2R04tdFV6LQ?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
     },
@@ -108,15 +144,6 @@
       "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T21:00:52.000Z"
-    },
-    {
-      "id": "3ff77df913bbcc3c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T21:00:21.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -153,15 +180,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T19:08:21.000Z"
-    },
-    {
-      "id": "836e921ded109790",
-      "title": "中国の航空物流、規模が引き続き過去最高を更新",
-      "description": "CGTN Japaneseが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hcDdlci02c0VFcDhXTG5XRFJwUmFSbURSUXUwejBDX0xfUUJCRnRUc1k1SWhuTWp3SExMR09SbmxacFlaLWFRbXMtRy1RaU5jTmliTU0xU09XU1MwcHV5NDI5anpxZw?oc=5",
-      "source": "CGTN Japanese",
-      "category": "物流",
-      "publishedAt": "2026-09-18T16:08:02.000Z"
     },
     {
       "id": "c5ba59ec67e14037",
@@ -209,13 +227,13 @@
       "publishedAt": "2026-09-18T11:49:14.000Z"
     },
     {
-      "id": "537d73f9eab4131c",
-      "title": "moegi、物流ルートを映像と位置情報で記録",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JSU9KQnY1S1RVcURWMWVEOThYVW5mQWdheDQ0WllLeTNSdzNEMEN6dFhZWjFpN1RZOFJaa1ZYOWdFNThMSXNnS1ln?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T11:32:34.000Z"
+      "id": "b88f854016133f70",
+      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-18T11:45:27.000Z"
     },
     {
       "id": "d7561e1941fba51f",
@@ -407,15 +425,6 @@
       "publishedAt": "2026-09-18T05:59:28.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-18T05:59:25.000Z"
-    },
-    {
       "id": "906a820ab18d6368",
       "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -432,6 +441,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T05:36:35.000Z"
+    },
+    {
+      "id": "2bed89e9485fa663",
+      "title": "ドローン荷物配送市場―2026年～2032年の世界市場予測",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00M2xNdnRoZ2xqdmRUQ2JyaFppVV81YVFVVnduVHBLYS0tajZyczE5TEgycWFCVjZFSmxSRzR6OURKZThiT192RVFBaWQtb1E?oc=5",
+      "source": "Newscast.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-18T05:05:00.000Z"
     },
     {
       "id": "27017efe39d14137",
@@ -499,9 +517,9 @@
     {
       "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "dreamnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
-      "source": "dreamnews.jp",
+      "source": "ドリームニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -517,9 +535,9 @@
     {
       "id": "f5370649616741bc",
       "title": "【倒産】ホームセンターや物流倉庫など大型施設の新築に伴う造成・外構工事を手掛ける土木工事業者が自己破産申請へ...資材費高騰のなか得意先から材料支給案件を受注強化をはかるも事業継続困難に【帝国データバンク】 | TBS NEWS DIG",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzNkVl9KREtIYmUtci1yTmJDZ1otSXh0NlZNcGFBUlA0ZnozdG5laG8yY1RPR2ZDQnA1OXBjRDU5RHc0SXM4aXIwUkxxMHNMeF9MVWVMNA?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-09-17T23:28:00.000Z"
     },
@@ -531,15 +549,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-17T22:47:59.000Z"
-    },
-    {
-      "id": "d3292eb12c65b601",
-      "title": "アパレル景況3か月低迷、季節物流に見直し迫る",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aM01LenJTcFdJMktsb1Qzd2xybnpuTzlDTHNwd0NQUHYzLU1jWGItXzBPMHNhOHE2eDNkYmYweXJDV01helREVnRR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T22:47:52.000Z"
     },
     {
       "id": "10c85f67b7ed08e1",
@@ -632,15 +641,6 @@
       "publishedAt": "2026-09-17T16:06:00.000Z"
     },
     {
-      "id": "0fea4d3bb9fb27ec",
-      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
-      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
-      "source": "M&Aキャピタルパートナーズ",
-      "category": "物流",
-      "publishedAt": "2026-09-17T15:00:00.000Z"
-    },
-    {
       "id": "db30bbbed990a48c",
       "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
       "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -679,9 +679,9 @@
     {
       "id": "4f6c84fbba2dddbc",
       "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋",
-      "description": "ibarakinews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZmd2U2lqNUltek1KREVmYUE3SVA3UlFiaTZfZlRxMVBYMG1pSnNpSGx5dTNJODJ0WVFTalQ2VHVLcFUtT2xLanQ4RkFfV1hmRFJZNUxDS1dBd2xWYzdSb2ZFRlFhNVN2MGtoTy13STZQcW8?oc=5",
-      "source": "ibarakinews.jp",
+      "source": "茨城新聞クロスアイ",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T10:56:02.000Z"
     },
