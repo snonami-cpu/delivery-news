@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:23:27.003Z",
+  "updatedAt": "2026-09-20T12:29:19.932Z",
   "articles": [
     {
       "id": "9f0c77b4fdca2235",
@@ -74,15 +74,6 @@
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
     {
-      "id": "0f991b449b0a0687",
-      "title": "中国の航空物流、規模が引き続き過去最高を更新",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3hRR2EyM01GUHpRYWloNTVTQUtZZjFoeDJkOUk3UnB2V2VhTkNXZlYzWjdfRy0xRmJhZjdHcXYxaXNGdzRtTWhqRGxNUHhHcExMM2dQVHc4NjUtaUczWUlmTERIYk1GbGxsczdfNWpOTEpNa25VdjZCaUJLV2dqVG12TzdWam14VFFB0gGLAUFVX3lxTE9jeFFHYTIzTUZQelFhaWg1NVNBS1lmMWh4MmQ5STdScHZXZWFOQ1dmVjNaN19HLTFGYmFmN0dxdjFpc0Z3NG1NaGpEbE1QeEdwTEwzZ1BUdzg2NS1pRzNZSWZMREhiTUZsbGxzN181ak5MSk1rblV2NkJpQktXZ2pUbXZPN1ZqbXhUUUE?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-19T08:00:00.000Z"
-    },
-    {
       "id": "4c156b3e315e8441",
       "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
       "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -101,20 +92,11 @@
       "publishedAt": "2026-09-19T02:45:00.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-19T02:27:24.000Z"
-    },
-    {
       "id": "3ba8394d81ab0742",
       "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOG9TSVVkWkZrVFctLTh3cEtOTlZicUREbjYzZWxjd3BIUnRfQlhvN0dfekJrNlJZTjNEdVJCY1JMdVZ0WEVXZm9jWFIwNDJQSnVEa2dJWFcwZFBweFNPWEQ4WmJlUWNocXZVSkN5MmE2R04tdFV6LQ?oc=5",
-      "source": "article.auone.jp",
+      "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
     },
@@ -182,6 +164,15 @@
       "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
+      "id": "836e921ded109790",
+      "title": "中国の航空物流、規模が引き続き過去最高を更新",
+      "description": "CGTN Japaneseが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hcDdlci02c0VFcDhXTG5XRFJwUmFSbURSUXUwejBDX0xfUUJCRnRUc1k1SWhuTWp3SExMR09SbmxacFlaLWFRbXMtRy1RaU5jTmliTU0xU09XU1MwcHV5NDI5anpxZw?oc=5",
+      "source": "CGTN Japanese",
+      "category": "物流",
+      "publishedAt": "2026-09-18T16:08:02.000Z"
+    },
+    {
       "id": "c5ba59ec67e14037",
       "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -209,15 +200,6 @@
       "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
-      "id": "886d71827aab936a",
-      "title": "ボトル装着型温度表示ラベル市場、バイオ医薬品のコールドチェーン需要で加速へ 2035年に向け予測は上振れ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHp2U3dmNDN6MkVoRDVPZVBaX3duVmZWVVgwQ0JtRXBBclpib0JhdENndzJIdlF2NTdOUHRrV1VHT0NPTFF5VzYtNDBXY2JOVDdQTmxTZnp3ZVFIbHVVNXdzYUlzYkt2eXNUVlh0NU00NVdVQlgzS0J0d0QzYXBoSnVhZENnQlF3RF9JM2M1TVlqTFRuOU9uOGlRc0xrYWpkLTUydGNVT1pLLUpaNFRzY0FZYkxoWXM0X2FFYmZZNG5LanlpTE9kakJLdDJBUElfaHhhRms4d2EydGtNMk95UGVJN3lvdVNu?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-18T11:51:11.000Z"
-    },
-    {
       "id": "3768cbaa527a544a",
       "title": "物流の「遠隔無人化」に挑む日台連携の最前線 | 地域・分析レポート - 海外ビジネス情報",
       "description": "jetro.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -234,6 +216,15 @@
       "source": "netdenjd.com",
       "category": "法令・行政",
       "publishedAt": "2026-09-18T11:45:27.000Z"
+    },
+    {
+      "id": "537d73f9eab4131c",
+      "title": "moegi、物流ルートを映像と位置情報で記録",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JSU9KQnY1S1RVcURWMWVEOThYVW5mQWdheDQ0WllLeTNSdzNEMEN6dFhZWjFpN1RZOFJaa1ZYOWdFNThMSXNnS1ln?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T11:32:34.000Z"
     },
     {
       "id": "d7561e1941fba51f",
@@ -279,15 +270,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-18T10:07:25.000Z"
-    },
-    {
-      "id": "8adc0adeac01face",
-      "title": "国交省、再利用物流容器の越境利用を検証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JbWNvSFlEcE5yM3VtLWhkN3JuM2tjVzNZdTVQb2dXbVFkRU5STUFGRVloLU1JRWdaNnVlLUFQdUFhTEJXa2EtTnZn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T09:28:50.000Z"
     },
     {
       "id": "59626b7078d1ab6a",
@@ -425,6 +407,15 @@
       "publishedAt": "2026-09-18T05:59:28.000Z"
     },
     {
+      "id": "dd85a78a6016df6a",
+      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-18T05:59:25.000Z"
+    },
+    {
       "id": "906a820ab18d6368",
       "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -517,9 +508,9 @@
     {
       "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "dreamnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
-      "source": "ドリームニュース",
+      "source": "dreamnews.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -639,6 +630,15 @@
       "source": "朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T16:06:00.000Z"
+    },
+    {
+      "id": "0fea4d3bb9fb27ec",
+      "title": "【活発化する物流M&A】M&Aによる物流企業の成長戦略",
+      "description": "M&Aキャピタルパートナーズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5angzSGRHa3BoWlVESExSbE50Nnd0NmIxVFd2REs0RU1MUFdBZV9SeVNrVzFEbTIzbjh5LU9aM29JT1hlci1wOTNsTHZnQTUyV00zUmF1X1hmaHE1LTBjSEpjNGFQNVk?oc=5",
+      "source": "M&Aキャピタルパートナーズ",
+      "category": "物流",
+      "publishedAt": "2026-09-17T15:00:00.000Z"
     },
     {
       "id": "db30bbbed990a48c",
