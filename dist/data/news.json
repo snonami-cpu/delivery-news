@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-20T21:24:00.251Z",
+  "updatedAt": "2026-09-20T22:23:54.617Z",
   "articles": [
+    {
+      "id": "2927630c4e799719",
+      "title": "「車両暴走」証言を翻意、安城トラック突入事故の運転手、明日逮捕状発付の岐路に : 사회 : 財経日報",
+      "description": "재경일보が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hZFU0ZjQ3SXkwcnVieUdza2cwQUE2eUxYZlpKTjhPc0NxZm9GR3FXcTBPbzNoSjRUUlNSb1VsS0NGbV9QU2g4MjdR?oc=5",
+      "source": "재경일보",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-20T21:35:00.000Z"
+    },
     {
       "id": "d15d07933cb08a92",
       "title": "等温フレキシブル輸送用断熱バッグ市場2035年予測：コールドチェーン物流が年平均7〜9%成長を牽引 - ニュースと統計",
@@ -27,6 +36,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-20T10:05:53.000Z"
+    },
+    {
+      "id": "b88f854016133f70",
+      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-20T07:32:58.000Z"
     },
     {
       "id": "9d42733f3fb89998",
@@ -166,9 +184,9 @@
     {
       "id": "18f9ccd37b951ef4",
       "title": "早く着くため故意に逆走か、ダンプカー運転手を起訴 福岡の死傷事故 [福岡県]",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVGpHcGFjNUZEelpWeERFdlRDNnVDTnNNbjFEX0tTTDBRRWhGenFHRmxhVmIwZ1pyZ3lwRlBnMjJDalk3X0NSeU5uN2VSTmdkbm56U3dwT2JHTFlhaGs2dXhoU3FIVlk?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-19T01:30:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-17T11:09:00.000Z"
-    },
-    {
-      "id": "4f6c84fbba2dddbc",
-      "title": "【更新】トラックと正面衝突 軽乗用車の女性死亡 茨城・鹿嶋",
-      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZmd2U2lqNUltek1KREVmYUE3SVA3UlFiaTZfZlRxMVBYMG1pSnNpSGx5dTNJODJ0WVFTalQ2VHVLcFUtT2xLanQ4RkFfV1hmRFJZNUxDS1dBd2xWYzdSb2ZFRlFhNVN2MGtoTy13STZQcW8?oc=5",
-      "source": "茨城新聞クロスアイ",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-17T10:56:02.000Z"
-    },
-    {
-      "id": "07f7a6b904fc5acb",
-      "title": "京王電鉄、薬配送と不動産仲介支援の2社に出資 事業領域拡大探る",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSk9nZUVZWW1BbFJtMDIwc1k1LTFIQ1QtRURUdHlsN3FpQ0VRbUsxOG9RR0plbFNhUzRfanNaNGRDSDl5OWstWFVDYldYWkpnbURrU0xEZGN2V1R6OWkxbnVCQnJXOFlNaFdvTg?oc=5",
-      "source": "nikkei.com",
-      "category": "物流",
-      "publishedAt": "2026-09-17T10:53:37.000Z"
     }
   ]
 }
