@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-21T07:27:42.114Z",
+  "updatedAt": "2026-09-21T08:27:52.061Z",
   "articles": [
     {
-      "id": "bdc1b589d50729ee",
-      "title": "台風25号 物流への影響（21日午後2時現在）（日テレNEWS NNN）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4teks5OHhuWjhlYnpnWkFVUGJJLXhxdTR2V2E0WjA1VGpUOE5TMkpMeVVSV2NwZ2x1LXVRLWhWOENCOU5Rb3Rld1NwbC1uU29GeHZXVER1SXNUWlFfRlZfLTE2TDdwQ1VPLXB0dWJuTjVPNVFIbFJVSDhvdGFtSms?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "b19084413e4dbde8",
+      "title": "台風25号 物流への影響（21日午後2時現在）（2026年9月20日掲載）｜日テレNEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmQXdHZy1Sd2VGV2NoUVJlSzBic1Y4TkkwQXBiVFRhVGFfS1FEMF8yOWNSLTdHNUpyVVlSSUpaeWxvZV9TdHNGX3EtSUlEQnN5OHFKSW1oZEtyYjc4bXpidXNybnduN0I5dXJ6Q3B6NjEwSWFBR21HVmUzNTA?oc=5",
+      "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-09-21T05:16:00.000Z"
     },
@@ -18,15 +18,6 @@
       "source": "テレ朝NEWS",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
-    },
-    {
-      "id": "49519f742e24dd7e",
-      "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から「秋の交通安全県民運動」（RKB毎日放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdzI4OEFxZmxMcnp6ZmV2bjQzQzdBa21aSmxUaS1wT0M3aXB2dVRReEhqMnNlMUNHci1hR0FYMm9QSmU4RXo5c1hNNWIxdzVpRXYwbEZoNEJnWUF4SFdwdEpxRVNiUl9GeERXWHI1NFdvbXlxRWx5dVNRWTNVX2s?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-21T04:27:17.000Z"
     },
     {
       "id": "3f8f92ea4ed42095",
@@ -54,6 +45,15 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-20T23:21:17.000Z"
+    },
+    {
+      "id": "a46a2e8035838c66",
+      "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LZjBNNnVFSVVfZkJScnZCSjBBbHBkZmZ6eE1DblNLaFRIUGxDRWpjZVc2TEVEWmF0SWR3VlFsS0NJOC1EcjRtdU4yTQ?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T21:59:00.000Z"
     },
     {
       "id": "2927630c4e799719",
@@ -84,10 +84,10 @@
     },
     {
       "id": "9f0c77b4fdca2235",
-      "title": "予約時間に納品できない？ システム仕様の課題",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "予約時間に納品できない？ システム仕様の課題 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LUU40MnpfSTdEN1Nfejl4ZVdQeEhrS0xDOUE1SjBodVdMNDhMUm1hbUMwc3c2NnhHb3NfYmZXYUpVbVFTTkllNXQ3b2NGQQ?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-20T10:05:53.000Z"
     },
@@ -120,10 +120,10 @@
     },
     {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
-      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "みんなの広報宣伝部",
+      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -139,18 +139,18 @@
     {
       "id": "614efc8909a17760",
       "title": "物流、作業者の負担減らす…補助スーツ・荷役機脚光の背景",
-      "description": "ニュースイッチ by 日刊工業新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newswitch.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94UEM0OW1nYXROdHFaY1VXelNiT0RiZHBXUV9sSG1sbTdXQnhXZzJtb182Z2g1b25vU0ZQTERNdVdNQQ?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "source": "newswitch.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T21:03:22.000Z"
     },
     {
       "id": "567f677e54371372",
       "title": "普通免許で運転できる小型トラック導入…福山通運、配送業務担う人材確保へ",
-      "description": "ニュースイッチ by 日刊工業新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newswitch.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lcUxCcDNqVDJTUXkxclAwUWdZT1FGYlNwVWJPV0U1bm43c2lJNGdXM2F6WXRiX3lWaVJtNFN0RU41UQ?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "source": "newswitch.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T21:03:22.000Z"
     },
@@ -299,11 +299,20 @@
       "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
+      "id": "2fdb9df57e9170be",
+      "title": "ギークプラス、独に欧州初のAI物流実証拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sbHhVT3Z2TGtRX21odnFjamh4Z0dzdXhrUDdxUWoxaGhnUEhfZ1VZV1gxU2VINnJQc0ZXTkVyV0RQbDg2T25ZZ3VR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
       "id": "c5ba59ec67e14037",
-      "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQm5QSFoyLXJZSjdsdV9pNW0yN1ZZMjRJcWhPSHF0STZubTRzU2dsS3pWcnRObjJheFpLZzlOZmE3STVFMlhnYWJwVm4ydw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T15:58:40.000Z"
     },
@@ -373,27 +382,27 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "webcartop.jp",
+      "source": "WEB CARTOP",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
     {
       "id": "7353cb9be2b676e4",
-      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T10:12:24.000Z"
     },
     {
       "id": "0f77697b0207d6ee",
       "title": "大和ハウス系、物流施設で17件の倉庫業法違反 変更登録せず",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kb05NQVBBWEdaOS04M3h0Z1JTTElGZU9YR1ZfTGFRZk1JMkVUbTlRLTVDaE9HbWFQMWh6dHhSRlNSem5rS1l2OWZ6VEZOdVd0Z2k5MkpEckdSNHpRQzM3dEVjczYzbExjWUg0dQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-18T10:07:25.000Z"
     },
@@ -436,9 +445,9 @@
     {
       "id": "a02d92601de7f66b",
       "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-18T08:59:24.000Z"
     },
@@ -543,10 +552,10 @@
     },
     {
       "id": "39ca8bf5b5f595fd",
-      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "運賃値上げ実現も受注減 買いたたきには該当せず - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T05:59:28.000Z"
     },
@@ -616,9 +625,9 @@
     {
       "id": "4c7988687545c618",
       "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QYzlGbFZRb2FmbUpsUVV3akd2SnF3eV9xZGlqQ1hxa0tyRWFtSFJmZ2x6eFEydUxNUFFrTGE4bnZRTE9vcDJKdmpFMA?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T03:25:03.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-17T22:37:49.000Z"
-    },
-    {
-      "id": "70dd2647e196e07a",
-      "title": "ホーチミン、港湾連携で国際物流網との接続強化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Vd2Z1bWJPOEVManhpU2RhYTRCZUswOHJHLUxNdDFsT1FCakpNQkdTTkx6THdvQWRiMU5WWVRVbVdlNER4QW1Nc05B?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-17T22:25:45.000Z"
     }
   ]
 }
