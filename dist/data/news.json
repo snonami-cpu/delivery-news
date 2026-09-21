@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-21T09:27:05.042Z",
+  "updatedAt": "2026-09-21T10:26:03.316Z",
   "articles": [
-    {
-      "id": "b47d45b2ca172bda",
-      "title": "2026年10月21日(水)開催｜「運送会社が取り組むべき整備コストダウン対策」をテーマに、船井総研サプライチェーンコンサルティングのコンサルタントが登壇します(主催：日本ミシュランタイヤ株式会社様)",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aOVhMb2ZzX0hTSUlVcmhSVEY1MFotUzY2SHdUUEp4R25EbllBbnBuQlVUYUVpZnBZaVlMWTh5SHI1TzJpLTJ5VXhDMFllUC1MU0N0N1ZvWXV3N3ZpOENTS3lNNmh3TzB2WHc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-21T08:40:02.000Z"
-    },
     {
       "id": "1af60d570a5e87cc",
       "title": "台風25号 物流への影響（21日午後5時現在）（日テレNEWS NNN）",
@@ -74,6 +65,15 @@
       "publishedAt": "2026-09-20T23:21:17.000Z"
     },
     {
+      "id": "a46a2e8035838c66",
+      "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LZjBNNnVFSVVfZkJScnZCSjBBbHBkZmZ6eE1DblNLaFRIUGxDRWpjZVc2TEVEWmF0SWR3VlFsS0NJOC1EcjRtdU4yTQ?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T21:59:00.000Z"
+    },
+    {
       "id": "2927630c4e799719",
       "title": "「車両暴走」証言を翻意、安城トラック突入事故の運転手、明日逮捕状発付の岐路に : 사회 : 財経日報",
       "description": "재경일보が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -130,9 +130,9 @@
     {
       "id": "b7d1b161ee656f5f",
       "title": "【講演レポート】「生き残る運送会社を目指す 第一回TUNAGロジ説明会」に船井総研サプライチェーンコンサルティングのコンサルタントが登壇しました(主催:株式会社スタメン様)",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNVE1Si0tM2VIdVo4STJ6c3FpTEVrVHA1NlpiYV9uSHlRSjFyMHE1c205c2hIOUhGUkZmU1NXdUc3R2IxSHZEZmZ0dUczQjZfWl83c3VnZm50allmUUZKMnVuZ1AybkYxUEE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-20T05:00:02.000Z"
     },
@@ -184,9 +184,9 @@
     {
       "id": "d4622e28321c7529",
       "title": "離職を防ぎ定着率UP！運送業が導入すべき「良い評価制度」6つの条件を公開しました｜株式会社船井総研サプライチェーンコンサルティング",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cXdHaG5fRU9wYTdLRWgzSXlMUGdpa1JjRDVIWEFrcGxuREJjeHh2REdpOVFkUWQxSVIwWl9SdGZRZVFyZWJKajBCd2hBSnVCZFZpR3lBelY4eWhybWU3MmtJWVVrUjJaM1E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
@@ -308,6 +308,24 @@
       "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
+      "id": "2fdb9df57e9170be",
+      "title": "ギークプラス、独に欧州初のAI物流実証拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sbHhVT3Z2TGtRX21odnFjamh4Z0dzdXhrUDdxUWoxaGhnUEhfZ1VZV1gxU2VINnJQc0ZXTkVyV0RQbDg2T25ZZ3VR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
+      "id": "d8b8cdc29eb376ad",
+      "title": "キャセイ、香港ハブ強化で広域物流連携を支持",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BLUstNm1xQ3YxVkl0eGM4U1hyTGlIVjBzV1lSRzlkaGF4c2JPT2d2NExDSHp0UDZOOHYtMzNCdTBRRGJTdWg2a09B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
       "id": "c5ba59ec67e14037",
       "title": "アサヒロジ クールダウンスペースを全国２７拠点に設置",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -400,9 +418,9 @@
     {
       "id": "0f77697b0207d6ee",
       "title": "大和ハウス系、物流施設で17件の倉庫業法違反 変更登録せず",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kb05NQVBBWEdaOS04M3h0Z1JTTElGZU9YR1ZfTGFRZk1JMkVUbTlRLTVDaE9HbWFQMWh6dHhSRlNSem5rS1l2OWZ6VEZOdVd0Z2k5MkpEckdSNHpRQzM3dEVjczYzbExjWUg0dQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-18T10:07:25.000Z"
     },
@@ -445,9 +463,9 @@
     {
       "id": "a02d92601de7f66b",
       "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-18T08:59:24.000Z"
     },
@@ -499,9 +517,9 @@
     {
       "id": "50ffa82d28a6cb90",
       "title": "～ アメリカにおける物流不動産開発事業の第1号案件 ～ ジョージア州アトランタの「Buford Creek Business Center（ビュフォード クリーク ビジネス センター）」が竣工しました",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vb1VkY3FBSkp3MHlfN2Q3ZjQ3UlZyWTlIQ2EyX0ZzT0c3Q1FXd1RhQU1rc2VNQTNzTmZwZzhKRWlzZGY3VmVVRjRYLVZycERmb0pwZGFyc0taOWVJZGdJNGFRYVl5XzhFTnc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T07:30:01.000Z"
     },
@@ -516,19 +534,19 @@
     },
     {
       "id": "09fec20f2cbb9616",
-      "title": "SBSHD 千葉に11・８万㎡の「富里物流センター」竣工",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "SBSHD 千葉に11・８万㎡の「富里物流センター」竣工 - cargo-news.online",
+      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqZ0pDaFYxRlg4VnBqS0psYXR5VEJNNTZNV0V0Wkt5M1RDT2lpVW1JenVhNENCdC0wZldLUk9jSnJnbjlCMC1VODNjclZGU1FpajZFbGREZF95MGVQMHRz?oc=5",
-      "source": "カーゴニュースオンライン",
+      "source": "cargo-news.online",
       "category": "物流",
       "publishedAt": "2026-09-18T07:00:00.000Z"
     },
     {
       "id": "b51f94d83f937806",
-      "title": "関東運輸局・澤井局長／就任会見 「物流に適正なマーケットメカニズムを」",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "関東運輸局・澤井局長／就任会見 「物流に適正なマーケットメカニズムを」 - cargo-news.online",
+      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ody1NSVd2YVdGX21YaVFrTmI4eHUtRzA2emRTRmFBcWhNVDRmYTlYUk9QVGU4U0FkNWN2S3lwWTJNdmk4TkNHdzd6WFZDTzl2czlzZEl3Z0hHXzJfYmJn?oc=5",
-      "source": "カーゴニュースオンライン",
+      "source": "cargo-news.online",
       "category": "物流",
       "publishedAt": "2026-09-18T07:00:00.000Z"
     },
@@ -549,15 +567,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T06:30:14.000Z"
-    },
-    {
-      "id": "dbe598936dbcfa9f",
-      "title": "ダイナパック、MOVO Vistaを導入。積載率を確認しながら無駄の少ない配送計画を立てる体制で、安定的な輸送力確保へ",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1alFvZXBqcXpqdzNGMHBJSHVma2k1OW1pSnlZaWlMQXdOZ0tKTmdiWUZnSXQ2N0V1MGVLUHNua19WOTBVR1lnWFBQOGxmQl8yRTdYeHZFSEhXNWJJMjZ1M05jR29ITjd4Mnc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-18T06:00:02.000Z"
     },
     {
       "id": "39ca8bf5b5f595fd",
@@ -598,9 +607,9 @@
     {
       "id": "8f4fd0f50e3ba7b5",
       "title": "～日鉄興和不動産海外第2弾の物流施設開発事業～ 米国ジョージア州ビュフォード 『Buford Creek Business Center』竣工",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZQUptalQ2c25QVDNXY0I0a21NWHpDbl9NdjB6ZVhHejloZ3h2SmVjVmVmblFzZjl2SWwwYzVuN0ZubXNSemxEN2RWQkwtY2pQZWxGVHktQ0xzdVU4TjQ3Sno3MDNyam9wREE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T05:00:02.000Z"
     },
@@ -623,13 +632,13 @@
       "publishedAt": "2026-09-18T04:59:28.000Z"
     },
     {
-      "id": "26a3bee1a9e8d443",
-      "title": "【特定技能・自動車運送業】弊社取締役 岡村アルベルトが、9月29日開催「外国人材活用 徹底討論カンファレンス」（主催：LOGISTICS TODAY）に登壇",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Y3lYUHZ0Z1B6THI0VUpyV3o4MlNBbGNDYVNpdDNwcWhlNTk3dV8tc3pnSVRpeDFjMmNtTEVwcEV4X2g5YkFPY0FJWTZtSl9CSlJKSTVoX3VCMEwxcHRHTG8zcTQtQ2htYkE?oc=5",
-      "source": "PR TIMES",
+      "id": "522ce3a8755e7634",
+      "title": "【10月14～15日】関東近郊の物流施設・大型物流倉庫「プロロジスパーク北本」内覧会を開催",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YnVLOWZpUUJBbi16T2FkZkt5U0hDRW9haXphNVJzVG8xY0t2YU1YQTZTVFJnRFdrbW5BVlpKdFdfc2tuYklMN2RDUE1SS1V2a1ZjWk1EZER5NzhZZEdQTG1MSzFySzRXaXc?oc=5",
+      "source": "prtimes.jp",
       "category": "物流",
-      "publishedAt": "2026-09-18T04:00:02.000Z"
+      "publishedAt": "2026-09-18T04:10:01.000Z"
     },
     {
       "id": "4c7988687545c618",
@@ -657,6 +666,15 @@
       "source": "ye-live.com",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T02:55:02.000Z"
+    },
+    {
+      "id": "5c77ffd3a90405a3",
+      "title": "【オーストラリア】東京建物、豪３大都市の物流施設６件に出資（NNA）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsSXN3RWExVFNXSXU3b0VPb2tyMWJhOXFzNlVIS013UE1JVlJzOVFtUmZJTVFSV2s4Z0g4QjZhQnI0UVJ1LWZFZXNmSHFwM3ZNaHFvd1ZEZ2pXaDhiZmhobEVCenp2XzBvcVNKT3h2Ul9pZk9LTHBYWHlBVzJEbFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T02:30:44.000Z"
     },
     {
       "id": "3605d739ba8c7de1",
@@ -695,31 +713,13 @@
       "publishedAt": "2026-09-18T01:27:33.000Z"
     },
     {
-      "id": "98ea9c9486dd7a65",
-      "title": "【運送事業者を中心に109社が参加】働きやすい職場認証取得支援セミナーに登壇",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FSUNvZGRsR1Z4NVFJYW0zX0RTYlhJWUtwdmVVeW1xRjNYM2pTSDVLOWFoNmlkN3Z3dEg3Nk5JZjFCbXgydllGeTlyMnBhX0FvdFd4cm9CZVlKSFhJMU1CVGhvZF85blBxdGc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-18T01:20:01.000Z"
-    },
-    {
       "id": "60b49722203fcdd1",
       "title": "SAKIGAKE JAPAN、電気や氷が不足するインドネシア離島で次世代コールドチェーンの現地調査完了",
-      "description": "dreamnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMW1Cakp5anVYZGZSWUJmakVicUFWTE9teHRITTNJdl9YcmMzblRSWDZDU2w5LU5mTS14VXFKZklaVnowODJUdXF6WHFnYWxtM2M0?oc=5",
-      "source": "dreamnews.jp",
+      "source": "ドリームニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "f5370649616741bc",
-      "title": "【倒産】ホームセンターや物流倉庫など大型施設の新築に伴う造成・外構工事を手掛ける土木工事業者が自己破産申請へ...資材費高騰のなか得意先から材料支給案件を受注強化をはかるも事業継続困難に【帝国データバンク】 | TBS NEWS DIG",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzNkVl9KREtIYmUtci1yTmJDZ1otSXh0NlZNcGFBUlA0ZnozdG5laG8yY1RPR2ZDQnA1OXBjRDU5RHc0SXM4aXIwUkxxMHNMeF9MVWVMNA?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-09-17T23:28:00.000Z"
     }
   ]
 }
