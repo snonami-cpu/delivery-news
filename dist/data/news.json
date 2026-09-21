@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:25:55.702Z",
+  "updatedAt": "2026-09-21T02:26:10.269Z",
   "articles": [
     {
       "id": "36407686c6982662",
@@ -9,6 +9,15 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-20T23:21:17.000Z"
+    },
+    {
+      "id": "a46a2e8035838c66",
+      "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LZjBNNnVFSVVfZkJScnZCSjBBbHBkZmZ6eE1DblNLaFRIUGxDRWpjZVc2TEVEWmF0SWR3VlFsS0NJOC1EcjRtdU4yTQ?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T21:59:00.000Z"
     },
     {
       "id": "2927630c4e799719",
@@ -45,15 +54,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-20T10:05:53.000Z"
-    },
-    {
-      "id": "b88f854016133f70",
-      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-20T07:32:58.000Z"
     },
     {
       "id": "9d42733f3fb89998",
@@ -94,18 +94,18 @@
     {
       "id": "614efc8909a17760",
       "title": "物流、作業者の負担減らす…補助スーツ・荷役機脚光の背景",
-      "description": "ニュースイッチ by 日刊工業新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newswitch.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94UEM0OW1nYXROdHFaY1VXelNiT0RiZHBXUV9sSG1sbTdXQnhXZzJtb182Z2g1b25vU0ZQTERNdVdNQQ?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "source": "newswitch.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T21:03:22.000Z"
     },
     {
       "id": "567f677e54371372",
       "title": "普通免許で運転できる小型トラック導入…福山通運、配送業務担う人材確保へ",
-      "description": "ニュースイッチ by 日刊工業新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newswitch.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lcUxCcDNqVDJTUXkxclAwUWdZT1FGYlNwVWJPV0U1bm43c2lJNGdXM2F6WXRiX3lWaVJtNFN0RU41UQ?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "source": "newswitch.jp",
       "category": "物流",
       "publishedAt": "2026-09-19T21:03:22.000Z"
     },
@@ -299,6 +299,15 @@
       "publishedAt": "2026-09-18T11:49:14.000Z"
     },
     {
+      "id": "b88f854016133f70",
+      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-18T11:45:27.000Z"
+    },
+    {
       "id": "537d73f9eab4131c",
       "title": "moegi、物流ルートを映像と位置情報で記録",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -360,6 +369,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T09:28:50.000Z"
+    },
+    {
+      "id": "0002f0e27f07ea25",
+      "title": "タンク車から男性従業員が転落死亡 労働安全衛生法違反の疑い運送会社など書類送検 福島・田村市（TUFテレビユー福島）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaUpNVldJaVMzYlB2bFZHSkd1Y1BtX0pxdThweDlHckUyb2ZDTFRKQmN5Tl9hUXQ4TzQ4T0RTMHlsRUYxRnp1clo2UDVLZWtNampwdUJILXZuS2hDLWFBMWZCdUVTcmVCUnM2b1dpTS0yaV84OUVsVmJDSEk5Z2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T09:05:23.000Z"
     },
     {
       "id": "5771f5bfc3fe2ac3",
@@ -508,9 +526,9 @@
     {
       "id": "7c472aaf5f61917b",
       "title": "「百億宣言」へ突き進む物流DXの旗手・東伸運輸がAI自社開発で切り拓く、持続可能な輸送戦略",
-      "description": "ZUU onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "zuuonline.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xQlI0Vk1kczFBaXRoNFpVdjNTWTdjekxVS1p1RV9RR0E4emdiYy12OG5GWnNmNWFoekRNOFJXa2ZQZjZCUDNsRENSQ0Ytdw?oc=5",
-      "source": "ZUU online",
+      "source": "zuuonline.com",
       "category": "物流",
       "publishedAt": "2026-09-18T05:00:00.000Z"
     },
@@ -560,15 +578,6 @@
       "publishedAt": "2026-09-18T01:48:49.000Z"
     },
     {
-      "id": "8d4e8d57f90ff19d",
-      "title": "オープンロジ／提携倉庫に「自動補充算出ツール」導入、保管効率13％向上",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRWZmQ1FobWRsSEN1d0dQaS05Y1Y4WjhxcXlTbno0MkVSTjNzcGVJNURaVWp1NGE4eFd0Tm5wUlJ5azZfOTZYNXZ0Vl9vaFRZLTRsLQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-18T01:38:47.000Z"
-    },
-    {
       "id": "c8ecaf9a3bb08086",
       "title": "物流連、北海道ロジサービスの共同配送事例を共有",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -589,9 +598,9 @@
     {
       "id": "f5370649616741bc",
       "title": "【倒産】ホームセンターや物流倉庫など大型施設の新築に伴う造成・外構工事を手掛ける土木工事業者が自己破産申請へ...資材費高騰のなか得意先から材料支給案件を受注強化をはかるも事業継続困難に【帝国データバンク】 | TBS NEWS DIG",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MzNkVl9KREtIYmUtci1yTmJDZ1otSXh0NlZNcGFBUlA0ZnozdG5laG8yY1RPR2ZDQnA1OXBjRDU5RHc0SXM4aXIwUkxxMHNMeF9MVWVMNA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-17T23:28:00.000Z"
     },
@@ -659,6 +668,15 @@
       "publishedAt": "2026-09-17T19:34:04.000Z"
     },
     {
+      "id": "9ddabacc650bd68f",
+      "title": "三重で10/19に物流就職相談会、運送9社が参加",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wQVBPUHZoVnFDaGZpWkpRM3ZabS1SOW1Fb2tVaklFeXZXdF9DLVBGUGkwZHpUQWdpbGJBYUMwcnZFVlNQS1pLUlhB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T19:32:15.000Z"
+    },
+    {
       "id": "f7de59432db7acdb",
       "title": "アレスとPSP、米物流不動産に最大24億ドル投資",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "M&Aキャピタルパートナーズ",
       "category": "物流",
       "publishedAt": "2026-09-17T15:00:00.000Z"
-    },
-    {
-      "id": "db30bbbed990a48c",
-      "title": "日清食品・三菱食品、物流トップの経営教室「データ連携で製・配・販を最適化」",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWjZLMGNvS0pEbUZfMGM5bmtqek82OFZIUUZfSEZlaFdyb2p3SGxLT01wSlprNXdZSTNlX0tVWWp6VWEyQ3hQdjZsSEZBc2tGVmNnS2RTZHR3LUtPRkh0ZXZyUlA3VHM?oc=5",
-      "source": "日経ビジネス電子版",
-      "category": "物流",
-      "publishedAt": "2026-09-17T15:00:00.000Z"
-    },
-    {
-      "id": "dcf7392260583117",
-      "title": "キューネ・アンド・ナーゲル／フランクフルト空港に医療品物流センター開設",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Qb0V0d1dIcTZEWldkVUx3Yzg0aUFUc1Jpa3h2N19EdTFTNVNGTVFWTG1iYllNbzZicFRXdWFIWVJhb1pLUDNObmh4R3lrdXBralBpNQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-17T12:49:38.000Z"
     }
   ]
 }
