@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T16:26:39.198Z",
+  "updatedAt": "2026-09-21T17:22:40.184Z",
   "articles": [
     {
       "id": "5bc978ba0e898cec",
@@ -47,10 +47,10 @@
       "publishedAt": "2026-09-21T08:17:37.000Z"
     },
     {
-      "id": "b7482977f0ef80db",
+      "id": "6609f6c3acc5e69f",
       "title": "L4無人配送バン市場分析レポート：2026年1043.23百万米ドル規模、成長率21.73%推移",
       "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YYlhJcU1DVjVSVHJxR0MxWERwYWdwS0RDaHMyQ3hONS1pN0R3UWxGSGVFZFRpQV94VmVxMElBVFpSd2VldkU1QkZUVi1vSzg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZWNkVmhNOTZFR040MFJwUEFndGRIT0pFQkV0dTJUYkFfMVNkbm9mVU10ZGM3Tmt4a3JIQkxBYUN3cndmZnlpcXpVZV8zQQ?oc=5",
       "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-21T06:24:00.000Z"
@@ -65,6 +65,15 @@
       "publishedAt": "2026-09-21T05:16:00.000Z"
     },
     {
+      "id": "57a34c7f7fcb0c79",
+      "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNGVaYkYtY1RzV3ZDZ25EZ2VUQzdNaS1oNzZYa0tIUEl2d2ZqT2tQb1VHWFpQdWNtQ0tBWXRURzdFNFhYN29Ienl2WFprMm80QVZHRnF4d2tZRzFTM3hUMUJYZG4xNEV1eHRNQU53cVZmcWk4YlAwc3ZiRFVjdnc?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-21T05:13:06.000Z"
+    },
+    {
       "id": "7cace231d2cdbe43",
       "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -72,15 +81,6 @@
       "source": "テレ朝NEWS",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
-    },
-    {
-      "id": "872311cd8dc834db",
-      "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から｢秋の交通安全県民運動｣",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNlhpWmh6dkJyV3lUNFZ1Q0JJWWFLNVQzd1VVNWZYeHRFUnA5N2RhSnZ6eE80c0lld19WMEtDOGRGZWRvdVA5TUwxWHhoUkhRQ2xfT1hpRlN5OGg1NFJsU2VCcXNDTWs?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-21T04:26:00.000Z"
     },
     {
       "id": "3f8f92ea4ed42095",
@@ -155,15 +155,6 @@
       "publishedAt": "2026-09-20T10:05:53.000Z"
     },
     {
-      "id": "21efae4cc7e82f6a",
-      "title": "唐津 西九州道で事故 衝突された車の男児と母親 病院に搬送",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUGpsVm1FVnpPMHZqUEdHWktIZjZaNktMMkpjaGZTQ0VLaVRkNlpGenB6V1JUcXJXSnY1aGV0aUN6OE9oc0ZfUThjX3pnTjJ2dWZTVlA0a00?oc=5",
-      "source": "NHKニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T09:37:00.000Z"
-    },
-    {
       "id": "b88f854016133f70",
       "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
       "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -189,15 +180,6 @@
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-20T05:00:02.000Z"
-    },
-    {
-      "id": "1a599bb7f69f53eb",
-      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
-      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
-      "source": "JBpress",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T01:00:00.000Z"
     },
     {
       "id": "34997eaca9c7dc94",
@@ -534,10 +516,10 @@
     },
     {
       "id": "5771f5bfc3fe2ac3",
-      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oS05hb2FZVjlvNWdqRWFyeUFJZ19KVElYbVd3UE1PTzlnQ3lXMElsTVZIb19TV0JXMGZCaGFJdTNnNjl0UE1Dei1iMA?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-18T09:04:13.000Z"
     },
@@ -621,6 +603,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T07:24:33.000Z"
+    },
+    {
+      "id": "d5a82c3ed9cea579",
+      "title": "商船三井／令和8年熊本地震で300万円余寄付、手洗いスタンド設置の支援も",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TX3UwLTNqRFNFRU9Rem1FODhlamIzejVvWjkyU0h1aWJWMHFfTUV2Szd1U001Z0loM2ZvQmZQX2NQcHBkQkJwRVJFX2JURkJWME1NNw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T07:11:39.000Z"
     },
     {
       "id": "09fec20f2cbb9616",
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T04:59:28.000Z"
+    },
+    {
+      "id": "522ce3a8755e7634",
+      "title": "【10月14～15日】関東近郊の物流施設・大型物流倉庫「プロロジスパーク北本」内覧会を開催",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10YnVLOWZpUUJBbi16T2FkZkt5U0hDRW9haXphNVJzVG8xY0t2YU1YQTZTVFJnRFdrbW5BVlpKdFdfc2tuYklMN2RDUE1SS1V2a1ZjWk1EZER5NzhZZEdQTG1MSzFySzRXaXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-18T04:10:01.000Z"
     }
   ]
 }
