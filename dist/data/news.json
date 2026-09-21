@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T06:33:25.437Z",
+  "updatedAt": "2026-09-21T07:27:42.114Z",
   "articles": [
     {
       "id": "bdc1b589d50729ee",
@@ -18,6 +18,15 @@
       "source": "テレ朝NEWS",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
+    },
+    {
+      "id": "49519f742e24dd7e",
+      "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から「秋の交通安全県民運動」（RKB毎日放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdzI4OEFxZmxMcnp6ZmV2bjQzQzdBa21aSmxUaS1wT0M3aXB2dVRReEhqMnNlMUNHci1hR0FYMm9QSmU4RXo5c1hNNWIxdzVpRXYwbEZoNEJnWUF4SFdwdEpxRVNiUl9GeERXWHI1NFdvbXlxRWx5dVNRWTNVX2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-21T04:27:17.000Z"
     },
     {
       "id": "3f8f92ea4ed42095",
@@ -45,15 +54,6 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-20T23:21:17.000Z"
-    },
-    {
-      "id": "a46a2e8035838c66",
-      "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LZjBNNnVFSVVfZkJScnZCSjBBbHBkZmZ6eE1DblNLaFRIUGxDRWpjZVc2TEVEWmF0SWR3VlFsS0NJOC1EcjRtdU4yTQ?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T21:59:00.000Z"
     },
     {
       "id": "2927630c4e799719",
@@ -227,11 +227,11 @@
       "publishedAt": "2026-09-19T02:12:00.000Z"
     },
     {
-      "id": "3ba8394d81ab0742",
+      "id": "e876503c8f1d9434",
       "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOG9TSVVkWkZrVFctLTh3cEtOTlZicUREbjYzZWxjd3BIUnRfQlhvN0dfekJrNlJZTjNEdVJCY1JMdVZ0WEVXZm9jWFIwNDJQSnVEa2dJWFcwZFBweFNPWEQ4WmJlUWNocXZVSkN5MmE2R04tdFV6LQ?oc=5",
-      "source": "au Webポータル",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5COHhmaU5uV1I2T2FnSVIyOWFDT1VnRW9LZzNMS2lrNEFWbzFHRVZKcndOS2k0VEpUUDNuYWNhWW1QRnhqTk5vUWVUV1FJejREU01HV0Y5c0ItbFRwUnpkSHNNMElibVpvMElITWxzOXlVaWvSAXhBVV95cUxOejhEWFFULTFIX1BJeWxRSzA5aGxOUldIdTd2anlIbWh3aW0yT3loMVJoZVlKTU1qQXFnU3V1U2FlNXFIc2hrQmNCRGNnRXpGZ3NyekFmd1hmcUZldi1YYk5kRUZONW1WZkpqQUVLTTBwOG04V3MtLTE?oc=5",
+      "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
     },
@@ -373,9 +373,9 @@
     {
       "id": "2fa9689d7c8b1367",
       "title": "JISからISOで不安視されたホイールの脱落。結果をみればトラックの「ホイールナット規格」の変更は事故数に影響していなかった",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "webcartop.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUtrM3g2d000Z3pRWmEyOWxXM0ptSHJtVjJHcXB6YldNYzJoRDdPS0ZnaGs1VVhQUWFiSnJxUXpEcHl4SUJJWFl4ZmVTUTIzd0FJ0gFYQVVfeXFMTmx5eUQ5dlJmaC0tNzhTS2FjeUVTYlZYazdMbkMxbmZ1WVZseG1NQWxOUXg3UmpKVFgwZkw3WWUwLVJ6MEdLeUY5MGs1RUtjVHNMejJVeWp6RQ?oc=5",
-      "source": "WEB CARTOP",
+      "source": "webcartop.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:00:45.000Z"
     },
@@ -542,6 +542,15 @@
       "publishedAt": "2026-09-18T06:30:14.000Z"
     },
     {
+      "id": "39ca8bf5b5f595fd",
+      "title": "運賃値上げ実現も受注減 買いたたきには該当せず",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11UUVHbF9OXzZhdlRmajVsUWJ3YXJnU2pVbUowbThZVlNyZ1ljMjNvYktnZEY1dUVtTTdNdXFXYUEzZWQ4clhvdERYeXhUZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-18T05:59:28.000Z"
+    },
+    {
       "id": "906a820ab18d6368",
       "title": "大和ハウス／千葉県流山市の物流施設で恐竜テーマにイベント、254名が来場し賑わう",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -607,9 +616,9 @@
     {
       "id": "4c7988687545c618",
       "title": "物流の課題解決へ、釧路で「道東ロジスク」 運送業や荷主ら意見交換",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QYzlGbFZRb2FmbUpsUVV3akd2SnF3eV9xZGlqQ1hxa0tyRWFtSFJmZ2x6eFEydUxNUFFrTGE4bnZRTE9vcDJKdmpFMA?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "物流",
       "publishedAt": "2026-09-18T03:25:03.000Z"
     },
@@ -630,6 +639,15 @@
       "source": "ye-live.com",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T02:55:02.000Z"
+    },
+    {
+      "id": "5c77ffd3a90405a3",
+      "title": "【オーストラリア】東京建物、豪３大都市の物流施設６件に出資（NNA）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsSXN3RWExVFNXSXU3b0VPb2tyMWJhOXFzNlVIS013UE1JVlJzOVFtUmZJTVFSV2s4Z0g4QjZhQnI0UVJ1LWZFZXNmSHFwM3ZNaHFvd1ZEZ2pXaDhiZmhobEVCenp2XzBvcVNKT3h2Ul9pZk9LTHBYWHlBVzJEbFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T02:30:44.000Z"
     },
     {
       "id": "3605d739ba8c7de1",
@@ -677,6 +695,15 @@
       "publishedAt": "2026-09-17T23:28:00.000Z"
     },
     {
+      "id": "d3292eb12c65b601",
+      "title": "アパレル景況3か月低迷、季節物流に見直し迫る",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aM01LenJTcFdJMktsb1Qzd2xybnpuTzlDTHNwd0NQUHYzLU1jWGItXzBPMHNhOHE2eDNkYmYweXJDV01helREVnRR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-17T22:47:52.000Z"
+    },
+    {
       "id": "10c85f67b7ed08e1",
       "title": "運送会社の営業利益を向上させる原価計算の実務術",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-17T22:25:45.000Z"
-    },
-    {
-      "id": "6d3f56841e404c07",
-      "title": "アルミの強みで物流現場に「半自動化」の選択肢、75万円の新型運搬カートが登場：国際物流総合展2026",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUEJtLXNpSlRQQzByQ2d4dU85RGl4cXc3QnBmMjc5NHVWZ3NGVmE4enR5elFRTk9kbDZoQ3VxcmtyOHlCdnllamFOQXJpejRHS3NrS0ZuQ1JuOXJzeTY5RENYcDI4ZHo1OF80SjhYSQ?oc=5",
-      "source": "MONOist",
-      "category": "物流",
-      "publishedAt": "2026-09-17T21:45:00.000Z"
-    },
-    {
-      "id": "e6c6998cf511f89c",
-      "title": "“白トラ”疑い 虚偽の申請で「緑ナンバー」取得 靴や食料品を運送 男3人を逮捕 北海道",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raXREdHJpWEdVak9vdFRHRmJ2cDZCeHZUSmFiYXh5MjNCLS1jb1NrNnpmcWQ0cTVqTnhUUnQtNnhHR0tqOGpHU3lPSWlpbWVZWjQ2a3FOZU5oYzEySzNPZUxoSjBYR3p6dkFOR091blZmT0Q1bEI2TnV4cGJkd00?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-17T21:01:00.000Z"
-    },
-    {
-      "id": "7b771183207dfb2c",
-      "title": "ネットスーパー「Green Beans」の配送担うイオンネクストデリバリー、Hacobuの配車受発注・管理サービス導入 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SzZHVWZHR2xTOEJqQ0dnbjhNMHdWSG5aRDhLSXJaSVVVOURJQWZvT0RzQmIwbEtoYThBaU5acWFpWFRvTGplUUZpMA?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-17T21:00:50.000Z"
     }
   ]
 }
