@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T15:24:23.362Z",
+  "updatedAt": "2026-09-21T16:26:39.198Z",
   "articles": [
     {
       "id": "5bc978ba0e898cec",
@@ -65,15 +65,6 @@
       "publishedAt": "2026-09-21T05:16:00.000Z"
     },
     {
-      "id": "57a34c7f7fcb0c79",
-      "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNGVaYkYtY1RzV3ZDZ25EZ2VUQzdNaS1oNzZYa0tIUEl2d2ZqT2tQb1VHWFpQdWNtQ0tBWXRURzdFNFhYN29Ienl2WFprMm80QVZHRnF4d2tZRzFTM3hUMUJYZG4xNEV1eHRNQU53cVZmcWk4YlAwc3ZiRFVjdnc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-21T05:13:06.000Z"
-    },
-    {
       "id": "7cace231d2cdbe43",
       "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -81,6 +72,15 @@
       "source": "テレ朝NEWS",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
+    },
+    {
+      "id": "872311cd8dc834db",
+      "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から｢秋の交通安全県民運動｣",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNlhpWmh6dkJyV3lUNFZ1Q0JJWWFLNVQzd1VVNWZYeHRFUnA5N2RhSnZ6eE80c0lld19WMEtDOGRGZWRvdVA5TUwxWHhoUkhRQ2xfT1hpRlN5OGg1NFJsU2VCcXNDTWs?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-21T04:26:00.000Z"
     },
     {
       "id": "3f8f92ea4ed42095",
@@ -121,9 +121,9 @@
     {
       "id": "2927630c4e799719",
       "title": "「車両暴走」証言を翻意、安城トラック突入事故の運転手、明日逮捕状発付の岐路に : 사회 : 財経日報",
-      "description": "news.jkn.co.krが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "재경일보が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hZFU0ZjQ3SXkwcnVieUdza2cwQUE2eUxYZlpKTjhPc0NxZm9GR3FXcTBPbzNoSjRUUlNSb1VsS0NGbV9QU2g4MjdR?oc=5",
-      "source": "news.jkn.co.kr",
+      "source": "재경일보",
       "category": "安全・事故",
       "publishedAt": "2026-09-20T21:35:00.000Z"
     },
@@ -328,9 +328,9 @@
     {
       "id": "18f9ccd37b951ef4",
       "title": "早く着くため故意に逆走か、ダンプカー運転手を起訴 福岡の死傷事故 [福岡県]",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVGpHcGFjNUZEelpWeERFdlRDNnVDTnNNbjFEX0tTTDBRRWhGenFHRmxhVmIwZ1pyZ3lwRlBnMjJDalk3X0NSeU5uN2VSTmdkbm56U3dwT2JHTFlhaGs2dXhoU3FIVlk?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-19T01:30:00.000Z"
     },
@@ -409,9 +409,9 @@
     {
       "id": "99df0ef7055a7587",
       "title": "南牧村で観光バスと中型トラックが衝突 搬送の5人は軽傷",
-      "description": "shinmai.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "信濃毎日新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9heUhKMnk5WnVSUHZCUGdCRFcteGxJX1U3NlU4R09PcGtycHluLXJnTmJNdGNxQlZhd05ielVtT1N0eUFHTVlpZGcxM1JGcnowRVdkTmRNMVpzS25iLW1jekZQd09yaUFPYnNpQVVaUUg?oc=5",
-      "source": "shinmai.co.jp",
+      "source": "信濃毎日新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T12:52:00.000Z"
     },
@@ -489,10 +489,10 @@
     },
     {
       "id": "7353cb9be2b676e4",
-      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T10:12:24.000Z"
     },
@@ -534,10 +534,10 @@
     },
     {
       "id": "5771f5bfc3fe2ac3",
-      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - online.logi-biz.com",
+      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oS05hb2FZVjlvNWdqRWFyeUFJZ19KVElYbVd3UE1PTzlnQ3lXMElsTVZIb19TV0JXMGZCaGFJdTNnNjl0UE1Dei1iMA?oc=5",
-      "source": "LOGI-BIZ online",
+      "source": "online.logi-biz.com",
       "category": "物流",
       "publishedAt": "2026-09-18T09:04:13.000Z"
     },
@@ -562,9 +562,9 @@
     {
       "id": "b477db9e50b9f248",
       "title": "国土交通省／運送契約締結時の書面交付義務の主体は誰か？Q＆A更新",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VdDU2LUs2Y1V0MVduOTFaTUw5UTdvMEJvNWszNXNwS1kzRzJZcWtqZ09zUjNqN01zc2VCT21HdXlYcS1KY2ZSNV9XRXU5bmpJeHpPTQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-18T08:34:00.000Z"
     },
