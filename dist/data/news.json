@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T10:27:01.342Z",
+  "updatedAt": "2026-09-22T11:25:07.979Z",
   "articles": [
     {
       "id": "5bc978ba0e898cec",
@@ -9,15 +9,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-22T06:50:03.000Z"
-    },
-    {
-      "id": "028d639c5069b969",
-      "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pNUZKbFpLdE95cE9KbHZfRVBmbWZSZXpYN05KX09OdllfUlRwN1pLNHlSQXdCVUJHYWxHejRyN0pMa2hwM19NdHR3ZEc1U1hMTXJ1LXZ1emdOWVQ2MkdjM0xLby1OVHNCOEE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-22T04:29:54.000Z"
     },
     {
       "id": "7fec290c0de41057",
@@ -66,12 +57,21 @@
     },
     {
       "id": "695bfc881518c464",
-      "title": "25年の運送経験を「運送業×AI」の未来を作りたい。 - camp-fire.jp",
-      "description": "camp-fire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "25年の運送経験を「運送業×AI」の未来を作りたい。",
+      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jVFAwRnBfMnlBUW1yQkJxdEd3QUZ2TzA5eWVkUE42TnBQai1qUUxOTFhsR21xNkRYVXlKWGllZXRWTS1PZTVzeFVabVJWNGtSTnVr?oc=5",
-      "source": "camp-fire.jp",
+      "source": "CAMPFIRE (キャンプファイヤー)",
       "category": "物流",
       "publishedAt": "2026-09-21T18:47:19.000Z"
+    },
+    {
+      "id": "f5038c2da8658e3a",
+      "title": "高騰する軽貨物保険 事故増加と物価高の波を受け",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kQk1zU2ZRVWdNeksxSVV0SVVLRzllRWRTaGhOU25CdjhzZ2Z0a1ZQN3YtWlNrV0dGVGVaQVFhVVhXU25PYl9RbU9yb3B3UQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-21T17:45:33.000Z"
     },
     {
       "id": "837c07b9e1842f05",
@@ -155,6 +155,15 @@
       "publishedAt": "2026-09-21T05:13:06.000Z"
     },
     {
+      "id": "e81957ab4886c1d4",
+      "title": "東京・大島町 10か所の避難所に男女80人が避難 午後2時時点",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOGhObmFUT2tMSktTZnFpX29QT0tnRmxDVjk5YlBnSk9BU0pjUWVnRW51R3BhZE93LWtmdlU5VXN3Q3VvNG95UEpmZ3RKb25aNG1SbFZFOXFIVlVPNXFJdjlFTlVBbloxMlNKaVc4ODFSZTdr0gF0QVVfeXFMUGY4aE5uYVRPa0xKS1NmcWlfb1BPS2dGbENWOTliUGdKT0FTSmNRZWdFbnVHcGFkT3cta2Z2VTlVc3dDdW80b3lQSmZndEpvblo0bVJsVkU5cUhWVU81cUl2OUVOVUFuWjEyU0ppVzg4MVJlN2s?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T05:11:00.000Z"
+    },
+    {
       "id": "872311cd8dc834db",
       "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から｢秋の交通安全県民運動｣",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -164,20 +173,11 @@
       "publishedAt": "2026-09-21T04:26:00.000Z"
     },
     {
-      "id": "2600eaf7d71fac28",
-      "title": "東京・大島町 10か所の避難所に男女63人が避難 午後1時時点",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83R000Sks0R2E2dXM3RXpDRlI5dnJGcjlZd3otWVNIdkVOelFXYTZkUTFPeE5DXzQxWmJIVGJlaXRZUDRpekxhUy1aTWtER29xOU1OTlhGbTNjaDZKZkxfenZ1TjdYVTB5TE5SYTFrUTV3Tnll0gF0QVVfeXFMTzdHTTRKSzRHYTZ1czdFekNGUjl2ckZyOVl3ei1ZU0h2RU56UVdhNmRRMU94TkNfNDFaYkhUYmVpdFlQNGl6TGFTLVpNa0RHb3E5TU5OWEZtM2NoNkpmTF96dnVON1hVMHlMTlJhMWtRNXdOeWU?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T04:19:00.000Z"
-    },
-    {
       "id": "4efe2434043c3b07",
       "title": "【出合い頭に衝突事故】乗用車運転の70代男性と軽トラック運転の40代男性が『意識不明』軽トラックは“側溝に転落”乗用車側に一時停止の標識〈北海道妹背牛町〉",
-      "description": "uhb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjN2x2eWQtUVpZWU5YbVhFV0tyamNCZ3luVWNvbElhNW5sM2tCdk1tMUpYemY0SFVOalE2SUJxX2c2UlpJT2c5Z2xIck0zZTBaX0QzcU9Ndw?oc=5",
-      "source": "uhb.jp",
+      "source": "UHB 北海道文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:00:58.000Z"
     },
@@ -310,9 +310,9 @@
     {
       "id": "9d42733f3fb89998",
       "title": "韓国のフリーマーケットにトラック突入、母子2人死亡…60代運転手の拘束令状請求",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WU1PcWk2TGkyVzVjZEhoTDk0R2lxUUFGb1NCU3VicmdKNXFwY2JOdHA0bmtIbnNTVmxmV0RkaFVnOWhlTWo0c3ZDVkZGc3NGbDZrTm1UZmxFTDFlX2laSndwRjV4ZEsxR2fSAWpBVV95cUxPellNT3FpNkxpMlc1Y2RIaEw5NEdpcVFBRm9TQlN1YnJnSjVxcGNiTnRwNG5rSG5zU1ZsZldEZGhVZzloZU1qNHN2Q1ZGRnNzRmw2a05tVGZsRUwxZV9pWkp3cEY1eGRLMUdn?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-20T07:10:33.000Z"
     },
@@ -335,20 +335,11 @@
       "publishedAt": "2026-09-20T03:11:00.000Z"
     },
     {
-      "id": "1a599bb7f69f53eb",
-      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
-      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
-      "source": "JBpress",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T01:00:00.000Z"
-    },
-    {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
-      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "みんなの広報宣伝部",
+      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -435,10 +426,10 @@
     },
     {
       "id": "4c156b3e315e8441",
-      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト - camp-fire.jp",
-      "description": "camp-fire.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
+      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbGdJbjdEbDJsei1sZElGU0M2VGM0SUJWWlBBakxwdmtaeVBhdVFHa2JWNkJpenZHMlFfUTdqT0tOX0FrS1U3NVN2cW1reExuYTFN?oc=5",
-      "source": "camp-fire.jp",
+      "source": "CAMPFIRE (キャンプファイヤー)",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T03:21:01.000Z"
     },
@@ -463,9 +454,9 @@
     {
       "id": "e876503c8f1d9434",
       "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5COHhmaU5uV1I2T2FnSVIyOWFDT1VnRW9LZzNMS2lrNEFWbzFHRVZKcndOS2k0VEpUUDNuYWNhWW1QRnhqTk5vUWVUV1FJejREU01HV0Y5c0ItbFRwUnpkSHNNMElibVpvMElITWxzOXlVaWvSAXhBVV95cUxOejhEWFFULTFIX1BJeWxRSzA5aGxOUldIdTd2anlIbWh3aW0yT3loMVJoZVlKTU1qQXFnU3V1U2FlNXFIc2hrQmNCRGNnRXpGZ3NyekFmd1hmcUZldi1YYk5kRUZONW1WZkpqQUVLTTBwOG04V3MtLTE?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
     },
@@ -573,15 +564,6 @@
       "title": "ギークプラス、独に欧州初のAI物流実証拠点",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sbHhVT3Z2TGtRX21odnFjamh4Z0dzdXhrUDdxUWoxaGhnUEhfZ1VZV1gxU2VINnJQc0ZXTkVyV0RQbDg2T25ZZ3VR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:08:21.000Z"
-    },
-    {
-      "id": "d8b8cdc29eb376ad",
-      "title": "キャセイ、香港ハブ強化で広域物流連携を支持",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BLUstNm1xQ3YxVkl0eGM4U1hyTGlIVjBzV1lSRzlkaGF4c2JPT2d2NExDSHp0UDZOOHYtMzNCdTBRRGJTdWg2a09B?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T19:08:21.000Z"
@@ -696,10 +678,10 @@
     },
     {
       "id": "7353cb9be2b676e4",
-      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T10:12:24.000Z"
     },
@@ -720,6 +702,24 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T09:28:50.000Z"
+    },
+    {
+      "id": "814a31fb683f5ca3",
+      "title": "【ドイツ】リドル、配送に自動運転トラック エインライドと提携：時事ドットコム",
+      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82dUhfbG9uY2xqc2FQbXhIT2Y1S0hsd3p2bW5SU09GQTJReDJpX0Eyc0hLbjFJMzhVVGUyQWE0ZExMaThGRTFZWjNfTzhxdEZUSWtVdW9uVTZuWll0R05kamtvQQ?oc=5",
+      "source": "時事ドットコム",
+      "category": "物流",
+      "publishedAt": "2026-09-18T09:23:00.000Z"
+    },
+    {
+      "id": "0002f0e27f07ea25",
+      "title": "タンク車から男性従業員が転落死亡 労働安全衛生法違反の疑い運送会社など書類送検 福島・田村市（TUFテレビユー福島）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaUpNVldJaVMzYlB2bFZHSkd1Y1BtX0pxdThweDlHckUyb2ZDTFRKQmN5Tl9hUXQ4TzQ4T0RTMHlsRUYxRnp1clo2UDVLZWtNampwdUJILXZuS2hDLWFBMWZCdUVTcmVCUnM2b1dpTS0yaV84OUVsVmJDSEk5Z2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T09:05:23.000Z"
     }
   ]
 }
