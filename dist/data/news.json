@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-22T12:30:44.211Z",
+  "updatedAt": "2026-09-22T13:27:31.632Z",
   "articles": [
+    {
+      "id": "f91a4aa86594718e",
+      "title": "EV軽トラックついに登場！ 225km走るフォロフライFKTは物流や農業の新しい「足」になるか？ (ベストカーWeb)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU53UFF2bmdkY3Fxd3RoMDZTVWY2d0lQWFN4SlN0bDdyaEZpM1hOMExwd3RvTWpvYm1KR1d6T0g0cF9mNDczM1h6UDBSenNXSFAwSkc2WW5ZaW5SNFAtaDk3b0luNTFNRFc5SEpUYlVqaFlHcnRFQ0h6RU0wLXFYOUFUdEZRMFlCcDZFSm53?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-22T07:21:14.000Z"
+    },
     {
       "id": "5bc978ba0e898cec",
       "title": "福山通運とＴ２がタッグ 自動運転の行程検証",
@@ -27,6 +36,15 @@
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-22T05:30:02.000Z"
+    },
+    {
+      "id": "028d639c5069b969",
+      "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pNUZKbFpLdE95cE9KbHZfRVBmbWZSZXpYN05KX09OdllfUlRwN1pLNHlSQXdCVUJHYWxHejRyN0pMa2hwM19NdHR3ZEc1U1hMTXJ1LXZ1emdOWVQ2MkdjM0xLby1OVHNCOEE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-22T04:29:54.000Z"
     },
     {
       "id": "7fec290c0de41057",
@@ -110,13 +128,13 @@
       "publishedAt": "2026-09-21T11:49:56.000Z"
     },
     {
-      "id": "38baedaa8ff3e4a3",
+      "id": "c826351a3615a178",
       "title": "配送のおにぎり食べた生徒や大人12人に症状 黄色ブドウ球菌で食中毒 提供した飲食店に3日間の営業停止処分 岩手・紫波町",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yUXdGV2lhemZwLTVSdnAtRHJlYUp6dHV5NjA3b2Ntb3ZJcHVHbU1OWUpuS0JPemVyWHBpdFJIcFViVmdtNGl0ZUVFUUpwMFo1N1pneUhoVG5MZw?oc=5",
-      "source": "TBS NEWS DIG",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYm5zY2JZRDRwV2VDb0tkMnlkNlhpTU1uX0tPTDJaUTZBUkE2QTNkb3A2aWp0YVJJQnVkZG9EZlVMT1dKOUhaNmRWeUVfRHJOaHJHRE5UckxWUF9qOHBLeGUwYTZEY0Vidk1OWUpuUUdIUVFlUlFuVU5oWldUOEdMZTZIUWd5a3NIMDdRQlBB?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "物流",
-      "publishedAt": "2026-09-21T09:45:00.000Z"
+      "publishedAt": "2026-09-21T09:46:14.000Z"
     },
     {
       "id": "b47d45b2ca172bda",
@@ -148,9 +166,9 @@
     {
       "id": "6609f6c3acc5e69f",
       "title": "L4無人配送バン市場分析レポート：2026年1043.23百万米ドル規模、成長率21.73%推移",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZWNkVmhNOTZFR040MFJwUEFndGRIT0pFQkV0dTJUYkFfMVNkbm9mVU10ZGM3Tmt4a3JIQkxBYUN3cndmZnlpcXpVZV8zQQ?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T06:24:00.000Z"
     },
@@ -193,9 +211,9 @@
     {
       "id": "872311cd8dc834db",
       "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から｢秋の交通安全県民運動｣",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNlhpWmh6dkJyV3lUNFZ1Q0JJWWFLNVQzd1VVNWZYeHRFUnA5N2RhSnZ6eE80c0lld19WMEtDOGRGZWRvdVA5TUwxWHhoUkhRQ2xfT1hpRlN5OGg1NFJsU2VCcXNDTWs?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:26:00.000Z"
     },
@@ -254,15 +272,6 @@
       "publishedAt": "2026-09-20T23:21:17.000Z"
     },
     {
-      "id": "96092f4d33f70d52",
-      "title": "東名高速道路の取り付け道路で冠水による通行止め解除 2車線のうち1車線で規制",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CTHpZUjFhMzlWMThYSzZzY2pZMXlPN2JMSVRobEJ4N25QN3hhN3BTT0ItVTdMYWt5NTI3T0w1ZHlxUk8xdmI3NkR3SUphUEVGeW5CQzVSdFhOclJWUnlJb0JYdUVob1dWd0RhVU9FRHM2T0k?oc=5",
-      "source": "Excite エキサイト",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T22:23:00.000Z"
-    },
-    {
       "id": "a46a2e8035838c66",
       "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
       "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -274,9 +283,9 @@
     {
       "id": "2927630c4e799719",
       "title": "「車両暴走」証言を翻意、安城トラック突入事故の運転手、明日逮捕状発付の岐路に : 사회 : 財経日報",
-      "description": "news.jkn.co.krが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "재경일보が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hZFU0ZjQ3SXkwcnVieUdza2cwQUE2eUxYZlpKTjhPc0NxZm9GR3FXcTBPbzNoSjRUUlNSb1VsS0NGbV9QU2g4MjdR?oc=5",
-      "source": "news.jkn.co.kr",
+      "source": "재경일보",
       "category": "安全・事故",
       "publishedAt": "2026-09-20T21:35:00.000Z"
     },
@@ -301,9 +310,9 @@
     {
       "id": "86f6de40a481924f",
       "title": "最先端の買い物支援から物流網強化、新市場開拓まで——小売・流通産業の「新たな挑戦」：ニュース",
-      "description": "biz.chunichi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "中日BIZナビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KNzZVTEoyZzdZYWIyWGlJUzhieFppZmphU1VGVVYyaTJLYjB3UE9JYzF6LWF3Vm1iOVpOWVVLcm45N284b2FES0RXMGZmUUI4ODcxckRUdEhqMTRwS0VF?oc=5",
-      "source": "biz.chunichi.co.jp",
+      "source": "中日BIZナビ",
       "category": "物流",
       "publishedAt": "2026-09-20T20:00:00.000Z"
     },
@@ -337,9 +346,9 @@
     {
       "id": "9d42733f3fb89998",
       "title": "韓国のフリーマーケットにトラック突入、母子2人死亡…60代運転手の拘束令状請求",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WU1PcWk2TGkyVzVjZEhoTDk0R2lxUUFGb1NCU3VicmdKNXFwY2JOdHA0bmtIbnNTVmxmV0RkaFVnOWhlTWo0c3ZDVkZGc3NGbDZrTm1UZmxFTDFlX2laSndwRjV4ZEsxR2fSAWpBVV95cUxPellNT3FpNkxpMlc1Y2RIaEw5NEdpcVFBRm9TQlN1YnJnSjVxcGNiTnRwNG5rSG5zU1ZsZldEZGhVZzloZU1qNHN2Q1ZGRnNzRmw2a05tVGZsRUwxZV9pWkp3cEY1eGRLMUdn?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "安全・事故",
       "publishedAt": "2026-09-20T07:10:33.000Z"
     },
@@ -363,10 +372,10 @@
     },
     {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
-      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "みんなの広報宣伝部",
+      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -454,9 +463,9 @@
     {
       "id": "6283aa312bbd64d8",
       "title": "西湘バイパス下り、一部区間で通行止め 台風25号接近伴い予定前倒し",
-      "description": "article.auone.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2bVNkN0xBcU9aQXQtTzBGcGgtVUlBYjgwb1BoaF9mTUtRYkU3b0JxM3FKWEVKS2NoakpYbGZPMm1VYm9PT3owVmd2SUFTRHlkNHBINkNjdFY3R1dlaTBWei1MUGxuSWY3aVFyMktB?oc=5",
-      "source": "article.auone.jp",
+      "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T07:20:00.000Z"
     },
@@ -705,21 +714,12 @@
     },
     {
       "id": "7353cb9be2b676e4",
-      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T10:12:24.000Z"
-    },
-    {
-      "id": "0f77697b0207d6ee",
-      "title": "大和ハウス系、物流施設で17件の倉庫業法違反 変更登録せず",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kb05NQVBBWEdaOS04M3h0Z1JTTElGZU9YR1ZfTGFRZk1JMkVUbTlRLTVDaE9HbWFQMWh6dHhSRlNSem5rS1l2OWZ6VEZOdVd0Z2k5MkpEckdSNHpRQzM3dEVjczYzbExjWUg0dQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-18T10:07:25.000Z"
     }
   ]
 }
