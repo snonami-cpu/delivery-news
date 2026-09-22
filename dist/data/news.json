@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:27:31.632Z",
+  "updatedAt": "2026-09-22T14:26:57.196Z",
   "articles": [
     {
       "id": "f91a4aa86594718e",
@@ -63,6 +63,15 @@
       "source": "テレ朝NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T03:19:14.000Z"
+    },
+    {
+      "id": "b2847cdcfbefe8d7",
+      "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」 (共同通信)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOS1PMnY2Z0pPNW1QNDlNZ2FXSzhSRElBRXItVVdSVzJWMVhod1RiY3h2WDhxVTZNMVI3NVdjT2FQWUI1TzRLOHVucWMyRWYwNlZKb3VOYWpwR2ZITk1Ec0RQLWFaeTRHbUktdjFSbFV3QU1DVzhKYWhnLURuM2VMbFNTTU5pRDNHU0dXVHdn?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-22T01:19:43.000Z"
     },
     {
       "id": "fb3843677a3273e4",
@@ -166,9 +175,9 @@
     {
       "id": "6609f6c3acc5e69f",
       "title": "L4無人配送バン市場分析レポート：2026年1043.23百万米ドル規模、成長率21.73%推移",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZWNkVmhNOTZFR040MFJwUEFndGRIT0pFQkV0dTJUYkFfMVNkbm9mVU10ZGM3Tmt4a3JIQkxBYUN3cndmZnlpcXpVZV8zQQ?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-21T06:24:00.000Z"
     },
@@ -198,15 +207,6 @@
       "source": "テレ朝NEWS",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
-    },
-    {
-      "id": "e81957ab4886c1d4",
-      "title": "東京・大島町 10か所の避難所に男女80人が避難 午後2時時点",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOGhObmFUT2tMSktTZnFpX29QT0tnRmxDVjk5YlBnSk9BU0pjUWVnRW51R3BhZE93LWtmdlU5VXN3Q3VvNG95UEpmZ3RKb25aNG1SbFZFOXFIVlVPNXFJdjlFTlVBbloxMlNKaVc4ODFSZTdr0gF0QVVfeXFMUGY4aE5uYVRPa0xKS1NmcWlfb1BPS2dGbENWOTliUGdKT0FTSmNRZWdFbnVHcGFkT3cta2Z2VTlVc3dDdW80b3lQSmZndEpvblo0bVJsVkU5cUhWVU81cUl2OUVOVUFuWjEyU0ppVzg4MVJlN2s?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T05:11:00.000Z"
     },
     {
       "id": "872311cd8dc834db",
@@ -371,11 +371,20 @@
       "publishedAt": "2026-09-20T03:11:00.000Z"
     },
     {
+      "id": "1a599bb7f69f53eb",
+      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
+      "description": "jbpress.ismedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
+      "source": "jbpress.ismedia.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-20T01:00:00.000Z"
+    },
+    {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
+      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "source": "みんなの広報宣伝部",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -468,6 +477,15 @@
       "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T07:20:00.000Z"
+    },
+    {
+      "id": "2128354dec3fe640",
+      "title": "【チルド食品物流のダイセーエブリー二十四】株式会社林運送の株式取得に関するお知らせ",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53dk44dnYzZGNIdkJmdVcwN0dPMDZueEhTSTFYVGpDaW8wZkpZalNBX2VvT3daaFNqLTZEZ2VpR1VmOFBZY2FuaEpxNzlZMHVhd2c?oc=5",
+      "source": "山陽新聞",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-19T07:00:00.000Z"
     },
     {
       "id": "4c156b3e315e8441",
@@ -578,15 +596,6 @@
       "publishedAt": "2026-09-18T19:29:33.000Z"
     },
     {
-      "id": "0c09582d386d12e5",
-      "title": "マースク、Shipstore連携で北米配送網拡大",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tbmRCQlBfVGhkRHYyRkRpUUszTmtGUFZ5MGJFa3Y2YkZQSllyMnZXUXFxdHNVb0NTalJwQU1YcXJPaUs4bzRrQklR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:08:21.000Z"
-    },
-    {
       "id": "6dbfbf39abd8fcff",
       "title": "日鉄興和不動産、米物流施設2号をアトランタに",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -616,9 +625,9 @@
     {
       "id": "99df0ef7055a7587",
       "title": "南牧村で観光バスと中型トラックが衝突 搬送の5人は軽傷",
-      "description": "信濃毎日新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "shinmai.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9heUhKMnk5WnVSUHZCUGdCRFcteGxJX1U3NlU4R09PcGtycHluLXJnTmJNdGNxQlZhd05ielVtT1N0eUFHTVlpZGcxM1JGcnowRVdkTmRNMVpzS25iLW1jekZQd09yaUFPYnNpQVVaUUg?oc=5",
-      "source": "信濃毎日新聞デジタル",
+      "source": "shinmai.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T12:52:00.000Z"
     },
@@ -661,9 +670,9 @@
     {
       "id": "25b8c3285edcbe06",
       "title": "三和建設／神戸港近くに化学品センター竣工、危険物倉庫5棟整備し冷凍にも対応",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XbW5FcGwwNU1TcXlBY0dOam1nb2lhUlJySjdnMjdpY1RpR056TzJONldfYTRIaFROYXNDbkJyY1ZOekFiOGdVX3FrbTRDOWx2SHU5Yw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T11:41:20.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T10:15:43.000Z"
-    },
-    {
-      "id": "7353cb9be2b676e4",
-      "title": "【上信越道】群馬県内でトラック火災や多重事故 6時間ぶり通行止め解除（18日19:10現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTkVFTHBSVmxkam9WTk96ODFuUmhuNEl1ZnhIR0huQUd4aW10Vkp5eFdKSnpZZVFYVVFxXzB5NVFzWTdlSnczY2RQUmxDNW5IMDJnM2FzdWtRd1pCOFBF?oc=5",
-      "source": "chiba-tv.com",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-18T10:12:24.000Z"
     }
   ]
 }
