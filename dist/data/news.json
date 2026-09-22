@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:24:30.022Z",
+  "updatedAt": "2026-09-22T00:31:54.958Z",
   "articles": [
     {
       "id": "1c321f7584a48090",
@@ -20,6 +20,15 @@
       "publishedAt": "2026-09-21T19:18:00.000Z"
     },
     {
+      "id": "837c07b9e1842f05",
+      "title": "タイグエンで発生した、トラックが急ハンドルを切ってバイクを車輪の下に引きずり込んだ事故について調査中。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2czS0xZbTFiVjFfVnVmTzQ0a19PQ19pNzBZUTJ2UGpReUZMYlFBTXNfb2tLel9zc1BEZHhxMjZuaUVoMXJkVDVVclRpTGdpa0paY0VLUU5xVDFKNGZ5UWl6MWFublBFdnBvY0JDSURpODBQc1cwTG9XZ0FrWHVQQzVqbFdEMkdPM0hDTUZqVHNfbWNtVXc?oc=5",
+      "source": "Vietnam.vn",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-21T11:49:56.000Z"
+    },
+    {
       "id": "5bc978ba0e898cec",
       "title": "福山通運とＴ２がタッグ 自動運転の行程検証",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -27,24 +36,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-21T10:11:13.000Z"
-    },
-    {
-      "id": "38baedaa8ff3e4a3",
-      "title": "配送のおにぎり食べた生徒や大人12人に症状 黄色ブドウ球菌で食中毒 提供した飲食店に3日間の営業停止処分 岩手・紫波町",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yUXdGV2lhemZwLTVSdnAtRHJlYUp6dHV5NjA3b2Ntb3ZJcHVHbU1OWUpuS0JPemVyWHBpdFJIcFViVmdtNGl0ZUVFUUpwMFo1N1pneUhoVG5MZw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-09-21T09:45:00.000Z"
-    },
-    {
-      "id": "b47d45b2ca172bda",
-      "title": "2026年10月21日(水)開催｜「運送会社が取り組むべき整備コストダウン対策」をテーマに、船井総研サプライチェーンコンサルティングのコンサルタントが登壇します(主催：日本ミシュランタイヤ株式会社様)",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aOVhMb2ZzX0hTSUlVcmhSVEY1MFotUzY2SHdUUEp4R25EbllBbnBuQlVUYUVpZnBZaVlMWTh5SHI1TzJpLTJ5VXhDMFllUC1MU0N0N1ZvWXV3N3ZpOENTS3lNNmh3TzB2WHc?oc=5",
-      "source": "prtimes.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-21T08:40:02.000Z"
     },
     {
       "id": "53b6065d9baf59f8",
@@ -110,6 +101,15 @@
       "publishedAt": "2026-09-21T01:17:36.000Z"
     },
     {
+      "id": "5d29573689bc5340",
+      "title": "東名高速で事故、2人死傷 雨の影響でスリップか",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDFYSFRDZEhCOE1qZ2xKOFlEcWZXQ1o5Tm9ULUZTYzF4TE1VZk4yRXA3cU1CRUlpcFJtXy1pb0dHXzV1dXNHVTJ0QUFNODFyaEI2ZHBnMjZpVWJwRmhtLTFkSHQ1R2xITGYwQnlMV0hOTzA1RF9YRXVJYXh1M0UzeUxJa1pRZUNvWTRZdUVNNTHSAZABQVVfeXFMUEwxWEhUQ2RIQjhNamdsSjhZRHFmV0NaOU5vVC1GU2MxeExNVWZOMkVwN3FNQkVJaXBSbV8taW9HR181dXVzR1UydEFBTTgxcmhCNmRwZzI2aVVicEZobS0xZEh0NUdsSExmMEJ5TFdITk8wNURfWEV1SWF4dTNFM3lMSWtaUWVDb1k0WXVFTTUx?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T01:17:00.000Z"
+    },
+    {
       "id": "36407686c6982662",
       "title": "雨の影響でスリップか 東名高速道路で軽トラックが事故 運転手の男性（20代）亡くなる 助手席乗車の女性（20代）は手足骨折の重傷 神奈川県警",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -139,20 +139,29 @@
     {
       "id": "d15d07933cb08a92",
       "title": "等温フレキシブル輸送用断熱バッグ市場2035年予測：コールドチェーン物流が年平均7〜9%成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTQ3QlV4bWNUZVdvUWpzdks3TTU5bEw3UXIxNUFqUmp3NXI5LTFBcTVIX0pXR0pfQkJZMVJfZlFoTC1LeWNlbFZfcXlTd3dsMzNlR2UwOG1zQXoyZUx0Yk5hY1VubTljR2pPcUdtU1JhQlE0aUk2MFc0QnVUNlZGUTl5bkQ1YXZDTHRnSXNTTW9GLVI0ekZ1a3Y3YUx0bEFaQk9WTlFDd0I3bkNPZDF1VWs0cVdWcXFUZ1QxQm9vZUxzcTh0QUpOVk4xTzE5VFVPY2pWYXY1RlNoZ3ZXUGc?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-20T20:56:21.000Z"
     },
     {
       "id": "344adffb93427bed",
       "title": "Bluetooth温度トラッカー市場、2035年までの予測：コールドチェーン義務化が拡大を後押し - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFRMclFFTVFzbmZlM21LdUd3dVkxb0wzVE5lNXJMeUZsMlB1SjJfVlJzTVBPb2xPakJpQUdWeVJIUjctVV83VVFwSzUzRkFMNUo2dHJacGc1bWJlQWVpNVhnUUl5emxUSDlJcENhQXZqNnd2NzMxNnRnOFpwbHJZNXJhX2ZHREg5ZHlodlE0SmRDcFF2eXpueG5pX3UwVE9sRWd0XzNXWGg0Y2Z6dkpqOUpyS2ZkSEgtOEp4RWc5cHVNZTEzZEhqRVVqZVRmVWduVlI0VHRUa24zQQ?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-20T20:31:10.000Z"
+    },
+    {
+      "id": "b88f854016133f70",
+      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-20T14:40:59.000Z"
     },
     {
       "id": "9f0c77b4fdca2235",
@@ -164,13 +173,13 @@
       "publishedAt": "2026-09-20T10:05:53.000Z"
     },
     {
-      "id": "b88f854016133f70",
-      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-20T07:32:58.000Z"
+      "id": "4375d654da18cb2c",
+      "title": "【台風２５号】千葉県内で交通機関に影響 ＪＲ、２１日午後から一部路線で運転見合わせ 高速道路で通行止めの可能性も 【追記あり】",
+      "description": "千葉日報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1Zm5JVzFxblhjcjNyaUVkUm5FaE9XN3BtZ0JMNWwycDE0RnFjVjVLeXJzc1FIcU1FSmtFcTZ5WkRBNGJDZ3IzUmpHc0ZoMEZnbFFlS0V6WmI?oc=5",
+      "source": "千葉日報オンライン",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T09:28:00.000Z"
     },
     {
       "id": "9d42733f3fb89998",
@@ -184,11 +193,20 @@
     {
       "id": "b7d1b161ee656f5f",
       "title": "【講演レポート】「生き残る運送会社を目指す 第一回TUNAGロジ説明会」に船井総研サプライチェーンコンサルティングのコンサルタントが登壇しました(主催:株式会社スタメン様)",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNVE1Si0tM2VIdVo4STJ6c3FpTEVrVHA1NlpiYV9uSHlRSjFyMHE1c205c2hIOUhGUkZmU1NXdUc3R2IxSHZEZmZ0dUczQjZfWl83c3VnZm50allmUUZKMnVuZ1AybkYxUEE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-20T05:00:02.000Z"
+    },
+    {
+      "id": "70cfc02ac44b84d8",
+      "title": "【台風25号の影響】 東名、中央道などで通行止めの可能性 中日本高速道路 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Cek13MWYwbENXX3NlZ1ppcWRERlhoOVdFWUdzTVJpMVRKbVR5dG9qWDh2SXpiMTNCdkpnejRqOS04U1JIWThUcVhBNmFGVk5KSEFOUkFYYWU4QQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T03:11:00.000Z"
     },
     {
       "id": "34997eaca9c7dc94",
@@ -198,15 +216,6 @@
       "source": "みんなの広報宣伝部",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
-    },
-    {
-      "id": "76d7413e0c4dc39b",
-      "title": "需要が伸びる中古トラックの調達遅れが招く運送会社の機会損失と経営に与える影響 (＠ＤＩＭＥ)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3FaYm0yR2VXTVhOcDNOU1ZPcDgxQ1M4clJ6VHZqX3I2Sy1RRnhwb1BVRFBLTU5vRlFFMnBXQnE5UndNU1dMNGF2eHkySHJOajFYTjN4SFhNSVhoUHJ1U1UyVllnWE03ZU5wRndEdUR5QmhTRTB4OGdiVk9QZ1ZJWU9BZzhIeDZVd3VQXzNB?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-19T23:21:53.000Z"
     },
     {
       "id": "b3090fb04c651f0a",
@@ -238,9 +247,9 @@
     {
       "id": "f59b219f4783fa22",
       "title": "サーモクロミック温度指示材料市場、コールドチェーン規制対応を追い風に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVlMVnJ2b2R2OGZlNXZEOG4zT0Y0QjkwVDF1TWdLZlRTMFFZejJpV0UxZjVYQlZxZkNubElNbXJEbVI0cThOZ0Ftbl9yS2pzYUstbEVrcFdLdHJwdjJKWEFwRXJzQlJMalc3d3h4QkNhc3lLa0Z5MVEyeXVWVkNaUzE0aUNoQmxmbGEwZzlWTjRhSVBpb2t2NkRhYmtudGNGRnVGNEh2QVk1eVZ3aWFTYjN3NU5fMG84VTNfUTFrLTZfenExNE5oOF9ZRXJfdmstVkZkWUlTVldZMmFl?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-19T14:56:20.000Z"
     },
@@ -256,9 +265,9 @@
     {
       "id": "d4622e28321c7529",
       "title": "離職を防ぎ定着率UP！運送業が導入すべき「良い評価制度」6つの条件を公開しました｜株式会社船井総研サプライチェーンコンサルティング",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cXdHaG5fRU9wYTdLRWgzSXlMUGdpa1JjRDVIWEFrcGxuREJjeHh2REdpOVFkUWQxSVIwWl9SdGZRZVFyZWJKajBCd2hBSnVCZFZpR3lBelY4eWhybWU3MmtJWVVrUjJaM1E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
@@ -272,11 +281,11 @@
       "publishedAt": "2026-09-19T08:00:00.000Z"
     },
     {
-      "id": "8de8a9b94a920d6b",
+      "id": "6283aa312bbd64d8",
       "title": "西湘バイパス下り、一部区間で通行止め 台風25号接近伴い予定前倒し",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUWhRbHZ6UERfTHlTYzE1bVFBd3N5c2FaVXBNWTNHMEpHOVhjcDE5NXZNaV8yOTJKVmFDbE04M2ZzVXBSWVpuRzBua3k2dVFlekhiUGVaRE0zMlpxUXRjOVRrd01rTl9sMmpoSGw4cGxvUXVjSUJGedIBeEFVX3lxTE8zUWhRbHZ6UERfTHlTYzE1bVFBd3N5c2FaVXBNWTNHMEpHOVhjcDE5NXZNaV8yOTJKVmFDbE04M2ZzVXBSWVpuRzBua3k2dVFlekhiUGVaRE0zMlpxUXRjOVRrd01rTl9sMmpoSGw4cGxvUXVjSUJGeQ?oc=5",
-      "source": "Infoseek",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2bVNkN0xBcU9aQXQtTzBGcGgtVUlBYjgwb1BoaF9mTUtRYkU3b0JxM3FKWEVKS2NoakpYbGZPMm1VYm9PT3owVmd2SUFTRHlkNHBINkNjdFY3R1dlaTBWei1MUGxuSWY3aVFyMktB?oc=5",
+      "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T07:20:00.000Z"
     },
@@ -297,15 +306,6 @@
       "source": "読売新聞",
       "category": "物流",
       "publishedAt": "2026-09-19T02:45:00.000Z"
-    },
-    {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-19T02:27:24.000Z"
     },
     {
       "id": "037ee7e2e3de7be7",
@@ -353,13 +353,13 @@
       "publishedAt": "2026-09-19T01:00:57.000Z"
     },
     {
-      "id": "3ff77df913bbcc3c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "e9d307d2f494825d",
+      "title": "国交省、サイバーポートで6港物流を週次可視化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZck1CWGxKRmlxZXZMOFpXNEFzd2pFeVNQZG5hZlJaQno1ZTZBcE5za1BGVk11OFFRUDFfUmVNdEg4d1J6YkJ2ZTZn?oc=5",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-18T21:00:21.000Z"
+      "publishedAt": "2026-09-19T01:00:56.000Z"
     },
     {
       "id": "d2b8b17f1a6b1a7d",
@@ -369,15 +369,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T19:29:33.000Z"
-    },
-    {
-      "id": "1370a136a6fd6845",
-      "title": "ITCとDHL、中小企業の越境物流支援で提携更新",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ET3VpZTV0X2dKMWoyZjNZTlJfS2ZzcW9XSHVIa1VuVHdHd3lCSGkzLTgwbEN5ampGXzlXQmVKaTRYYUM3anpzaF9n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:08:21.000Z"
     },
     {
       "id": "0c09582d386d12e5",
@@ -393,6 +384,15 @@
       "title": "日鉄興和不動産、米物流施設2号をアトランタに",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Wc0dZdzBEMDZYNnMxU0gzYjl1WmZOLWY0RkE1ZlllZHRpY3U0QWZsQlYzVUdzd1NVMEZuUnZ4dnAzTDRTYmxpRFZ3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-18T19:08:21.000Z"
+    },
+    {
+      "id": "1370a136a6fd6845",
+      "title": "ITCとDHL、中小企業の越境物流支援で提携更新",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ET3VpZTV0X2dKMWoyZjNZTlJfS2ZzcW9XSHVIa1VuVHdHd3lCSGkzLTgwbEN5ampGXzlXQmVKaTRYYUM3anpzaF9n?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T19:08:21.000Z"
@@ -436,18 +436,18 @@
     {
       "id": "8e084bb6e909908d",
       "title": "感温塗料ストリップ市場2035年予測：コールドチェーンと滅菌需要が成長を牽引",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWttbGYxTFJCRm9xT24yVU03Vl9ySTM5Z3c3aXR6V2RWWXhrQUo0UkJoelk3U3UyV29WM0xTNjN5b2tXLU1RaldfVnF0amltdWR6TExHM2JyTGlHaWtEMXowWGNJUmZybHkzTEFPN29nLVdydnczTVkxWVItaEN1R09TYjBfdzVSTnRHTUJRdFlHSUx1Zk1ISE5Ebmg1a3lkVXJxT2ZWRkRYcGI5TUh4dkg5NG5pLU40VzVkOEJvblhGRGFBLUlrUllNajV3NHBxVGlrNlI4MA?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
       "id": "886d71827aab936a",
       "title": "ボトル装着型温度表示ラベル市場、バイオ医薬品のコールドチェーン需要で加速へ 2035年に向け予測は上振れ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHp2U3dmNDN6MkVoRDVPZVBaX3duVmZWVVgwQ0JtRXBBclpib0JhdENndzJIdlF2NTdOUHRrV1VHT0NPTFF5VzYtNDBXY2JOVDdQTmxTZnp3ZVFIbHVVNXdzYUlzYkt2eXNUVlh0NU00NVdVQlgzS0J0d0QzYXBoSnVhZENnQlF3RF9JM2M1TVlqTFRuOU9uOGlRc0xrYWpkLTUydGNVT1pLLUpaNFRzY0FZYkxoWXM0X2FFYmZZNG5LanlpTE9kakJLdDJBUElfaHhhRms4d2EydGtNMk95UGVJN3lvdVNu?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-18T11:51:11.000Z"
     },
@@ -569,20 +569,11 @@
       "publishedAt": "2026-09-18T08:59:24.000Z"
     },
     {
-      "id": "1d68fe28aec52cda",
-      "title": "ニチレイ、サイバー攻撃による個人情報漏えいを確認。配送先・取引先・従業員などの約5万件（INTERNET Watch）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KdlRBbEtCNF95dGNRU2Z2bGJXMnhNbTMtVHdjY0lWVFptb2Z4cFFlSGs1UllCcHB4SkNTRHI5Q19uVktjdzdDUllNVG9ObE5hRE0zcHd5NDBCZ1diNEc5ZFNHLXZuZGl3QkdwQjhPNWgwUEd0dVJoMGxXSU02YjQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T08:59:00.000Z"
-    },
-    {
       "id": "b477db9e50b9f248",
       "title": "国土交通省／運送契約締結時の書面交付義務の主体は誰か？Q＆A更新",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VdDU2LUs2Y1V0MVduOTFaTUw5UTdvMEJvNWszNXNwS1kzRzJZcWtqZ09zUjNqN01zc2VCT21HdXlYcS1KY2ZSNV9XRXU5bmpJeHpPTQ?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-09-18T08:34:00.000Z"
     },
@@ -594,6 +585,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T08:15:11.000Z"
+    },
+    {
+      "id": "f0ffa0676d6875e1",
+      "title": "経済産業省／「エッセンシャルサービス効率化先進実証モデル集」公表、ヤマト運輸等事例掲載",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9maTVmTkdtc3RHWnBrSy1VWm4xTUJZUkxJZHNPeDlyMjJ3ZDZkb2pld0Y0bFJXb3NMcXVJT3pfTDc3WGpFVjEzVjBiR2JLbzVxYW5JNg?oc=5",
+      "source": "trucknews.biz",
+      "category": "物流",
+      "publishedAt": "2026-09-18T08:08:00.000Z"
     },
     {
       "id": "c9d0109064f77217",
@@ -616,9 +616,9 @@
     {
       "id": "50ffa82d28a6cb90",
       "title": "～ アメリカにおける物流不動産開発事業の第1号案件 ～ ジョージア州アトランタの「Buford Creek Business Center（ビュフォード クリーク ビジネス センター）」が竣工しました",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vb1VkY3FBSkp3MHlfN2Q3ZjQ3UlZyWTlIQ2EyX0ZzT0c3Q1FXd1RhQU1rc2VNQTNzTmZwZzhKRWlzZGY3VmVVRjRYLVZycERmb0pwZGFyc0taOWVJZGdJNGFRYVl5XzhFTnc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-18T07:30:01.000Z"
     },
@@ -639,6 +639,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-18T07:24:33.000Z"
+    },
+    {
+      "id": "396279a229e7faca",
+      "title": "国交省／国内主要6港の外貿コンテナ個数統計を月次から週次に変更",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UdEZBLU85MGFvdFlsSERjOWs1X0F5NTFRSTVEM1dkcldjZEdmcVh6amlOUEl6c3JXdG4zVEVXQ2sxUkJ1LTJBTHM5ZTAzcHVXODBhdQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-18T07:19:58.000Z"
     },
     {
       "id": "ba0b12322f404001",
@@ -711,15 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-18T05:54:39.000Z"
-    },
-    {
-      "id": "2fcb7a99770d1770",
-      "title": "日鉄興和不動産／ジョージア州で6.4万m2、米国2件目の物流施設が竣工",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16b1JuX0hjSHZTVm5Hb3BJU3hwYnMzSURndHY5Q2dBTUh5US1fbURnS3dQU2RQc3ZRYndmSngtNlhGWkl5bk9SQ19xcWRVbk1kZDc3Tg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-18T05:36:35.000Z"
     }
   ]
 }
