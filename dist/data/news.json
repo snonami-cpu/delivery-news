@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-22T07:26:14.189Z",
+  "updatedAt": "2026-09-22T08:27:20.515Z",
   "articles": [
+    {
+      "id": "5bc978ba0e898cec",
+      "title": "福山通運とＴ２がタッグ 自動運転の行程検証",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxamUybExCWHJiRHpRMmUzOS1XanhVSkw5QlRpNTFLLUdOenBJMmszUlZ0LVVLMHZrMGR4TkVqWENySGQtend6dFJjZEdCQQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-22T06:50:03.000Z"
+    },
+    {
+      "id": "af10349c77a9cd94",
+      "title": "EV軽トラックついに登場！ 225km走るフォロフライFKTは物流や農業の新しい「足」になるか？（ベストカーWeb）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hQTUxd2JMTGdjOTg4UzAxTmV3VElxb2luenZCRlhWUUdnd0xIYjRxMGNiLW42WlJIVmt2dk0xODVmUlJsYWtkaEtqSU5iTUxWRnVCaGNDT29LeGhlOGJYX0RZb1R4aUdmeVZDWmh3Y1ZlR3Y3TFZhZURLbzdxY0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-22T06:00:42.000Z"
+    },
     {
       "id": "028d639c5069b969",
       "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始",
@@ -49,9 +67,9 @@
     {
       "id": "c1afa0200c4a002c",
       "title": "上信越道のトンネル内で事故 小学生を含む男女3人が重軽傷 乗用車が走行中にトラックに追突 長野・千曲市（ＳＢＣ信越放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcDdhS2xZZWJSYVd0WkhHTHRvcEMwT2kxQWFBd3FCSmJEc3A3VlE0eUM2akM1ekg1YXlndEg2N0VBeHdsYVE3VWJLb2ZBVWdRVXU1T1pTaFRna2F3X3QxVHNld2dNS0VFTi1VSlF1VzJwWWI3c0QyOXN4SU5WUFU?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T19:20:28.000Z"
     },
@@ -67,20 +85,11 @@
     {
       "id": "837c07b9e1842f05",
       "title": "タイグエンで発生した、トラックが急ハンドルを切ってバイクを車輪の下に引きずり込んだ事故について調査中。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2czS0xZbTFiVjFfVnVmTzQ0a19PQ19pNzBZUTJ2UGpReUZMYlFBTXNfb2tLel9zc1BEZHhxMjZuaUVoMXJkVDVVclRpTGdpa0paY0VLUU5xVDFKNGZ5UWl6MWFublBFdnBvY0JDSURpODBQc1cwTG9XZ0FrWHVQQzVqbFdEMkdPM0hDTUZqVHNfbWNtVXc?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T11:49:56.000Z"
-    },
-    {
-      "id": "5bc978ba0e898cec",
-      "title": "福山通運とＴ２がタッグ 自動運転の行程検証",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxamUybExCWHJiRHpRMmUzOS1XanhVSkw5QlRpNTFLLUdOenBJMmszUlZ0LVVLMHZrMGR4TkVqWENySGQtend6dFJjZEdCQQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-21T10:11:13.000Z"
     },
     {
       "id": "38baedaa8ff3e4a3",
@@ -103,9 +112,9 @@
     {
       "id": "525aaa2aa92530b1",
       "title": "＜最新＞物流強化へ予算増 商慣習の変革促す 国交省",
-      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTN1FTRE1RMlRSVmprMFhvdVNRLTJhWmFzS0RyalViSENZYzBvZ3JjX2tycmdteHluUE1wMFA2TGVSc2pyU3dCMUY3eDdYUEJJaXBrTXpQWQ?oc=5",
-      "source": "agrinews.co.jp",
+      "source": "日本農業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T08:17:57.000Z"
     },
@@ -130,18 +139,18 @@
     {
       "id": "57a34c7f7fcb0c79",
       "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点（テレビ朝日系（ANN））",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNGVaYkYtY1RzV3ZDZ25EZ2VUQzdNaS1oNzZYa0tIUEl2d2ZqT2tQb1VHWFpQdWNtQ0tBWXRURzdFNFhYN29Ienl2WFprMm80QVZHRnF4d2tZRzFTM3hUMUJYZG4xNEV1eHRNQU53cVZmcWk4YlAwc3ZiRFVjdnc?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
     },
     {
       "id": "7cace231d2cdbe43",
-      "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点 - news.tv-asahi.co.jp",
+      "description": "news.tv-asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoVE9WVjB4aE1WLUV3TEI1X3hBdngxVG1jSy1HREx6QnVFNG9UeVFzOG9qWWxBMW5uQWlYRTFmSkxyWkcxejc5ME5XaHF3OW9vRHpJU1lfelBNZUZTRnBCTi00c1k0a0c5QVMyQXMxby1XUQ?oc=5",
-      "source": "テレ朝NEWS",
+      "source": "news.tv-asahi.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T05:13:06.000Z"
     },
@@ -166,9 +175,9 @@
     {
       "id": "4efe2434043c3b07",
       "title": "【出合い頭に衝突事故】乗用車運転の70代男性と軽トラック運転の40代男性が『意識不明』軽トラックは“側溝に転落”乗用車側に一時停止の標識〈北海道妹背牛町〉",
-      "description": "uhb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjN2x2eWQtUVpZWU5YbVhFV0tyamNCZ3luVWNvbElhNW5sM2tCdk1tMUpYemY0SFVOalE2SUJxX2c2UlpJT2c5Z2xIck0zZTBaX0QzcU9Ndw?oc=5",
-      "source": "uhb.jp",
+      "source": "UHB 北海道文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:00:58.000Z"
     },
@@ -193,9 +202,9 @@
     {
       "id": "f194a40b381ec703",
       "title": "東名高速で事故、2人死傷 雨の影響でスリップか（共同通信）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVk5icTRHRnVUQzlSNEZ6eGNfUFh2NDZCVGprN2Y3QzVCQ1VQbC1GSl8tenc1OVhIVkxCTmdUMVpCLUZxWC1wMWNyRXEzcWxNV29jOGdYc1NITndiX3VnaXU1U0JKbGhXN1YtYXdDRldieVVPSGtaWC1aNUc2bDQ?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-21T01:17:36.000Z"
     },
@@ -337,9 +346,9 @@
     {
       "id": "76d7413e0c4dc39b",
       "title": "需要が伸びる中古トラックの調達遅れが招く運送会社の機会損失と経営に与える影響 (＠ＤＩＭＥ)",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3FaYm0yR2VXTVhOcDNOU1ZPcDgxQ1M4clJ6VHZqX3I2Sy1RRnhwb1BVRFBLTU5vRlFFMnBXQnE5UndNU1dMNGF2eHkySHJOajFYTjN4SFhNSVhoUHJ1U1UyVllnWE03ZU5wRndEdUR5QmhTRTB4OGdiVk9QZ1ZJWU9BZzhIeDZVd3VQXzNB?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-19T23:21:53.000Z"
     },
@@ -382,9 +391,9 @@
     {
       "id": "6b0a5a1f7a20b1eb",
       "title": "京奈和自動車道の精華下狛ー精華学研ICの上下線で一時通行止め 事故のため（京都新聞）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13aTkyS1FySmNJeWtKdmxwUjVPOUN5N2VCVW5wOWx5TTNKTkxOSE5tNUZjWk5jVjNUWHJYUGF2enZsVG9odkl0SVY1RlhlMFdOdnFfWGF0OEMtV2JfbHBGRzEyTDNEYnVmUEk5SVZwODZqS0JNNm5yTThERV9VaEU?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T13:09:15.000Z"
     },
@@ -427,9 +436,9 @@
     {
       "id": "7c1d7992db2ae039",
       "title": "倉庫業に必要な書類を提出したように偽装、物流会社社員を懲戒解雇…違反１７件・会社に虚偽の業務報告",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZ01YaVgzcTM2WU0yYjZjYW9pSFpHa3A4dkxraFc3bGpVXzFQNkhfci1QUmhvN2lnMzlmbFdXakk0ZmRhazBCM0V0Y0p4WXh6WklsZ1ZQLUs3VU9ZM1ZYNl9wWGxZdHljcnBtXzFTWkpIbnE0cjNEYTZoOXlGY1k?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-19T02:45:05.000Z"
     },
@@ -463,9 +472,9 @@
     {
       "id": "6e76b48901257de1",
       "title": "【続報】笠間のひき逃げ 容疑でトラックの男逮捕 「よく覚えていない」 茨城県警笠間署（茨城新聞クロスアイ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRVlJcGg4R19HekRzNmFDMlBaSHVXNF9NNW5vLW5fVy10WFVpUzUyMHVYUVB4U0oyLVVZWlJ0MEFUTGJBUlFoa3ZGQ0dqRmczSENEczF3Q2VJbE50ams3cldnM1FGNlljU3pubWRVazIzY1VoVjZnNHozUEplaXc?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-19T01:32:00.000Z"
     },
@@ -497,20 +506,29 @@
       "publishedAt": "2026-09-19T01:00:56.000Z"
     },
     {
+      "id": "5b5453d1a2f55d9c",
+      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送 (山陰中央新報)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXNQZWQ4N0dZeHRrZm1STmJWMUZYTlU2OTZ4aTBRdUpXQzhuaEktc2ExbF9VeGtWcXpUeXVueVo2NkZKR1pfNW95SEF0Tm55eHZkbG9xZHJQUmJoVTlNa3c5ZWcybWFvQ3d4Zmx4bmVRTmViRFlLVkdGdFR4Q25zLUFqeHJidGRpd3pJUDNB?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-18T21:22:33.000Z"
+    },
+    {
       "id": "3ff77df913bbcc3c",
       "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-18T21:00:21.000Z"
     },
     {
       "id": "27b36123153b6f13",
       "title": "周遊観光 身軽に 案内所から宿泊先配送 手荷物有料サービス 岩手県南で実証事業開始（岩手日日新聞社）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcFR3QlBQVXpHYlBFYmRlanhHSGNCaDlTWHI5YVhhT21JOWVGNXJiQ0h2QTBkNjJMVVI1WC1fMmF4NE82LVN5eW1pN3JZdkhCQUNOOGRxU1RJY2hBYTU4X3JaMFc2ajVjR0dMR2t6cnlXTUlDNkF2WE9HN2t3QlU?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-18T20:20:06.000Z"
     },
@@ -596,6 +614,15 @@
       "publishedAt": "2026-09-18T12:01:10.000Z"
     },
     {
+      "id": "0a1a9b37b812d756",
+      "title": "【必見】トラック適正化二法への対策セミナー開催 - tv-tokyo.co.jp",
+      "description": "tv-tokyo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5QWw2SlJGZnBDUl9TT29QQ2Z1dWNOYUNEN21Iazd6Mk45bzIzYlo5ckpVQm5LZEhWcmhyeTdLczQ2UTVXRE5BS0lBUm1iYkRzaC1mOV9ITjJpZnhEMU5MXzVOTl9wSlJnTnZGRlZB?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-18T11:52:51.000Z"
+    },
+    {
       "id": "886d71827aab936a",
       "title": "ボトル装着型温度表示ラベル市場、バイオ医薬品のコールドチェーン需要で加速へ 2035年に向け予測は上振れ",
       "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -634,9 +661,9 @@
     {
       "id": "d7561e1941fba51f",
       "title": "「観光バスとトラックが衝突した」観光バスとトラックの運転手と乗客の計5人がけが いずれも軽傷とみられる カーブで出合い頭に衝突か 長野・南牧村の県道（ＳＢＣ信越放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSX2xaZnpVRlZ4cl91Y01wUS1VZ3JtcUIyNldteEU5blNPX3VUN2VVV2FseDBLOVRFVENIZFN3VGN4TTF0dUZWVlBuS014b2VmUkMyaHlvZDg5UE10YVZrS1JSX3BxTFREb3ZOMnFhX0tTRnNzcWtDUUdiYUVraW8?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-18T11:28:13.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "時事ドットコム",
       "category": "物流",
       "publishedAt": "2026-09-18T09:23:00.000Z"
-    },
-    {
-      "id": "0002f0e27f07ea25",
-      "title": "タンク車から男性従業員が転落死亡 労働安全衛生法違反の疑い運送会社など書類送検 福島・田村市（TUFテレビユー福島）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaUpNVldJaVMzYlB2bFZHSkd1Y1BtX0pxdThweDlHckUyb2ZDTFRKQmN5Tl9hUXQ4TzQ4T0RTMHlsRUYxRnp1clo2UDVLZWtNampwdUJILXZuS2hDLWFBMWZCdUVTcmVCUnM2b1dpTS0yaV84OUVsVmJDSEk5Z2M?oc=5",
-      "source": "news.yahoo.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-18T09:05:23.000Z"
-    },
-    {
-      "id": "5771f5bfc3fe2ac3",
-      "title": "大和物流、自社運営センター11カ所で倉庫業違反17件確認 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oS05hb2FZVjlvNWdqRWFyeUFJZ19KVElYbVd3UE1PTzlnQ3lXMElsTVZIb19TV0JXMGZCaGFJdTNnNjl0UE1Dei1iMA?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-18T09:04:13.000Z"
-    },
-    {
-      "id": "a02d92601de7f66b",
-      "title": "双日、インドで半導体向け物流参入 新工場建設のタタと提携",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlR6SlhtVzhvM2wwazZLTzNzQTBxU2F5WTNWMk55SjkxMlA3SlZXTDdYMGl4QUJ4ZWJOVU03dEo1djNZR0pLSDZrbGstWFZxdzI2bVlRbzlXOTBiM1YzNXc5N3FkR29tMFdhMQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-18T08:59:24.000Z"
     }
   ]
 }
