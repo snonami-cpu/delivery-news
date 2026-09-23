@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23T04:26:43.947Z",
+  "updatedAt": "2026-09-23T05:25:03.261Z",
   "articles": [
+    {
+      "id": "f1e600ea77bf61a4",
+      "title": "【速報】常磐道で車両火災 日立南太田-日立中央IC間で通行止め 茨城",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1RoLW5XbWhOSG5ZZURIaFEzVFZfTnF6RUZWZW55S0IybEs1VnFMM1BtUXMyVUd0YWhEUUVPUVJsZXhOS3dpdkJOM1l4MFJGaWZ4LS1mbE9XZzRmZkVIdnUySXlJWDZ1MFBkRDkyN2JxU0Y3bjdQYjdjNTBvajRVX0RWMNIBiAFBVV95cUxNQXg2NVVXLUZSZm1FSEl2VUdfMDRRRzJ0YkJmczlRN1dxb1laQzJZVTVxNXZVVmNXRml0SkFieEJGQnBTR1Q4c2lidWpjcmtKV0p2TlVPVTFyZndsTDhuYUFMbkhJRjlkX0xRNW5GY2I4MnF2VmlubHlRbFBqU3RJSElTMThYN1g2?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-23T04:49:00.000Z"
+    },
     {
       "id": "26e3848eb76a1b54",
       "title": "物流の要だった牛に焦点を当てた企画展 江戸末期に描かれた巻物も展示 岩手県奥州市",
@@ -11,13 +20,22 @@
       "publishedAt": "2026-09-23T03:35:00.000Z"
     },
     {
-      "id": "728392d0511b8819",
+      "id": "5fd243ceceaa316b",
       "title": "十日町で死亡事故、軽トラックの下敷き",
-      "description": "新潟日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fOW5UYklXcHVfRHNMcWxhV0Z5NjczQVd5TC1henJZLTVvOGV6S2VLNFJaTU1EeHJLT1pKOFQ3dkhmQTl5OXZMUXNhelFiei1TQjg5dGc5NHRSV0NpbWc?oc=5",
-      "source": "新潟日報",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2dTlqdTlFM19MWDE4VkNEd0xiUmY4VE92ODhmX3ZvMTZKcUtxdnpaT08zdHItMXhRRnpKVHJlQjJnZ244MW1CWHplWQ?oc=5",
+      "source": "47NEWS",
       "category": "安全・事故",
-      "publishedAt": "2026-09-23T03:15:00.000Z"
+      "publishedAt": "2026-09-23T03:25:00.000Z"
+    },
+    {
+      "id": "d938d5676026b69f",
+      "title": "国際ドローン協会、八ヶ岳の登山道修復を2年連続で支援 -大型物流ドローンで木材350kgを登山道の作業地点へ輸送-",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5b1hvZkIxTC05XzlxVmJTcVhpc0FiVHhtVGF2T29lZm5uMVd0d3pLSlFNbXYzTDIyaVNJTURFbHl1RDF5cmpiY1FaZkZyeDVSY1NDcnV6TW5HenM0cnVOdm1NR2lqbUdZRXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-23T01:35:57.000Z"
     },
     {
       "id": "d5ac301e390a0e48",
@@ -110,6 +128,15 @@
       "publishedAt": "2026-09-22T20:00:00.000Z"
     },
     {
+      "id": "c9328f4649857782",
+      "title": "ラムドン省：車両5台が絡む多重衝突事故が発生し、5億ベトナムドン以上の損害が出た。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVlQdHljNmpWU2s1U01ycU1WT1NOb3Y2VzBnNDBXM18wbGZvVVJuRWxyd254Z1BOWlg3M1Vsc0hXUzcxNmlXR1lUNC1Xc2VyaGttelZ4dEdXNi1iLVFtN0twREtFWXF3N29nelFsemVMNU5zWGhvUVB3elNhelItQlZack15M0ZldzQyaTMxTU1SNXkzbXdaLUNwOA?oc=5",
+      "source": "vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T17:28:00.000Z"
+    },
+    {
       "id": "1c5d440ea3a00575",
       "title": "【台風一過】シルバーウイーク4日目で初めての晴れ、ようやく外出も…台風の影響で｢通行止め｣、高速道路は22日と23日がUターンのピーク",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -117,6 +144,15 @@
       "source": "Excite エキサイト",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T14:53:08.000Z"
+    },
+    {
+      "id": "cc4fcc6912b9d993",
+      "title": "【物流】タイ新郵便法、年内制定へ 物流・宅配市場の急拡大で規制に抜け穴",
+      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1TUFSNW5xSmVWTFBKbkI1WXAyNjdMbkpWREtaMGdnU0hVU0NKVGY1aFBXTzdwbmNaTjM2WEUtX0htZE5TbTcxRG01bHIwSy1m?oc=5",
+      "source": "バンコク週報",
+      "category": "物流",
+      "publishedAt": "2026-09-22T12:20:45.000Z"
     },
     {
       "id": "9e832ac79604a6c5",
@@ -128,15 +164,6 @@
       "publishedAt": "2026-09-22T10:53:00.000Z"
     },
     {
-      "id": "6fc208c1adb01853",
-      "title": "韓国ネイバー、AIが秋夕ギフト選び…予算や口コミ、配送日まで考慮",
-      "description": "AFPBB Newsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44LVN5UlZUelhkenBEbVZ5dmJ4R3VoV1I1N2hsek5qaFRDZmhndkJRR21sbThQcTRqU0tjYjB3bzFwNjBvMGlRZUNFemtjak82ZjFKZ9IBVEFVX3lxTE5BWE1QVXpWT09uRzBVS3lPWDd4RU9iU0l6cDF2WXF1SE96VUJhS0VRX2tseEtMUmRvVUQxa1FoMUtxYTZGczJUZDRxX0hwaUVHSUtOMg?oc=5",
-      "source": "AFPBB News",
-      "category": "物流",
-      "publishedAt": "2026-09-22T10:15:33.000Z"
-    },
-    {
       "id": "58263116994c40d7",
       "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕 - chiba-tv.com",
       "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -144,6 +171,15 @@
       "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T09:37:10.000Z"
+    },
+    {
+      "id": "45006df3076ca7e2",
+      "title": "物流インフラは常に一歩先を行く必要がある。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93bE04aG8zNnQ1TkVtZFUwNmFhaUpPYXdfRERHU0FzbW5QSzFDTFdLbGR0V1RXZlhWRXptNWpoNmxQZVI1UHZtR2N1WHQyTmoxd0wwam1lV1RzNDM2cTFVNmsxaEhuSVgxSnQtX1V4VjU5bVE?oc=5",
+      "source": "vietnam.vn",
+      "category": "物流",
+      "publishedAt": "2026-09-22T08:28:08.000Z"
     },
     {
       "id": "fdbc0dd81fc8929e",
@@ -272,6 +308,24 @@
       "publishedAt": "2026-09-22T00:43:37.000Z"
     },
     {
+      "id": "05a71e0accd66296",
+      "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」",
+      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kaHdXbGZINzBjWTB3ZmFTRXo2WmFEcmtTeklTcXI5UE0zOXZONEgtX2xYZkdkRWtUeU83UFRmWXA2Qlk5X0lKTGxVWUc0c0t5dnF3LWFB?oc=5",
+      "source": "西日本新聞me",
+      "category": "物流",
+      "publishedAt": "2026-09-21T21:30:55.000Z"
+    },
+    {
+      "id": "08bdadb2b5b38311",
+      "title": "運送業界の人材確保 石川氏ら、合同就職説明会を訪問 大阪市 2026.9.22付",
+      "description": "公明新聞電子版プラスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WT2ZPeENieUVnaUU4V3FLTU5NQ3NQdGtTOFRocHQ1YjkwZkQwYWgwRWxEbS1CRW90SGotM3J2Y1BWM2FTUTBsei1BdlJGSEZ4LXU2Y0tiMEQtbDY2ZEJWOU53QlBNdnBRbEptN0lR?oc=5",
+      "source": "公明新聞電子版プラス",
+      "category": "物流",
+      "publishedAt": "2026-09-21T20:09:13.000Z"
+    },
+    {
       "id": "6c508737be45e8e7",
       "title": "中小機構東北、共同物流サービスに授与 「中小大学校総長表彰」",
       "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -333,6 +387,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-21T09:46:14.000Z"
+    },
+    {
+      "id": "d6adeb55ee1eda61",
+      "title": "CJ대한통운、リアルワールドと物流特化型フィジカルAI開発で提携",
+      "description": "jp.ajunews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lLVF5R3N0NDhyTjB0S1N6aVFiZ0hMLV9CT2JTNVNkT25qdTZzU2ZvUzZONjlOTjZ3NE5QdDFHcXczVlZjdXh5eUFxbzFBMEh4aEpWLWdhbWVKQmM?oc=5",
+      "source": "jp.ajunews.com",
+      "category": "物流",
+      "publishedAt": "2026-09-21T08:56:00.000Z"
     },
     {
       "id": "b47d45b2ca172bda",
@@ -657,69 +720,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-20T10:05:53.000Z"
-    },
-    {
-      "id": "4375d654da18cb2c",
-      "title": "【台風２５号】千葉県内で交通機関に影響 ＪＲ、２１日午後から一部路線で運転見合わせ 高速道路で通行止めの可能性も 【追記あり】",
-      "description": "千葉日報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1Zm5JVzFxblhjcjNyaUVkUm5FaE9XN3BtZ0JMNWwycDE0RnFjVjVLeXJzc1FIcU1FSmtFcTZ5WkRBNGJDZ3IzUmpHc0ZoMEZnbFFlS0V6WmI?oc=5",
-      "source": "千葉日報オンライン",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T09:28:00.000Z"
-    },
-    {
-      "id": "9d42733f3fb89998",
-      "title": "韓国のフリーマーケットにトラック突入、母子2人死亡…60代運転手の拘束令状請求",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WU1PcWk2TGkyVzVjZEhoTDk0R2lxUUFGb1NCU3VicmdKNXFwY2JOdHA0bmtIbnNTVmxmV0RkaFVnOWhlTWo0c3ZDVkZGc3NGbDZrTm1UZmxFTDFlX2laSndwRjV4ZEsxR2fSAWpBVV95cUxPellNT3FpNkxpMlc1Y2RIaEw5NEdpcVFBRm9TQlN1YnJnSjVxcGNiTnRwNG5rSG5zU1ZsZldEZGhVZzloZU1qNHN2Q1ZGRnNzRmw2a05tVGZsRUwxZV9pWkp3cEY1eGRLMUdn?oc=5",
-      "source": "Infoseek",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T07:10:33.000Z"
-    },
-    {
-      "id": "df9d3ee8999d155c",
-      "title": "物流、作業者の負担減らす…補助スーツ・荷役機に脚光の背景 (ニュースイッチ)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMElvNkNwaGdMdUNzUnBkT3FFNmxTQmtIWjBVbk1BUVZDa05KSHpDWncyNlNzN1Uya0F3MFhILTRoTU95ZHZxRkVNS3NQS3VxMUpmeHdEUTJUSHpNdVlIdWNENDdTR1lib0JZUU5hdm9ldGhzNnNOcFZLVnBOUkFiUTg4V1lWNm9qMnFqU1Bn?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-20T06:10:02.000Z"
-    },
-    {
-      "id": "b7d1b161ee656f5f",
-      "title": "【講演レポート】「生き残る運送会社を目指す 第一回TUNAGロジ説明会」に船井総研サプライチェーンコンサルティングのコンサルタントが登壇しました(主催:株式会社スタメン様)",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNVE1Si0tM2VIdVo4STJ6c3FpTEVrVHA1NlpiYV9uSHlRSjFyMHE1c205c2hIOUhGUkZmU1NXdUc3R2IxSHZEZmZ0dUczQjZfWl83c3VnZm50allmUUZKMnVuZ1AybkYxUEE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-20T05:00:02.000Z"
-    },
-    {
-      "id": "70cfc02ac44b84d8",
-      "title": "【台風25号の影響】 東名、中央道などで通行止めの可能性 中日本高速道路 | 山梨のニュース | ＵＴＹテレビ山梨",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Cek13MWYwbENXX3NlZ1ppcWRERlhoOVdFWUdzTVJpMVRKbVR5dG9qWDh2SXpiMTNCdkpnejRqOS04U1JIWThUcVhBNmFGVk5KSEFOUkFYYWU4QQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T03:11:00.000Z"
-    },
-    {
-      "id": "eb9111abf4db0c83",
-      "title": "台風25号接近 羽田・成田発着便や首都圏鉄道に影響も 高速道路は一部区間で通行止めの可能性（FNNプライムオンライン）",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSnpCWDdGck4tX0hiQ3ROV0pHMWxTSWN4TVdzUkNmb2ZtZl9aQkpnbDNnRlF2QTJPZk04a080S045X3pnYU5YTGxsV1JEQ1pocUt4dk5Uek1vaW1lOWl2OW10NmRqRmFhZnQwckFfMA?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T02:54:00.000Z"
-    },
-    {
-      "id": "1a599bb7f69f53eb",
-      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
-      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
-      "source": "JBpress",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T01:00:00.000Z"
     }
   ]
 }
