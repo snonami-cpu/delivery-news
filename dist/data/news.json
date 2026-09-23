@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:25:03.261Z",
+  "updatedAt": "2026-09-23T06:31:53.369Z",
   "articles": [
     {
       "id": "f1e600ea77bf61a4",
@@ -38,6 +38,15 @@
       "publishedAt": "2026-09-23T01:35:57.000Z"
     },
     {
+      "id": "91dcb99e9add8fbe",
+      "title": "庄内川沿いの堤防道路で横転したトラックと対向車線を走行中のトレーラーが衝突 2人搬送 命に別状なし 名古屋・中村区",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mb3pRV05nZVZ5UXVIc3V1Q0xfVlhoMFhvanhrTExvZDVUYVgwbFFTdlBqNEtQcElmQ0hoemhoY0VhUkxKZGtDWE9ReUl4RGlOTkxJV3U0SGx6WlhHQkZYT2pBVzRvbTFsZy1xazJfcVJsTjBTeXB1X1ZNaHliX1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-23T01:26:13.000Z"
+    },
+    {
       "id": "d5ac301e390a0e48",
       "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開｜経済・産業｜青森ニュース｜Web東奥",
       "description": "東奥日報社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -63,6 +72,15 @@
       "source": "47NEWS",
       "category": "物流",
       "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "bbb54a94df3dd38d",
+      "title": "AIと配送費の増加は、アマゾン（AMZN）の投資魅力に変化をもたらしているのか？",
+      "description": "simplywall.stが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVpFYmxtd3ZLalJDUUtnQWZlc0xidjBRQ2JmakZZZ2Y5ZXZDanRYRmFlVm91TEgtR0lmM1RWT25YSGVoVThGZDgtblZzVTRCR282QTNUd05raGNZelFBZjVxZlRKWkZ3N3JaSTBtbVpwMzQtS0V0NWdMOUJyUlVtTzdDQXlfZU5qR3FfZzB3?oc=5",
+      "source": "simplywall.st",
+      "category": "物流",
+      "publishedAt": "2026-09-22T23:54:30.000Z"
     },
     {
       "id": "eb9ea4c79915b1ef",
@@ -93,10 +111,10 @@
     },
     {
       "id": "08f37945ea166839",
-      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQlgtRUxpczVUOW5obndaSkNDYk9ZYnM4bTN3SHlZRUJtd0V5dW1RMGNlbG9qdElPUVZsdUZTRWc3c2VhSE9rMkd0bHpDTXhDVF9ad25YMU5vamhMaWxN?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T22:09:10.000Z"
     },
@@ -130,9 +148,9 @@
     {
       "id": "c9328f4649857782",
       "title": "ラムドン省：車両5台が絡む多重衝突事故が発生し、5億ベトナムドン以上の損害が出た。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVlQdHljNmpWU2s1U01ycU1WT1NOb3Y2VzBnNDBXM18wbGZvVVJuRWxyd254Z1BOWlg3M1Vsc0hXUzcxNmlXR1lUNC1Xc2VyaGttelZ4dEdXNi1iLVFtN0twREtFWXF3N29nelFsemVMNU5zWGhvUVB3elNhelItQlZack15M0ZldzQyaTMxTU1SNXkzbXdaLUNwOA?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T17:28:00.000Z"
     },
@@ -155,6 +173,15 @@
       "publishedAt": "2026-09-22T12:20:45.000Z"
     },
     {
+      "id": "2ed4c4f8ffd3ae39",
+      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！ - Kids Well-being",
+      "description": "Kids Well-beingが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
+      "source": "Kids Well-being",
+      "category": "物流",
+      "publishedAt": "2026-09-22T11:48:38.000Z"
+    },
+    {
       "id": "9e832ac79604a6c5",
       "title": "信号ない交差点で出合い頭の衝突 軽トラックと乗用車の運転手はいずれも病院搬送 北海道・妹背牛町",
       "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -165,19 +192,19 @@
     },
     {
       "id": "58263116994c40d7",
-      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕 - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Dckd0bzVIejBvZThKQmFxd2ltTkJsZ01fc1M3aDYtQWY3c3hyN3JrTGJRZ1duZGYxczd0VDRjTXBmVHQwNUQxQVoydzhyaHJwOFFRUnBwc2FMNGRYcmdVS3ZGOFA?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T09:37:10.000Z"
     },
     {
       "id": "45006df3076ca7e2",
       "title": "物流インフラは常に一歩先を行く必要がある。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93bE04aG8zNnQ1TkVtZFUwNmFhaUpPYXdfRERHU0FzbW5QSzFDTFdLbGR0V1RXZlhWRXptNWpoNmxQZVI1UHZtR2N1WHQyTmoxd0wwam1lV1RzNDM2cTFVNmsxaEhuSVgxSnQtX1V4VjU5bVE?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "物流",
       "publishedAt": "2026-09-22T08:28:08.000Z"
     },
@@ -210,10 +237,10 @@
     },
     {
       "id": "2cbbaa9e740e2eb7",
-      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！ - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xSENtVnZ0ZnVXMG5SMU9KVTlnU2FuMlB6aHQ2TzBVUkY2WExCX3lPQmdFSUpCeVhLU3FDdlB6VWk5bUpHV192U0N0d2hLVXNIZTF3ZnlEUlZBR0paTEpSWmtqODM?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T06:44:32.000Z"
     },
@@ -308,6 +335,24 @@
       "publishedAt": "2026-09-22T00:43:37.000Z"
     },
     {
+      "id": "bbd4b48aea732929",
+      "title": "生活配送へと進化するクイックコマース",
+      "description": "jp.ajunews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPbWZPczBqLWN3VWhVdjVRa3p5TEtLQ2pvSnR6bXpkWFFBRmJEblFPbkQ4MmhYUzJzUWhoMTNhc2liODBuNzhSU1ViUDk5TmZhaU1RMkx6WXVXNm8?oc=5",
+      "source": "jp.ajunews.com",
+      "category": "物流",
+      "publishedAt": "2026-09-21T23:04:10.000Z"
+    },
+    {
+      "id": "dd85a78a6016df6a",
+      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-21T21:31:31.000Z"
+    },
+    {
       "id": "05a71e0accd66296",
       "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」",
       "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -373,9 +418,9 @@
     {
       "id": "837c07b9e1842f05",
       "title": "タイグエンで発生した、トラックが急ハンドルを切ってバイクを車輪の下に引きずり込んだ事故について調査中。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2czS0xZbTFiVjFfVnVmTzQ0a19PQ19pNzBZUTJ2UGpReUZMYlFBTXNfb2tLel9zc1BEZHhxMjZuaUVoMXJkVDVVclRpTGdpa0paY0VLUU5xVDFKNGZ5UWl6MWFublBFdnBvY0JDSURpODBQc1cwTG9XZ0FrWHVQQzVqbFdEMkdPM0hDTUZqVHNfbWNtVXc?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T11:49:56.000Z"
     },
@@ -409,9 +454,9 @@
     {
       "id": "78293cba5104c1ef",
       "title": "台風25号の影響で千葉県でコンビニや飲食店が冠水 土砂崩れで1棟全壊など住宅被害8棟確認 県内の高速道路の複数区間が通行止めも｜TBS NEWS DIG",
-      "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "youtu.beが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12YndvN19xXzRKd18waU5NUkFWekVCdWxxakQwaWZQcHVGdnlsd1RQcVE5TnYwUmg3Mml4bDUwVGJDVy1jVWhJZ0FQbGhQQ19HZmVrejhjZE5JYWlv?oc=5",
-      "source": "YouTube",
+      "source": "youtu.be",
       "category": "道路・交通",
       "publishedAt": "2026-09-21T08:32:12.000Z"
     },
@@ -435,10 +480,10 @@
     },
     {
       "id": "560069b768cd51af",
-      "title": "日本郵船、中部に自動車物流ルート新設 フエ近郊に専用船が初寄港［日系］",
-      "description": "VIETJOベトナムニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "日本郵船、中部に自動車物流ルート新設 フエ近郊に専用船が初寄港［日系］ - viet-jo.com",
+      "description": "viet-jo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LRTNNazRUTzFBaEVkbWxfMDU1U3pVXzNYQVE4YjNITk5JaF82azFGLXdTcVpJSWlqS3oxOGU0QlZrYTRsM3hxQzZiQ2hOYWx1ZTdwUWI0M19SVFRQTzFXOFVncw?oc=5",
-      "source": "VIETJOベトナムニュース",
+      "source": "viet-jo.com",
       "category": "物流",
       "publishedAt": "2026-09-21T06:44:00.000Z"
     },
@@ -526,9 +571,9 @@
     {
       "id": "bc7422d5b156e83d",
       "title": "午後5時の概要：ドンナイ虐殺事件の新たな展開｜プレン峠で2度の地滑りが発生し、岩や土砂が道路に流れ込む。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXMyZ0lQUTluU3o3M0pOV1VIWU0xcHZhbFp4OENEZDBSYUgyY0l0eDN1bFhFdHQwSTRDOWpXbjRiNHM0YlpMNmxzVTJ3cXFjVWlySFktakJWa0dEd2tieUV4ck1nSkRtZ1pOQXhldkNsQWVub0VxNHZicTRmeG5Pc1dqdHZPeDFDR2MtZUtveXhSNnh5eGNrZTI4dXpVUUNFLTE3UC1tX2hpdWVCY24zb1pMYVdBUzFFbWJqXw?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-09-21T03:28:16.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-20T20:56:21.000Z"
-    },
-    {
-      "id": "344adffb93427bed",
-      "title": "Bluetooth温度トラッカー市場、2035年までの予測：コールドチェーン義務化が拡大を後押し - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFRMclFFTVFzbmZlM21LdUd3dVkxb0wzVE5lNXJMeUZsMlB1SjJfVlJzTVBPb2xPakJpQUdWeVJIUjctVV83VVFwSzUzRkFMNUo2dHJacGc1bWJlQWVpNVhnUUl5emxUSDlJcENhQXZqNnd2NzMxNnRnOFpwbHJZNXJhX2ZHREg5ZHlodlE0SmRDcFF2eXpueG5pX3UwVE9sRWd0XzNXWGg0Y2Z6dkpqOUpyS2ZkSEgtOEp4RWc5cHVNZTEzZEhqRVVqZVRmVWduVlI0VHRUa24zQQ?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-20T20:31:10.000Z"
-    },
-    {
-      "id": "2b711bbb9f3c0811",
-      "title": "【交通情報】東海道新幹線は始発から平常通り運行 東名・新東名で通行止めなし（21日午前5時現在）",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50RXNlTldEZ1h4N0RSUi1JTE83T1Mzci1XVDZXT01DQTdndVhnS0puZUc2TU9nX2g4bkRhUXBrWnV2X1dWYzU4bGRzQVltRnlTVWhFUUhvSUpUWDcwOTU1MTJ5dzV5bmUtMWg1ay04VTNFQdIBd0FVX3lxTFBOTTZ4WkxiRHRVTFJEUXJHWjVFR2d6cWhFVVdDb2U4WEoyREJqemUxNzFwRnZBa1RlNmtvcmFjMV92SWdwcFJZT2ZpczhaUU54NldjNE9fLWZIaTB0aU5sV1RVejBINGpZcGxLWHpJX3czX0hvenNV?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T20:15:00.000Z"
-    },
-    {
-      "id": "b88f854016133f70",
-      "title": "政府、地域未来戦略の会議で全国10地域の重点産業分野を提示 モビリティは東北を重点地域に",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZklFUGR4SHRWTEYyQTR1Z0lEa05WMmRqUmxRbWJmRDN3V2l3bF9IcXZIdVotbmZJd0xNTGt0cHdDZTNkNjRzTVNRMHVQTzZna3c?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-20T14:40:59.000Z"
-    },
-    {
-      "id": "7a51bfb63487d07a",
-      "title": "台風25号 高速道路や国道で事前通行規制の可能性 国土交通省関東地方整備局",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44UG52Sk4zcFVaZ2tRb2FKUVU2LTMyZnNnbU9PSGJnZkdqQzV4QWJUMVBWTTI0RVhCWUdSZXhndlZ3dUlIR2t3N1I2X3lfeTR2bHhIZmg1bmROUTk5cDllSXFQaXpFMnd4emlMOGdXZ9IBdEFVX3lxTE5vYkNneV9BN1dOZWpvUC1ESWxyTl90OGUxb1gwTWp3V2h0cThMX1hYNk9aaWIzdERGR3d1QUladTQzaGJjSktOVzVyRGNQdTdmWWR1S2d1dVIwMk9PM2VDRy1NU280bGtXU0c0S2dTaERoam1N?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-20T12:07:00.000Z"
-    },
-    {
-      "id": "9f0c77b4fdca2235",
-      "title": "予約時間に納品できない？ システム仕様の課題",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LUU40MnpfSTdEN1Nfejl4ZVdQeEhrS0xDOUE1SjBodVdMNDhMUm1hbUMwc3c2NnhHb3NfYmZXYUpVbVFTTkllNXQ3b2NGQQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-20T10:05:53.000Z"
     }
   ]
 }
