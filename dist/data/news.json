@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23T19:24:31.868Z",
+  "updatedAt": "2026-09-23T20:26:19.582Z",
   "articles": [
+    {
+      "id": "85d69ddfa5bb8dce",
+      "title": "自動物流道路実用化急ぐ 国交省、実証第2弾 荷役・複数搬送機器走行ー7グループ採択",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZcXRON1lvSlNBZk40em1xeTJkUk5oSWRBRUlyUzJaX0FVb2ZleXFtc1NqaFlIbnRhcHZTNWNCSERaZVZSY3FpMzdzdm5WenNyTmQ0SnR1bUY?oc=5",
+      "source": "日刊工業新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-23T20:00:00.000Z"
+    },
     {
       "id": "3d65c9c5caf77726",
       "title": "標準労務費の認知度、いきなり59％ 改正建設業法や取適法での新語に関心",
@@ -18,6 +27,15 @@
       "source": "日経クロステック",
       "category": "物流",
       "publishedAt": "2026-09-23T17:06:00.000Z"
+    },
+    {
+      "id": "1f5534b6a8be458d",
+      "title": "豪マキタ、ＶＩＣ州に新物流拠点を開設",
+      "description": "nna.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oeGxoNV9DUVBlNWZKR21tbnE3NGZrSHAyeGROamtGT19CMW83dVFCN3p4dU9NZnQzcWdhR3FZNXJJRzl5V2c?oc=5",
+      "source": "nna.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-23T15:00:00.000Z"
     },
     {
       "id": "fd545699847749f8",
@@ -54,15 +72,6 @@
       "source": "QAB 琉球朝日放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-23T09:03:37.000Z"
-    },
-    {
-      "id": "2d1bf0cea85c5f44",
-      "title": "４社のパートナーシップにより低温物流の鉄道モーダルシフトを推進 - hokkaido-np.co.jp",
-      "description": "hokkaido-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDc3WW51R2poSTVnVjNfOUl5MXJja2hMZXg4N05zMTJDZ0RqS3lYQUZMcGw5UFVuQnRTVzVYWWEzWFBiSTVpT0VjSmlYUnlpRzVhOEJzZGpSY3N4cFNEUmNUWnRrU3V3UUF3YkVSVjRmVUh5anVLVjlzZkxjZU9CUy1ZbkcyeWh4?oc=5",
-      "source": "hokkaido-np.co.jp",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-23T08:33:10.000Z"
     },
     {
       "id": "1fe8e455cb45cfaa",
@@ -227,13 +236,13 @@
       "publishedAt": "2026-09-22T23:54:30.000Z"
     },
     {
-      "id": "3498d7fb1f9f272b",
-      "title": "Factelier、EC売上2桁成長を継続 品質を伝え信頼獲得、海外30カ国にも配送（日本ネット経済新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LcGNVdHFnNkpiaGtROEJXQjVSOFl3MW5DeUw5bms5ZGNjYUEyczBiNFFlRDI3cXNCVnAzNHJPU0c1X0JPek92YXBIc1VtRWhhY1pyc0h0cUZSTGxOU19KSlVnVDBTMExvVXFReXprWlVUVmRmbW5pdDc3Q1ljRVk?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "32fd631ec506d72e",
+      "title": "フィリピン、物流整備「投資を」 マニラで日米政府と初フォーラム | 全国のニュース | 福井新聞ONLINE",
+      "description": "福井新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbGZ2WlZQUDk2NWpMOU8zaUZDT1NZYUNjMjl2YVlJZFBEXzJ4TjE4N2xob1BqSnp0d191cC1DMjg3a08zRkhIRFQ2clN4NWViRnBXWnIxRENrN3dDT2txZEh6S190YVdEaWdQYw?oc=5",
+      "source": "福井新聞社",
       "category": "物流",
-      "publishedAt": "2026-09-22T23:03:18.000Z"
+      "publishedAt": "2026-09-22T22:24:50.000Z"
     },
     {
       "id": "0556d2904468d798",
@@ -310,20 +319,11 @@
     {
       "id": "cc4fcc6912b9d993",
       "title": "【物流】タイ新郵便法、年内制定へ 物流・宅配市場の急拡大で規制に抜け穴",
-      "description": "bangkokshuho.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1TUFSNW5xSmVWTFBKbkI1WXAyNjdMbkpWREtaMGdnU0hVU0NKVGY1aFBXTzdwbmNaTjM2WEUtX0htZE5TbTcxRG01bHIwSy1m?oc=5",
-      "source": "bangkokshuho.com",
+      "source": "バンコク週報",
       "category": "物流",
       "publishedAt": "2026-09-22T12:20:45.000Z"
-    },
-    {
-      "id": "2ed4c4f8ffd3ae39",
-      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！ - Kids Well-being",
-      "description": "Kids Well-beingが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
-      "source": "Kids Well-being",
-      "category": "物流",
-      "publishedAt": "2026-09-22T11:48:38.000Z"
     },
     {
       "id": "9bdf1f0d3aa4757b",
@@ -454,9 +454,9 @@
     {
       "id": "4efe2434043c3b07",
       "title": "【出合い頭に衝突事故】乗用車運転の70代男性と軽トラック運転の40代男性が『意識不明』軽トラックは“側溝に転落”乗用車側に一時停止の標識〈北海道妹背牛町〉",
-      "description": "uhb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjN2x2eWQtUVpZWU5YbVhFV0tyamNCZ3luVWNvbElhNW5sM2tCdk1tMUpYemY0SFVOalE2SUJxX2c2UlpJT2c5Z2xIck0zZTBaX0QzcU9Ndw?oc=5",
-      "source": "uhb.jp",
+      "source": "UHB 北海道文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-22T04:00:58.000Z"
     },
@@ -471,19 +471,19 @@
     },
     {
       "id": "8d0ecf55f9ac70f4",
-      "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め",
-      "description": "khb東日本放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め - khb-tv.co.jp",
+      "description": "khb-tv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YVJXVHRHbTZpdGd4d3B1VG9WWlFiOHp4U19OLW15Umc0ZTFBM2RtaVNJTEoyUVBtenBkZ1BaZnhqb21VemlqRE14cW5EQzg?oc=5",
-      "source": "khb東日本放送",
+      "source": "khb-tv.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T03:19:14.000Z"
     },
     {
       "id": "5e807c0814621379",
       "title": "「車２台の事故で１台横転」 出合い頭に衝突し２人重体 乗用車とトラックが交差点で 北海道妹背牛町",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tUzA1cUVqWHBnQl9XbHNQZ1cwcEpzWTZKZmU0VXZIbGJmcDRzWnlEWEF2dzBMSl9xdEFtX1N4cGtNTllaeDlVX3pfQlpnOGd3Mi1lRGdxZS1nQlBBRGh2UTlzVmFGS0ZFTVMwV9IBckFVX3lxTE9JNEJJa192ZHhBdGN4Y2RHaHhSVHlmbzdCMG1DRnd1bU84WnY3U010eXNPUFFTVE55Skl0S29aU1RRaTBha3lua1FoRmRSbl9kNVdmYUl6T1p0NEh0MUQ1S2hqc2Vyc191d19DZzU1NnBvQQ?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-22T02:59:21.000Z"
     },
@@ -552,10 +552,10 @@
     },
     {
       "id": "08bdadb2b5b38311",
-      "title": "運送業界の人材確保 石川氏ら、合同就職説明会を訪問 大阪市 2026.9.22付 - digital.komei-shimbun.jp",
-      "description": "digital.komei-shimbun.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "運送業界の人材確保 石川氏ら、合同就職説明会を訪問 大阪市 2026.9.22付",
+      "description": "公明新聞電子版プラスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WT2ZPeENieUVnaUU4V3FLTU5NQ3NQdGtTOFRocHQ1YjkwZkQwYWgwRWxEbS1CRW90SGotM3J2Y1BWM2FTUTBsei1BdlJGSEZ4LXU2Y0tiMEQtbDY2ZEJWOU53QlBNdnBRbEptN0lR?oc=5",
-      "source": "digital.komei-shimbun.jp",
+      "source": "公明新聞電子版プラス",
       "category": "物流",
       "publishedAt": "2026-09-21T20:09:13.000Z"
     },
@@ -643,9 +643,9 @@
     {
       "id": "9747643a7ff2a9be",
       "title": "【物流】台湾ALP、タイに100億バーツ規模のスマート倉庫を建設 アジア最大",
-      "description": "bangkokshuho.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ycnRWSGg1THlHNktYNzBuaXQ3YUduZm4wVnN5UDlOcl9wOWFoMEsyMUxVVjlQY2ZpWjdyR2tCeGV2bm1PSjBnLS1IRXBrd29m?oc=5",
-      "source": "bangkokshuho.com",
+      "source": "バンコク週報",
       "category": "物流",
       "publishedAt": "2026-09-21T08:43:42.000Z"
     },
@@ -679,9 +679,9 @@
     {
       "id": "525aaa2aa92530b1",
       "title": "＜最新＞物流強化へ予算増 商慣習の変革促す 国交省",
-      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTN1FTRE1RMlRSVmprMFhvdVNRLTJhWmFzS0RyalViSENZYzBvZ3JjX2tycmdteHluUE1wMFA2TGVSc2pyU3dCMUY3eDdYUEJJaXBrTXpQWQ?oc=5",
-      "source": "日本農業新聞",
+      "source": "agrinews.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T08:17:57.000Z"
     },
