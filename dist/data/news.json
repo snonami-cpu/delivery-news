@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:26:12.254Z",
+  "updatedAt": "2026-09-23T11:25:47.640Z",
   "articles": [
     {
       "id": "dcadc6e248f09666",
@@ -63,15 +63,6 @@
       "source": "ダイヤモンド・オンライン",
       "category": "物流",
       "publishedAt": "2026-09-23T08:00:00.000Z"
-    },
-    {
-      "id": "f4f546ed4c326cbc",
-      "title": "平陸運河が開通 「黄金水道」が中国南西部の物流を刷新",
-      "description": "AFPBB Newsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cEQ2SE4zQ3I1VHVGMHh2V0VZdEVnZ2dtVFhxTVdWTXcwRzhITUMteGRfMy1jc3FDN2luemgtVC1UVjNQN2hwbXJyLTdIbVpTUVHSAVRBVV95cUxQZlkwWUdUVWpqQWN2b1pvdjRWeWNaREt1blZLWFpDXzJ4aEpFeGtRcnJpdkhZNmo2VGsyRHZoSURFMzJQX3Ezd0pYSVJHMW9hU1h0WGY?oc=5",
-      "source": "AFPBB News",
-      "category": "物流",
-      "publishedAt": "2026-09-23T05:00:00.000Z"
     },
     {
       "id": "f1e600ea77bf61a4",
@@ -227,11 +218,20 @@
       "publishedAt": "2026-09-22T22:12:00.000Z"
     },
     {
+      "id": "31670fc3eec3947b",
+      "title": "日本通運と電動車椅子メーカー「WHILL」が共同開発！ 座面が30cm昇降する倉庫作業しやすいモビリティ誕生【国際物流総合展2026】",
+      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nX3VSWE5oQ3Fwcjg2QXRzT0R5RTc5bDh6aE1QQ0xLVWhUcFl4c1dselZWaERMeUt1akxUMkhINkp1YzdFdzlfcnVFOFRpZw?oc=5",
+      "source": "Motor Fan",
+      "category": "物流",
+      "publishedAt": "2026-09-22T22:10:00.000Z"
+    },
+    {
       "id": "08f37945ea166839",
-      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQlgtRUxpczVUOW5obndaSkNDYk9ZYnM4bTN3SHlZRUJtd0V5dW1RMGNlbG9qdElPUVZsdUZTRWc3c2VhSE9rMkd0bHpDTXhDVF9ad25YMU5vamhMaWxN?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T22:09:10.000Z"
     },
@@ -274,9 +274,9 @@
     {
       "id": "1c5d440ea3a00575",
       "title": "【台風一過】シルバーウイーク4日目で初めての晴れ、ようやく外出も…台風の影響で｢通行止め｣、高速道路は22日と23日がUターンのピーク",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2X3ZTS3pBR2F4RmQ0YnZ0QWZIS3VhRzBsWmRDT0FIYmRzRTB1TmZjbnZ5M09LNzByd3pLcFM3YWI5OWFVeEs1ZmxnUTJhVFZNeUk5RkI0MTZkNzR3ZEtxbkVKZGpkNXVlWjZsNWZn?oc=5",
-      "source": "Excite エキサイト",
+      "source": "excite.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T14:53:08.000Z"
     },
@@ -299,6 +299,15 @@
       "publishedAt": "2026-09-22T12:20:45.000Z"
     },
     {
+      "id": "2ed4c4f8ffd3ae39",
+      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！ - Kids Well-being",
+      "description": "Kids Well-beingが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
+      "source": "Kids Well-being",
+      "category": "物流",
+      "publishedAt": "2026-09-22T11:48:38.000Z"
+    },
+    {
       "id": "9bdf1f0d3aa4757b",
       "title": "国道に“迷子のブタ”誰が？ 目撃者「まさか…」",
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -306,15 +315,6 @@
       "source": "テレ朝NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T11:21:21.000Z"
-    },
-    {
-      "id": "9e832ac79604a6c5",
-      "title": "信号ない交差点で出合い頭の衝突 軽トラックと乗用車の運転手はいずれも病院搬送 北海道・妹背牛町",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45bFl2aWdoejg4WHNQMTYtRmswdWdTSkIySDI0MW01RzA0OGlMZDZNcGUwRVMzRkVZUXl6YTItT0ZiZGR4SGo4ZTFkMHpnRHBiSi00Wkk4Zm9QMVVob2I5enlyUXM0dy1hZ2UycDJn?oc=5",
-      "source": "au Webポータル",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-22T10:53:00.000Z"
     },
     {
       "id": "2670affbf9058ce1",
@@ -327,10 +327,10 @@
     },
     {
       "id": "58263116994c40d7",
-      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕 - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Dckd0bzVIejBvZThKQmFxd2ltTkJsZ01fc1M3aDYtQWY3c3hyN3JrTGJRZ1duZGYxczd0VDRjTXBmVHQwNUQxQVoydzhyaHJwOFFRUnBwc2FMNGRYcmdVS3ZGOFA?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T09:37:10.000Z"
     },
@@ -381,10 +381,10 @@
     },
     {
       "id": "2cbbaa9e740e2eb7",
-      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！ - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xSENtVnZ0ZnVXMG5SMU9KVTlnU2FuMlB6aHQ2TzBVUkY2WExCX3lPQmdFSUpCeVhLU3FDdlB6VWk5bUpHV192U0N0d2hLVXNIZTF3ZnlEUlZBR0paTEpSWmtqODM?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T06:44:32.000Z"
     },
@@ -616,18 +616,18 @@
     {
       "id": "53b6065d9baf59f8",
       "title": "台風25号 物流への影響（21日午後5時現在）（2026年9月21日掲載）｜日テレNEWS NNN",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UcUMtallVMk00VmZLSklIV0lhMnd4aWwyUVVqNW5BX0paeVNWQ3NuSTQ3SGZYOGZXaW9NTjZVekFrb09qUGJfekFmWWl1b3NteFhENlRnaVE1Sjk5WkVUY2hFU1NrY3VRVnlDaFlSUk1HbThSZjZ0a2ZzVUU?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-09-21T08:24:00.000Z"
     },
     {
       "id": "525aaa2aa92530b1",
       "title": "＜最新＞物流強化へ予算増 商慣習の変革促す 国交省",
-      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTN1FTRE1RMlRSVmprMFhvdVNRLTJhWmFzS0RyalViSENZYzBvZ3JjX2tycmdteHluUE1wMFA2TGVSc2pyU3dCMUY3eDdYUEJJaXBrTXpQWQ?oc=5",
-      "source": "agrinews.co.jp",
+      "source": "日本農業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T08:17:57.000Z"
     },
@@ -652,9 +652,9 @@
     {
       "id": "b19084413e4dbde8",
       "title": "台風25号 物流への影響（21日午後2時現在）（2026年9月20日掲載）｜日テレNEWS NNN",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmQXdHZy1Sd2VGV2NoUVJlSzBic1Y4TkkwQXBiVFRhVGFfS1FEMF8yOWNSLTdHNUpyVVlSSUpaeWxvZV9TdHNGX3EtSUlEQnN5OHFKSW1oZEtyYjc4bXpidXNybnduN0I5dXJ6Q3B6NjEwSWFBR21HVmUzNTA?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-09-21T05:16:00.000Z"
     },
@@ -677,13 +677,13 @@
       "publishedAt": "2026-09-21T05:13:06.000Z"
     },
     {
-      "id": "e81957ab4886c1d4",
-      "title": "東京・大島町 10か所の避難所に男女80人が避難 午後2時時点",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOGhObmFUT2tMSktTZnFpX29QT0tnRmxDVjk5YlBnSk9BU0pjUWVnRW51R3BhZE93LWtmdlU5VXN3Q3VvNG95UEpmZ3RKb25aNG1SbFZFOXFIVlVPNXFJdjlFTlVBbloxMlNKaVc4ODFSZTdr0gF0QVVfeXFMUGY4aE5uYVRPa0xKS1NmcWlfb1BPS2dGbENWOTliUGdKT0FTSmNRZWdFbnVHcGFkT3cta2Z2VTlVc3dDdW80b3lQSmZndEpvblo0bVJsVkU5cUhWVU81cUl2OUVOVUFuWjEyU0ppVzg4MVJlN2s?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T05:11:00.000Z"
+      "id": "7cace231d2cdbe43",
+      "title": "台風25号 物流への影響 一部で集配見合わせ 午後1時時点",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoVE9WVjB4aE1WLUV3TEI1X3hBdngxVG1jSy1HREx6QnVFNG9UeVFzOG9qWWxBMW5uQWlYRTFmSkxyWkcxejc5ME5XaHF3OW9vRHpJU1lfelBNZUZTRnBCTi00c1k0a0c5QVMyQXMxby1XUQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-21T05:13:06.000Z"
     },
     {
       "id": "872311cd8dc834db",
@@ -693,6 +693,15 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:26:00.000Z"
+    },
+    {
+      "id": "2600eaf7d71fac28",
+      "title": "東京・大島町 10か所の避難所に男女63人が避難 午後1時時点",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83R000Sks0R2E2dXM3RXpDRlI5dnJGcjlZd3otWVNIdkVOelFXYTZkUTFPeE5DXzQxWmJIVGJlaXRZUDRpekxhUy1aTWtER29xOU1OTlhGbTNjaDZKZkxfenZ1TjdYVTB5TE5SYTFrUTV3Tnll0gF0QVVfeXFMTzdHTTRKSzRHYTZ1czdFekNGUjl2ckZyOVl3ei1ZU0h2RU56UVdhNmRRMU94TkNfNDFaYkhUYmVpdFlQNGl6TGFTLVpNa0RHb3E5TU5OWEZtM2NoNkpmTF96dnVON1hVMHlMTlJhMWtRNXdOeWU?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T04:19:00.000Z"
     },
     {
       "id": "de3a21b58ef0c731",
@@ -711,15 +720,6 @@
       "source": "Taiwan Today",
       "category": "物流",
       "publishedAt": "2026-09-21T03:34:56.000Z"
-    },
-    {
-      "id": "893274ead8e33527",
-      "title": "【近畿の天気】21日（月）昼 大阪は曇り 最高気温は大阪30℃の予想",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObVFzeVdYUnJ3bl8yeXBiVUx5a19NNVNHMEppM2hRbm5MSFdYaEpGQkZWbVh1SHhRcURtSXYtYklEcmlBWVhyN2NWNmZQVlFlZllJMzYzU2h2T3E1OS11MzVJaWpYanRfMEEySVgzREIwNGxTdkphTnBZam0tdGU5RtIBgAFBVV95cUxObVFzeVdYUnJ3bl8yeXBiVUx5a19NNVNHMEppM2hRbm5MSFdYaEpGQkZWbVh1SHhRcURtSXYtYklEcmlBWVhyN2NWNmZQVlFlZllJMzYzU2h2T3E1OS11MzVJaWpYanRfMEEySVgzREIwNGxTdkphTnBZam0tdGU5Rg?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T03:30:00.000Z"
     }
   ]
 }
