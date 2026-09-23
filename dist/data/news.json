@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-22T23:23:04.589Z",
+  "updatedAt": "2026-09-23T00:30:38.699Z",
   "articles": [
+    {
+      "id": "d5ac301e390a0e48",
+      "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開｜経済・産業｜青森ニュース｜Web東奥",
+      "description": "東奥日報社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XX1RwWWVsWlF2UmxYd0VMUkJYTTUxQ2FGMDFsUnFxYnQ1cDRvTWpHbHlYaEFYNnA0MDhSNkxhQ1dJMllrWUFKQ052Wm9oOURRSzBNbUhGOE4?oc=5",
+      "source": "東奥日報社",
+      "category": "物流",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "eb9ea4c79915b1ef",
+      "title": "県内高速道で事故相次ぐ 磐越道、東北道で追突や横転",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3p6OTk5RkJvMWVrZlcyV3FFZ1VTWTJsc0VOMmRHS213M1RoNlNlT3N0WnM0Z1J4b2VVZ0ttZHVKOFZDRTVLZ2t3M0diZFpHazNtVm1lRXg0TnE2TXJwQ1FrT3RzSmFrSktFUTNDdF9ESTZMaGk0SlZncEdHeXpnWTlGWGNic0JlZnlJOHdleFNickRNZWFObUFXZlBUWHZEVFI0Wk5FNmRzdDdWam5rUDlDdmcyVXdoSkp6aGlKYXZRbFJ3X3o5UjNaY29MNURhRzdQZnRLNUN1MlFi0gGMAUFVX3lxTE9GZWJhQW1pa3N5R2hJbEgyNXZNUHE1bEZ3aTJXMmJlZHFrTGttWS1ITFhGQmVkS0diTE9LX3loZnVRQjczTFZQRGd3OWhheWZKVURTNWFSRDMzOGRPQ25tV0xneldrMF9xbmRYa2pXRDVzeGszME5RanFZODVCZzNHMFI1WXg3Q0tRUjRO?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T22:26:24.000Z"
+    },
+    {
+      "id": "0556d2904468d798",
+      "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始 - tv-tokyo.co.jp",
+      "description": "tv-tokyo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkQnZhaDUwMWctQlhSczNySFVGemlGTmI0Njc5TGFsOFFGQ2theWZTNG1Cai13Uy1iT1FpUktxME9jQjRZdkYxcWoyZHByeXVjaWRLX21zMmJPV2U2LWJscUVYeFZzWjhZSmRWSlNn?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-22T22:24:01.000Z"
+    },
     {
       "id": "72c0f8607dead07a",
       "title": "井林国交相で動き出す国土交通DX 「ETC×ステーブルコイン」は次の社会実装になるか【エックスウィン】（NADA NEWS）",
@@ -13,11 +40,20 @@
     {
       "id": "1c321f7584a48090",
       "title": "物流強化へ予算３倍 国交省概算要求 積み下ろしや待機時間削減に力",
-      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PY2RJam15N0FQZ3pxMUZGNmZwTUhQWGE4dDlidFlDMVdwN3o1U2Rnb1ljTHFvUUJTSDYwWTZCRmExRjhuQ09JSVJPbmE1TlBfSFhWUUtKSQ?oc=5",
-      "source": "agrinews.co.jp",
+      "source": "日本農業新聞",
       "category": "物流",
       "publishedAt": "2026-09-22T19:33:42.000Z"
+    },
+    {
+      "id": "1c5d440ea3a00575",
+      "title": "【台風一過】シルバーウイーク4日目で初めての晴れ、ようやく外出も…台風の影響で｢通行止め｣、高速道路は22日と23日がUターンのピーク",
+      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2X3ZTS3pBR2F4RmQ0YnZ0QWZIS3VhRzBsWmRDT0FIYmRzRTB1TmZjbnZ5M09LNzByd3pLcFM3YWI5OWFVeEs1ZmxnUTJhVFZNeUk5RkI0MTZkNzR3ZEtxbkVKZGpkNXVlWjZsNWZn?oc=5",
+      "source": "excite.co.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T14:53:08.000Z"
     },
     {
       "id": "9e832ac79604a6c5",
@@ -143,32 +179,32 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11ejV2X0M3Wlo1MG1LWFRNMGJoc1VCY1M0YWIwVkFpc2RpNUstbUdoTEJCeE9LOXlONU5LTDB0dHpRTkRodWVnLWx2Sjd1Zw?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-09-22T00:06:47.000Z"
+      "publishedAt": "2026-09-22T00:43:37.000Z"
     },
     {
       "id": "fb3843677a3273e4",
       "title": "TOPPAN、AIで現場作業者配置 物流向けサービス開発",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIVFlZdnB1a3lDYXBIU3hzQXNHV2xHbGF4LVNiU015b1NHSG1hLUhBdFRhVWtWWGphVE1ac2I1UlJ1Z1FQd3VrbEEtMTM4ekswVDRQbUVrS2s?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T20:00:00.000Z"
     },
     {
       "id": "69c51119f7664947",
       "title": "ロボ関連協業で物流最適化、フィジカルAI応用",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GWDJFRFpYUUhqMHNwQ2hpUWR3WVlXSFB0M0hiek4yUTBoRE9qSFVrQzJXV29GT1liZUVQVXV5NkRrSV92MWR4dzdXbVBXY3c0cmdNOTZtb0o?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T20:00:00.000Z"
     },
     {
       "id": "6c508737be45e8e7",
       "title": "中小機構東北、共同物流サービスに授与 「中小大学校総長表彰」",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mV2pWZ1lPbXFQbHFSSmtSQVROdE95emRUeUFFVk1zbHJja2tUMy01dXZwejlXQ1pHaFZMVDY2ampCZHNESkw0SC1iYlUzbnl1cm4zNU9Pazc?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T20:00:00.000Z"
     },
@@ -202,9 +238,9 @@
     {
       "id": "837c07b9e1842f05",
       "title": "タイグエンで発生した、トラックが急ハンドルを切ってバイクを車輪の下に引きずり込んだ事故について調査中。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2czS0xZbTFiVjFfVnVmTzQ0a19PQ19pNzBZUTJ2UGpReUZMYlFBTXNfb2tLel9zc1BEZHhxMjZuaUVoMXJkVDVVclRpTGdpa0paY0VLUU5xVDFKNGZ5UWl6MWFublBFdnBvY0JDSURpODBQc1cwTG9XZ0FrWHVQQzVqbFdEMkdPM0hDTUZqVHNfbWNtVXc?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T11:49:56.000Z"
     },
@@ -238,9 +274,9 @@
     {
       "id": "525aaa2aa92530b1",
       "title": "＜最新＞物流強化へ予算増 商慣習の変革促す 国交省",
-      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTN1FTRE1RMlRSVmprMFhvdVNRLTJhWmFzS0RyalViSENZYzBvZ3JjX2tycmdteHluUE1wMFA2TGVSc2pyU3dCMUY3eDdYUEJJaXBrTXpQWQ?oc=5",
-      "source": "agrinews.co.jp",
+      "source": "日本農業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T08:17:57.000Z"
     },
@@ -297,6 +333,24 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:26:00.000Z"
+    },
+    {
+      "id": "de3a21b58ef0c731",
+      "title": "【速報】神奈川県東部に線状降水帯直前予測 今後3時間以内に発生の恐れ",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUt0c0pITllGaFVKRmZjY1Q1amo4LXFFaTI4LWJBcE1TRWRrVVVKLUtEN3ZtalhFLXg1SDdyR2RHd21GWU1vaHplOU9SNnJRaTZIYndEZlY4Zy1fUEwyaV9xdmpyVFk1LWIzUXd6YUdiUVlnXy1IcEtKNW1xdmpTeHo1S2ZiVmgyQnducNIBjAFBVV95cUxOUUt0c0pITllGaFVKRmZjY1Q1amo4LXFFaTI4LWJBcE1TRWRrVVVKLUtEN3ZtalhFLXg1SDdyR2RHd21GWU1vaHplOU9SNnJRaTZIYndEZlY4Zy1fUEwyaV9xdmpyVFk1LWIzUXd6YUdiUVlnXy1IcEtKNW1xdmpTeHo1S2ZiVmgyQnducA?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T04:10:00.000Z"
+    },
+    {
+      "id": "4428d85feb305720",
+      "title": "【速報】東京・伊豆諸島北部に線状降水帯直前予測 今後3時間以内に発生のおそれ",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2x3RU55NEQ4cWRSc3NUeERHM2xONWYwUGxHNXFvYk1YWTlwX3AtUXVVcnI2bjBCdWViVnpTdWo0ekZyeEF2X2pTYXlZX0NRZlliWWVVZE9PUnBiWjI1X0VxWU4zOUVsYndQSXhibFNfeFRPTU1wTHFmY3c3VzhKVnNwVV9oOWI0NFdYWdIBjAFBVV95cUxQQ2x3RU55NEQ4cWRSc3NUeERHM2xONWYwUGxHNXFvYk1YWTlwX3AtUXVVcnI2bjBCdWViVnpTdWo0ekZyeEF2X2pTYXlZX0NRZlliWWVVZE9PUnBiWjI1X0VxWU4zOUVsYndQSXhibFNfeFRPTU1wTHFmY3c3VzhKVnNwVV9oOWI0NFdYWQ?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T03:28:00.000Z"
     },
     {
       "id": "966ed58a6cdc42a2",
@@ -360,6 +414,15 @@
       "source": "テレ朝NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-09-21T01:04:47.000Z"
+    },
+    {
+      "id": "771cc2cab1591433",
+      "title": "【速報】東名高速 下り 富士IC～清水JCT 高波のため通行止め（9月21日午前9時現在）",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yeUJ1bk9JYlJuZ3A4VlJienJnUDNrdmtZS2EyU3RqQ094M2g4STlNVGhOZFgyMUFtZ0FDRm8yV0RDeHJ2M2podk81aEJfazNvMk1fVkR2djhEUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T00:00:00.000Z"
     },
     {
       "id": "36407686c6982662",
@@ -488,20 +551,11 @@
       "publishedAt": "2026-09-20T02:54:00.000Z"
     },
     {
-      "id": "1a599bb7f69f53eb",
-      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
-      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
-      "source": "JBpress",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-20T01:00:00.000Z"
-    },
-    {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
-      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "みんなの広報宣伝部",
+      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -569,11 +623,38 @@
       "publishedAt": "2026-09-19T10:50:02.000Z"
     },
     {
+      "id": "5892267e64dd107c",
+      "title": "カインホア省：ヴァンフォン～ニャチャン高速道路でトラックが横転し、インフラに被害が出た。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObF9rUVh3dEhDV1Z6djQ3eXZvNTUyY0l6ZzVYd0Fac3pHT0JteEFRNTBoM1VFVDVwU2YzX2R3bzRYM0NjZFNvUGhCU3BjSzMwNVRQR2JwbkxkZWNtZ052UmZ3UEtwdzM3bUZPSFkxVWtoaUMySXVtYWhDWTRUMVIxbmZkd1kzWWpGS0Noa21EQlRheTR1MzlnWko1aXVtQ0EyVnhvajhsNUg5T1RSaS1rTjNn?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-19T10:07:08.000Z"
+    },
+    {
       "id": "4e63baef071d12d2",
       "title": "【交通情報】台風25号で3連休の足に影響 山手線など運休の可能性 久留里線は一部区間で終日運転見合わせ 空の便欠航や高速道路の通行止めも（FNNプライムオンライン）",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43VjdzUDN4M1RuU0hvcXI3aXpPM3NTZUg2N2RxOWwwMWRvVTRGVXF5ZDlQX2gxOFZSNk1mOUxqR1pKQ0QyRm9UeUlhT0ZxaGRUWm5CU3lnZGVsV0dmQldJeDJFSTdxTFRMTlBGNWRhRQ?oc=5",
       "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-19T09:17:00.000Z"
+    },
+    {
+      "id": "b0a52809e3148cf5",
+      "title": "【交通情報】台風25号で3連休の足に影響 山手線など運休の可能性 久留里線は一部区間で終日運転見合わせ 空の便欠航や高速道路の通行止めも (2026年9月19日掲載)",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yTUVjTGNlRklWOE9keUE3RVRmZGtBQTVMSmREbE12QTVjY0M3NTdVUDJxYXQxT0dueUdsU0EtcXd0R2lIWHUwUTVSemNRWlZiMXVDUTg0NlhqX3Y1b2c?oc=5",
+      "source": "ライブドアニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-19T09:17:00.000Z"
+    },
+    {
+      "id": "5611877d955f5ea8",
+      "title": "【画像】【交通情報】台風25号で3連休の足に影響 山手線など運休の可能性 久留里線は一部区間で終日運転見合わせ 空の便欠航や高速道路の通行止めも - ライブドアニュース",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2cnZpTGxSS19LWGRiNmpYVHRoOEdqM0tKU2dKcmxJeGZKMzZITzBIVl9zbElZREUwLVVyaWpTU2dvXzI4LUdjRTE1MENINjZVRWZJUThSU3JXOWNISjd5TWllZTMwZjZvUGZ1SVdqaUNYYTUyLXN4R2YwVHo?oc=5",
+      "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T09:17:00.000Z"
     },
@@ -598,9 +679,9 @@
     {
       "id": "2128354dec3fe640",
       "title": "【チルド食品物流のダイセーエブリー二十四】株式会社林運送の株式取得に関するお知らせ",
-      "description": "sanyonews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53dk44dnYzZGNIdkJmdVcwN0dPMDZueEhTSTFYVGpDaW8wZkpZalNBX2VvT3daaFNqLTZEZ2VpR1VmOFBZY2FuaEpxNzlZMHVhd2c?oc=5",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-19T07:00:00.000Z"
     },
@@ -639,87 +720,6 @@
       "source": "au Webポータル",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T01:45:00.000Z"
-    },
-    {
-      "id": "0d0b51dc0c2c2f13",
-      "title": "ニチレイ、サイバー攻撃で配送先顧客・取引先・従業員等の個人情報53,866件が漏えい 給与・賞与情報も",
-      "description": "合同会社ロケットボーイズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdldlUVVCZWhVRnJ3UHExc2Fjc1hSeXY4VWRlM1dKUlpzcVdoV1YyZkpCVnZGWWQyZ1I1WWxWWXFBcUFPSnFRWHYzMlNaaUJYQ0xNOXBYbmhza1ZMZzE1UUlZQVdLYm5ydGs5ZGs4cHRGcEIwd2ZYVTdWRlBWUnVURmhneTJyS19fdmkxb0xhRzNMeDQ0MGtmMkpR?oc=5",
-      "source": "合同会社ロケットボーイズ",
-      "category": "物流",
-      "publishedAt": "2026-09-19T01:33:13.000Z"
-    },
-    {
-      "id": "18f9ccd37b951ef4",
-      "title": "早く着くため故意に逆走か、ダンプカー運転手を起訴 福岡の死傷事故 [福岡県]",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVGpHcGFjNUZEelpWeERFdlRDNnVDTnNNbjFEX0tTTDBRRWhGenFHRmxhVmIwZ1pyZ3lwRlBnMjJDalk3X0NSeU5uN2VSTmdkbm56U3dwT2JHTFlhaGs2dXhoU3FIVlk?oc=5",
-      "source": "朝日新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-19T01:30:00.000Z"
-    },
-    {
-      "id": "2f17c723b42316b5",
-      "title": "独ポスト、配送電動化4万台で幹線輸送へ軸足",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CeHNUNnFDdlp3YktZaHRNTHhvX0VKMFVFZ1RVZURnN0ZEVkFTSWsyUDAwUzFLaGdGUDVFMlU3MXdCM2dMWlVYenhR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-19T01:00:57.000Z"
-    },
-    {
-      "id": "5b5453d1a2f55d9c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送 (山陰中央新報)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXNQZWQ4N0dZeHRrZm1STmJWMUZYTlU2OTZ4aTBRdUpXQzhuaEktc2ExbF9VeGtWcXpUeXVueVo2NkZKR1pfNW95SEF0Tm55eHZkbG9xZHJQUmJoVTlNa3c5ZWcybWFvQ3d4Zmx4bmVRTmViRFlLVkdGdFR4Q25zLUFqeHJidGRpd3pJUDNB?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T21:22:33.000Z"
-    },
-    {
-      "id": "3ff77df913bbcc3c",
-      "title": "鳥取県江府町で共同配送試験スタート スーパーマーケットがない地域に商品配送（山陰中央新報）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZjU5bzJGdWZ1c0p1dkc2UFlrVmM1cVB2THFtSlBHaWxQY3VCekVrRkE2WUs5ZHI3ZVh5cGZaSUhqa1JmU0FKQm5VdDVsc2xENFhHazNzektNQTRjU3E4ZURfOXVhU3lYdEg3V0UteUZMR2tKaGszOGoyS1NSMmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T21:00:21.000Z"
-    },
-    {
-      "id": "27b36123153b6f13",
-      "title": "周遊観光 身軽に 案内所から宿泊先配送 手荷物有料サービス 岩手県南で実証事業開始（岩手日日新聞社）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcFR3QlBQVXpHYlBFYmRlanhHSGNCaDlTWHI5YVhhT21JOWVGNXJiQ0h2QTBkNjJMVVI1WC1fMmF4NE82LVN5eW1pN3JZdkhCQUNOOGRxU1RJY2hBYTU4X3JaMFc2ajVjR0dMR2t6cnlXTUlDNkF2WE9HN2t3QlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-18T20:20:06.000Z"
-    },
-    {
-      "id": "d2b8b17f1a6b1a7d",
-      "title": "違法残業が突出する物流現場は外国人材も敬遠する",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NS0FTazZlTE5tNDkzRVhWSGhMeU5PZjJNa0taTnJxcUVIQm9EaWxkdEx0RzQ4cnZqNTBJbGc1cUF1bkNOZWMycnBB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:29:33.000Z"
-    },
-    {
-      "id": "6dbfbf39abd8fcff",
-      "title": "日鉄興和不動産、米物流施設2号をアトランタに",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Wc0dZdzBEMDZYNnMxU0gzYjl1WmZOLWY0RkE1ZlllZHRpY3U0QWZsQlYzVUdzd1NVMEZuUnZ4dnAzTDRTYmxpRFZ3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:08:21.000Z"
-    },
-    {
-      "id": "d8b8cdc29eb376ad",
-      "title": "キャセイ、香港ハブ強化で広域物流連携を支持",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BLUstNm1xQ3YxVkl0eGM4U1hyTGlIVjBzV1lSRzlkaGF4c2JPT2d2NExDSHp0UDZOOHYtMzNCdTBRRGJTdWg2a09B?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-18T19:08:21.000Z"
     }
   ]
 }
