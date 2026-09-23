@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:27:19.075Z",
+  "updatedAt": "2026-09-23T15:26:47.759Z",
   "articles": [
     {
       "id": "fd545699847749f8",
@@ -67,9 +67,9 @@
     {
       "id": "242d931b0a53baa1",
       "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め 最新の社会ニュース【随時更新】",
-      "description": "abema.tvが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3RWVGlEZmNDdmIzbWF2UVVtbTNtaUlPbGFzc19FMWp3MnJSU0xPaXd0WS1qcWpuNTRuXzlSaWRmQXI1SllJNDI3d1RQZ0NMTlM3RHhydUdPYTg?oc=5",
-      "source": "abema.tv",
+      "source": "ABEMA",
       "category": "道路・交通",
       "publishedAt": "2026-09-23T08:01:53.000Z"
     },
@@ -129,10 +129,10 @@
     },
     {
       "id": "f566ec28794122a2",
-      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】 - motor-fan.jp",
-      "description": "motor-fan.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】",
+      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbWZ4OE5jN1FlR2w0ZW8xY0hVOVE0MHZZVWd5QTQ5UXprX0JsUnlNTjhVUGhEOHN3bVNYSUs5cFRRLUhPeFAxRnJzVk5nQQ?oc=5",
-      "source": "motor-fan.jp",
+      "source": "Motor Fan",
       "category": "物流",
       "publishedAt": "2026-09-23T03:10:00.000Z"
     },
@@ -237,19 +237,19 @@
     },
     {
       "id": "31670fc3eec3947b",
-      "title": "日本通運と電動車椅子メーカー「WHILL」が共同開発！ 座面が30cm昇降する倉庫作業しやすいモビリティ誕生【国際物流総合展2026】 - motor-fan.jp",
-      "description": "motor-fan.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "日本通運と電動車椅子メーカー「WHILL」が共同開発！ 座面が30cm昇降する倉庫作業しやすいモビリティ誕生【国際物流総合展2026】",
+      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nX3VSWE5oQ3Fwcjg2QXRzT0R5RTc5bDh6aE1QQ0xLVWhUcFl4c1dselZWaERMeUt1akxUMkhINkp1YzdFdzlfcnVFOFRpZw?oc=5",
-      "source": "motor-fan.jp",
+      "source": "Motor Fan",
       "category": "物流",
       "publishedAt": "2026-09-22T22:10:00.000Z"
     },
     {
       "id": "08f37945ea166839",
-      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在） - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQlgtRUxpczVUOW5obndaSkNDYk9ZYnM4bTN3SHlZRUJtd0V5dW1RMGNlbG9qdElPUVZsdUZTRWc3c2VhSE9rMkd0bHpDTXhDVF9ad25YMU5vamhMaWxN?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T22:09:10.000Z"
     },
@@ -310,11 +310,20 @@
     {
       "id": "cc4fcc6912b9d993",
       "title": "【物流】タイ新郵便法、年内制定へ 物流・宅配市場の急拡大で規制に抜け穴",
-      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "bangkokshuho.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1TUFSNW5xSmVWTFBKbkI1WXAyNjdMbkpWREtaMGdnU0hVU0NKVGY1aFBXTzdwbmNaTjM2WEUtX0htZE5TbTcxRG01bHIwSy1m?oc=5",
-      "source": "バンコク週報",
+      "source": "bangkokshuho.com",
       "category": "物流",
       "publishedAt": "2026-09-22T12:20:45.000Z"
+    },
+    {
+      "id": "2ed4c4f8ffd3ae39",
+      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！",
+      "description": "kidswellbeing.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
+      "source": "kidswellbeing.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-22T11:48:38.000Z"
     },
     {
       "id": "9bdf1f0d3aa4757b",
@@ -336,10 +345,10 @@
     },
     {
       "id": "58263116994c40d7",
-      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕 - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "帰宅途中の20代女性の後から怪しい車 声をかけると逃走を試み、母親と衝突し女性を引きずる 53歳の男を逮捕",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Dckd0bzVIejBvZThKQmFxd2ltTkJsZ01fc1M3aDYtQWY3c3hyN3JrTGJRZ1duZGYxczd0VDRjTXBmVHQwNUQxQVoydzhyaHJwOFFRUnBwc2FMNGRYcmdVS3ZGOFA?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T09:37:10.000Z"
     },
@@ -390,10 +399,10 @@
     },
     {
       "id": "2cbbaa9e740e2eb7",
-      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！ - chiba-tv.com",
-      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "LE MANS IS COMING TO JAPAN世界のスターたちが、いよいよ富士にやってくる。トップドライバー＆Sir Jackie Stewart出演スペシャルトークショー開催！",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xSENtVnZ0ZnVXMG5SMU9KVTlnU2FuMlB6aHQ2TzBVUkY2WExCX3lPQmdFSUpCeVhLU3FDdlB6VWk5bUpHV192U0N0d2hLVXNIZTF3ZnlEUlZBR0paTEpSWmtqODM?oc=5",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T06:44:32.000Z"
     },
@@ -506,15 +515,6 @@
       "publishedAt": "2026-09-21T23:04:10.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-21T21:31:31.000Z"
-    },
-    {
       "id": "05a71e0accd66296",
       "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」",
       "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -616,9 +616,9 @@
     {
       "id": "9747643a7ff2a9be",
       "title": "【物流】台湾ALP、タイに100億バーツ規模のスマート倉庫を建設 アジア最大",
-      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "bangkokshuho.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ycnRWSGg1THlHNktYNzBuaXQ3YUduZm4wVnN5UDlOcl9wOWFoMEsyMUxVVjlQY2ZpWjdyR2tCeGV2bm1PSjBnLS1IRXBrd29m?oc=5",
-      "source": "バンコク週報",
+      "source": "bangkokshuho.com",
       "category": "物流",
       "publishedAt": "2026-09-21T08:43:42.000Z"
     },
