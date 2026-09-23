@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T00:30:38.699Z",
+  "updatedAt": "2026-09-23T01:24:51.901Z",
   "articles": [
     {
       "id": "d5ac301e390a0e48",
@@ -7,6 +7,15 @@
       "description": "東奥日報社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XX1RwWWVsWlF2UmxYd0VMUkJYTTUxQ2FGMDFsUnFxYnQ1cDRvTWpHbHlYaEFYNnA0MDhSNkxhQ1dJMllrWUFKQ052Wm9oOURRSzBNbUhGOE4?oc=5",
       "source": "東奥日報社",
+      "category": "物流",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "69c517c25102a169",
+      "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OSTZpQU56NVF4WWd1YlprUlFNTzgxTnh4cU1GTTZfazk5ZWZyUTJZNl9BMDVlMV9wYmtURld4YkE0eEZIbmpLT0lSSQ?oc=5",
+      "source": "47news.jp",
       "category": "物流",
       "publishedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -20,13 +29,13 @@
       "publishedAt": "2026-09-22T22:26:24.000Z"
     },
     {
-      "id": "0556d2904468d798",
-      "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始 - tv-tokyo.co.jp",
-      "description": "tv-tokyo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkQnZhaDUwMWctQlhSczNySFVGemlGTmI0Njc5TGFsOFFGQ2theWZTNG1Cai13Uy1iT1FpUktxME9jQjRZdkYxcWoyZHByeXVjaWRLX21zMmJPV2U2LWJscUVYeFZzWjhZSmRWSlNn?oc=5",
-      "source": "tv-tokyo.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-22T22:24:01.000Z"
+      "id": "08f37945ea166839",
+      "title": "【瀬戸中央道】南備讃瀬戸大橋付近でトラック衝突事故 一部通行止め解除（23日05:25現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQlgtRUxpczVUOW5obndaSkNDYk9ZYnM4bTN3SHlZRUJtd0V5dW1RMGNlbG9qdElPUVZsdUZTRWc3c2VhSE9rMkd0bHpDTXhDVF9ad25YMU5vamhMaWxN?oc=5",
+      "source": "千葉テレビ放送",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-22T22:09:10.000Z"
     },
     {
       "id": "72c0f8607dead07a",
@@ -35,7 +44,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfSEliUDZGSTdrYXZaSndjb0hsR2tqRTI3MU9WS2V1U0x0cE5XQW0xblhrWllNTDRCTkFOOC1fV3pVX2FtUEIzU2RZOURfVGJ0TEwtWUU1OE5LV2dQcHFSS1ZpcmtWVk9Oa2c3dDctVU8zeEZTVGpzNHN3M2l2VE0?oc=5",
       "source": "Yahoo!ニュース",
       "category": "法令・行政",
-      "publishedAt": "2026-09-22T21:09:13.000Z"
+      "publishedAt": "2026-09-22T21:00:00.000Z"
     },
     {
       "id": "1c321f7584a48090",
@@ -49,11 +58,11 @@
     {
       "id": "1c5d440ea3a00575",
       "title": "【台風一過】シルバーウイーク4日目で初めての晴れ、ようやく外出も…台風の影響で｢通行止め｣、高速道路は22日と23日がUターンのピーク",
-      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2X3ZTS3pBR2F4RmQ0YnZ0QWZIS3VhRzBsWmRDT0FIYmRzRTB1TmZjbnZ5M09LNzByd3pLcFM3YWI5OWFVeEs1ZmxnUTJhVFZNeUk5RkI0MTZkNzR3ZEtxbkVKZGpkNXVlWjZsNWZn?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "category": "道路・交通",
-      "publishedAt": "2026-09-22T14:53:08.000Z"
+      "publishedAt": "2026-09-22T14:53:07.000Z"
     },
     {
       "id": "9e832ac79604a6c5",
@@ -99,6 +108,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-22T06:50:03.000Z"
+    },
+    {
+      "id": "135d0b5aee921f1e",
+      "title": "東北道の郡山南ＩＣ―矢吹ＩＣで一時通行止め ４件の事故で３人軽傷 福島（福島中央テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUEo2QWlsNktPOVJLcVFEM0hEOTVjNk04OVdGak9jRnBxaHVsd1p4cU10LWthUGhjU2s0MW9DeHFwQ3lDdGY1ZmV1b1NEd1paeGRUdW9xM3NoQml1cVhpS09BSW0zSVpVa1NBSGo3WUVzb0w3NzRCUlFiWFFlZEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T06:22:00.000Z"
     },
     {
       "id": "af10349c77a9cd94",
@@ -164,13 +182,13 @@
       "publishedAt": "2026-09-22T03:19:14.000Z"
     },
     {
-      "id": "b2847cdcfbefe8d7",
+      "id": "77a8efcee710845c",
       "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」 (共同通信)",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOS1PMnY2Z0pPNW1QNDlNZ2FXSzhSRElBRXItVVdSVzJWMVhod1RiY3h2WDhxVTZNMVI3NVdjT2FQWUI1TzRLOHVucWMyRWYwNlZKb3VOYWpwR2ZITk1Ec0RQLWFaeTRHbUktdjFSbFV3QU1DVzhKYWhnLURuM2VMbFNTTU5pRDNHU0dXVHdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2NNWFdMZjd4SkZHRlRFSzgzMGZ6Q2RwcHRRbkt6V0NvR3ctaXE3bmZYMF8tZUlMbHlCWExlYm9iQXNyanQ4blFScm91Q0dtcU8wbVhnMUJ6bUlpRVdncnphWHl1akZETXZCbnRlTTFrNUJhY1kyNjNzeHA0WEVwVVI0ZFh1UXJBRjUzdS1n?oc=5",
       "source": "Yahoo!ニュース",
       "category": "物流",
-      "publishedAt": "2026-09-22T01:19:43.000Z"
+      "publishedAt": "2026-09-22T01:07:01.000Z"
     },
     {
       "id": "3cb355710243c970",
@@ -263,6 +281,15 @@
       "publishedAt": "2026-09-21T08:40:02.000Z"
     },
     {
+      "id": "78293cba5104c1ef",
+      "title": "台風25号の影響で千葉県でコンビニや飲食店が冠水 土砂崩れで1棟全壊など住宅被害8棟確認 県内の高速道路の複数区間が通行止めも｜TBS NEWS DIG",
+      "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12YndvN19xXzRKd18waU5NUkFWekVCdWxxakQwaWZQcHVGdnlsd1RQcVE5TnYwUmg3Mml4bDUwVGJDVy1jVWhJZ0FQbGhQQ19HZmVrejhjZE5JYWlv?oc=5",
+      "source": "YouTube",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T08:32:12.000Z"
+    },
+    {
       "id": "53b6065d9baf59f8",
       "title": "台風25号 物流への影響（21日午後5時現在）（2026年9月21日掲載）｜日テレNEWS NNN",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -317,15 +344,6 @@
       "publishedAt": "2026-09-21T05:13:06.000Z"
     },
     {
-      "id": "e81957ab4886c1d4",
-      "title": "東京・大島町 10か所の避難所に男女80人が避難 午後2時時点",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOGhObmFUT2tMSktTZnFpX29QT0tnRmxDVjk5YlBnSk9BU0pjUWVnRW51R3BhZE93LWtmdlU5VXN3Q3VvNG95UEpmZ3RKb25aNG1SbFZFOXFIVlVPNXFJdjlFTlVBbloxMlNKaVc4ODFSZTdr0gF0QVVfeXFMUGY4aE5uYVRPa0xKS1NmcWlfb1BPS2dGbENWOTliUGdKT0FTSmNRZWdFbnVHcGFkT3cta2Z2VTlVc3dDdW80b3lQSmZndEpvblo0bVJsVkU5cUhWVU81cUl2OUVOVUFuWjEyU0ppVzg4MVJlN2s?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T05:11:00.000Z"
-    },
-    {
       "id": "872311cd8dc834db",
       "title": "\"飲酒運転\"通報訓練\"や\"トラックの死角\"体験など実施 21日から｢秋の交通安全県民運動｣",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -333,6 +351,15 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T04:26:00.000Z"
+    },
+    {
+      "id": "2600eaf7d71fac28",
+      "title": "東京・大島町 10か所の避難所に男女63人が避難 午後1時時点",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83R000Sks0R2E2dXM3RXpDRlI5dnJGcjlZd3otWVNIdkVOelFXYTZkUTFPeE5DXzQxWmJIVGJlaXRZUDRpekxhUy1aTWtER29xOU1OTlhGbTNjaDZKZkxfenZ1TjdYVTB5TE5SYTFrUTV3Tnll0gF0QVVfeXFMTzdHTTRKSzRHYTZ1czdFekNGUjl2ckZyOVl3ei1ZU0h2RU56UVdhNmRRMU94TkNfNDFaYkhUYmVpdFlQNGl6TGFTLVpNa0RHb3E5TU5OWEZtM2NoNkpmTF96dnVON1hVMHlMTlJhMWtRNXdOeWU?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T04:19:00.000Z"
     },
     {
       "id": "de3a21b58ef0c731",
@@ -425,6 +452,24 @@
       "publishedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "261a484ae93fa634",
+      "title": "【速報】東名高速 下り 富士IC〜清水JCT 高波のため通行止め（9月21日午前9時現在）",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZThDUDU5TmtGVUo0eHN4M1Njeno1U3R4N2VKcUh0TUt6bVVNM2JEdUZaeVc3ZjVITnVfeERIcFBucm1wTmpGMmtQTnMzby02Ql93bkRLLWZtVkhXS05pMzBUb1I2eTRFTlp1WlRGcExIa1Nt0gF0QVVfeXFMT2hlOENQNTlOa0ZVSjR4c3gzU2N6ejVTdHg3ZUpxSHRNS3ptVU0zYkR1Rlp5VzdmNUhOdV94REhwUG5ybXBOakYya1BOczNvLTZCX3duREstZm1WSFdLTmkzMFRvUjZ5NEVOWnVaVEZwTEhrU20?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "d098a6160eece7cc",
+      "title": "東名高速下り富士IC〜清水JCT通行止め 21日7時から、高波のため 静岡空港プサン行き欠航",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdFhnSTE4ZzdaaEpFcEtkbGVCRk1IQ2Ztd2FvLVFLem9tZllHaWFpWGlfY1l5cjVtX1BKWU9lNlBvdzF5aW5zd0dHV2dmN24yNkIzRUJTcWtBZjlxTWk0Yjc3SVNoNGNHWU81UXdMb9IBdEFVX3lxTFBKeVZ1eTB6eWZHeDhNV0hBeE4tdTJVQk1fY1p5dWJsQVJZdnpnc1YtUXhQNUdsbHVOeDI2Y3d3aVNqV1VBTklEWk5ULU9kbG02VGIzRktuWVJ0aEd1M00tVWppc2RMbThEMEticm5ZdWJyWlh3?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T23:45:00.000Z"
+    },
+    {
       "id": "36407686c6982662",
       "title": "雨の影響でスリップか 東名高速道路で軽トラックが事故 運転手の男性（20代）亡くなる 助手席乗車の女性（20代）は手足骨折の重傷 神奈川県警",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -432,6 +477,15 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-20T23:21:17.000Z"
+    },
+    {
+      "id": "0d4f1e12f1003153",
+      "title": "【交通情報】東名下り 富士IC〜清水JCT 高波により通行止め（21日午前7時50分現在）",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5waWx4RU42cmhvTGRKREdzLURBZlA2ZlRHcGJKQnl5bVUyOGxhdnVsdUtTX3BQeTA3RFZYMUprNnUwQmpZN0NfT3ZNUldKaFNIWW9vejdUaFZNWG8xd245MDNVbmg3cS1LNGxsNThUQklWUdIBd0FVX3lxTFBQc3RlVmY1SThWTXBRbUNrcXRVLVNOLVdtb2RaOVV5Tzh0SVZJZV8xYm1TeURsMU0xSWtOM0ljeWVicmRkS1F2TmNQcjBEUWk1dWlwZXp1NmhOU1FZTHQ4dTl5XzM2RGxxazNLS25VSVVDTFpzSWRV?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-20T23:09:33.000Z"
     },
     {
       "id": "60994e2942b709ce",
@@ -445,9 +499,9 @@
     {
       "id": "a46a2e8035838c66",
       "title": "台風25号で高速道路通行止め 東名・新東名・中央道なども規制の可能性、21日の開始見込み一覧",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LZjBNNnVFSVVfZkJScnZCSjBBbHBkZmZ6eE1DblNLaFRIUGxDRWpjZVc2TEVEWmF0SWR3VlFsS0NJOC1EcjRtdU4yTQ?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-20T21:59:00.000Z"
     },
@@ -551,11 +605,20 @@
       "publishedAt": "2026-09-20T02:54:00.000Z"
     },
     {
+      "id": "1a599bb7f69f53eb",
+      "title": "「前例ないほど犯情が悪い」裁判長に叱責された美女木多重事故の被告に法定刑の上限超える実刑判決◇ほか関連2本",
+      "description": "JBpressが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMnRhdXdLZXhLZmhaSV81WV9GRHBHN183T0IzaVdJMXQwS0JQLTlTQjg4OHg5UXFCTlVKYXItS2d2U1BZTG9RdTFaYV80U1gtOFJTZlB3?oc=5",
+      "source": "JBpress",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-20T01:00:00.000Z"
+    },
+    {
       "id": "34997eaca9c7dc94",
-      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
-      "description": "xn--q9ji3c6d676qnnlo0fgmgrr6k.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【案内】九州経済産業局：熊本で物流改革セミナー、CLOや荷主企業の取り組み事例を紹介",
+      "description": "みんなの広報宣伝部が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzZ6RThDVWJ1Qzl4TnczdWZJcERYc1hZY1ZIWkFhd0RndGRrREFuZFRubS1vN0I5dUlMYkRRazBrM2owZWNHVTdDcnhZMHdld0JMQWhiWEdNbTUteUtmMlZfNlBkcVBJTllOS2xnelVVdw?oc=5",
-      "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "source": "みんなの広報宣伝部",
       "category": "法令・行政",
       "publishedAt": "2026-09-19T23:58:18.000Z"
     },
@@ -657,69 +720,6 @@
       "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-19T09:17:00.000Z"
-    },
-    {
-      "id": "0f991b449b0a0687",
-      "title": "中国の航空物流、規模が引き続き過去最高を更新",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3hRR2EyM01GUHpRYWloNTVTQUtZZjFoeDJkOUk3UnB2V2VhTkNXZlYzWjdfRy0xRmJhZjdHcXYxaXNGdzRtTWhqRGxNUHhHcExMM2dQVHc4NjUtaUczWUlmTERIYk1GbGxsczdfNWpOTEpNa25VdjZCaUJLV2dqVG12TzdWam14VFFB0gGLAUFVX3lxTE9jeFFHYTIzTUZQelFhaWg1NVNBS1lmMWh4MmQ5STdScHZXZWFOQ1dmVjNaN19HLTFGYmFmN0dxdjFpc0Z3NG1NaGpEbE1QeEdwTEwzZ1BUdzg2NS1pRzNZSWZMREhiTUZsbGxzN181ak5MSk1rblV2NkJpQktXZ2pUbXZPN1ZqbXhUUUE?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-19T08:00:00.000Z"
-    },
-    {
-      "id": "6283aa312bbd64d8",
-      "title": "西湘バイパス下り、一部区間で通行止め 台風25号接近伴い予定前倒し",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2bVNkN0xBcU9aQXQtTzBGcGgtVUlBYjgwb1BoaF9mTUtRYkU3b0JxM3FKWEVKS2NoakpYbGZPMm1VYm9PT3owVmd2SUFTRHlkNHBINkNjdFY3R1dlaTBWei1MUGxuSWY3aVFyMktB?oc=5",
-      "source": "au Webポータル",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-19T07:20:00.000Z"
-    },
-    {
-      "id": "2128354dec3fe640",
-      "title": "【チルド食品物流のダイセーエブリー二十四】株式会社林運送の株式取得に関するお知らせ",
-      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53dk44dnYzZGNIdkJmdVcwN0dPMDZueEhTSTFYVGpDaW8wZkpZalNBX2VvT3daaFNqLTZEZ2VpR1VmOFBZY2FuaEpxNzlZMHVhd2c?oc=5",
-      "source": "山陽新聞",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-19T07:00:00.000Z"
-    },
-    {
-      "id": "4c156b3e315e8441",
-      "title": "「明日届く」を守りたい。物流現場の安全を見える化する『にやっぷ』普及プロジェクト",
-      "description": "CAMPFIRE (キャンプファイヤー)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbGdJbjdEbDJsei1sZElGU0M2VGM0SUJWWlBBakxwdmtaeVBhdVFHa2JWNkJpenZHMlFfUTdqT0tOX0FrS1U3NVN2cW1reExuYTFN?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-19T03:21:01.000Z"
-    },
-    {
-      "id": "7c1d7992db2ae039",
-      "title": "倉庫業に必要な書類を提出したように偽装、物流会社社員を懲戒解雇…違反１７件・会社に虚偽の業務報告",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZ01YaVgzcTM2WU0yYjZjYW9pSFpHa3A4dkxraFc3bGpVXzFQNkhfci1QUmhvN2lnMzlmbFdXakk0ZmRhazBCM0V0Y0p4WXh6WklsZ1ZQLUs3VU9ZM1ZYNl9wWGxZdHljcnBtXzFTWkpIbnE0cjNEYTZoOXlGY1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-19T02:45:05.000Z"
-    },
-    {
-      "id": "037ee7e2e3de7be7",
-      "title": "観光バスとトラックが衝突 乗客や運転手など50～90代の5人けが カーブで出合い頭に衝突か - nbs-tv.co.jp",
-      "description": "nbs-tv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRmQ0VU85M2k0U29EQ0VaV2QtU2FMOE4wRWtqMmtiSGtmeHFzU3ZUcWtmbkpKV3BEdUR6RlpzbW1hS0hnQVFQbGxNWHlsTVlwWEg4UEVIUWp6X0RCa1E?oc=5",
-      "source": "nbs-tv.co.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-19T02:12:00.000Z"
-    },
-    {
-      "id": "3ba8394d81ab0742",
-      "title": "【台風25号】東名高速や横浜横須賀道路など20日正午以降に通行止めの可能性 「最新の気象・道路情報確認を」",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOG9TSVVkWkZrVFctLTh3cEtOTlZicUREbjYzZWxjd3BIUnRfQlhvN0dfekJrNlJZTjNEdVJCY1JMdVZ0WEVXZm9jWFIwNDJQSnVEa2dJWFcwZFBweFNPWEQ4WmJlUWNocXZVSkN5MmE2R04tdFV6LQ?oc=5",
-      "source": "au Webポータル",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-19T01:45:00.000Z"
     }
   ]
 }
