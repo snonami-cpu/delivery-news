@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23T08:27:30.233Z",
+  "updatedAt": "2026-09-23T09:26:07.296Z",
   "articles": [
+    {
+      "id": "b673728aec534f44",
+      "title": "シルバーウィーク最終日 高速道路上りで渋滞続く 関越道で39kmも – Quebee キュエビー",
+      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cGxJQkVSdERVNVV3cW1YakhsOUJKMkgxSmd1UEJCSkRzaXpwQWR6S2JDbGdyaU1qMDlLR2FaWEh5SEZtMUh5V3VKTmdZem1DSUZHek9MVk0?oc=5",
+      "source": "QAB 琉球朝日放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-23T09:03:37.000Z"
+    },
     {
       "id": "1fe8e455cb45cfaa",
       "title": "「前見て！その一瞬が未来を奪う」 トラック協会が交通安全啓発のぼり【愛媛】",
@@ -11,13 +20,22 @@
       "publishedAt": "2026-09-23T08:11:00.000Z"
     },
     {
-      "id": "eb6624f78a5f3fea",
-      "title": "ショベルカーの操縦体験など…大型物流施設の建設現場で親子向けの見学会 ブロックをモルタルで塗る左官体験も（東海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NVmRSU3JJM1JHWlNYOWVUaGNKdG1MdUpKSXVjTVRfS1FTZ3dYbnpWM1FVQ1RtcVcwb1R0MGMwRjVhamhQbVVFeFpDVTNVdDFqUV9GejNyLXZ5STFQSnpKa2hfTDRjU1E2RGFSNFdNNlhSaVR0WFVDdTM0T3pfVjQ?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "576673fa3ab96f1b",
+      "title": "ショベルカーの操縦体験など…大型物流施設の建設現場で親子向けの見学会 ブロックをモルタルで塗る左官体験も",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02OWVsSmpialJsM2VoUDVCVnA1dmx0dXJnanp4a09ueENnVEktdFZsNU5rbUp0SURoTHVFaEZDd0dIM1hrV2d4THludXZmQQ?oc=5",
+      "source": "FNNプライムオンライン",
       "category": "物流",
       "publishedAt": "2026-09-23T08:08:22.000Z"
+    },
+    {
+      "id": "242d931b0a53baa1",
+      "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め 最新の社会ニュース【随時更新】",
+      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3RWVGlEZmNDdmIzbWF2UVVtbTNtaUlPbGFzc19FMWp3MnJSU0xPaXd0WS1qcWpuNTRuXzlSaWRmQXI1SllJNDI3d1RQZ0NMTlM3RHhydUdPYTg?oc=5",
+      "source": "ABEMA",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-23T08:01:53.000Z"
     },
     {
       "id": "057ea36807554dea",
@@ -74,6 +92,24 @@
       "publishedAt": "2026-09-23T03:25:00.000Z"
     },
     {
+      "id": "f566ec28794122a2",
+      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】",
+      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbWZ4OE5jN1FlR2w0ZW8xY0hVOVE0MHZZVWd5QTQ5UXprX0JsUnlNTjhVUGhEOHN3bVNYSUs5cFRRLUhPeFAxRnJzVk5nQQ?oc=5",
+      "source": "Motor Fan",
+      "category": "物流",
+      "publishedAt": "2026-09-23T03:10:00.000Z"
+    },
+    {
+      "id": "6ba9fb063d631ec6",
+      "title": "【続報】福岡都市高速のトンネル内で車2台が衝突 火災が発生 1人がケガ 通行止めは深夜に全面解除",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUVrYWZuWTBwMk1ZM2htWC0xYXVRcnlOY2ZRdGdheGdrdVdaZEtyTW1hbVo3UFlLQmpIRDFHYUJQa0RoZXRJalYyWFR4WUc4TEc1X3VFZ2lSSlNuaG5ndjh1dV8wdVpDQ080a2tTNGhiSkxXZGUzcUh1YkhZaWk5ZmhqcGtJUWM?oc=5",
+      "source": "news.ntv.co.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-23T02:10:00.000Z"
+    },
+    {
       "id": "d938d5676026b69f",
       "title": "国際ドローン協会、八ヶ岳の登山道修復を2年連続で支援 -大型物流ドローンで木材350kgを登山道の作業地点へ輸送-",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -83,13 +119,13 @@
       "publishedAt": "2026-09-23T01:35:57.000Z"
     },
     {
-      "id": "91dcb99e9add8fbe",
+      "id": "f2bc42393fde94ad",
       "title": "庄内川沿いの堤防道路で横転したトラックと対向車線を走行中のトレーラーが衝突 2人搬送 命に別状なし 名古屋・中村区",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mb3pRV05nZVZ5UXVIc3V1Q0xfVlhoMFhvanhrTExvZDVUYVgwbFFTdlBqNEtQcElmQ0hoemhoY0VhUkxKZGtDWE9ReUl4RGlOTkxJV3U0SGx6WlhHQkZYT2pBVzRvbTFsZy1xazJfcVJsTjBTeXB1X1ZNaHliX1U?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-23T01:26:13.000Z"
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOQTZ0ZXlMOS1TUG4waXpTM1lISmNqU3JPU250SGU1TzlMbUZGQmc3SjQ1aHJLQkE2SjNLZWhKdndnRnZPZjFXRjNSM215MVJiM19QRTdHRHRrYWh5QnNIZWNNQk8ySVk?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-23T01:25:00.000Z"
     },
     {
       "id": "044c353b0f2a6c4e",
@@ -146,6 +182,15 @@
       "publishedAt": "2026-09-22T23:03:18.000Z"
     },
     {
+      "id": "32fd631ec506d72e",
+      "title": "フィリピン、物流整備「投資を」 マニラで日米政府と初フォーラム | 全国のニュース | 福井新聞ONLINE",
+      "description": "福井新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbGZ2WlZQUDk2NWpMOU8zaUZDT1NZYUNjMjl2YVlJZFBEXzJ4TjE4N2xob1BqSnp0d191cC1DMjg3a08zRkhIRFQ2clN4NWViRnBXWnIxRENrN3dDT2txZEh6S190YVdEaWdQYw?oc=5",
+      "source": "福井新聞社",
+      "category": "物流",
+      "publishedAt": "2026-09-22T22:24:50.000Z"
+    },
+    {
       "id": "0556d2904468d798",
       "title": "ハンディ端末の返却・充電場所を一元化「チャージングロッカー」の物流倉庫向け導入受付を開始 - tv-tokyo.co.jp",
       "description": "tv-tokyo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -184,9 +229,9 @@
     {
       "id": "c2c5aff841e0e1b3",
       "title": "楽天G、ロボ配送を東京・豊洲に拡大",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwWl9OamJDbVR5YlRMSUdSdEFTa0hQbUs2eEF3b0ZlYUtEbFBsOFE0Z0NPRm5mQ3JGRlIwbkhsSTZXdDJnLVhqRnFqRHBrYWFVVlhlYktlclA?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-22T20:00:00.000Z"
     },
@@ -211,9 +256,9 @@
     {
       "id": "1c5d440ea3a00575",
       "title": "【台風一過】シルバーウイーク4日目で初めての晴れ、ようやく外出も…台風の影響で｢通行止め｣、高速道路は22日と23日がUターンのピーク",
-      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2X3ZTS3pBR2F4RmQ0YnZ0QWZIS3VhRzBsWmRDT0FIYmRzRTB1TmZjbnZ5M09LNzByd3pLcFM3YWI5OWFVeEs1ZmxnUTJhVFZNeUk5RkI0MTZkNzR3ZEtxbkVKZGpkNXVlWjZsNWZn?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "category": "道路・交通",
       "publishedAt": "2026-09-22T14:53:08.000Z"
     },
@@ -225,6 +270,24 @@
       "source": "バンコク週報",
       "category": "物流",
       "publishedAt": "2026-09-22T12:20:45.000Z"
+    },
+    {
+      "id": "2ed4c4f8ffd3ae39",
+      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！ - Kids Well-being",
+      "description": "Kids Well-beingが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
+      "source": "Kids Well-being",
+      "category": "物流",
+      "publishedAt": "2026-09-22T11:48:38.000Z"
+    },
+    {
+      "id": "9bdf1f0d3aa4757b",
+      "title": "国道に“迷子のブタ”誰が？ 目撃者「まさか…」",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aZ1dFVWFaQmJuX2JnNjc1dWl2MEtXbmJ6dU5Sb1VyUFFxTVpZcE9UalN5alZKLXZHem81czg3bE1QRHVvRDhoZF9IS0lDZXdLRjh1bVZTSXh4WG9tc0RScTRaMmY4aGNBdm1OUWgzNDk5UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T11:21:21.000Z"
     },
     {
       "id": "9e832ac79604a6c5",
@@ -326,15 +389,6 @@
       "publishedAt": "2026-09-22T06:00:42.000Z"
     },
     {
-      "id": "242d931b0a53baa1",
-      "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め 最新の社会ニュース【随時更新】",
-      "description": "abema.tvが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3RWVGlEZmNDdmIzbWF2UVVtbTNtaUlPbGFzc19FMWp3MnJSU0xPaXd0WS1qcWpuNTRuXzlSaWRmQXI1SllJNDI3d1RQZ0NMTlM3RHhydUdPYTg?oc=5",
-      "source": "abema.tv",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-22T05:38:38.000Z"
-    },
-    {
       "id": "f4dabbec352627ae",
       "title": "配送用端末と電動アシスト自転車バッテリーをまとめて充電「チャージングロッカー」の配送拠点向け導入受付を開始",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -355,9 +409,9 @@
     {
       "id": "4efe2434043c3b07",
       "title": "【出合い頭に衝突事故】乗用車運転の70代男性と軽トラック運転の40代男性が『意識不明』軽トラックは“側溝に転落”乗用車側に一時停止の標識〈北海道妹背牛町〉",
-      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "uhb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjN2x2eWQtUVpZWU5YbVhFV0tyamNCZ3luVWNvbElhNW5sM2tCdk1tMUpYemY0SFVOalE2SUJxX2c2UlpJT2c5Z2xIck0zZTBaX0QzcU9Ndw?oc=5",
-      "source": "UHB 北海道文化放送",
+      "source": "uhb.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-22T04:00:58.000Z"
     },
@@ -407,20 +461,11 @@
       "publishedAt": "2026-09-21T23:04:10.000Z"
     },
     {
-      "id": "dd85a78a6016df6a",
-      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
-      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
-      "source": "netdenjd.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-21T21:31:31.000Z"
-    },
-    {
       "id": "05a71e0accd66296",
       "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」",
-      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nishinippon.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kaHdXbGZINzBjWTB3ZmFTRXo2WmFEcmtTeklTcXI5UE0zOXZONEgtX2xYZkdkRWtUeU83UFRmWXA2Qlk5X0lKTGxVWUc0c0t5dnF3LWFB?oc=5",
-      "source": "西日本新聞me",
+      "source": "nishinippon.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T21:30:55.000Z"
     },
@@ -445,9 +490,9 @@
     {
       "id": "6c508737be45e8e7",
       "title": "中小機構東北、共同物流サービスに授与 「中小大学校総長表彰」",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mV2pWZ1lPbXFQbHFSSmtSQVROdE95emRUeUFFVk1zbHJja2tUMy01dXZwejlXQ1pHaFZMVDY2ampCZHNESkw0SC1iYlUzbnl1cm4zNU9Pazc?oc=5",
-      "source": "nikkan.co.jp",
+      "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-21T20:00:00.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-21T03:03:00.000Z"
-    },
-    {
-      "id": "d83a024980b5d758",
-      "title": "【台風25号の影響・高速道路情報・21日10時更新】 東名で一部通行止め、新東名、中央道などで通行止めの可能性 中日本高速道路",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03ZFJjZmMyb3F1SU1Galh2V29UUUhnYUw2MHZETG0tMEdIcVpLamxRblhrWnJpdXl2Q2VMNkhOUHQzZG5aVmEtTnk0U3ppZFUyN0tBeHdWVnc4UF9rVzZsa3AtOFVqZThadG1uMTFfb9IBdEFVX3lxTE51MFdsdl9iZHMtOWVzam00MkkxUFJiRm1pYWtXZk0tbHowTUtZUEtfQW5JaVBHMWtaVWdNNmRvbzhldk14RGlLbTF3NGZmWWFTWXlpMVc0REluMHNEM2Z5ZWJnOFpOZExnd25WSktNUWllc1JD?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T02:31:00.000Z"
-    },
-    {
-      "id": "f194a40b381ec703",
-      "title": "東名高速で事故、2人死傷 雨の影響でスリップか（共同通信）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVk5icTRHRnVUQzlSNEZ6eGNfUFh2NDZCVGprN2Y3QzVCQ1VQbC1GSl8tenc1OVhIVkxCTmdUMVpCLUZxWC1wMWNyRXEzcWxNV29jOGdYc1NITndiX3VnaXU1U0JKbGhXN1YtYXdDRldieVVPSGtaWC1aNUc2bDQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T01:17:36.000Z"
-    },
-    {
-      "id": "5d29573689bc5340",
-      "title": "東名高速で事故、2人死傷 雨の影響でスリップか",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDFYSFRDZEhCOE1qZ2xKOFlEcWZXQ1o5Tm9ULUZTYzF4TE1VZk4yRXA3cU1CRUlpcFJtXy1pb0dHXzV1dXNHVTJ0QUFNODFyaEI2ZHBnMjZpVWJwRmhtLTFkSHQ1R2xITGYwQnlMV0hOTzA1RF9YRXVJYXh1M0UzeUxJa1pRZUNvWTRZdUVNNTHSAZABQVVfeXFMUEwxWEhUQ2RIQjhNamdsSjhZRHFmV0NaOU5vVC1GU2MxeExNVWZOMkVwN3FNQkVJaXBSbV8taW9HR181dXVzR1UydEFBTTgxcmhCNmRwZzI2aVVicEZobS0xZEh0NUdsSExmMEJ5TFdITk8wNURfWEV1SWF4dTNFM3lMSWtaUWVDb1k0WXVFTTUx?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T01:17:00.000Z"
-    },
-    {
-      "id": "c86bb4d186f1a001",
-      "title": "台風25号 関東接近へ 空の便や首都圏の鉄道に影響 高速道路で通行止めも",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2bGZrMWxCR1p2OUpOQmYzQ0RsdF9SanphN1l1YW9LUVJnbi1hWlc1NnR6aE9DSXBralQ0a1Z5ZFdZSDM2RmdUeHdla0ctWEtlZV9YNUhDbklpZmZick5ibUxwTm9EX3ozc3EwMWpzZjdHQQ?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T01:04:47.000Z"
-    },
-    {
-      "id": "771cc2cab1591433",
-      "title": "【速報】東名高速 下り 富士IC～清水JCT 高波のため通行止め（9月21日午前9時現在）",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yeUJ1bk9JYlJuZ3A4VlJienJnUDNrdmtZS2EyU3RqQ094M2g4STlNVGhOZFgyMUFtZ0FDRm8yV0RDeHJ2M2podk81aEJfazNvMk1fVkR2djhEUQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-21T00:00:00.000Z"
     }
   ]
 }
