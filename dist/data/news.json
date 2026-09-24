@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23T23:21:41.947Z",
+  "updatedAt": "2026-09-24T00:32:46.163Z",
   "articles": [
+    {
+      "id": "8516a3577f3bc838",
+      "title": "コープランド、ディクソンの買収を完了、ヘルスケア・ライフサイエンス分野のコールドチェーン・インテリジェンスを強化",
+      "description": "businesswire.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NZmFNY251b1k4eHVKbi1LVnI2YzllQXpmdmtIU0syVzJxU3FLM0ZvZ0xwMjZPLTB6RERPMjE1MWd0WUQzdHAxTUNUanVVZDZyUmVlNUM4MmJfTmVmNzFoeVc0NjZhUWc?oc=5",
+      "source": "businesswire.com",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-23T23:56:00.000Z"
+    },
     {
       "id": "79d5cf0578d7d9b1",
       "title": "韓国・薬剤師ら1万人、「薬配送」の拡大に反対…「利便性の代償が安全であってはならない」（KOREA WAVE）",
@@ -9,6 +18,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-23T22:40:34.000Z"
+    },
+    {
+      "id": "cc4a2554a12ede90",
+      "title": "韓国・薬剤師ら1万人、「薬配送」の拡大に反対…「利便性の代償が安全であってはならない」",
+      "description": "AFPBB Newsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VZW03eG0zM2kzeWVzaEs2WUZRNS1PdDBuZFAxMkxleVc0MnFJc2hQWk9HRXI4Ni01Vm94djVwaVNPcGtHR2U5LXRjWl9WMkFSc19JcUUyM2ROLWVVVEpHcDhmSmhfWldQSU5Ra1VOamZJd9IBVEFVX3lxTFB0Z3M5d3o0V1RzQjlkOXFqSG1LNHBOYnRneXZNX1BtcE5aN0poRWpuMEpOSURMWGtYY1dUazFFVmZqSmg2VURLdDFMelZvZUdKWE5EZA?oc=5",
+      "source": "AFPBB News",
+      "category": "物流",
+      "publishedAt": "2026-09-23T22:39:49.000Z"
     },
     {
       "id": "b08113f1841cc249",
@@ -88,6 +106,15 @@
       "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZcXRON1lvSlNBZk40em1xeTJkUk5oSWRBRUlyUzJaX0FVb2ZleXFtc1NqaFlIbnRhcHZTNWNCSERaZVZSY3FpMzdzdm5WenNyTmQ0SnR1bUY?oc=5",
       "source": "日刊工業新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-23T20:00:00.000Z"
+    },
+    {
+      "id": "15c6f95d20fe11f3",
+      "title": "商社、新資源は消費現場の情報網 「アイス運べない」伊藤忠が物流改革",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS2ZWdVZzYTZLU1pqUXBKQXRyNzlBTDNLZTdkaEJOUWphTGI5Y0FOY3ZnMWctRGFvUVYxR1hPMXBUTC1WaWc2WVFCbElpa05HNmxRbVo3X2tGOTlWZlN5Y01SQnNaZkUtVTBwSA?oc=5",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-23T20:00:00.000Z"
     },
@@ -193,9 +220,9 @@
     {
       "id": "057ea36807554dea",
       "title": "配送の選択肢が一つ消えただけで「売上数量15％減」、アリババ42時間トラブルでわかった意外な事実",
-      "description": "ダイヤモンド・オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "diamond.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uRGdqd1h3X2tTeWFIbFlKcWxTd09Za3QzT1Y5cl9YTmsyOUZibW9lSHU2SkZBeEZHYzBQTU5PcHpzZ3J0YklEQ3ZqbE7SAU9BVV95cUxNelFxY2hNZzYwakZPRDAtZjhSMXpNcjZLYnNueFNZOWNrS1dWLUZVZmQ5RUhPSC02aXZWTWVHQzNWNnhYZ2tEOWhyU2RqVHdF?oc=5",
-      "source": "ダイヤモンド・オンライン",
+      "source": "diamond.jp",
       "category": "物流",
       "publishedAt": "2026-09-23T08:00:00.000Z"
     },
@@ -209,15 +236,6 @@
       "publishedAt": "2026-09-23T05:12:00.000Z"
     },
     {
-      "id": "f1e600ea77bf61a4",
-      "title": "【更新】常磐道で乗用車全焼 日立南太田-日立中央IC間で4時間通行止め 茨城",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1RoLW5XbWhOSG5ZZURIaFEzVFZfTnF6RUZWZW55S0IybEs1VnFMM1BtUXMyVUd0YWhEUUVPUVJsZXhOS3dpdkJOM1l4MFJGaWZ4LS1mbE9XZzRmZkVIdnUySXlJWDZ1MFBkRDkyN2JxU0Y3bjdQYjdjNTBvajRVX0RWMNIBiAFBVV95cUxNQXg2NVVXLUZSZm1FSEl2VUdfMDRRRzJ0YkJmczlRN1dxb1laQzJZVTVxNXZVVmNXRml0SkFieEJGQnBTR1Q4c2lidWpjcmtKV0p2TlVPVTFyZndsTDhuYUFMbkhJRjlkX0xRNW5GY2I4MnF2VmlubHlRbFBqU3RJSElTMThYN1g2?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-23T04:49:00.000Z"
-    },
-    {
       "id": "1ef5cf8a97b1764e",
       "title": "稲刈り作業後に無人の軽トラックが前進 止めようとした男性がひかれ死亡 新潟・十日町市（ＢＳＮ新潟放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -229,9 +247,9 @@
     {
       "id": "26e3848eb76a1b54",
       "title": "物流の要だった牛に焦点を当てた企画展 江戸末期に描かれた巻物も展示 岩手県奥州市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qQ0RwdUVKT29SeU54X0ZkU25ac21Cb2JKb2RUZ0l3MFZIWEN6b1FyT3FEbVEzeU1jOWhkRjNhWjJGQ3RuUnpWQVQ2UmxKUQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "物流",
       "publishedAt": "2026-09-23T03:35:00.000Z"
     },
@@ -246,10 +264,10 @@
     },
     {
       "id": "f566ec28794122a2",
-      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】 - motor-fan.jp",
-      "description": "motor-fan.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】",
+      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbWZ4OE5jN1FlR2w0ZW8xY0hVOVE0MHZZVWd5QTQ5UXprX0JsUnlNTjhVUGhEOHN3bVNYSUs5cFRRLUhPeFAxRnJzVk5nQQ?oc=5",
-      "source": "motor-fan.jp",
+      "source": "Motor Fan",
       "category": "物流",
       "publishedAt": "2026-09-23T03:10:00.000Z"
     },
@@ -471,10 +489,10 @@
     },
     {
       "id": "5bc978ba0e898cec",
-      "title": "福山通運とＴ２がタッグ 自動運転の行程検証",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "福山通運とＴ２がタッグ 自動運転の行程検証 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxamUybExCWHJiRHpRMmUzOS1XanhVSkw5QlRpNTFLLUdOenBJMmszUlZ0LVVLMHZrMGR4TkVqWENySGQtend6dFJjZEdCQQ?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-22T06:50:03.000Z"
     },
@@ -544,9 +562,9 @@
     {
       "id": "4efe2434043c3b07",
       "title": "【出合い頭に衝突事故】乗用車運転の70代男性と軽トラック運転の40代男性が『意識不明』軽トラックは“側溝に転落”乗用車側に一時停止の標識〈北海道妹背牛町〉",
-      "description": "uhb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "UHB 北海道文化放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjN2x2eWQtUVpZWU5YbVhFV0tyamNCZ3luVWNvbElhNW5sM2tCdk1tMUpYemY0SFVOalE2SUJxX2c2UlpJT2c5Z2xIck0zZTBaX0QzcU9Ndw?oc=5",
-      "source": "uhb.jp",
+      "source": "UHB 北海道文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-22T04:00:58.000Z"
     },
@@ -578,6 +596,15 @@
       "publishedAt": "2026-09-22T02:57:00.000Z"
     },
     {
+      "id": "fbaed0cbba9c51e7",
+      "title": "軽トラックと乗用車が衝突、70代くらいの男性が意識不明の重体 北海道・妹背牛町の交差点",
+      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdHhQTHF4VGRnaDRvaXRuMXBycmZrTWRJV1A1SXZZTHBvbjFWRmM2cGZGZmlnQlZSYU9qaHVlWl9UZnY3eHh4ZGl5eVJlRGxLN2FXZjFYX3FWUQ?oc=5",
+      "source": "HTB 北海道テレビ",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-22T02:55:00.000Z"
+    },
+    {
       "id": "6a33b18b83357052",
       "title": "軽乗用車と中型トラックが正面衝突 74歳の女性死亡 茨城・鹿嶋市（テレビ朝日系（ANN））",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -597,10 +624,10 @@
     },
     {
       "id": "3cb355710243c970",
-      "title": "野々市運輸機工 吉田章の未来会議室：第１６回「人間が運転しない時代」",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "野々市運輸機工 吉田章の未来会議室：第１６回「人間が運転しない時代」 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11ejV2X0M3Wlo1MG1LWFRNMGJoc1VCY1M0YWIwVkFpc2RpNUstbUdoTEJCeE9LOXlONU5LTDB0dHpRTkRodWVnLWx2Sjd1Zw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-22T00:43:37.000Z"
     },
@@ -625,9 +652,9 @@
     {
       "id": "05a71e0accd66296",
       "title": "キーウでマクドナルド品切れ続出 ロシア物流攻撃「好きな品ない」",
-      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nishinippon.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kaHdXbGZINzBjWTB3ZmFTRXo2WmFEcmtTeklTcXI5UE0zOXZONEgtX2xYZkdkRWtUeU83UFRmWXA2Qlk5X0lKTGxVWUc0c0t5dnF3LWFB?oc=5",
-      "source": "西日本新聞me",
+      "source": "nishinippon.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T21:30:55.000Z"
     },
@@ -669,10 +696,10 @@
     },
     {
       "id": "f5038c2da8658e3a",
-      "title": "高騰する軽貨物保険 事故増加と物価高の波を受け",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "高騰する軽貨物保険 事故増加と物価高の波を受け - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kQk1zU2ZRVWdNeksxSVV0SVVLRzllRWRTaGhOU25CdjhzZ2Z0a1ZQN3YtWlNrV0dGVGVaQVFhVVhXU25PYl9RbU9yb3B3UQ?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-21T17:45:33.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-21T11:49:56.000Z"
-    },
-    {
-      "id": "c826351a3615a178",
-      "title": "配送のおにぎり食べた生徒や大人12人に症状 黄色ブドウ球菌で食中毒 提供した飲食店に3日間の営業停止処分 岩手・紫波町",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYm5zY2JZRDRwV2VDb0tkMnlkNlhpTU1uX0tPTDJaUTZBUkE2QTNkb3A2aWp0YVJJQnVkZG9EZlVMT1dKOUhaNmRWeUVfRHJOaHJHRE5UckxWUF9qOHBLeGUwYTZEY0Vidk1OWUpuUUdIUVFlUlFuVU5oWldUOEdMZTZIUWd5a3NIMDdRQlBB?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-21T09:46:14.000Z"
-    },
-    {
-      "id": "d6adeb55ee1eda61",
-      "title": "CJ대한통운、リアルワールドと物流特化型フィジカルAI開発で提携",
-      "description": "jp.ajunews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lLVF5R3N0NDhyTjB0S1N6aVFiZ0hMLV9CT2JTNVNkT25qdTZzU2ZvUzZONjlOTjZ3NE5QdDFHcXczVlZjdXh5eUFxbzFBMEh4aEpWLWdhbWVKQmM?oc=5",
-      "source": "jp.ajunews.com",
-      "category": "物流",
-      "publishedAt": "2026-09-21T08:56:00.000Z"
-    },
-    {
-      "id": "9747643a7ff2a9be",
-      "title": "【物流】台湾ALP、タイに100億バーツ規模のスマート倉庫を建設 アジア最大",
-      "description": "バンコク週報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ycnRWSGg1THlHNktYNzBuaXQ3YUduZm4wVnN5UDlOcl9wOWFoMEsyMUxVVjlQY2ZpWjdyR2tCeGV2bm1PSjBnLS1IRXBrd29m?oc=5",
-      "source": "バンコク週報",
-      "category": "物流",
-      "publishedAt": "2026-09-21T08:43:42.000Z"
     }
   ]
 }
