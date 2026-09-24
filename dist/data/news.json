@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-24T14:27:47.256Z",
+  "updatedAt": "2026-09-24T15:27:45.169Z",
   "articles": [
+    {
+      "id": "1a90549735e47f4f",
+      "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗",
+      "description": "週刊エコノミスト Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMkU0VExFUllleGZEUWptV2UwazlQVTlGYXEtN1FmRTM0Ynl0VldGS3lyWmdtM0xkdUhDbWRVUE5PM2JURnJHQlB2WXFWQzhjY2E3TXpkMFNfZHgwSmF2R0RtbUJKczdvZ2tLcFVYNC1tTGJmRFB4MkpfZjlUdUU?oc=5",
+      "source": "週刊エコノミスト Online",
+      "category": "物流",
+      "publishedAt": "2026-09-24T15:03:51.000Z"
+    },
+    {
+      "id": "3e4322dbf1102b0e",
+      "title": "【事故】首都高湾岸線・横浜ベイブリッジ東行きでトラックが工事車両に突っ込む事故｜大黒ふ頭付近の渋滞・リアルタイム交通状況",
+      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YQWVzNUxTeTFQQ1lvS2R0VG5US0NVV18yYlBSM09nYzdTTWRFYU1XNXNMcUdXd1VwVlVr?oc=5",
+      "source": "t.co",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T14:55:36.000Z"
+    },
+    {
+      "id": "b5c4904f42c39d6c",
+      "title": "佐川グローバルロジスティクス 京田辺営業所を開設",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vQWVCUmFUQUdrRGloU2MyTC1RVlJBVjh0SlZtbERYVW00ckVrQmpyR0ZBd29XRFFub0FiN0dSeTM2OEI2bnNQYS1qb2pqdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-24T14:53:05.000Z"
+    },
     {
       "id": "fb67a240ca043b60",
       "title": "野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
@@ -9,15 +36,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T13:51:46.000Z"
-    },
-    {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "asahi.co.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T11:52:57.000Z"
     },
     {
       "id": "f03931b44bdd85ef",
@@ -47,13 +65,13 @@
       "publishedAt": "2026-09-24T10:32:58.000Z"
     },
     {
-      "id": "db5959a32f09ac4f",
+      "id": "a3b923e46748d648",
       "title": "トラックや乗用車など１０台が絡む多重事故 車内に一時閉じ込められた５０代男性が重症か 第二神明道路の一部区間を通行止め",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmeEhaMlNIdjBTVXFsM1VTeVBiQUV4bmxZNlJ5ZFVPSmoxbDNRc2RlRzZnYmhsYUptaGpFbmxaNkZPQlZ0cVFYNk9jVlR0YTJ6SEMwWWNrZWFYenJGMWdkZ29uUThHZ3pyUXFvZnBuV2hrNHl3dFdXelU1VlFSVEE?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ic1I3czQwTUpSUElhV3AyWnhsVUFpOHdibTJQSmZsNXVCdHAzb3I1LTFIbHYwekg5ZmROQTJTRmY0eTgwM3BaNGRmallMeUpoS082WnRHME5Od3FDSzVUQzAxZ0dicXRqejMzeEhvdl93LVBsUzlHeUFKUULSAXxBVV95cUxNYnNSN3M0ME1KUlBJYVdwMlp4bFVBaTh3Ym0yUEpmbDV1QnRwM29yNS0xSGx2MHpIOWZkTkEyU0ZmNHk4MDNwWjRkZmpZTHlKaEtPNlp0RzBOTndxQ0s1VEMwMWdHYnF0anozM3hIb3Zfdy1QbFM5R3lBSlFC?oc=5",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
-      "publishedAt": "2026-09-24T10:23:45.000Z"
+      "publishedAt": "2026-09-24T10:23:00.000Z"
     },
     {
       "id": "a033fe49ad630c49",
@@ -63,15 +81,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T10:14:56.000Z"
-    },
-    {
-      "id": "b5c4904f42c39d6c",
-      "title": "佐川グローバルロジスティクス 京田辺営業所を開設",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vQWVCUmFUQUdrRGloU2MyTC1RVlJBVjh0SlZtbERYVW00ckVrQmpyR0ZBd29XRFFub0FiN0dSeTM2OEI2bnNQYS1qb2pqdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-24T10:00:32.000Z"
     },
     {
       "id": "6b6a403b28fb3eab",
@@ -184,9 +193,9 @@
     {
       "id": "fade5fcd3da47507",
       "title": "SM物流研究会／首都圏の共同配送で積載率13～38％向上、2026年度上期の活動報告",
-      "description": "ryutsuu.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLcy1wNWxDaDFRMDlCai01ajE3SERIY3lCYldRWVEyNVpQRldCZWIyd3I1UUtQVkJxNWxYQVFUUVA2NzRiQ3M5a1luSzRWUEVoRFp2bjlXajM?oc=5",
-      "source": "ryutsuu.biz",
+      "source": "流通ニュース",
       "category": "物流",
       "publishedAt": "2026-09-24T08:31:00.000Z"
     },
@@ -245,6 +254,15 @@
       "publishedAt": "2026-09-24T07:45:13.000Z"
     },
     {
+      "id": "9a1e882a148a67f8",
+      "title": "第二神明道路で乗用車8台とトレーラー2台が絡む事故 50代の男性が重傷 7人が軽症 須磨インターから月見山インターまで通行止め 神戸・須磨区 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeVZENXZrVDdlZGRqeVpQbjhnU1Vxa2lsam5xRHpibWNyTEZQUGF4T0ROc2xJQngxQWZXcXJjQ0xLYW82SmJuY3M4c3RMcF9zamFrU0VyaEl1Sk43Q3RSSjRuMVJSazg?oc=5",
+      "source": "newsdig.tbs.co.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T07:40:29.000Z"
+    },
+    {
       "id": "2979e06328382cc2",
       "title": "第二神明で乗用車8台とトレーラー2台絡む多重事故 男性が救急搬送 影響で須磨IC－月見山IC間で通行止め",
       "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -270,6 +288,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T07:20:25.000Z"
+    },
+    {
+      "id": "1236273645eab496",
+      "title": "【速報】第二神明・須磨IC付近で10台からむ事故 乗用車8台とトレーラー2台 8人が重軽傷 現場付近の上り線は通行止め 神戸・須磨区",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4TEc5ekFpYXpwRHE5N0NmWUZWTzRUSjZITHBQT0FvT3huV0RtRmhJX1g5VGY0MDBaVDlfMkUtTF9Ma1RCUHlzeHpMUE9uaWpyUG4tN0hacHJJckJzNnlVRWtqNGZPRVktSExPbmI1Qm9Va3ZadGpwWm5n0gF_QVVfeXFMT0pMYkZlUExJUFlkZHh0Q1I0T0Z3V1Z3N2hQaUI2bmdwU1NGM1lRa3ZwemV2aWFnQUtjNFoyUzdXRGp2QVRhYy1fVnl2SkZXMm9KV2d4d3pLOTI2NlpDMzJvUjk2Unl3ZWlIZ1JrYi1nem0xMjIwQWlpblVwV1g0NA?oc=5",
+      "source": "topics.smt.docomo.ne.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T07:05:00.000Z"
     },
     {
       "id": "50345965d310b65f",
@@ -678,48 +705,21 @@
     },
     {
       "id": "0aabc0806b24750e",
-      "title": "【現地取材】日本の商業用不動産市場の透明度、物流施設が向上に大きく貢献 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【現地取材】日本の商業用不動産市場の透明度、物流施設が向上に大きく貢献 - online.logi-biz.com",
+      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbFRsd21aS0F6S3dsX0wxQTZKUWhPaGhCaXN5cXZncVFlSEhzaWhSQnBwVkNtNXpiZm94Y2xKMFZETlRoa1JRa0tMdw?oc=5",
-      "source": "LOGI-BIZ online",
+      "source": "online.logi-biz.com",
       "category": "物流",
       "publishedAt": "2026-09-23T21:00:25.000Z"
     },
     {
       "id": "ccad9a59a3ff0016",
-      "title": "国交省 国際物流の多元化・強じん化実証を公募 - cargo-news.online",
-      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "国交省 国際物流の多元化・強じん化実証を公募",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwa3NqN0xZa3FzNV9tTm90YTFSMFlzUUF1cjVjVTY2RkFIY3ZhV2tYMmk4aDJmbjI1Y1FpZ1Ywb2ZzSHVWbEgzQ3RlZTVRSTJqdWotVk8yY3FBRVl2eEZF?oc=5",
-      "source": "cargo-news.online",
+      "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-23T21:00:00.000Z"
-    },
-    {
-      "id": "aadae432a8e8961e",
-      "title": "物流データ 普通倉庫21社統計（2026年１月） - cargo-news.online",
-      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ub0dvZzVnNF9uSi1tSHJneEg0bDlTY1JjTVN0bDhrTEFkamZsb3hGSFZINVM2YlhvZ0p1REstTDdpU2tnMTVRS0U4ZGRadnhtZVdLX1I5b0YtS1dGaEtB?oc=5",
-      "source": "cargo-news.online",
-      "category": "物流",
-      "publishedAt": "2026-09-23T21:00:00.000Z"
-    },
-    {
-      "id": "1af9202ecba4ad39",
-      "title": "鈴江コーポ ＮＰＯの物流現場見学ツアーに協力 - cargo-news.online",
-      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNGZPeWNJek9IaGNHMEF1dE56bnhTd2xPY3hzSmVDQVVFc2xucnhWT1FSem5oX0R6cUZxS3VzQUpxZjIzaHlSTGRWXzBMb1d6UWg2d2s0RGtqcFllanFV?oc=5",
-      "source": "cargo-news.online",
-      "category": "物流",
-      "publishedAt": "2026-09-23T21:00:00.000Z"
-    },
-    {
-      "id": "15c6f95d20fe11f3",
-      "title": "商社、新資源は消費現場の情報網 「アイス運べない」伊藤忠が物流改革",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS2ZWdVZzYTZLU1pqUXBKQXRyNzlBTDNLZTdkaEJOUWphTGI5Y0FOY3ZnMWctRGFvUVYxR1hPMXBUTC1WaWc2WVFCbElpa05HNmxRbVo3X2tGOTlWZlN5Y01SQnNaZkUtVTBwSA?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-23T20:00:00.000Z"
     }
   ]
 }
