@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-24T09:27:15.341Z",
+  "updatedAt": "2026-09-24T10:26:45.680Z",
   "articles": [
+    {
+      "id": "a033fe49ad630c49",
+      "title": "ロジスネクスト、自動物流道路で荷役効率を検証",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HVUlXVkZKT1pNWWNhNC1LWl9BcmdFUmtMbnAxUm51SkVNTF9fUjZnRlJnZkxPMDN5eEtod1JobHJOWkFnb1dzQWNn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-24T10:14:56.000Z"
+    },
+    {
+      "id": "1c45605feb17a55e",
+      "title": "三井倉庫ロジとＴ２ 日立産機製品で実証",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zSTJXQU5NSnIwQkh5aWJQOS1FYVNKMmlDUVkyZXhWdjg4ZWNPYlJ3R1J5Y1A5V2lCSzB3T2VUcmlSRG9DbFVkRFhkUVRSQQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-24T10:05:40.000Z"
+    },
+    {
+      "id": "b5c4904f42c39d6c",
+      "title": "佐川グローバルロジスティクス 京田辺営業所を開設",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vQWVCUmFUQUdrRGloU2MyTC1RVlJBVjh0SlZtbERYVW00ckVrQmpyR0ZBd29XRFFub0FiN0dSeTM2OEI2bnNQYS1qb2pqdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-24T10:00:32.000Z"
+    },
+    {
+      "id": "4b036320c7bfed07",
+      "title": "台風影響運休などの可能性シルバーウィーク期間中",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
+      "source": "朝日放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T09:54:16.000Z"
+    },
+    {
+      "id": "6c7a06f379d6c439",
+      "title": "ROKKA、宮城の運送・製造業向け採用代行を強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hNHlVVDdxR2M2eFpWMmVQTk5HdHVIZ3dMX3pQTXJlUldDMXBnWlp3eVJ1S3lBeVRTRHB5QmxkdElXbVJfZkZGaFdn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-24T09:17:28.000Z"
+    },
     {
       "id": "2dd2bca821ca80ca",
       "title": "マテハン企業の58.4％が物流・倉庫関連",
@@ -9,6 +54,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T09:17:27.000Z"
+    },
+    {
+      "id": "4ca3abb1bd57d94d",
+      "title": "自転車で歩道を走っていた80代男性、転倒の弾みで車道の大型トラックに接触し死亡 たつの|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4SG1rdWl5RENQM2JoV3BUS0pzTDVBZkRNSjFzT01FZkwtSjhDOUJNSnM3aXE2VDlPdjJQZU5Fdlc2ZFFEa0NLNlpvQ0tGd1owOHF0RnBQMHExVHZ2YWdZUElVSndienZoZE9lc3hvTEJWQjFUaEFTNlZZVQ?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-24T09:15:03.000Z"
     },
     {
       "id": "9e6779b9bb8114dd",
@@ -29,13 +83,13 @@
       "publishedAt": "2026-09-24T09:09:07.000Z"
     },
     {
-      "id": "3d694b0463247a12",
-      "title": "神戸市 第二神明道路で多重事故 軽自動車の50代男性が重傷",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GbHVqbm5lZ291Uk1mSEFhRHpYaGIyMGZMYzJ3TVZJMkowNU11TVVlZTkxVXhib0ljbndZVXE2V1UzLTJUQnJLTjQ4MW9GeVk4Z3N2M2xkYjRtdkdFeEU2WURfOW43UW_SAWxBVV95cUxPZGIxcGtjaHhCWE4yLXVYQ3FMNmIxWnROejJ0T3RLQjltdktybXkxRzF4Y3VQeF9ObW50VktGaVQyVkk2SlpzRTVGY0gzTmRFVUtfd3F3Uk9UbFhFZkFnRERpUG9oTU82N29FeVA?oc=5",
-      "source": "Infoseek",
+      "id": "7f04b4dbcf832cf6",
+      "title": "神戸市 第二神明道路で多重事故 軽自動車の50代男性が重傷（ABEMA TIMES）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fTF9aZXVXQkd6WnZWNmZVR0IycllvamREVjBXTVVMeHhQcWJOeHZqWDVPaEk3dVdoUC14MDRhTzhQN0pEUjk1NWVTbzVFcnpYZER6N0dCWkJZVFVlMlY5ZXdKVnpBcWs2OTZyVWZOVXI0bkFPV2hfN3QtaFVpc0k?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
-      "publishedAt": "2026-09-24T08:47:00.000Z"
+      "publishedAt": "2026-09-24T08:48:16.000Z"
     },
     {
       "id": "1ffb17a473f56608",
@@ -164,6 +218,15 @@
       "publishedAt": "2026-09-24T07:20:25.000Z"
     },
     {
+      "id": "1236273645eab496",
+      "title": "【速報】第二神明・須磨IC付近で10台からむ事故 乗用車8台とトレーラー2台 現場付近の上り線は通行止め 神戸・須磨区",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4TEc5ekFpYXpwRHE5N0NmWUZWTzRUSjZITHBQT0FvT3huV0RtRmhJX1g5VGY0MDBaVDlfMkUtTF9Ma1RCUHlzeHpMUE9uaWpyUG4tN0hacHJJckJzNnlVRWtqNGZPRVktSExPbmI1Qm9Va3ZadGpwWm5n0gF_QVVfeXFMT0pMYkZlUExJUFlkZHh0Q1I0T0Z3V1Z3N2hQaUI2bmdwU1NGM1lRa3ZwemV2aWFnQUtjNFoyUzdXRGp2QVRhYy1fVnl2SkZXMm9KV2d4d3pLOTI2NlpDMzJvUjk2Unl3ZWlIZ1JrYi1nem0xMjIwQWlpblVwV1g0NA?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T07:05:00.000Z"
+    },
+    {
       "id": "50345965d310b65f",
       "title": "AZ-COM丸和、青果効率化とBCP物流を前面に",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -209,15 +272,6 @@
       "publishedAt": "2026-09-24T06:59:44.000Z"
     },
     {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T06:58:38.000Z"
-    },
-    {
       "id": "f42116132ae8838f",
       "title": "GLRインベストメント、江戸川の物流倉庫を取得",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -261,6 +315,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T06:26:58.000Z"
+    },
+    {
+      "id": "fadb476374d31d7d",
+      "title": "プロロジス／埼玉県「プロロジスパーク北本」内覧会、10月14・15日開催",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82TlZYYWJRUzRSLUkxejVVSERRMlFBaHdxSmZYT3JUM0hNRVhUWHNtM2ZlNlptT016akd1NTZVaFJjY2tZRTE0a205V0x0NDFoV00zSw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-24T06:22:26.000Z"
     },
     {
       "id": "4a86502f74bb3e89",
@@ -319,9 +382,9 @@
     {
       "id": "816150ddeef4ff31",
       "title": "物流危機を「競争」から「共創」で乗り越える 競合49社が築く「JITBOXチャーター便」の挑戦",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZUhuN3JQNWh6RFhkTWZaRHIyZVJDYkxMQUhwdkZmMUxVakMtR1FyRVRWOXNLRUN5QktiX1dkTDJ2b3JCb1FqbGRXTnpwMnRLekRSLTV1N29jdw?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-24T05:05:06.000Z"
     },
@@ -657,69 +720,6 @@
       "source": "QAB 琉球朝日放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-23T09:03:37.000Z"
-    },
-    {
-      "id": "f75aff0987eaca0e",
-      "title": "荷物を持って後ずさり…トラックの荷台から転落 男性作業員が頭を強く打ち搬送 北海道千歳市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBSWdUU3RIekV2WlFkazhOZXctNi13cFRvMUhHb2RjOHVHT0lTX2xfaHU1Rl9pVzVuOTF0ZjFra3lkazdxWjE0VXJ2MHJRMElVN2FtUGI3d2x4Z2drNm45QzctUE5ZWlA5dG5BcTA4cUM3NTBQeldiZGhBcEpUNlk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-23T08:19:00.000Z"
-    },
-    {
-      "id": "123c588fc6bd698e",
-      "title": "「前見て！その一瞬が未来を奪う」 トラック協会が交通安全啓発のぼり【愛媛】（南海放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSkRuMkd2TGw1X1dlamhZbEFfMVN4Slp5Sk1lclg0MjZnTlozVlptRkRWd1lqTXl0R3BxTi1KYjlNcGc2aXVwcjJwaGJYcEM2bU00MDI1X0dTTHFWa21XWWR1TjhNWUw5M1ZQVkczNW5hNEh2SEZPU0M0S3V5ODQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-23T08:11:00.000Z"
-    },
-    {
-      "id": "eb6624f78a5f3fea",
-      "title": "ショベルカーの操縦体験など…大型物流施設の建設現場で親子向けの見学会 ブロックをモルタルで塗る左官体験も（東海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NVmRSU3JJM1JHWlNYOWVUaGNKdG1MdUpKSXVjTVRfS1FTZ3dYbnpWM1FVQ1RtcVcwb1R0MGMwRjVhamhQbVVFeFpDVTNVdDFqUV9GejNyLXZ5STFQSnpKa2hfTDRjU1E2RGFSNFdNNlhSaVR0WFVDdTM0T3pfVjQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-23T08:08:22.000Z"
-    },
-    {
-      "id": "242d931b0a53baa1",
-      "title": "台風25号 成田エクスプレスは終日運休 千葉の高速道路で一部通行止め 最新の社会ニュース【随時更新】",
-      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3RWVGlEZmNDdmIzbWF2UVVtbTNtaUlPbGFzc19FMWp3MnJSU0xPaXd0WS1qcWpuNTRuXzlSaWRmQXI1SllJNDI3d1RQZ0NMTlM3RHhydUdPYTg?oc=5",
-      "source": "ABEMA",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-23T08:01:53.000Z"
-    },
-    {
-      "id": "057ea36807554dea",
-      "title": "配送の選択肢が一つ消えただけで「売上数量15％減」、アリババ42時間トラブルでわかった意外な事実",
-      "description": "ダイヤモンド・オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uRGdqd1h3X2tTeWFIbFlKcWxTd09Za3QzT1Y5cl9YTmsyOUZibW9lSHU2SkZBeEZHYzBQTU5PcHpzZ3J0YklEQ3ZqbE7SAU9BVV95cUxNelFxY2hNZzYwakZPRDAtZjhSMXpNcjZLYnNueFNZOWNrS1dWLUZVZmQ5RUhPSC02aXZWTWVHQzNWNnhYZ2tEOWhyU2RqVHdF?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-23T08:00:00.000Z"
-    },
-    {
-      "id": "e071e23ed4611d3b",
-      "title": "「あれ？ ドライバーどころか運転席もない!?」公道を走り始めた「無人配送トラック」の実力とは 人は乗ってなくても見ている？",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUmsxeHI0Nk56WHZKSGZWNDVnZHloY0Z6dV9GYU1mX3laT21tUF9TOUNqMDM2d19vTmFTbzE5ZkRxeTB2eVZYNHNJalI0SlJucm5SNWdXUFpkc1c4YjdoTnJOREVObUlSSFlxSV9obHk4eDZiZTFFcWtqSGVMbjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-23T05:12:00.000Z"
-    },
-    {
-      "id": "f1e600ea77bf61a4",
-      "title": "【更新】常磐道で乗用車全焼 日立南太田-日立中央IC間で4時間通行止め 茨城",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1RoLW5XbWhOSG5ZZURIaFEzVFZfTnF6RUZWZW55S0IybEs1VnFMM1BtUXMyVUd0YWhEUUVPUVJsZXhOS3dpdkJOM1l4MFJGaWZ4LS1mbE9XZzRmZkVIdnUySXlJWDZ1MFBkRDkyN2JxU0Y3bjdQYjdjNTBvajRVX0RWMNIBiAFBVV95cUxNQXg2NVVXLUZSZm1FSEl2VUdfMDRRRzJ0YkJmczlRN1dxb1laQzJZVTVxNXZVVmNXRml0SkFieEJGQnBTR1Q4c2lidWpjcmtKV0p2TlVPVTFyZndsTDhuYUFMbkhJRjlkX0xRNW5GY2I4MnF2VmlubHlRbFBqU3RJSElTMThYN1g2?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-23T04:49:00.000Z"
     }
   ]
 }
