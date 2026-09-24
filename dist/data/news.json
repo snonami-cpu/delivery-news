@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-24T04:26:41.500Z",
+  "updatedAt": "2026-09-24T05:25:15.403Z",
   "articles": [
+    {
+      "id": "a7cfb63644bf6421",
+      "title": "伏木富山港、物流機能刷新へRORO対応強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pTFBTLTJxcUZEMFpvYTVieFpCbkFQZGt4UF93LVRCQmpnVlN3dEpsMVl6b29PNjRIRlZiRG55d1ZlNnk2dldrRWpR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-24T03:37:12.000Z"
+    },
     {
       "id": "eb37fb2abc387893",
       "title": "BearBell、物流・配送の鳥獣リスク管理を支援",
@@ -11,13 +20,40 @@
       "publishedAt": "2026-09-24T03:19:52.000Z"
     },
     {
-      "id": "1c2ba1f6800c8768",
+      "id": "1cfd8357bb7cdf9a",
       "title": "東洋埠頭：独自インフラと価格転嫁が下支え、国際物流の伸長や還元強化で堅調な推移へ",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmN1TGRaeFNqTzdWeWdpNWJIblh1STUxd3hFSzhaVGsxcU9xQ1ZMM0RNQm5UUUhodkk3YW5xVGo4cEJ6RGNxWDFkNzA5anNRd0w4WUlZaDVpZ0hPWWtseFhXaFg4V0RGUUpzZG9qLWl1OEJKWC1md0tzNmpxVTlPRXJ4Q0MtMGNXVFBSbnpFV0Jrb1R3NXlBUFVUbnZqWWxtc29WTHg1SDcyak1vbVF0TGEwZGVHeTNlZFlkZVduVUtzNjF5Z3RPb1JFQXJEZFlwejBnZGxlZVZKYTB10gGMAUFVX3lxTFBKajFNc1FnRUxMUjJOZVEtZkU0Tk5mWWxMUGI3MEFfOFlpVlRDdGVqNUZmNFgxVWhLYzFLc1F0Y0J2NFVBWDlYT2d4MFNZUndDekV1YVFUSExoNktsUGFFVlJRc0VSamFBUXRoODJDbjV4OHpkUUVqQmtwenlRNUNKMEM1QnAtcHdYeFJF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmoxTXNRZ0VMTFIyTmVRLWZFNE5OZllsTFBiNzBBXzhZaVZUQ3RlajVGZjRYMVVoS2MxS3NRdGNCdjRVQVg5WE9neDBTWVJ3Q3pFdWFRVEhMaDZLbFBhRVZSUXNFUmphQVF0aDgyQ241eDh6ZFFFakJrcHp5UTVDSjBDNUJwLXB3WHhSRdIBjAFBVV95cUxQSmoxTXNRZ0VMTFIyTmVRLWZFNE5OZllsTFBiNzBBXzhZaVZUQ3RlajVGZjRYMVVoS2MxS3NRdGNCdjRVQVg5WE9neDBTWVJ3Q3pFdWFRVEhMaDZLbFBhRVZSUXNFUmphQVF0aDgyQ241eDh6ZFFFakJrcHp5UTVDSjBDNUJwLXB3WHhSRQ?oc=5",
       "source": "ｄメニューニュース",
       "category": "物流",
       "publishedAt": "2026-09-24T03:15:00.000Z"
+    },
+    {
+      "id": "4b036320c7bfed07",
+      "title": "台風影響運休などの可能性シルバーウィーク期間中",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
+      "source": "朝日放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T03:04:22.000Z"
+    },
+    {
+      "id": "84b382afab76e94a",
+      "title": "スマートフォンでトラック荷台の積載率を計測する 「Rulerless Truck™」を提供開始",
+      "description": "mitsubishielectric.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNS1ZYRDdwOVMwM3NnZDhvcjVkamtZRFVJdTRZOVFuMVlORWdrV1NVNGVka0xUeFBSbkVsdlY0NlpCTWNFWDkySy1jeHEyYThXYnBCa3g2VElGUjJsZk5LUHlKbktHX2swemFiR1Nucw?oc=5",
+      "source": "mitsubishielectric.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-24T03:01:49.000Z"
+    },
+    {
+      "id": "0f7e232a97d2f6d8",
+      "title": "KDX不動産投資法人、「ロジスティード北日本清田物流センター」底地を11億6500万円で取得",
+      "description": "リアルエコノミーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkelpLZFp3bTRnOE8wR0pJSlVvOTQ5YTRVQmF5eDhEOExGNzVFMmZUMGFINTYxRzZHUE05MkhLU3RFUlVlTl93RkpkbmQtZ2M?oc=5",
+      "source": "リアルエコノミー",
+      "category": "物流",
+      "publishedAt": "2026-09-24T03:00:00.000Z"
     },
     {
       "id": "61c8acfb26e0af14",
@@ -56,29 +92,20 @@
       "publishedAt": "2026-09-24T02:30:32.000Z"
     },
     {
-      "id": "e60cc6ff2a63dfa4",
-      "title": "物流企業と店舗で排出する古紙と段ボールを回収し、紙資源のリサイクルを推進",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6eGdoNms1VVdaVlZfZnlidXJaSzhOaXdsZDMyZ1kxSTR3RU54NGRVNk5Ya2NZM2VyVERFT29wTGM4cEJZY1A4dFNBS0JDLVdfZjdWVmhIUmlicXp6R3JrTEJqVjA1eTVQaXc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-24T02:00:02.000Z"
-    },
-    {
       "id": "cc58cc0904e74622",
       "title": "「山から津波」ネパール被害4200億円 物流網寸断・観光に打撃",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aNnVFcjI0MTFBRVhUaGVsYm5xaE1zN2xRTjVLYkJlYjBVTUQzbG41NjFhU0NYNGVDdExEdkl3M2ZkNlpvckczdmJFVjg5TzRIbXRhcjIwZmVOcXRXTF9MLUV4bHRFQjV6WXhmNQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-24T02:00:00.000Z"
     },
     {
       "id": "8d8a9097a3451816",
       "title": "乾汽船(9308) ドライバルク船の市況が想定を上回り、通期計画を上方修正",
-      "description": "QUICK Money Worldが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "moneyworld.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMnFFSjJKNE9KYV9nUWs1eVA4QncwaVlISkF0dThiYklhWTV0SG1PX3pYdjJTX1ptTzNwTmdKODc0YkNSVFM3amotWWlvb18zcVVnTUhB?oc=5",
-      "source": "QUICK Money World",
+      "source": "moneyworld.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T01:52:38.000Z"
     },
@@ -92,11 +119,11 @@
       "publishedAt": "2026-09-24T01:35:00.000Z"
     },
     {
-      "id": "cea46880913297c2",
-      "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ（レスポンス）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ZDg1c19zbHpxUFVZM0UzYzBjbVljS1ZRZE1RTVR3TzE0WDJFdzB1eTN1WkpzdS1pOGhOUXo2LVdidE4wQ1hHWTZjWk9iTFNDZTV5R2hidkt0c25UODlzYnF5TFRadE5fbzZXQk9tWUlRZjQ3RUF6NmpUU294SGM?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "23131978af79a154",
+      "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
+      "description": "response.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PVUNIYzFFRTZtN1NXTFJ5N2dGQmdDVk1Id0xEX3FNci1BZzJTX2dmNEVoMWhVbUtkTms1dlI3M2J6YXVLVDBVN1FKTXBsekdDTUVfUXJTOVA1cHlSOXhF?oc=5",
+      "source": "response.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T01:30:04.000Z"
     },
@@ -117,15 +144,6 @@
       "source": "Motor Fan",
       "category": "物流",
       "publishedAt": "2026-09-24T01:10:00.000Z"
-    },
-    {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T01:07:44.000Z"
     },
     {
       "id": "8516a3577f3bc838",
@@ -164,20 +182,11 @@
       "publishedAt": "2026-09-23T22:01:43.000Z"
     },
     {
-      "id": "dff342fa3f9b4492",
-      "title": "ロボットがフードデリバリーする未来も近い？各地でロボット配送の実証実験 渋谷ではカレー、滋賀では弁当",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlWDFSZm1rdkJTWWkxRVNwZnJWUV9zLXdqSzd1X0xpVlhUcnJMQTVHSDEzc1VPYV9IYVhNWnZSXzcxdUhFQnp3NFA0eDBYNVJKeHJOQmdiWGVkNnJ0WWxaNXRqSU51MW9xLWFOMk91cUpiVGFkN3JXQ05pR0JwQk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-23T22:00:00.000Z"
-    },
-    {
       "id": "0aabc0806b24750e",
-      "title": "【現地取材】日本の商業用不動産市場の透明度、物流施設が向上に大きく貢献 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【現地取材】日本の商業用不動産市場の透明度、物流施設が向上に大きく貢献 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbFRsd21aS0F6S3dsX0wxQTZKUWhPaGhCaXN5cXZncVFlSEhzaWhSQnBwVkNtNXpiZm94Y2xKMFZETlRoa1JRa0tMdw?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-23T21:00:25.000Z"
     },
@@ -209,20 +218,11 @@
       "publishedAt": "2026-09-23T21:00:00.000Z"
     },
     {
-      "id": "614246ec11498f8a",
-      "title": "ＳＢＳロジコム、相鉄の新型鉄道車両の輸送を担当",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83RV82bDNfYU5jX01rcFJ0WTlCT191cnJld080RnJoUl90VC00MkpNVHBBbEx0RVB5VkpieldmQ2dvZ0Rpb2xvSkZKSU5rS2F1WGZEOFBxUE5IUGFJNHNV?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-23T21:00:00.000Z"
-    },
-    {
       "id": "15c6f95d20fe11f3",
       "title": "商社、新資源は消費現場の情報網 「アイス運べない」伊藤忠が物流改革",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS2ZWdVZzYTZLU1pqUXBKQXRyNzlBTDNLZTdkaEJOUWphTGI5Y0FOY3ZnMWctRGFvUVYxR1hPMXBUTC1WaWc2WVFCbElpa05HNmxRbVo3X2tGOTlWZlN5Y01SQnNaZkUtVTBwSA?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-23T20:00:00.000Z"
     },
@@ -236,13 +236,13 @@
       "publishedAt": "2026-09-23T20:00:00.000Z"
     },
     {
-      "id": "3d65c9c5caf77726",
-      "title": "標準労務費の認知度、いきなり59％ 改正建設業法や取適法での新語に関心",
-      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNVNXN3ZKb3NEVVZMdEN0elZ0Z2NlekFsc1liSTJ6bmZnN01vbEtyUGRGYmFrOUI5MUJLVUJfVEZ5VTduMWRVRXBmQ1A5RDMyLVNZaU8tTWU5RVlKUk52djhVaXlUX25SSEJVQXNB?oc=5",
-      "source": "日経クロステック",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-23T17:09:00.000Z"
+      "id": "972494799a096a3e",
+      "title": "温度データロガー市場、コールドチェーンと医薬品コンプライアンスを追い風に2035年へ拡大見通し",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQzdsWUxhLTFiN251RkdQWWs4UGVGbXJRV1BZZmsxUzVBNUt2Vk95ODIzdmhiZi1jSGxnXzBOa25IMUJ5bEZIemFWVGFyRXg0eTZoUmZXRFNNZnJ6VC1lU2dPalB1bDNKZWtfZEQ4cE5ZUU84QlJpOGE4LW8xWmVzaENCU0pLbXFaVHlBQnpuVVNLWThyMWxTQ3N1MjUydDljUzBFLVM1UG9SMGlid1E3czBZUkRPMlFJUjlnN3M2MFM0ZUNmbEZHcUNNdjN2ZkhWYjZ6aw?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-23T19:31:04.000Z"
     },
     {
       "id": "39e6f289fcbe54b3",
@@ -371,6 +371,15 @@
       "publishedAt": "2026-09-23T04:49:00.000Z"
     },
     {
+      "id": "7ad836624f9fd59e",
+      "title": "台風25号の影響、千葉県などを発着する荷物に遅延。ヤマト運輸、佐川急便、日本郵便",
+      "description": "ネットショップ担当者フォーラムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03MnVmb0lwZDN5cDdoOVQwU0ctWk00dUFSRTdvTzBud05iMzVDTllUa0tVVXMzS1VCcUJMWm5OU3hCVTVTN1BhWjh4ZEtORTNRTXM1MGRlYWFtWkdL?oc=5",
+      "source": "ネットショップ担当者フォーラム",
+      "category": "物流",
+      "publishedAt": "2026-09-23T04:31:37.000Z"
+    },
+    {
       "id": "1ef5cf8a97b1764e",
       "title": "稲刈り作業後に無人の軽トラックが前進 止めようとした男性がひかれ死亡 新潟・十日町市（ＢＳＮ新潟放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -382,29 +391,20 @@
     {
       "id": "26e3848eb76a1b54",
       "title": "物流の要だった牛に焦点を当てた企画展 江戸末期に描かれた巻物も展示 岩手県奥州市",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qQ0RwdUVKT29SeU54X0ZkU25ac21Cb2JKb2RUZ0l3MFZIWEN6b1FyT3FEbVEzeU1jOWhkRjNhWjJGQ3RuUnpWQVQ2UmxKUQ?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "物流",
       "publishedAt": "2026-09-23T03:35:00.000Z"
     },
     {
       "id": "5fd243ceceaa316b",
       "title": "十日町で死亡事故、軽トラックの下敷き",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2dTlqdTlFM19MWDE4VkNEd0xiUmY4VE92ODhmX3ZvMTZKcUtxdnpaT08zdHItMXhRRnpKVHJlQjJnZ244MW1CWHplWQ?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "安全・事故",
       "publishedAt": "2026-09-23T03:25:00.000Z"
-    },
-    {
-      "id": "f566ec28794122a2",
-      "title": "冷凍－20℃～冷蔵20℃のキープを実現！ トランポ積載、ガレージ、アウトドアに【国際物流総合展2026】",
-      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbWZ4OE5jN1FlR2w0ZW8xY0hVOVE0MHZZVWd5QTQ5UXprX0JsUnlNTjhVUGhEOHN3bVNYSUs5cFRRLUhPeFAxRnJzVk5nQQ?oc=5",
-      "source": "Motor Fan",
-      "category": "物流",
-      "publishedAt": "2026-09-23T03:10:00.000Z"
     },
     {
       "id": "f6d90e70ec2b485e",
@@ -436,9 +436,9 @@
     {
       "id": "d5ac301e390a0e48",
       "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開｜経済・産業｜青森ニュース｜Web東奥",
-      "description": "東奥日報社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "toonippo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XX1RwWWVsWlF2UmxYd0VMUkJYTTUxQ2FGMDFsUnFxYnQ1cDRvTWpHbHlYaEFYNnA0MDhSNkxhQ1dJMllrWUFKQ052Wm9oOURRSzBNbUhGOE4?oc=5",
-      "source": "東奥日報社",
+      "source": "toonippo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -454,9 +454,9 @@
     {
       "id": "69c517c25102a169",
       "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OSTZpQU56NVF4WWd1YlprUlFNTzgxTnh4cU1GTTZfazk5ZWZyUTJZNl9BMDVlMV9wYmtURld4YkE0eEZIbmpLT0lSSQ?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "物流",
       "publishedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -477,15 +477,6 @@
       "source": "tv-tokyo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-22T22:24:01.000Z"
-    },
-    {
-      "id": "31670fc3eec3947b",
-      "title": "日本通運と電動車椅子メーカー「WHILL」が共同開発！ 座面が30cm昇降する倉庫作業しやすいモビリティ誕生【国際物流総合展2026】",
-      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nX3VSWE5oQ3Fwcjg2QXRzT0R5RTc5bDh6aE1QQ0xLVWhUcFl4c1dselZWaERMeUt1akxUMkhINkp1YzdFdzlfcnVFOFRpZw?oc=5",
-      "source": "Motor Fan",
-      "category": "物流",
-      "publishedAt": "2026-09-22T22:10:00.000Z"
     },
     {
       "id": "08f37945ea166839",
@@ -561,12 +552,21 @@
     },
     {
       "id": "2ed4c4f8ffd3ae39",
-      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！",
-      "description": "kidswellbeing.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【試食・プレゼントあり】食・配送サービスが体験できる！毎日の食卓を笑顔にするイクフェスの体験ブースをご紹介！ - Kids Well-being",
+      "description": "Kids Well-beingが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40UFM4ZTh0Zmo3N0pVUHEzNUtzMkhXVThKcjVLcTJnU0ZhUXFQS2JlT1JEQmdCNXBfeGZ1bmFOb240NmxPNmc?oc=5",
-      "source": "kidswellbeing.jp",
+      "source": "Kids Well-being",
       "category": "物流",
       "publishedAt": "2026-09-22T11:48:38.000Z"
+    },
+    {
+      "id": "9bdf1f0d3aa4757b",
+      "title": "国道に“迷子のブタ”誰が？ 目撃者「まさか…」",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aZ1dFVWFaQmJuX2JnNjc1dWl2MEtXbmJ6dU5Sb1VyUFFxTVpZcE9UalN5alZKLXZHem81czg3bE1QRHVvRDhoZF9IS0lDZXdLRjh1bVZTSXh4WG9tc0RScTRaMmY4aGNBdm1OUWgzNDk5UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-22T11:21:21.000Z"
     },
     {
       "id": "3cb355710243c970",
