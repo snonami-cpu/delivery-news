@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-24T16:28:17.181Z",
+  "updatedAt": "2026-09-24T17:25:05.073Z",
   "articles": [
+    {
+      "id": "92e95205a52fd94f",
+      "title": "第二神明でトレーラーなど１０台絡む事故、５０代男性が重傷…男女７人が軽傷で搬送",
+      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xX1pNTEdMenNDeTdWWTlDeFRpVTlZTFZpSHVzX2FISGR2WEJ6N0hiVlhFVk80QjU2ekZqc1UwOWZNRUMtTVNLZlJMUFhVRjZIM21pMGFVUGtxSE9URkhKVndtOHZRdw?oc=5",
+      "source": "読売新聞",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T16:25:33.000Z"
+    },
+    {
+      "id": "d3db31035c6ffb96",
+      "title": "持続可能な産業インフラへ 進化する物流施設 ｜ 日本経済新聞 電子版特集(PR)",
+      "description": "ps.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JVjd1bFF2c3hUU0hkLUZ1aXVfdU5pZHlqeW51WlpCa1BBVW1iaHVsODFlWkZ5aWtnQVVldEo4NXNzZVdmbUp2a3Z2djJFQmtoMG1hWA?oc=5",
+      "source": "ps.nikkei.com",
+      "category": "物流",
+      "publishedAt": "2026-09-24T15:14:07.000Z"
+    },
     {
       "id": "1a90549735e47f4f",
       "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗 - weekly-economist.mainichi.jp",
@@ -9,6 +27,15 @@
       "source": "weekly-economist.mainichi.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T15:03:51.000Z"
+    },
+    {
+      "id": "4b036320c7bfed07",
+      "title": "台風影響運休などの可能性シルバーウィーク期間中",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
+      "source": "朝日放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T15:01:27.000Z"
     },
     {
       "id": "3e4322dbf1102b0e",
@@ -21,10 +48,10 @@
     },
     {
       "id": "b5c4904f42c39d6c",
-      "title": "佐川グローバルロジスティクス 京田辺営業所を開設",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "佐川グローバルロジスティクス 京田辺営業所を開設 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vQWVCUmFUQUdrRGloU2MyTC1RVlJBVjh0SlZtbERYVW00ckVrQmpyR0ZBd29XRFFub0FiN0dSeTM2OEI2bnNQYS1qb2pqdw?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T14:53:05.000Z"
     },
@@ -66,19 +93,28 @@
     },
     {
       "id": "1c45605feb17a55e",
-      "title": "三井倉庫ロジとＴ２ 日立産機製品で実証",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "三井倉庫ロジとＴ２ 日立産機製品で実証 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zSTJXQU5NSnIwQkh5aWJQOS1FYVNKMmlDUVkyZXhWdjg4ZWNPYlJ3R1J5Y1A5V2lCSzB3T2VUcmlSRG9DbFVkRFhkUVRSQQ?oc=5",
-      "source": "物流ウィークリー",
+      "source": "weekly-net.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T10:32:58.000Z"
     },
     {
+      "id": "ce0bd4556d1b4fcb",
+      "title": "鈴与（静岡）、大津町の物流倉庫増設へ 二輪車向け部品の需要増",
+      "description": "熊本日日新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hbXkyVTEzUEZUa3ZiTEt4U0VoN2lDQ3pEbzRpdlExck5EM213STl4eVV2N2dsQ3JHVjVucDFHcUk1dFc1b1N1alNQeC1NN1E?oc=5",
+      "source": "熊本日日新聞社",
+      "category": "物流",
+      "publishedAt": "2026-09-24T10:24:52.000Z"
+    },
+    {
       "id": "a3b923e46748d648",
       "title": "トラックや乗用車など１０台が絡む多重事故 車内に一時閉じ込められた５０代男性が重症か 第二神明道路の一部区間を通行止め",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ic1I3czQwTUpSUElhV3AyWnhsVUFpOHdibTJQSmZsNXVCdHAzb3I1LTFIbHYwekg5ZmROQTJTRmY0eTgwM3BaNGRmallMeUpoS082WnRHME5Od3FDSzVUQzAxZ0dicXRqejMzeEhvdl93LVBsUzlHeUFKUULSAXxBVV95cUxNYnNSN3M0ME1KUlBJYVdwMlp4bFVBaTh3Ym0yUEpmbDV1QnRwM29yNS0xSGx2MHpIOWZkTkEyU0ZmNHk4MDNwWjRkZmpZTHlKaEtPNlp0RzBOTndxQ0s1VEMwMWdHYnF0anozM3hIb3Zfdy1QbFM5R3lBSlFC?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-24T10:23:00.000Z"
     },
@@ -135,15 +171,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T09:10:45.000Z"
-    },
-    {
-      "id": "fe0cf21ffd2fe378",
-      "title": "物流・自動車局 川島総務課長会見 物流政策運営を「しっかり下支え」 | ロジスティクス | ニュース - daily-cargo.com",
-      "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41amNPVVBqZFdaQTVwbDQtQm0zV19odlpjdUh5MGpZMkJUTjBQcDdmZkNPblFRWkdsTk5ZVEhJdkV3UE9OS0pQOWdFUzRMYnR5YnM5WS13ZW9ZVWtwX0tPTnQ3NWVDcVBOSXc?oc=5",
-      "source": "daily-cargo.com",
-      "category": "物流",
-      "publishedAt": "2026-09-24T09:09:07.000Z"
     },
     {
       "id": "3d694b0463247a12",
@@ -292,9 +319,9 @@
     {
       "id": "1236273645eab496",
       "title": "【速報】第二神明・須磨IC付近で10台からむ事故 乗用車8台とトレーラー2台 8人が重軽傷 現場付近の上り線は通行止め 神戸・須磨区",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4TEc5ekFpYXpwRHE5N0NmWUZWTzRUSjZITHBQT0FvT3huV0RtRmhJX1g5VGY0MDBaVDlfMkUtTF9Ma1RCUHlzeHpMUE9uaWpyUG4tN0hacHJJckJzNnlVRWtqNGZPRVktSExPbmI1Qm9Va3ZadGpwWm5n0gF_QVVfeXFMT0pMYkZlUExJUFlkZHh0Q1I0T0Z3V1Z3N2hQaUI2bmdwU1NGM1lRa3ZwemV2aWFnQUtjNFoyUzdXRGp2QVRhYy1fVnl2SkZXMm9KV2d4d3pLOTI2NlpDMzJvUjk2Unl3ZWlIZ1JrYi1nem0xMjIwQWlpblVwV1g0NA?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-24T07:05:00.000Z"
     },
@@ -472,9 +499,9 @@
     {
       "id": "816150ddeef4ff31",
       "title": "物流危機を「競争」から「共創」で乗り越える 競合49社が築く「JITBOXチャーター便」の挑戦",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZUhuN3JQNWh6RFhkTWZaRHIyZVJDYkxMQUhwdkZmMUxVakMtR1FyRVRWOXNLRUN5QktiX1dkTDJ2b3JCb1FqbGRXTnpwMnRLekRSLTV1N29jdw?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-24T05:05:06.000Z"
     },
@@ -598,9 +625,9 @@
     {
       "id": "c4e695cc7940a753",
       "title": "安特羅のエンテロウイルスワクチン、タイに進出 Biogenetechと提携し300万人の乳幼児市場を開拓",
-      "description": "finance.biggo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "BigGo ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fVUZscjNXOEh5QktYWVVRTTktMnptWENVUzRnWVl4ZWpoUnBIdTVfREJoLTlfTm1jMUs4YjM1QkZvaDRHZ2dZSUVDNTBPVkkzWFB1VE05LUk0Q2lxdlVtM01EcjJiZ1VqcWFaUDhkcV9hSm9G?oc=5",
-      "source": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-24T01:35:00.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-23T22:17:38.000Z"
-    },
-    {
-      "id": "b08113f1841cc249",
-      "title": "【国道20号】緑区内でトラック横転事故 一部通行止め解除（24日06:40現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kODdVT1d2MjlPS1lOdTZHTHRaT1AwRHZaNV9NX1NwYmxCN3ZzZWs1bVVQeTcwcE4tVUhfdGNibWhZeXpYVmRpakJfamZ0QVkxNTF4YU1NR2kyQnhMZEc4?oc=5",
-      "source": "千葉テレビ放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-23T22:01:43.000Z"
-    },
-    {
-      "id": "bb33634c09def1d4",
-      "title": "リー・レデン氏、「ラスト50フィート」の配送にはロボット犬ではなく専用ロボットが必要と語る",
-      "description": "finance.biggo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5bHRTVXFjZU5JS0pjS3hOcHFOY0RKTzkxZ01MVTFOWlpTeF9Wb01WMDZCZDdUeG9BeHVXbkd2Rm9DZzVnQklNU0hQVHZIMnlJcFM3ZHRRTGxxdw?oc=5",
-      "source": "finance.biggo.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-23T21:08:00.000Z"
-    },
-    {
-      "id": "0aabc0806b24750e",
-      "title": "【現地取材】日本の商業用不動産市場の透明度、物流施設が向上に大きく貢献 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbFRsd21aS0F6S3dsX0wxQTZKUWhPaGhCaXN5cXZncVFlSEhzaWhSQnBwVkNtNXpiZm94Y2xKMFZETlRoa1JRa0tMdw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-23T21:00:25.000Z"
     }
   ]
 }
