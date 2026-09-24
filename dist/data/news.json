@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-09-24T13:27:58.918Z",
+  "updatedAt": "2026-09-24T14:27:47.256Z",
   "articles": [
+    {
+      "id": "fb67a240ca043b60",
+      "title": "野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSms5VHRCbWpTdzBzclB2d0loWjBic29ZWi1wR1EteTczMTlkaFM2M1BLWWRrQTdaYVlZeS0wSVVUdUdXa3hRVlJNNHZDNl9IUmRnRg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-24T13:51:46.000Z"
+    },
     {
       "id": "4b036320c7bfed07",
       "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
+      "source": "asahi.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-24T11:52:57.000Z"
     },
@@ -120,10 +129,10 @@
     },
     {
       "id": "f3b402d006c2f5b9",
-      "title": "京阪神ビル、米国で物流倉庫を竣工 - re-port.net",
-      "description": "re-port.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "京阪神ビル、米国で物流倉庫を竣工",
+      "description": "最新不動産ニュースサイト「R.E.port」が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWVhaMHBTNVpYbVlEQXFxV09iUUlCeGxYWVRLd2hWb21RaFFoNUZPblhvWUdOOVNtYXJLQlVldkVQcmluaGZzREIwczBTcEt0SW9LeEtCYnZ5Um1G?oc=5",
-      "source": "re-port.net",
+      "source": "最新不動産ニュースサイト「R.E.port」",
       "category": "物流",
       "publishedAt": "2026-09-24T09:01:53.000Z"
     },
@@ -175,9 +184,9 @@
     {
       "id": "fade5fcd3da47507",
       "title": "SM物流研究会／首都圏の共同配送で積載率13～38％向上、2026年度上期の活動報告",
-      "description": "流通ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ryutsuu.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLcy1wNWxDaDFRMDlCai01ajE3SERIY3lCYldRWVEyNVpQRldCZWIyd3I1UUtQVkJxNWxYQVFUUVA2NzRiQ3M5a1luSzRWUEVoRFp2bjlXajM?oc=5",
-      "source": "流通ニュース",
+      "source": "ryutsuu.biz",
       "category": "物流",
       "publishedAt": "2026-09-24T08:31:00.000Z"
     },
@@ -209,6 +218,15 @@
       "publishedAt": "2026-09-24T08:12:08.000Z"
     },
     {
+      "id": "fb6b9ef2c0949024",
+      "title": "SM物流研究会／改正物流特殊指定に対し、これまでの取組を継続して対応、中長期計画策定で混乱なし",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9va3NIM0wydWVQUy14ZUdfZ1k5c1RNRC1UYjh3aDM3OGxYY0xhdXlJc2llVk1ObXlUdGMxc3BwQVR6T1ZtbWhTLXdlTmo2aHFrX2hjLQ?oc=5",
+      "source": "トラックニュース",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-24T08:12:00.000Z"
+    },
+    {
       "id": "09eb6f525626c755",
       "title": "シーバ、JLR完成車物流を仏・ベネルクスで拡大",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -218,15 +236,6 @@
       "publishedAt": "2026-09-24T08:06:47.000Z"
     },
     {
-      "id": "fb67a240ca043b60",
-      "title": "野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSms5VHRCbWpTdzBzclB2d0loWjBic29ZWi1wR1EteTczMTlkaFM2M1BLWWRrQTdaYVlZeS0wSVVUdUdXa3hRVlJNNHZDNl9IUmRnRg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-24T07:51:46.000Z"
-    },
-    {
       "id": "0a8443574422615c",
       "title": "物流連／人材育成・広報委を開催、SNS活用や採用強化を議論",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -234,15 +243,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T07:45:13.000Z"
-    },
-    {
-      "id": "de1f1f2b0da396ab",
-      "title": "第二神明で乗用車8台とトレーラー2台絡む多重事故 男性が重傷 影響で須磨IC－月見山IC間で通行止め（神戸新聞NEXT）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15V2phZmN1WDVMYVFlUC16aDVmRldIOFVodVhBVDRxVTNIajE4RVdqVUtkMUNFYXlVcFB3cE1VaXhESklzMGNKWDFzTGNIb2VybWQxVUg5c3pFMUVoSEY5SzRZOGhYZzVoUWhOektNM2RZUFVXVm9tcmEyUXhJbmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T07:38:30.000Z"
     },
     {
       "id": "2979e06328382cc2",
@@ -270,15 +270,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T07:20:25.000Z"
-    },
-    {
-      "id": "91dc8840dd212c70",
-      "title": "ロジスティード／日本マテハン大賞で奨励賞、リチウムイオンバッテリー収納箱は特別賞に",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91LXFFQVhCYnc5SjdaSldaaV9Wa3NNTGh3NWMxY1JSVEZ5Y2JqbGRrdmJuaTY0cjl5bjVnc2o5ZUJMdnNZYk5WbEtjcHEzcm8wcldJRw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-24T07:02:30.000Z"
     },
     {
       "id": "50345965d310b65f",
@@ -445,9 +436,9 @@
     {
       "id": "816150ddeef4ff31",
       "title": "物流危機を「競争」から「共創」で乗り越える 競合49社が築く「JITBOXチャーター便」の挑戦",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZUhuN3JQNWh6RFhkTWZaRHIyZVJDYkxMQUhwdkZmMUxVakMtR1FyRVRWOXNLRUN5QktiX1dkTDJ2b3JCb1FqbGRXTnpwMnRLekRSLTV1N29jdw?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-24T05:05:06.000Z"
     },
@@ -522,15 +513,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-24T02:58:43.000Z"
-    },
-    {
-      "id": "8547960887153502",
-      "title": "「トラックの日」にちなみ親子で物流の仕事を楽しく学ぶ！『トラックのがっこう』を10月10日（土）イオンモール札幌平岡で開催",
-      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TMFlwcFpBaXUtdUtVRWNYQzk0dmlFRGJUS1YzcUZRbTB4eDZVcVR5S0FWY0I4ckZOTjlCOTVFb2JqaWpMUVA0OHFyTEU0Z3FvMkhtRW5vQTZpWGN3SmZXSFIxS2RLTXdqMWNYTmxfSQ?oc=5",
-      "source": "ニコニコニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-24T02:51:46.000Z"
     },
     {
       "id": "349ce53f8b75a033",
@@ -612,6 +594,15 @@
       "source": "Motor Fan",
       "category": "物流",
       "publishedAt": "2026-09-24T01:10:00.000Z"
+    },
+    {
+      "id": "124c6a1f824fe888",
+      "title": "「トラックの日」にちなみ親子で物流の仕事を楽しく学ぶ！『トラックのがっこう』を10月10日（土）イオンモール札幌平岡で開催",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CdUpFVkNBN2pPM2VnNFlfWXliYmp4QlRkS0JXNi0tVHBXazR2Ui1WcTB3eklhcEtPWEFZWTZNc0VOSm1wNkJmUlJQTXNhUU5XMTlYdDJxeF9VTEtiRWlqNE16amVlX2JhTWc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-24T01:00:03.000Z"
     },
     {
       "id": "54ec5961132da6ca",
@@ -720,6 +711,15 @@
       "source": "cargo-news.online",
       "category": "物流",
       "publishedAt": "2026-09-23T21:00:00.000Z"
+    },
+    {
+      "id": "15c6f95d20fe11f3",
+      "title": "商社、新資源は消費現場の情報網 「アイス運べない」伊藤忠が物流改革",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS2ZWdVZzYTZLU1pqUXBKQXRyNzlBTDNLZTdkaEJOUWphTGI5Y0FOY3ZnMWctRGFvUVYxR1hPMXBUTC1WaWc2WVFCbElpa05HNmxRbVo3X2tGOTlWZlN5Y01SQnNaZkUtVTBwSA?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-23T20:00:00.000Z"
     }
   ]
 }
