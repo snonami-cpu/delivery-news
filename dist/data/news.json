@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-24T05:25:15.403Z",
+  "updatedAt": "2026-09-24T06:31:50.804Z",
   "articles": [
+    {
+      "id": "e642865d706a4b04",
+      "title": "タタ半導体工場、材料供給と物流基盤を同時整備",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40WVQzZDFISGtReVBYYU9FMzFxRDV2TnF6WnFtOUI0U19wckpEX05hNDZubTdsN0cyZlBCeEtpRElYbFBmMkRyQzNB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-24T05:57:06.000Z"
+    },
+    {
+      "id": "6499dc9db95ac783",
+      "title": "ギークプラス、物流自動化を4製品で一体提案",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11bml1YW5OUWYtYmctdV9OeG50ZFVFMVBobHZETjlUTG41OXlMdnYxS1Q5dVJfMktIMWJRVjNoUHFkSzRtR18yS0NR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-24T05:36:14.000Z"
+    },
+    {
+      "id": "3e16f74b59839cc7",
+      "title": "産学官連携 「物流イメージ向上プロジェクト2026」が始動！：時事ドットコム",
+      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTFpzUXB5N2NGQ3p0eWU2bVZCS2ZVYTJlU1lpNmV2d1VLQ1RocFZaRFFuazNkeklPakR0alVOWFpTRVJnMzhUVTFtUnVOV1o1R01kUU1fVDh6OHFxMlo3cjZUUkswTVJ2aU80?oc=5",
+      "source": "時事ドットコム",
+      "category": "物流",
+      "publishedAt": "2026-09-24T05:16:00.000Z"
+    },
     {
       "id": "a7cfb63644bf6421",
       "title": "伏木富山港、物流機能刷新へRORO対応強化",
@@ -27,15 +54,6 @@
       "source": "ｄメニューニュース",
       "category": "物流",
       "publishedAt": "2026-09-24T03:15:00.000Z"
-    },
-    {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T03:04:22.000Z"
     },
     {
       "id": "84b382afab76e94a",
@@ -83,31 +101,13 @@
       "publishedAt": "2026-09-24T02:30:54.000Z"
     },
     {
-      "id": "11de9ea385308791",
-      "title": "地球1/4スケール「超巨大物流」シム『Age of Transport - Blue Marble』発表。協力マルチ対応・7万以上の都市を舞台に、100年の時を超える大規模建設＆インフラづくり",
-      "description": "AUTOMATONが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVZ3Y2hOeUlULTBGb1hzTjYtdUxXWnJIcmo3YlBnOWdfWEtZNmVjakJRNTFNSElIRG13X0dwYXZMcnpIQlVkRDZmRzRIMkR6d3l6YW04U0JOS2pZbk8yZXEtbUdNYzJxcVhjN0ZiQjY4bnpqWFZRaHlJM2ZzeElZLTlHcw?oc=5",
-      "source": "AUTOMATON",
-      "category": "物流",
-      "publishedAt": "2026-09-24T02:30:32.000Z"
-    },
-    {
       "id": "cc58cc0904e74622",
       "title": "「山から津波」ネパール被害4200億円 物流網寸断・観光に打撃",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aNnVFcjI0MTFBRVhUaGVsYm5xaE1zN2xRTjVLYkJlYjBVTUQzbG41NjFhU0NYNGVDdExEdkl3M2ZkNlpvckczdmJFVjg5TzRIbXRhcjIwZmVOcXRXTF9MLUV4bHRFQjV6WXhmNQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-24T02:00:00.000Z"
-    },
-    {
-      "id": "8d8a9097a3451816",
-      "title": "乾汽船(9308) ドライバルク船の市況が想定を上回り、通期計画を上方修正",
-      "description": "moneyworld.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMnFFSjJKNE9KYV9nUWs1eVA4QncwaVlISkF0dThiYklhWTV0SG1PX3pYdjJTX1ptTzNwTmdKODc0YkNSVFM3amotWWlvb18zcVVnTUhB?oc=5",
-      "source": "moneyworld.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-24T01:52:38.000Z"
     },
     {
       "id": "c4e695cc7940a753",
@@ -121,9 +121,9 @@
     {
       "id": "23131978af79a154",
       "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
-      "description": "response.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PVUNIYzFFRTZtN1NXTFJ5N2dGQmdDVk1Id0xEX3FNci1BZzJTX2dmNEVoMWhVbUtkTms1dlI3M2J6YXVLVDBVN1FKTXBsekdDTUVfUXJTOVA1cHlSOXhF?oc=5",
-      "source": "response.jp",
+      "source": "レスポンス（Response.jp）",
       "category": "物流",
       "publishedAt": "2026-09-24T01:30:04.000Z"
     },
@@ -138,10 +138,19 @@
     },
     {
       "id": "156ac7f433c2b706",
-      "title": "「セグウェイ」の技術で物流・製造・ホテル・介護など“搬送”の負担を軽減！ 倉庫内のピッキングにも最適な電動台車【国際物流総合展2026】",
-      "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "「セグウェイ」の技術で物流・製造・ホテル・介護など“搬送”の負担を軽減！ 倉庫内のピッキングにも最適な電動台車【国際物流総合展2026】 - motor-fan.jp",
+      "description": "motor-fan.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqM08zS2hic2I1Ymhlb0VoZjlyTEJyeVJEZ3djU3JRYnZJZEhvbmRDU3lsSVFpaGtCU2VmQWhmcnB1X1A3MkgwbGtRNUtzZw?oc=5",
-      "source": "Motor Fan",
+      "source": "motor-fan.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-24T01:10:00.000Z"
+    },
+    {
+      "id": "bebb8f074d0a8798",
+      "title": "「セグウェイ」の技術で物流・製造・ホテル・介護など“搬送”の負担を軽減！ 倉庫内のピッキングにも最適な電動台車【国際物流総合展2026】",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZRTRKU1kzMHFzRlFZOHh5MEtLRk94bXJENVNVbENTanVqS281aW1PLUlLdmZZU0loUE90aTdNbENiVjdzTmt2SUxSLVczVUt6cENpOWNpS0xOcktvZmdTZExFZndjTmx5?oc=5",
+      "source": "Infoseek",
       "category": "物流",
       "publishedAt": "2026-09-24T01:10:00.000Z"
     },
@@ -220,18 +229,18 @@
     {
       "id": "15c6f95d20fe11f3",
       "title": "商社、新資源は消費現場の情報網 「アイス運べない」伊藤忠が物流改革",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS2ZWdVZzYTZLU1pqUXBKQXRyNzlBTDNLZTdkaEJOUWphTGI5Y0FOY3ZnMWctRGFvUVYxR1hPMXBUTC1WaWc2WVFCbElpa05HNmxRbVo3X2tGOTlWZlN5Y01SQnNaZkUtVTBwSA?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-23T20:00:00.000Z"
     },
     {
       "id": "85d69ddfa5bb8dce",
       "title": "自動物流道路実用化急ぐ 国交省、実証第2弾 荷役・複数搬送機器走行ー7グループ採択",
-      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZcXRON1lvSlNBZk40em1xeTJkUk5oSWRBRUlyUzJaX0FVb2ZleXFtc1NqaFlIbnRhcHZTNWNCSERaZVZSY3FpMzdzdm5WenNyTmQ0SnR1bUY?oc=5",
-      "source": "日刊工業新聞",
+      "source": "nikkan.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-23T20:00:00.000Z"
     },
@@ -310,9 +319,9 @@
     {
       "id": "b673728aec534f44",
       "title": "シルバーウィーク最終日 高速道路上りで渋滞続く 関越道で39kmも – Quebee キュエビー",
-      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cGxJQkVSdERVNVV3cW1YakhsOUJKMkgxSmd1UEJCSkRzaXpwQWR6S2JDbGdyaU1qMDlLR2FaWEh5SEZtMUh5V3VKTmdZem1DSUZHek9MVk0?oc=5",
-      "source": "QAB 琉球朝日放送",
+      "source": "qab.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-23T09:03:37.000Z"
     },
@@ -353,11 +362,11 @@
       "publishedAt": "2026-09-23T08:00:00.000Z"
     },
     {
-      "id": "e071e23ed4611d3b",
+      "id": "bd839f4ea0041baf",
       "title": "「あれ？ ドライバーどころか運転席もない!?」公道を走り始めた「無人配送トラック」の実力とは 人は乗ってなくても見ている？",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUmsxeHI0Nk56WHZKSGZWNDVnZHloY0Z6dV9GYU1mX3laT21tUF9TOUNqMDM2d19vTmFTbzE5ZkRxeTB2eVZYNHNJalI0SlJucm5SNWdXUFpkc1c4YjdoTnJOREVObUlSSFlxSV9obHk4eDZiZTFFcWtqSGVMbjg?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "乗りものニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZcmVfeHJnMHJmclZFbkhnWTlqOTM4T056RUxyaS13YjJ2R1FBalVJUVVfa0xIdmxrbGZDRVE3dVNYaVp3MWRfNVpR?oc=5",
+      "source": "乗りものニュース",
       "category": "物流",
       "publishedAt": "2026-09-23T05:12:00.000Z"
     },
@@ -436,9 +445,9 @@
     {
       "id": "d5ac301e390a0e48",
       "title": "運送業の採算管理を効率化／商工中金、青森県内でサービス展開｜経済・産業｜青森ニュース｜Web東奥",
-      "description": "toonippo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "東奥日報社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XX1RwWWVsWlF2UmxYd0VMUkJYTTUxQ2FGMDFsUnFxYnQ1cDRvTWpHbHlYaEFYNnA0MDhSNkxhQ1dJMllrWUFKQ052Wm9oOURRSzBNbUhGOE4?oc=5",
-      "source": "toonippo.co.jp",
+      "source": "東奥日報社",
       "category": "物流",
       "publishedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -499,9 +508,9 @@
     {
       "id": "c2c5aff841e0e1b3",
       "title": "楽天G、ロボ配送を東京・豊洲に拡大",
-      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwWl9OamJDbVR5YlRMSUdSdEFTa0hQbUs2eEF3b0ZlYUtEbFBsOFE0Z0NPRm5mQ3JGRlIwbkhsSTZXdDJnLVhqRnFqRHBrYWFVVlhlYktlclA?oc=5",
-      "source": "日刊工業新聞",
+      "source": "nikkan.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-22T20:00:00.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "UHB 北海道文化放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-22T04:00:58.000Z"
-    },
-    {
-      "id": "7fec290c0de41057",
-      "title": "@CorgiJohnny",
-      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5hakU4OHNuWEJtSFRGTTRVNEFIVnphNTBwTmxCb1ZJbjZGbkFlTEdPZ1lCcjV0T1NacE5Z?oc=5",
-      "source": "t.co",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-22T03:53:59.000Z"
     }
   ]
 }
