@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:26:11.869Z",
+  "updatedAt": "2026-09-25T12:31:47.549Z",
   "articles": [
     {
       "id": "5b894341645b83a9",
@@ -9,6 +9,15 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T11:07:00.000Z"
+    },
+    {
+      "id": "b3bc987dde4f946c",
+      "title": "国内在住の外国人採用で物流の人手不足を突破せよ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EOEt6Z29ObXhHdUwxSEtqY0tYT0tPZFlNbmFta0hTZGJjVlVqc1BncVNLS09Fd0JLN1dFaWRUT1htaEJxMXlUbUZ30gFPQVVfeXFMTXgyazNRdU9oS19fNUF1bUtZYndZVzAxalgzWWN4bkdUMk5vY29LSmY4UVVFNFZNTVZmczFQZlkzUGZZLXdRWUpwNnhlX29PUQ?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T10:10:23.000Z"
     },
     {
       "id": "a298700ed2664f1d",
@@ -29,15 +38,6 @@
       "publishedAt": "2026-09-25T09:43:18.000Z"
     },
     {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-25T09:25:36.000Z"
-    },
-    {
       "id": "1e9ad459d47e3023",
       "title": "東京建物、タイ輸出製造業向け物流拠点",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -45,15 +45,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T09:10:54.000Z"
-    },
-    {
-      "id": "d5a6fe18b0022e80",
-      "title": "東京建物、タイ・チョンブリ県で物流施設・賃貸工場の複合施設共同開発に参画 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOE8wZlB4UkJGNW84cGxzQWtZZUZSY1VMUkVJaE1PRF9SaFlqWHRQMmxNMlVpV0NIZDA4a0xiZzVkSmIwNnE0OFVqWQ?oc=5",
-      "source": "online.logi-biz.com",
-      "category": "物流",
-      "publishedAt": "2026-09-25T09:10:12.000Z"
     },
     {
       "id": "66474a6c0dfb60f3",
@@ -83,20 +74,11 @@
       "publishedAt": "2026-09-25T07:53:43.000Z"
     },
     {
-      "id": "ddceb42648fca4e8",
-      "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
-      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcGlMVWlnTUZCdWRrcFNBc2JRX0ZOZmVRa0xyWmRyYjFza3ZabHhxMG9BcjlCUDJCUlhvcGZ2UkVwRVlGVFAzZ29TYV84QXFjeWc?oc=5",
-      "source": "山陽新聞",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-25T07:38:00.000Z"
-    },
-    {
       "id": "f6c77243d83d5786",
       "title": "運送事業者の9割が「ドライバー不足」と回答。ナビタイムジャパンなど物流5社による大規模調査レポートを公開、10月15日には解説ウェビナーを開催 | 株式会社オーサムエージェントのプレスリリース",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UOXJPcF9ISml1SXdJeU5pdzJLNTlnWkZLd0w1dHpFRnhuTGlGTWV5SzJsdTBlYXRpdXNxc0VUQkI0Qmd3YWxUV3BNU0MzcWx6OFBfZC1ZMmFET0JZd1hMZlpKWS1hcTRWRHc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T07:30:02.000Z"
     },
@@ -183,12 +165,21 @@
     },
     {
       "id": "483acd16abb572e7",
-      "title": "超低温冷凍庫市場：製品タイプ、容量、温度範囲、技術、冷却システム、用途、エンドユーザー、流通チャネル別―2026年～2032年の世界市場予測 | 株式会社グローバルインフォメーション",
+      "title": "超低温冷凍庫市場：製品タイプ、容量、温度範囲、技術、冷却システム、用途、エンドユーザー、流通チャネル別―2026年～2032年の世界市場予測",
       "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84Z3M5RXF0b3pWenVwdFBDTDdwbDlQM0hhV1FEUFA1NldXZnh0bUViUUJxWlItdVM0Z3Rhb3EzcTZ6bzRmcUU2cjZ5aGluZw?oc=5",
       "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-25T06:19:00.000Z"
+    },
+    {
+      "id": "a97c15c9fe6da07e",
+      "title": "タインホア省でトラックが崖に衝突、運転手は即死",
+      "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2gyMmFENGJxT0MxSFlXWk05bDZhN0I1cjVMaUZvZFZQV3pLZnZWV1pXWl9BLXZFY3N3dzFsanhWLUhHREo0VFlPTUdyOHlIYS1Fc0tLM0FWYjJxeEZmTUc5VTJtUUxkdVNHbHNxZDFYU20yVF9zdHJoQ2ZnWE5Ud2JXaDh5bVZOSm9wdjJNcTFGMVJpZUhSTm8xXzk0NVVf?oc=5",
+      "source": "Laodong.vn",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-25T06:06:35.000Z"
     },
     {
       "id": "e1eb4b2e7ca663d8",
@@ -215,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXVXdfREpjbDM0azhqTDJzVmJrdHJiSG5zU3Z3eHJGa2N2V0N2Nnc0X2s4Rk5vMkpTTTZOaEpYSjhGME1iZUNHUzBCbi1uN0lOZVZKY0xLOExQY0gxak5ZOEQtLUNBWW8wYVhOLTNZOEg0OG1yQ2h3dXB4dDY?oc=5",
       "source": "kankyo-business.jp",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-25T05:26:15.000Z"
+      "publishedAt": "2026-09-25T05:32:42.000Z"
     },
     {
       "id": "5d03486becaddb38",
@@ -228,10 +219,10 @@
     },
     {
       "id": "96f456bed89deb82",
-      "title": "大学生の物流業界への理解・関心深める産学官連携プロジェクトが始動 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大学生の物流業界への理解・関心深める産学官連携プロジェクトが始動 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zaWFtelItRUdGU09nYzh3WWFiZl9BWmZ6QjhTX0ZpT2lnbkFBdzcyaVp1Z3NDYVI1OGsybVZSVXRvaV8tQXV3SWdwWQ?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-25T04:52:46.000Z"
     },
@@ -243,15 +234,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T04:50:36.000Z"
-    },
-    {
-      "id": "8020a4f8c1c96ed0",
-      "title": "ロジスティード、物流DXとLIB保管でMH大賞2賞",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtZHlHbDYxd1pBSUdkOUtFM3djcnZvNUdSaEllWXFBR0N4NVNuQU9KY3hRTnhmOExVMW5yYXNIRGFXU0tYMWZaUWlR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:50:35.000Z"
     },
     {
       "id": "d8df3ffb4a255670",
@@ -270,15 +252,6 @@
       "source": "ジモはる",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T04:27:46.000Z"
-    },
-    {
-      "id": "986bfb77985209d6",
-      "title": "ファミマ、「持続可能な天然ゴム」のタイヤ 配送車に導入",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5faVMxbVFMcnBKdUFESmxhQWp5SWgzV3FjVWpodmdhZ05iVmtxamR0R292R0lKTGo2SkIzOGhEMzNjMVE1aDJfdldsNjJHS2tkbGRScFVJYk5oMzExejZwNjVRZS03YndiSjVlcg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:22:41.000Z"
     },
     {
       "id": "62a08f99df86fecd",
@@ -378,6 +351,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T01:26:54.000Z"
+    },
+    {
+      "id": "55f6db299bed3a68",
+      "title": "【常磐道 事故】常磐道 日立市内で事故が発生 高萩IC～日立北IC間で通行止めが発生「現地の様子が明らかに」渋滞状況は？ケガ人は？…（News Quick Up）",
+      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9QYTFFck1DamhIcXd1SXh4S2FLR2tUZUdkSl96eDgxN0RET1RqS2dmTW1pcjB0cDY2Undn?oc=5",
+      "source": "t.co",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T01:25:24.000Z"
     },
     {
       "id": "650dd4f1b732ff85",
@@ -486,6 +468,15 @@
       "source": "sg-hldgs.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T22:22:10.000Z"
+    },
+    {
+      "id": "ef263df93d07b694",
+      "title": "北部地域の物流システムの「心臓 」",
+      "description": "Thông tấn xã Việt Nam (TTXVN)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcXJzcG5iVndmVnVYY2p6OHgzSUFUQXE4cjJRTEh4ZWswZW9uT0VKa1lnZnB4WG9JT1A2a1NfanpxNU9JbDFIcm1xLWRTc1dSa21jOFVOSEM0dHBfT0Y0bTYyS1UxdWpKUjVVaTFOa3VOVHF4VV80cnRLOFQzaGpseEExS0xiRzdjTkY3Q3ZDT0dMUzJpY2dfTlAxM0N1bFZrU01za1Fmd192VkdjVGVoSXZDazJseWt2TnFRV1FKcUlHNEQtQWZ6QTU1STRUSGotVXpaUDdhN1psMTA4aVBMN01RX3dxY2ZheXhBZjQ2bmxRWFR3SzdaNHY4dWNvZXNzU0txWno0MXdQemlZTDFYdF92V0dOVnVRWUl5RWhoNWdfQU8xRXNiQ3ln?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "category": "物流",
+      "publishedAt": "2026-09-24T21:53:22.000Z"
     },
     {
       "id": "647ab2969a4feea3",
@@ -651,10 +642,10 @@
     },
     {
       "id": "1a90549735e47f4f",
-      "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗",
-      "description": "週刊エコノミスト Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗 - weekly-economist.mainichi.jp",
+      "description": "weekly-economist.mainichi.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMkU0VExFUllleGZEUWptV2UwazlQVTlGYXEtN1FmRTM0Ynl0VldGS3lyWmdtM0xkdUhDbWRVUE5PM2JURnJHQlB2WXFWQzhjY2E3TXpkMFNfZHgwSmF2R0RtbUJKczdvZ2tLcFVYNC1tTGJmRFB4MkpfZjlUdUU?oc=5",
-      "source": "週刊エコノミスト Online",
+      "source": "weekly-economist.mainichi.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T15:03:03.000Z"
     },
@@ -675,15 +666,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-24T14:53:05.000Z"
-    },
-    {
-      "id": "c947e6856eb05104",
-      "title": "京阪神ビル、米国で物流倉庫を竣工 - tokyo-takken.or.jp",
-      "description": "tokyo-takken.or.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qZjlWVUJvYkhXNjBkSGNoUEpZY2ZhdWFHX2RuaFNTXzhVWU01TTh5UGdRU1BDNTdjbm9DY3RNVllDSm1HZVJLbi1IMEs4SlVpSzFUenlTdw?oc=5",
-      "source": "tokyo-takken.or.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-24T14:29:00.000Z"
     },
     {
       "id": "fb67a240ca043b60",
@@ -720,6 +702,24 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-24T10:32:58.000Z"
+    },
+    {
+      "id": "f58f2fe77e93a96b",
+      "title": "トラックや乗用車など１０台が絡む多重事故 車内に一時閉じ込められた５０代男性が重症か 第二神明道路の一部区間を通行止め",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HNktRNWo5N1RGc3lOSkJxQjdwRVNvZVVJclRlN2tFblNNTUVxdzUtRWRDZGMzSWljTks2NEV0Q2lpbHBhUi0xVTF0aTM0T1Bld3gxZWJzeGkyMUI1V05MTlVB?oc=5",
+      "source": "朝日放送",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-24T10:23:00.000Z"
+    },
+    {
+      "id": "2cc20e1a2968ef78",
+      "title": "県内の最新ニュース",
+      "description": "テレビ愛媛が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yVFg0YVEzV2ZGcWNHRjZES3c4ZjBudlNNdmUyQjB4ZlR1c2VhMXZ4NVNXUDNzbnp3ZVRyQllvVFlJdk5RN2pKT2J0WWRTaG15YS1MOU93dlMwN3gydVlpTEJB?oc=5",
+      "source": "テレビ愛媛",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-24T09:27:41.000Z"
     }
   ]
 }
