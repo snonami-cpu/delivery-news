@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-25T08:28:08.450Z",
+  "updatedAt": "2026-09-25T09:27:25.096Z",
   "articles": [
+    {
+      "id": "66474a6c0dfb60f3",
+      "title": "DHLジャパン／DHL Express、2027年1月から値上げ",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIRzlWNVBYdzlEY1dOcTNIQjJjWDNwaVNzWUNvelZ1SnR0YkhDQzVrX3FCWkIyV3VVRU0tWEtFdzU3M0NhdVhfcW5DZVZyeU92dW1jTw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-25T08:49:47.000Z"
+    },
+    {
+      "id": "ce8baa05018d5750",
+      "title": "東京建物、オーストラリア物流施設ファンドに初出資…シドニーなど6物件に",
+      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GQjJPOFhTbW8xejJTWmNMZkEtYVItQ3M2SzBfQldUS0RjX1RZS05oanhPSHg4b1ZHcHFZTEhxSG55UVZmRnI0Z28xS00tM1FkRDZfTlRJaVAwN0lNYXhZ?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "category": "物流",
+      "publishedAt": "2026-09-25T08:45:03.000Z"
+    },
     {
       "id": "bad97d58719ddea1",
       "title": "株式会社オーサムエージェント｜ナビタイムジャパンなど物流5社による大規模調査レポートを公開、10月15日には解説ウェビナーを開催",
@@ -9,6 +27,15 @@
       "source": "株式会社じげん || ZIGExN Co., Ltd.",
       "category": "物流",
       "publishedAt": "2026-09-25T07:53:43.000Z"
+    },
+    {
+      "id": "dbe304a492826574",
+      "title": "Cuebus、200キロ搬送の新型機で食品物流支援",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zNFJpZDJDTTNpZkFZTGh2cDNJUTNuRHdQcGdzZ1hXY1NGTGNzRk1BZzg0U2oweDJCTV8tVWdDTGlHbjlENG54aUFB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T07:36:47.000Z"
     },
     {
       "id": "f6c77243d83d5786",
@@ -119,6 +146,15 @@
       "publishedAt": "2026-09-25T06:17:45.000Z"
     },
     {
+      "id": "e1eb4b2e7ca663d8",
+      "title": "【常磐道】日立市内で衝突事故 8時間弱ぶり通行止め解除（25日14:30現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaURKU0dEdXhEWDFYS1IwSUpSSGV6RlJRRnUxSWJtU1NWLTBnNFlRVmdvNWNFYWQwOXFwLXc4UnVJSXM2YlZlbVhiQWw3YUxGN0hUTmJ2b3VGZ0RpbjY0?oc=5",
+      "source": "chiba-tv.com",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T05:42:52.000Z"
+    },
+    {
       "id": "00cf2d0489cc1cef",
       "title": "アマゾン物流を自社ECへ、Prime配送を開放",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -126,15 +162,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T05:35:37.000Z"
-    },
-    {
-      "id": "4b036320c7bfed07",
-      "title": "台風影響運休などの可能性シルバーウィーク期間中",
-      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcjJwQkktVkpWWlpPNTRXX3NmMU5FZXA0d21qYU5QdDFEVVU5cS0wajA3WWtQaVpHbm53YUpNTUluRGw0dG5jN05PVDVVdFpxWGRwS09xX0FnUVU2eUYtZnE0VDFYZzQ?oc=5",
-      "source": "朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-25T05:29:49.000Z"
     },
     {
       "id": "fa30a777b211d7e5",
@@ -153,15 +180,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-25T05:24:17.000Z"
-    },
-    {
-      "id": "96f456bed89deb82",
-      "title": "大学生の物流業界への理解・関心深める産学官連携プロジェクトが始動 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zaWFtelItRUdGU09nYzh3WWFiZl9BWmZ6QjhTX0ZpT2lnbkFBdzcyaVp1Z3NDYVI1OGsybVZSVXRvaV8tQXV3SWdwWQ?oc=5",
-      "source": "online.logi-biz.com",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:52:46.000Z"
     },
     {
       "id": "1ea4b36318ab58ee",
@@ -228,12 +246,21 @@
     },
     {
       "id": "62fd05aa0c9d2fc6",
-      "title": "東京建物／タイで物流と工場の複合施設開発事業に参画、レムチャバン港近接地で3棟4.2万m2",
+      "title": "東京建物／タイで物流と工場の複合施設開発に参画、レムチャバン港近接地で3棟4.2万m2",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FdERVYUhZLXd6UlVtWXZ0c0E5NF8xc2JRSW1ZbllILXN0YldvN1d3OHJVdjRzaDg0Q2NEQlZxeFFvUFppXzRCTDg1MHhnTXBqelBHZw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-25T02:58:36.000Z"
+      "publishedAt": "2026-09-25T03:04:03.000Z"
+    },
+    {
+      "id": "45eb5a33941dbae5",
+      "title": "ESR／佐賀県基山町の物流施設で内覧会とAGV導入セミナーなど10月6・7日に開催",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbXBZVlNNMzNtZUpkS2xJTmNkbzBrT1dHUk1RUDhIbkkwbk51ZzEzZnpBQzRLcXI3MDU3aUFIN21nZHV4T0pNMS12NG52TW5uVXVZcg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-25T02:56:36.000Z"
     },
     {
       "id": "9faaf0599767e24e",
@@ -272,15 +299,6 @@
       "publishedAt": "2026-09-25T02:30:00.000Z"
     },
     {
-      "id": "45eb5a33941dbae5",
-      "title": "ESR／佐賀県基山町の物流施設で内覧会とAGV導入セミナーなど10月6・7日に開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbXBZVlNNMzNtZUpkS2xJTmNkbzBrT1dHUk1RUDhIbkkwbk51ZzEzZnpBQzRLcXI3MDU3aUFIN21nZHV4T0pNMS12NG52TW5uVXVZcg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-25T02:29:15.000Z"
-    },
-    {
       "id": "0b44d21726051cee",
       "title": "シーバ、ポーランド通信物流を31年まで継続",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -288,15 +306,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T02:25:44.000Z"
-    },
-    {
-      "id": "67790e3aaa7d86fa",
-      "title": "TRC／平和島自動運転協議会、新たに11企業が参画し60団体に",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FX0hmY0VpbE85YVYyUnJoU19WaFJOR0hfWnlqSzY3aDNsX3JYcC1rVVZzcDA3RkNPNEhQMUR1V2hmY2lFTk9uTk1oSXpLUzJrOWxxXw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-25T02:13:55.000Z"
     },
     {
       "id": "3c16e0ae8861a924",
@@ -324,15 +333,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T01:26:54.000Z"
-    },
-    {
-      "id": "e1eb4b2e7ca663d8",
-      "title": "【常磐道】日立市内で衝突事故 通行止め解除には時間がかかる見込み（25日10:00現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaURKU0dEdXhEWDFYS1IwSUpSSGV6RlJRRnUxSWJtU1NWLTBnNFlRVmdvNWNFYWQwOXFwLXc4UnVJSXM2YlZlbVhiQWw3YUxGN0hUTmJ2b3VGZ0RpbjY0?oc=5",
-      "source": "千葉テレビ放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-25T01:25:47.000Z"
     },
     {
       "id": "650dd4f1b732ff85",
@@ -426,10 +426,10 @@
     },
     {
       "id": "647ab2969a4feea3",
-      "title": "【伊豆縦貫道】東駿河湾環状道路 函南町内でトラック故障 一部通行止め解除（25日06:25現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【伊豆縦貫道】東駿河湾環状道路 函南町内でトラック故障 一部通行止め解除（25日06:25現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUXplUFo4VE50ZmNvVGhxXzF0T2UzTlZ6REtvMHhRRi1EUjhaaWlxWVUwRDNfYnd6Z0FDanB0bUsxbjM4UFgxNU5ueDE2bm11ekM2RXAtXzRGd294Y1N3?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-24T21:49:31.000Z"
     },
@@ -597,10 +597,10 @@
     },
     {
       "id": "1a90549735e47f4f",
-      "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗 - weekly-economist.mainichi.jp",
-      "description": "weekly-economist.mainichi.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "出版業界事情：トラック新法を踏まえた出版物流“改革”の行方 永江朗",
+      "description": "週刊エコノミスト Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMkU0VExFUllleGZEUWptV2UwazlQVTlGYXEtN1FmRTM0Ynl0VldGS3lyWmdtM0xkdUhDbWRVUE5PM2JURnJHQlB2WXFWQzhjY2E3TXpkMFNfZHgwSmF2R0RtbUJKczdvZ2tLcFVYNC1tTGJmRFB4MkpfZjlUdUU?oc=5",
-      "source": "weekly-economist.mainichi.jp",
+      "source": "週刊エコノミスト Online",
       "category": "物流",
       "publishedAt": "2026-09-24T15:03:03.000Z"
     },
@@ -679,9 +679,9 @@
     {
       "id": "2cc20e1a2968ef78",
       "title": "県内の最新ニュース",
-      "description": "ebc.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "テレビ愛媛が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yVFg0YVEzV2ZGcWNHRjZES3c4ZjBudlNNdmUyQjB4ZlR1c2VhMXZ4NVNXUDNzbnp3ZVRyQllvVFlJdk5RN2pKT2J0WWRTaG15YS1MOU93dlMwN3gydVlpTEJB?oc=5",
-      "source": "ebc.co.jp",
+      "source": "テレビ愛媛",
       "category": "安全・事故",
       "publishedAt": "2026-09-24T09:27:41.000Z"
     },
