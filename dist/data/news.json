@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-25T03:24:56.640Z",
+  "updatedAt": "2026-09-25T04:27:08.142Z",
   "articles": [
+    {
+      "id": "247521db854db99b",
+      "title": "タイ運輸省、中国ファーウェイとAI活用を検討 物流・空港業務の効率化に向け調査開始",
+      "description": "newsclip.beが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbXo3MDNiLXZ4LUxXTVJfYnZsUnRpN2tRVDBXa3l1aFJDRnBtSGdqellTWTZZMVJYWWxzVlRYYzZvOHZkSGhscUY3SWYzWHhfVUlBNmk1M0hWQXh3TVE?oc=5",
+      "source": "newsclip.be",
+      "category": "物流",
+      "publishedAt": "2026-09-25T04:03:50.000Z"
+    },
+    {
+      "id": "714895f53d8cd185",
+      "title": "大型貨物車で自転車の女性をはねる 鳴門署がトラック運転手の40代男を現行犯逮捕",
+      "description": "徳島新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUS3hwdWxjOUxEcTNIZUFDWk02YW5GaFQ2UlFabVRmTDM3a1JVNUJoclUyWkJlQTFYcWlsSW96dkp4c1hiNGhOMHlTTVRTQ3lhUHpuZHlB?oc=5",
+      "source": "徳島新聞デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-25T03:05:00.000Z"
+    },
     {
       "id": "62fd05aa0c9d2fc6",
       "title": "東京建物／タイで物流と工場の複合施設開発事業に参画、レムチャバン港近接地で3棟4.2万m2",
@@ -11,13 +29,13 @@
       "publishedAt": "2026-09-25T02:58:36.000Z"
     },
     {
-      "id": "7cb06f8afbb1d4fe",
-      "title": "米コープランド、医薬物流の温度可視化を強化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pRjNYaGJMb2preDVhTGdwQlM2Sk9GeDJNZHUzWVRsY2xjempOeWVTU0JqV0pnQnIzbFRkS1BxRHVFbDR0TnF1ZUdB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T02:47:48.000Z"
+      "id": "9faaf0599767e24e",
+      "title": "【速報】大型トラックと衝突 自転車の女性が意識不明で搬送【徳島】（2026年9月24日掲載）｜JRT NEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXBDeFJINTZleUtXS05QUTFPUzRBdlg2LXNlZURKS1lBUXUxM0szX3FwRkJsQnpCMDNGSUlEWTVmTFpyZGJVei1lRlhkTC1BTjhUdjhXbGhBZURJcnRhSTNpSW9XVVo4NGdMMzZoMWN6WlBTcU1DOUFPWFNwM3hyeVgyclh5em8?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-25T02:52:00.000Z"
     },
     {
       "id": "f04033f8a9767d4a",
@@ -74,15 +92,6 @@
       "publishedAt": "2026-09-25T02:02:59.000Z"
     },
     {
-      "id": "a4fe1c9cc3e46ddf",
-      "title": "SANKEILOGI、「食品物流＆3PL総合展」に初出展",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hcThlREhlMUlSTExnMDFya01rTUliWnhzclB0ODF0UkpDOWN2WHFMNmpYRDlHNGxmamQyb2ZPNXhJRG1TUVVHbTJWUUNrWGUyZmNHaWdEV1M1aHRnazVuWTAxNU9IRlp0ZGc?oc=5",
-      "source": "prtimes.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-25T02:00:02.000Z"
-    },
-    {
       "id": "61c8acfb26e0af14",
       "title": "三菱ふそう、物流の脱炭素・自動運転技術を展示",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -134,7 +143,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nbGcwbm41YUZBNGc3cEtKZmxOWUxBZkUya194T21fTXVPZy02TURzcldQc3I2cVgzMV9CNVVNaGIzVk1MVVZJTVRlRk4xTlF3Zk1DTzZ0dmFHNWwxZzRvc09uSmRGTmtkc2R1ZExqUFJMNnc?oc=5",
       "source": "茨城新聞クロスアイ",
       "category": "道路・交通",
-      "publishedAt": "2026-09-25T01:08:18.000Z"
+      "publishedAt": "2026-09-25T01:13:28.000Z"
     },
     {
       "id": "856bb04be0a4a70e",
@@ -218,6 +227,15 @@
       "publishedAt": "2026-09-24T23:00:07.000Z"
     },
     {
+      "id": "647ab2969a4feea3",
+      "title": "【伊豆縦貫道】東駿河湾環状道路 函南町内でトラック故障 一部通行止め解除（25日06:25現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUXplUFo4VE50ZmNvVGhxXzF0T2UzTlZ6REtvMHhRRi1EUjhaaWlxWVUwRDNfYnd6Z0FDanB0bUsxbjM4UFgxNU5ueDE2bm11ekM2RXAtXzRGd294Y1N3?oc=5",
+      "source": "千葉テレビ放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-24T21:49:31.000Z"
+    },
+    {
       "id": "f664825cd0652a68",
       "title": "「芙蓉総合リース」物流の相談役に 効率化で荷主支援を拡大",
       "description": "M＆A Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -281,11 +299,11 @@
       "publishedAt": "2026-09-24T20:00:00.000Z"
     },
     {
-      "id": "a14cd387b32f2288",
+      "id": "a554f145b2eba959",
       "title": "トヨタモビリティパーツ ３大都市圏で物流網再構築 清須市に広域中核拠点新設",
-      "description": "中部経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KY0ZVcFd4VFBUSXVlRnViWGNJNGtJcTFWMkhTWmw5NThyWk5kOWo3VExnNzQ4b004YWNISkFpdWE3VS1mcHh4R3o3RnRCR21iQUFiNUFhc3RpVnVYSkxzWExnZGhZSnUtWkpqOTVpalhxSFU?oc=5",
-      "source": "中部経済新聞",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sYkwxQkc4NTVjSDlKN2RxNks5TzczbkJTeko0c1dxNm14LUswOEkyV1Rkb3VzRmQ1NjBRUXVtYm5QNTVZUE5LWnVVRQ?oc=5",
+      "source": "47NEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T20:00:00.000Z"
     },
@@ -432,6 +450,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T13:51:46.000Z"
+    },
+    {
+      "id": "394efa8543d1b4d6",
+      "title": "運転手から通報「陥没にはまって動けない」踏切でトラックが立ち往生 一部区間で約4時間50分運転見合わせに（東海テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vb1M3SWxhRUdvQkxRZHRRbjduUWF1bUtjLXNKSk9nVGRjclpGUFJkODVEbVVqaDd0WVBVam1kZE1qZkJjR0FpcUttZktPRXExbGpXSGlqNl93SWp0aXhpVjlCbHNEOTJNQWNPUHJWMHAwVjRYdUU5TzcxYk1IN1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-24T12:23:05.000Z"
     },
     {
       "id": "e2ba48a81baabbb2",
@@ -623,20 +650,11 @@
       "publishedAt": "2026-09-24T07:27:45.000Z"
     },
     {
-      "id": "1236273645eab496",
-      "title": "【速報】第二神明・須磨IC付近で10台からむ事故 乗用車8台とトレーラー2台 8人が重軽傷 現場付近の上り線は通行止め 神戸・須磨区",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4TEc5ekFpYXpwRHE5N0NmWUZWTzRUSjZITHBQT0FvT3huV0RtRmhJX1g5VGY0MDBaVDlfMkUtTF9Ma1RCUHlzeHpMUE9uaWpyUG4tN0hacHJJckJzNnlVRWtqNGZPRVktSExPbmI1Qm9Va3ZadGpwWm5n0gF_QVVfeXFMT0pMYkZlUExJUFlkZHh0Q1I0T0Z3V1Z3N2hQaUI2bmdwU1NGM1lRa3ZwemV2aWFnQUtjNFoyUzdXRGp2QVRhYy1fVnl2SkZXMm9KV2d4d3pLOTI2NlpDMzJvUjk2Unl3ZWlIZ1JrYi1nem0xMjIwQWlpblVwV1g0NA?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-24T07:05:00.000Z"
-    },
-    {
       "id": "f3facd4c566d950f",
       "title": "「CLOコンパス」に、最適な拠点ネットワークを検討できる「拠点ネットワーク最適化機能」を追加",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4eVVqTV8tZXdQaGhOOHZVSTFVS3N4SVNvb0NpS3l5aFNBc3dQV21BUFJzUGxNZksyUVJtc1ZxUjN6aU11Tm54QllMZ1R6SHo1OFotSENNXzFxSUJLSVFoSkhzck9GLUhHTnc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-09-24T07:00:02.000Z"
     },
@@ -679,9 +697,9 @@
     {
       "id": "4a86502f74bb3e89",
       "title": "クーラーボックス市場―2026年～2032年の世界市場予測",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBNFpmRUNhbkNpYThPS2s5UW1WanNhMUk1OHpuaG9rbFJkSlBfaURLcDg4ZEEwT1dTZkdDa2M4ZjB6TXYtWmhXTDJaNl92WUk?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-24T06:14:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T05:21:46.000Z"
-    },
-    {
-      "id": "816150ddeef4ff31",
-      "title": "物流危機を「競争」から「共創」で乗り越える 競合49社が築く「JITBOXチャーター便」の挑戦",
-      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZUhuN3JQNWh6RFhkTWZaRHIyZVJDYkxMQUhwdkZmMUxVakMtR1FyRVRWOXNLRUN5QktiX1dkTDJ2b3JCb1FqbGRXTnpwMnRLekRSLTV1N29jdw?oc=5",
-      "source": "AMP[アンプ]",
-      "category": "物流",
-      "publishedAt": "2026-09-24T05:05:06.000Z"
-    },
-    {
-      "id": "2e63462d81b4966e",
-      "title": "【続報】阪和道の４台多重事故 「一時的に意識がなかった」追突した乗用車の運転手が話す 追突された軽トラックは横転 大阪・松原市（関西テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mU3JnUGdhX2ZyV2VVSmZhYTZQblZqZmxLUXA1QTNJOUJuV3JQazcxMnRPb1dOUjB6VGxwSHVJa055VnU1ZkFPQVNwQzcyWi00c3EwaXFVaDJjbHQ5Ykp5dXhkYnk3RXAtR3JvVkVTQkgxS0dfR1BLRjJpdTV0UlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-24T03:55:02.000Z"
     }
   ]
 }
