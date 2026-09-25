@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T14:28:22.320Z",
+  "updatedAt": "2026-09-25T15:27:20.373Z",
   "articles": [
     {
-      "id": "fd9a344a564ad3b0",
-      "title": "中小物流事業者の労働生産性向上事業費補助金（共同輸配送や帰り荷確保等のための物流データ連携促進支援事業）の4次公募開始について（国土交通省） - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OYlkwZVNacGt2MXowSFQ4NmtXOEV3MmJScFpLbV83OHc1TWdSdDBmQkZWXzRmOEt6dTVYWWp3UUNvMnJwbEFVMUFCdw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-25T14:19:43.000Z"
+      "id": "e1eb4b2e7ca663d8",
+      "title": "【常磐道】日立市内で衝突死亡事故 8時間弱ぶり通行止め解除（25日14:30現在）",
+      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaURKU0dEdXhEWDFYS1IwSUpSSGV6RlJRRnUxSWJtU1NWLTBnNFlRVmdvNWNFYWQwOXFwLXc4UnVJSXM2YlZlbVhiQWw3YUxGN0hUTmJ2b3VGZ0RpbjY0?oc=5",
+      "source": "千葉テレビ放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T12:05:18.000Z"
     },
     {
       "id": "ea653f17f01c4b79",
@@ -56,6 +56,15 @@
       "publishedAt": "2026-09-25T09:10:54.000Z"
     },
     {
+      "id": "d5a6fe18b0022e80",
+      "title": "東京建物、タイ・チョンブリ県で物流施設・賃貸工場の複合施設共同開発に参画 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOE8wZlB4UkJGNW84cGxzQWtZZUZSY1VMUkVJaE1PRF9SaFlqWHRQMmxNMlVpV0NIZDA4a0xiZzVkSmIwNnE0OFVqWQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-09-25T09:10:12.000Z"
+    },
+    {
       "id": "66474a6c0dfb60f3",
       "title": "DHLジャパン／DHL Express、2027年1月から値上げ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -67,11 +76,20 @@
     {
       "id": "26c5787f742efc5c",
       "title": "日立 常磐道で軽ワゴン車とトラックが衝突 ４０代男性死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXalZCODByQW9EdE45TVY0QUI3Z2RSRDE5bTBKRG1ub2pldjEzdmt5ZG1SaVFfQmJwckRVbnBmY2ZNdEFBRnpYRTlhckdZSzhqS19KR2xaRkw?oc=5",
-      "source": "NHKニュース",
+      "source": "news.web.nhk",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:41:00.000Z"
+    },
+    {
+      "id": "38af457528bfdc4e",
+      "title": "Mujin／日本スタートアップ大賞、滝野CEO「フィジカルAI現場実装を加速」",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USjJFNjFnMURUeFNpb3FxMnAtSXNVUHdSSmVZLWJfa2t5LWZDZXFGUUZEbV82Q09aZWljSHdDd1RWNFN6UWZjbXE1bXJFZnBiNVdFaw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-25T08:39:47.000Z"
     },
     {
       "id": "f6c77243d83d5786",
@@ -121,9 +139,9 @@
     {
       "id": "693d750a92ae62a5",
       "title": "8月の求人広告件数、21.5%増 IT人材や物流で伸び",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ZENYaUUyc2hDVGswdFIzR190SjJoejBhRzJ6OEF4bmtRNjB3dzhDczNUWXp2UC1CaUNyLURHdDFkR3NwWHpJUXBPZVZLTnBHeUcxd2hSWWVFdmtSdV9qQlkzZm5TTUlXRER3aA?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-25T06:55:00.000Z"
     },
@@ -180,15 +198,6 @@
       "source": "Laodong.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T06:06:35.000Z"
-    },
-    {
-      "id": "e1eb4b2e7ca663d8",
-      "title": "【常磐道】日立市内で衝突事故 8時間弱ぶり通行止め解除（25日14:30現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaURKU0dEdXhEWDFYS1IwSUpSSGV6RlJRRnUxSWJtU1NWLTBnNFlRVmdvNWNFYWQwOXFwLXc4UnVJSXM2YlZlbVhiQWw3YUxGN0hUTmJ2b3VGZ0RpbjY0?oc=5",
-      "source": "千葉テレビ放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-25T05:42:52.000Z"
     },
     {
       "id": "00cf2d0489cc1cef",
@@ -265,9 +274,9 @@
     {
       "id": "986bfb77985209d6",
       "title": "ファミマ、「持続可能な天然ゴム」のタイヤ 配送車に導入",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5faVMxbVFMcnBKdUFESmxhQWp5SWgzV3FjVWpodmdhZ05iVmtxamR0R292R0lKTGo2SkIzOGhEMzNjMVE1aDJfdldsNjJHS2tkbGRScFVJYk5oMzExejZwNjVRZS03YndiSjVlcg?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-25T04:22:41.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "WEB CARTOP",
       "category": "安全・事故",
       "publishedAt": "2026-09-24T11:00:31.000Z"
-    },
-    {
-      "id": "1c45605feb17a55e",
-      "title": "三井倉庫ロジとＴ２ 日立産機製品で実証",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zSTJXQU5NSnIwQkh5aWJQOS1FYVNKMmlDUVkyZXhWdjg4ZWNPYlJ3R1J5Y1A5V2lCSzB3T2VUcmlSRG9DbFVkRFhkUVRSQQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-24T10:32:58.000Z"
     }
   ]
 }
