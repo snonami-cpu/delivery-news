@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-25T09:27:25.096Z",
+  "updatedAt": "2026-09-25T10:26:41.522Z",
   "articles": [
+    {
+      "id": "a298700ed2664f1d",
+      "title": "商品ごとに宛先指定、Shopify配送を柔軟化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FWTB3eThlM3NWODRnZXk0VmFMaTJkY3A2REdIN3pSbmFuYjRFLTc5VmJoc2JfaUFsZ2UtbXB5UWFkQXdXXzVZdlBB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T09:47:50.000Z"
+    },
+    {
+      "id": "652dd944085b428f",
+      "title": "物流連、採用強化へSNSとAIO活用を検討",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ySTl1ak00MnFpd1Z2Q1dmNU9CVmFkZ2dZRHhPd0p2NkFyazdqZjMxZFlhaW10NXZYOHJuVVNXWkRmZ2I4X0Nhd053?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T09:43:18.000Z"
+    },
     {
       "id": "66474a6c0dfb60f3",
       "title": "DHLジャパン／DHL Express、2027年1月から値上げ",
@@ -27,15 +45,6 @@
       "source": "株式会社じげん || ZIGExN Co., Ltd.",
       "category": "物流",
       "publishedAt": "2026-09-25T07:53:43.000Z"
-    },
-    {
-      "id": "dbe304a492826574",
-      "title": "Cuebus、200キロ搬送の新型機で食品物流支援",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zNFJpZDJDTTNpZkFZTGh2cDNJUTNuRHdQcGdzZ1hXY1NGTGNzRk1BZzg0U2oweDJCTV8tVWdDTGlHbjlENG54aUFB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T07:36:47.000Z"
     },
     {
       "id": "f6c77243d83d5786",
@@ -317,15 +326,6 @@
       "publishedAt": "2026-09-25T02:11:46.000Z"
     },
     {
-      "id": "61c8acfb26e0af14",
-      "title": "三菱ふそう、物流の脱炭素・自動運転技術を展示",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WcC10U2tKRGtXZlQ0czB0T0t6OGctNF9JRjBlRWJUeVRLXzJwQ0lkaWdHZ3hOVVBHSWdiRHo2QmZGVEs4a1VQM3J3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T01:40:11.000Z"
-    },
-    {
       "id": "a033fe49ad630c49",
       "title": "ロジスネクスト、自動物流道路で荷役効率を検証",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -333,6 +333,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T01:26:54.000Z"
+    },
+    {
+      "id": "55f6db299bed3a68",
+      "title": "【常磐道 事故】常磐道 日立市内で事故が発生 高萩IC～日立北IC間で通行止めが発生「現地の様子が明らかに」渋滞状況は？ケガ人は？…（News Quick Up）",
+      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9QYTFFck1DamhIcXd1SXh4S2FLR2tUZUdkSl96eDgxN0RET1RqS2dmTW1pcjB0cDY2Undn?oc=5",
+      "source": "t.co",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T01:25:24.000Z"
     },
     {
       "id": "650dd4f1b732ff85",
@@ -360,6 +369,15 @@
       "source": "family.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T01:14:52.000Z"
+    },
+    {
+      "id": "4652ad9c9b7121f2",
+      "title": "【更新】常磐道でトラックと衝突 軽ワゴン車の男性死亡 高萩-日立北IC間 7時間50分通行止め 茨城（茨城新聞クロスアイ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQS04QnlQR1Y1ZnNTNkF6ZTd1aVpCc0ZlR1JCaVJtb19XMGYwdFFmeERsbTFUZmFrblhSQkIxSUVHYzlVdkM0Z29ETWM5d1M4UUREMWZ4eWZrZzRwOW1jeW1TUk9hMzVNd1Z1VjVBZDc5MTRqd2h5ZFB2bzRLVUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T01:04:00.000Z"
     },
     {
       "id": "95eeaa309976d94d",
@@ -560,15 +578,6 @@
       "publishedAt": "2026-09-24T19:55:06.000Z"
     },
     {
-      "id": "faa31e887592206f",
-      "title": "メドログ、豪農産物輸出支える内陸物流で受賞",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41ckd4Y0NIVVRQcXdwZGg0c2FIdWhyRFVjYkp2bUxadGY4b0NxOFB2V0Z6WUViRnJHdC1Yb1hBQ2VFemt1YVFucVNR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-24T19:55:06.000Z"
-    },
-    {
       "id": "dcd2c14873fbb776",
       "title": "東京海上日動、荷主と物流事業者の法改正対応を解説",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,15 +720,6 @@
       "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-09-24T08:47:00.000Z"
-    },
-    {
-      "id": "1ffb17a473f56608",
-      "title": "キムラユニティー、物流業界の課題を産学で研究",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YNExzcXNyYUtjNjhrR21uYVVwb1VZN0VBN0VEWGkyN3pOSUNOdnBEalRQdTdUcDlaZU84YllnR3BiSDJpRmZDN2ZB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-24T08:39:24.000Z"
     }
   ]
 }
