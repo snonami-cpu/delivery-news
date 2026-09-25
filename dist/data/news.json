@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-25T15:27:20.373Z",
+  "updatedAt": "2026-09-25T16:28:29.102Z",
   "articles": [
+    {
+      "id": "63a01012b4607eaa",
+      "title": "南九州道・市来IC〜串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLTN0XzRVUFlvS0Z4Yk93OFktM0U2ekJtSzIxc0RNZk1uWllhV2VsR0dDaTZLdWVrRHZIYi1NZWo0TGZuVGpOeUNja1N5LXQydGViNUZhTXVWc0F0LUxWSlJOQ055SU9Kb3hhNFdyVdIBdEFVX3lxTE5lUDBMVTVndS1kM25FRkVKd0hHYmctVmtoZ3JNVFRuN1E0dERmdGMxeGZiLUxORXo2RVYzYkVPWFdXcnRnYXRWZGlQWGVGYUphM2hSdVdFczNyR2I2X2tMaVVWMFRIUUduN1luWU5oVXBjaWt3?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T16:21:20.000Z"
+    },
     {
       "id": "e1eb4b2e7ca663d8",
       "title": "【常磐道】日立市内で衝突死亡事故 8時間弱ぶり通行止め解除（25日14:30現在）",
@@ -11,10 +20,10 @@
       "publishedAt": "2026-09-25T12:05:18.000Z"
     },
     {
-      "id": "ea653f17f01c4b79",
+      "id": "5b894341645b83a9",
       "title": "盛り土の一部崩れ、圏央道通行止め 牛久阿見-阿見東IC間 26日朝復旧見込み 茨城",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMm1EODQ4RzlTQllCOWVNbjdxWjd4SW5sTG5jNFBROG1rem1icGNmT25TX3FYTEdqS09ZUVlEZHNuVFRnRUV2VWlzWkNZOUo0YWZmeU9wcVZqX1BLMHJEYWR2cXJBVUp0V0Vpa3pZSlNXT2RGNndFdnhVME9uWmVNVjA3U2c0YW9G0gGIAUFVX3lxTE4ybUQ4NDhHOVNCWUI5ZU1uN3FaN3hJbmxMbmM0UFE4bWt6bWJwY2ZPblNfcVhMR2pLT1lRWURkc25UVGdFRXZVaXNaQ1k5SjRhZmZ5T3BxVmpfUEswckRhZHZxckFVSnRXRWlrellKU1dPZEY2d0V2eFUwT25aZU1WMDdTZzRhb0Y?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHpLUnpGZDZZWTJaOHczOWZlQV9KX2ZLZ25vN0hrcGs0MlhvOHNJcGU2NGJSSzkwMFd4U28tbGxKQzZkc2tSWFpjd2J0bGZVU1BWTlBoWlVhSHZYNmh5R2prTkE0d0JISFFjNGEyUGktQTZBai11REI4em5CdGNQc1VPQXYtMHNSRWREaW16dTByd3hhTFHSAYgBQVVfeXFMTjJtRDg0OEc5U0JZQjllTW43cVo3eElubExuYzRQUThta3ptYnBjZk9uU19xWExHaktPWVFZRGRzblRUZ0VFdlVpc1pDWTlKNGFmZnlPcHFWal9QSzByRGFkdnFyQVVKdFdFaWt6WUpTV09kRjZ3RXZ4VTBPblplTVYwN1NnNGFvRg?oc=5",
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T11:07:00.000Z"
@@ -76,9 +85,9 @@
     {
       "id": "26c5787f742efc5c",
       "title": "日立 常磐道で軽ワゴン車とトラックが衝突 ４０代男性死亡",
-      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXalZCODByQW9EdE45TVY0QUI3Z2RSRDE5bTBKRG1ub2pldjEzdmt5ZG1SaVFfQmJwckRVbnBmY2ZNdEFBRnpYRTlhckdZSzhqS19KR2xaRkw?oc=5",
-      "source": "news.web.nhk",
+      "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:41:00.000Z"
     },
@@ -92,6 +101,15 @@
       "publishedAt": "2026-09-25T08:39:47.000Z"
     },
     {
+      "id": "ddceb42648fca4e8",
+      "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcGlMVWlnTUZCdWRrcFNBc2JRX0ZOZmVRa0xyWmRyYjFza3ZabHhxMG9BcjlCUDJCUlhvcGZ2UkVwRVlGVFAzZ29TYV84QXFjeWc?oc=5",
+      "source": "山陽新聞",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-25T07:38:00.000Z"
+    },
+    {
       "id": "f6c77243d83d5786",
       "title": "運送事業者の9割が「ドライバー不足」と回答。ナビタイムジャパンなど物流5社による大規模調査レポートを公開、10月15日には解説ウェビナーを開催 | 株式会社オーサムエージェントのプレスリリース",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -103,9 +121,9 @@
     {
       "id": "5dc54e0bd0bfbe4d",
       "title": "関東運輸局／4～8月の一般貨物自動車運送業「新規許可」2.6倍の267件に急増、8月90件",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SOG1HUXhHeU04d1RLSlNSSEdfdW1acmtiWW5JRjJfbUlhXzhwelprSkJUa1FzOFFXdmpuNTBFVjlfTkV2Ulh3dThCNHJoTFh3T001Mw?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-25T07:21:00.000Z"
     },
@@ -130,9 +148,9 @@
     {
       "id": "56e278337a24dc0c",
       "title": "国土交通省／共同輸配送や帰り荷確保等のための物流データ連携促進支援事業、4次公募を開始",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhM2RYQkNiU1ZKdnROeHd6MTFvXzZnWXNrSkQ2bEF2cHRscmYxQnVZb0dIS29wd0ZXUG11OHk5NFhOWElITnRIWF9zeGNaZ0R4eGZlWg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-25T07:01:00.000Z"
     },
@@ -184,9 +202,9 @@
     {
       "id": "483acd16abb572e7",
       "title": "超低温冷凍庫市場：製品タイプ、容量、温度範囲、技術、冷却システム、用途、エンドユーザー、流通チャネル別―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84Z3M5RXF0b3pWenVwdFBDTDdwbDlQM0hhV1FEUFA1NldXZnh0bUViUUJxWlItdVM0Z3Rhb3EzcTZ6bzRmcUU2cjZ5aGluZw?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-25T06:19:00.000Z"
     },
@@ -283,9 +301,9 @@
     {
       "id": "62a08f99df86fecd",
       "title": "台風25号／国道127号・296号・409号ほか、3県78区間で通行止め（25日4時）",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEdWQ1QzczSGJWU05EMUJnR0lLX0k3ZVA3ZWllOWh5VmM3c28zRXREUkk2R2lQTHZlTzlJTEtfT2I2dGhXWFdJNFUzR3E2STF3S1RpZg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T03:26:00.000Z"
     },
@@ -337,9 +355,9 @@
     {
       "id": "ec8fed4b9a241e29",
       "title": "【本日の材料と銘柄】東京都が国内の海上物流強化に着手、東京港を世界トップの港に(フィスコ)",
-      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "finance.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmxOUExQMmhYbklRU3k5MUlzaEZQQjYwWVhhOVlHX3lhaHhZakpMX2ZEci10bUlZTlFDVnFvVVJwMkN5MkJVN3dYUGV4cTBlOWpxTEpfdTBScHNwMjJ4Y2pDUU5rY0hZa0xDZ0tOc1o3ZHhuSmtpU2VtMG8wWlNhaEoxRUVnU3M?oc=5",
-      "source": "Yahoo!ファイナンス",
+      "source": "finance.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T02:30:00.000Z"
     },
@@ -517,9 +535,9 @@
     {
       "id": "f664825cd0652a68",
       "title": "「芙蓉総合リース」物流の相談役に 効率化で荷主支援を拡大",
-      "description": "M＆A Onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "maonline.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GMWFESDNZTWFrMF9TSVF4SUFWT1ZncERDaDJFX1VUQTBnSmdKZzlMX1BObExzREZTT0xqcVdUdzhUTjdGUi0yWklMeVhNcUsxRF8xNVU1MnNnY2pOcVJxdQ?oc=5",
-      "source": "M＆A Online",
+      "source": "maonline.jp",
       "category": "物流",
       "publishedAt": "2026-09-24T21:25:00.000Z"
     },
@@ -553,9 +571,9 @@
     {
       "id": "a1771a7c908ccea3",
       "title": "年収1000万円の運送ドリーム、夢破れたトラック運転手はタクシーへ",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "business.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QS0lpb01NX2YzUEdFY0J2RkU3d0U3REs5cGNLYUU4aTJ4czZmNHpOVE5BdTZiMUV4cEJsYTZ4R09XY0djWVRnX1pCUXJTejNWWlBRRjk2bjc4Znp1dFRIWWJmREdGLUE?oc=5",
-      "source": "日経ビジネス電子版",
+      "source": "business.nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-24T20:00:00.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-24T13:51:46.000Z"
-    },
-    {
-      "id": "394efa8543d1b4d6",
-      "title": "運転手から通報「陥没にはまって動けない」踏切でトラックが立ち往生 一部区間で約4時間50分運転見合わせに（東海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vb1M3SWxhRUdvQkxRZHRRbjduUWF1bUtjLXNKSk9nVGRjclpGUFJkODVEbVVqaDd0WVBVam1kZE1qZkJjR0FpcUttZktPRXExbGpXSGlqNl93SWp0aXhpVjlCbHNEOTJNQWNPUHJWMHAwVjRYdUU5TzcxYk1IN1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-24T12:23:05.000Z"
-    },
-    {
-      "id": "e2ba48a81baabbb2",
-      "title": "トラックが出発前に「車体の周りをぐるぐる歩く」本当の理由。重大事故を防ぐ「数分間」に凝縮されたプロの行動",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIV2pFeGxDYjdoSlJrTmxYY0YtMEF6NmJMd2M3czA4ZWlmWVpsYmFCdUdLa2NSYU5RcGtvTXdGejFlNzBRYzc3cmpRWUhIQVhSdXFr0gFYQVVfeXFMTVVocWMtZW45SDh5dVhtYk0tX0VCM0lzVTVXZDBuTHpSV2w5SjNCSXRFYWRFT200MndyNTRjSEpCcEJtdWJrQWQ0X2dfWlprZkhhNG9fRHdmQQ?oc=5",
-      "source": "WEB CARTOP",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-24T11:00:31.000Z"
     }
   ]
 }
