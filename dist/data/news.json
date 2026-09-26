@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-09-26T11:24:07.502Z",
+  "updatedAt": "2026-09-26T12:29:33.431Z",
   "articles": [
+    {
+      "id": "cec166145ee53713",
+      "title": "2026年10月20日(火)｜物流・SCM責任者向け「物流時流と物効法対応策」を解説するセミナーを開催します",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91djB2NW1uUWJxVkstclR5RnlVWEo5NXVtWkpBaTdodDdJMFhNWDBUdFhOeXdKWVhOVDA5NFBjU3BvVUVkaUQyTmxBUS1XTFJtVDhyTTg0ZE9CaUVDMDRualZFci1OSldHNGc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-26T10:00:01.000Z"
+    },
+    {
+      "id": "ae13405ba176bf3b",
+      "title": "北海道南幌町 乗用車とトラック衝突 乗用車が炎上し男性2人けが",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WkxHQ05QLTlfNkliSWJFWVF1TTJBalh6SllfUmpCUWh1bGJ0QmhmMC1QZjJJQ2NleUJ6YkVfbFZVU3NHeDRfVXZjNUtMU1pGVE00Wlk2bXVpSWlhVFh2cEtlWXNTcldmN3pudmo1WW9EVVpqdldNZg?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-26T09:48:00.000Z"
+    },
     {
       "id": "64133cdda4029316",
       "title": "北海道南幌町 乗用車とトラック衝突 乗用車が炎上し男性２人けが",
-      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdFVaU1F0ekJlLUEtTmhRTkFkbkhLcmJ0djhhclg2eWZnT1lMWUpBRjRmS2ltWlBySEpremZQRGE1QTliRkRLWG5Vc1BCUFliUjNKb1hBelhlUQ?oc=5",
-      "source": "htb.co.jp",
+      "source": "HTB 北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:34:00.000Z"
     },
@@ -31,9 +49,9 @@
     {
       "id": "65e43f710fd5abdc",
       "title": "軽トラックと大型トラックが衝突し２人が搬送 現場付近では交通規制【長崎・川棚町白石郷の国道205号】",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWxVVWU0c3BYOG9PVXJWbUtHdnBRYUx3emNnWEItZGRjYmVFV0Zzc0xqbVBXNloxZk15YjlRZ2VsTjNvY1FpMzFjdU80RWZENTJFR2FSVnZBUQ?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T08:28:00.000Z"
     },
@@ -67,9 +85,9 @@
     {
       "id": "fe2f535596caa2cc",
       "title": "あわや大事故に…トラックのタイヤ2本外れる→1本が対向車線の別のトラックに衝突”ケガ人なし”現場は交通量の多い国道→警察がナットの締め付け状態の確認呼びかけ〈北海道旭川市〉",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSnRucTZxUDN5Qy1UODljRm1rVFZMX0owN3RFTVhpRU9tMHlRTlV3UzZhZk5QdG1hU0JLME53UXFxRjFjRWJSNDhFckpoZw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T04:30:00.000Z"
     },
@@ -83,6 +101,15 @@
       "publishedAt": "2026-09-26T03:20:27.000Z"
     },
     {
+      "id": "1bfb5893543f6e5d",
+      "title": "南九州西回り自動車道で乗用車と大型トラック衝突 1人死亡 7時間近く通行止めに 鹿児島",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fcEJObmNFbTZ5UEVIZzVqako5QW5kTUZUb2I3ZEVLblg1QUk0TzRmUVVQLUtUaFBzTEZfblFoM25wRFNiaUxXMjBURExtQjhoZVVYOUkxc2ttM0xEVi1ZbmdSbzlwNmgyY2pJM2Qydl9EMmNQ0gF0QVVfeXFMT19wQk5uY0VtNnlQRUhnNWpqSjlBbmRNRlRvYjdkRUtuWDVBSTRPNGZRVVAtS1RoUHNMRl9uUWgzbnBEU2JpTFcyMFRETG1COGhlVVg5STFza20zTERWLVluZ1JvOXA2aDJjakkzZDJ2X0QyY1A?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-26T03:15:00.000Z"
+    },
+    {
       "id": "71f9316631db4c15",
       "title": "南九州自動車道で事故 乗用車と大型トラック衝突 乗用車運転の男性死亡（2026年9月25日掲載）｜KYT NEWS NNN",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -94,9 +121,9 @@
     {
       "id": "38ec48f49f3f41a7",
       "title": "南九州道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41d3c5b0xyRDhfd0Q1M19XRXozdWk5VG10YTdYSXlSQjB6b0hNdkptb0xnTlhQNEZTNGRJeFdQVHpvSFF1V0xVZ0FYemJneGN5MVNiTldIRQ?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T02:03:00.000Z"
     },
@@ -184,9 +211,9 @@
     {
       "id": "0315a617fe8a62a9",
       "title": "南九州西回り自動車道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTm1mc1BOYzlONXVoNzl6QVB3d2lGTnFrNzV0UldTR2hXLVNIWUtFRDFnLU5fZVhEUWx4VlJVWVNPRjhZYkdmY1JBSlJDWjdUcndWWmVLOA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T23:50:00.000Z"
     },
@@ -256,9 +283,9 @@
     {
       "id": "9363d76a0bd52d7e",
       "title": "南九州西回り自動車道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSEdvMk9pRkg3eXp4bThiTUFfaDBfcjZ0Xy1oSk9Qd2pjU3ZacTFMelJqNWgwTDVrSGNnSlNad3kya2wzdzRGa0JXeEU2WTYybWxFZUtEUjZHWDdPeFV6XzVEVENfU0k?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
@@ -605,15 +632,6 @@
       "publishedAt": "2026-09-25T01:23:06.000Z"
     },
     {
-      "id": "a7cfb63644bf6421",
-      "title": "伏木富山港、物流機能刷新へRORO対応強化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pTFBTLTJxcUZEMFpvYTVieFpCbkFQZGt4UF93LVRCQmpnVlN3dEpsMVl6b29PNjRIRlZiRG55d1ZlNnk2dldrRWpR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T01:23:05.000Z"
-    },
-    {
       "id": "ad2255fadbe1fe73",
       "title": "【中部横断道】清水区内でトラック事故 一部通行止め（25日10:15現在）",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "36Kr Japan",
       "category": "物流",
       "publishedAt": "2026-09-24T23:05:08.000Z"
-    },
-    {
-      "id": "5ca69853622c8c2e",
-      "title": "【佐川グローバルロジスティクス】フリュー×佐川グローバルロジスティクス、物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を愛知県一宮市で今年度も共同開催／子どもの“働くこと”への理解と従業員の“働きがい”を促進 | お知らせ - sg-hldgs.co.jp",
-      "description": "sg-hldgs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bzN5akNCcGotdHRtRUo3LXE5TGxQeFhndHo2eVlPbmxBMHJLZ0pEVkd3NDVJV3NVbHJ2c2lwY1pRTEg3cFJGQ2k0QWZSMnVXMklNQkt4eldqc1ItX0JJZk9TY3VOMVlSQnc?oc=5",
-      "source": "sg-hldgs.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-24T22:22:10.000Z"
-    },
-    {
-      "id": "ef263df93d07b694",
-      "title": "北部地域の物流システムの「心臓 」",
-      "description": "Thông tấn xã Việt Nam (TTXVN)が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcXJzcG5iVndmVnVYY2p6OHgzSUFUQXE4cjJRTEh4ZWswZW9uT0VKa1lnZnB4WG9JT1A2a1NfanpxNU9JbDFIcm1xLWRTc1dSa21jOFVOSEM0dHBfT0Y0bTYyS1UxdWpKUjVVaTFOa3VOVHF4VV80cnRLOFQzaGpseEExS0xiRzdjTkY3Q3ZDT0dMUzJpY2dfTlAxM0N1bFZrU01za1Fmd192VkdjVGVoSXZDazJseWt2TnFRV1FKcUlHNEQtQWZ6QTU1STRUSGotVXpaUDdhN1psMTA4aVBMN01RX3dxY2ZheXhBZjQ2bmxRWFR3SzdaNHY4dWNvZXNzU0txWno0MXdQemlZTDFYdF92V0dOVnVRWUl5RWhoNWdfQU8xRXNiQ3ln?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "category": "物流",
-      "publishedAt": "2026-09-24T21:53:22.000Z"
     }
   ]
 }
