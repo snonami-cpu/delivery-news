@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-26T06:30:25.172Z",
+  "updatedAt": "2026-09-26T07:24:53.853Z",
   "articles": [
     {
       "id": "66a0c6ccf7c34780",
       "title": "ハノイ-タイグエン高速道路での事故後、トラックのキャビンが変形し、車体から外れる",
-      "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ja.laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmJZNlEwaWZnTlRmQTdYVGR2eDV1UHI4cXQ3aTQ5ZzdjTldsTkZ0aWtQY2IwcXRaOTdOMm1YQlk5Vkw0VEU4ZHlfWUdzUXRsTFJIa1d6UG9uUDUzS0V4aFlXMHNsZTlCQzVDMFZ3cUxFdEhLczg0RGgzZV9IaUk4blk1Vm5OZER6eV9XOG1hRERlTm9iZTJKTDBEMk9vUEh5UWxUaTRxVThEQlBhYjRKcGVNWFVEMHl2ZTdJV3d3?oc=5",
-      "source": "Laodong.vn",
+      "source": "ja.laodong.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T06:13:04.000Z"
     },
@@ -83,15 +83,6 @@
       "publishedAt": "2026-09-26T01:04:14.000Z"
     },
     {
-      "id": "70ea4619ad2a7277",
-      "title": "夏休み中のひとり親世帯に食材を無償配送 南大阪エリアの取り組み（オーヴォ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aSnVKa250RC1ienRQVGN4cXF3alFIVWxMOE0zUzJfUGxLVzFDSW41ZzVCX3Jzdmc0QXB3aE9SODRfMHZkUks5ZmVWNW0tV2hORXZYTWFnWE9odi01N1ZQaG85amtLdTFqX0QtY0ViMTM3UzltcVpMWWpSYTBPdzg?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-26T01:00:00.000Z"
-    },
-    {
       "id": "25c1b30f95836525",
       "title": "中央分離帯を越え大型トラックに衝突――乗用車の男性1人死亡 いちき串木野の南九州道（南日本新聞）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -166,9 +157,9 @@
     {
       "id": "3058f1d16201096d",
       "title": "パナソニックＨＤ 関西の物流拠点集約で収益改善へ",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MRGc2RE85blI1YmxvRTBFOUd5cEQ5WmF2b1FfNUJ2SlY0TWlhR0RDYXdQSGcwZWdYdXM4QTU1S1p6Wms5djFwbk1JaG5YOERUQkxYN0RqYWs?oc=5",
-      "source": "NHKニュース",
+      "source": "news.web.nhk",
       "category": "物流",
       "publishedAt": "2026-09-25T22:07:00.000Z"
     },
@@ -209,13 +200,22 @@
       "publishedAt": "2026-09-25T17:00:58.000Z"
     },
     {
-      "id": "a938c192aee41a8e",
-      "title": "南九州道・市来IC〜串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島（MBC南日本放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNW1fakgzWTc0ZnBaOUJpN01PRG5JLXBvLVlXWWI0R2xrYmRDV0xBRU9Vb1JBMWd6UDZJVExuN1N5OXQzalF6WUZJSjVpZ2cyUjlnTFoxSkVveTN6clVDRFpnemxEZkJyUlNpbDBBa2Q0UFlOSjY2U1Fwa1F6NlU?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "9363d76a0bd52d7e",
+      "title": "南九州西回り自動車道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSEdvMk9pRkg3eXp4bThiTUFfaDBfcjZ0Xy1oSk9Qd2pjU3ZacTFMelJqNWgwTDVrSGNnSlNad3kya2wzdzRGa0JXeEU2WTYybWxFZUtEUjZHWDdPeFV6XzVEVENfU0k?oc=5",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
-      "publishedAt": "2026-09-25T16:12:17.000Z"
+      "publishedAt": "2026-09-25T16:08:00.000Z"
+    },
+    {
+      "id": "35dad377e1c44640",
+      "title": "南九州道・市来IC〜串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUDBMVTVndS1kM25FRkVKd0hHYmctVmtoZ3JNVFRuN1E0dERmdGMxeGZiLUxORXo2RVYzYkVPWFdXcnRnYXRWZGlQWGVGYUphM2hSdVdFczNyR2I2X2tMaVVWMFRIUUduN1luWU5oVXBjaWt30gF0QVVfeXFMTmVQMExVNWd1LWQzbkVGRUp3SEdiZy1Wa2hnck1UVG43UTR0RGZ0YzF4ZmItTE5FejZFVjNiRU9YV1dydGdhdFZkaVBYZUZhSmEzaFJ1V0VzM3JHYjZfa0xpVVYwVEhRR243WW5ZTmhVcGNpa3c?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T16:08:00.000Z"
     },
     {
       "id": "fd9a344a564ad3b0",
@@ -292,18 +292,18 @@
     {
       "id": "26c5787f742efc5c",
       "title": "日立 常磐道で軽ワゴン車とトラックが衝突 ４０代男性死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXalZCODByQW9EdE45TVY0QUI3Z2RSRDE5bTBKRG1ub2pldjEzdmt5ZG1SaVFfQmJwckRVbnBmY2ZNdEFBRnpYRTlhckdZSzhqS19KR2xaRkw?oc=5",
-      "source": "NHKニュース",
+      "source": "news.web.nhk",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:41:00.000Z"
     },
     {
       "id": "c3b245f46c846be8",
       "title": "徳島県内 自転車や歩行者が関係する車の事故相次ぐ ２人死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZEV5NVJCY3E5N1VEc1pLSHBkVlFYY293QThfdkpXSVNyejZObklyUUlCSHRsWW41VktjQVVaQW1XUFdVMVNEbHpfVUdiS2pqUjI1a3hvODc?oc=5",
-      "source": "NHKニュース",
+      "source": "news.web.nhk",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:26:00.000Z"
     },
@@ -315,6 +315,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-25T08:00:35.000Z"
+    },
+    {
+      "id": "ddceb42648fca4e8",
+      "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcGlMVWlnTUZCdWRrcFNBc2JRX0ZOZmVRa0xyWmRyYjFza3ZabHhxMG9BcjlCUDJCUlhvcGZ2UkVwRVlGVFAzZ29TYV84QXFjeWc?oc=5",
+      "source": "山陽新聞",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-25T07:38:00.000Z"
     },
     {
       "id": "f6c77243d83d5786",
@@ -391,9 +400,9 @@
     {
       "id": "a97c15c9fe6da07e",
       "title": "タインホア省でトラックが崖に衝突、運転手は即死",
-      "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ja.laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2gyMmFENGJxT0MxSFlXWk05bDZhN0I1cjVMaUZvZFZQV3pLZnZWV1pXWl9BLXZFY3N3dzFsanhWLUhHREo0VFlPTUdyOHlIYS1Fc0tLM0FWYjJxeEZmTUc5VTJtUUxkdVNHbHNxZDFYU20yVF9zdHJoQ2ZnWE5Ud2JXaDh5bVZOSm9wdjJNcTFGMVJpZUhSTm8xXzk0NVVf?oc=5",
-      "source": "Laodong.vn",
+      "source": "ja.laodong.vn",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T06:06:35.000Z"
     },
@@ -706,18 +715,9 @@
     {
       "id": "a1771a7c908ccea3",
       "title": "年収1000万円の運送ドリーム、夢破れたトラック運転手はタクシーへ",
-      "description": "business.nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QS0lpb01NX2YzUEdFY0J2RkU3d0U3REs5cGNLYUU4aTJ4czZmNHpOVE5BdTZiMUV4cEJsYTZ4R09XY0djWVRnX1pCUXJTejNWWlBRRjk2bjc4Znp1dFRIWWJmREdGLUE?oc=5",
-      "source": "business.nikkei.com",
-      "category": "物流",
-      "publishedAt": "2026-09-24T20:00:00.000Z"
-    },
-    {
-      "id": "a14cd387b32f2288",
-      "title": "トヨタモビリティパーツ ３大都市圏で物流網再構築 清須市に広域中核拠点新設",
-      "description": "中部経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KY0ZVcFd4VFBUSXVlRnViWGNJNGtJcTFWMkhTWmw5NThyWk5kOWo3VExnNzQ4b004YWNISkFpdWE3VS1mcHh4R3o3RnRCR21iQUFiNUFhc3RpVnVYSkxzWExnZGhZSnUtWkpqOTVpalhxSFU?oc=5",
-      "source": "中部経済新聞",
+      "source": "日経ビジネス電子版",
       "category": "物流",
       "publishedAt": "2026-09-24T20:00:00.000Z"
     }
