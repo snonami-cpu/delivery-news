@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-26T18:28:07.085Z",
+  "updatedAt": "2026-09-26T19:23:14.926Z",
   "articles": [
-    {
-      "id": "60f7a8e52cb1115b",
-      "title": "中央分離帯を越え大型トラックに衝突――乗用車の男性1人死亡 いちき串木野の南九州道",
-      "description": "373news.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZT1V1TTFSVTE1bkJvbVNsSXpEckY3dl9jcGNKT3RDS2NiVy04UGdUNHZmWTBMNGo1Rm9TWnRTM3k3U1FzelA5WjFtandnbWoxc1BxVDNmNA?oc=5",
-      "source": "373news.com",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-26T14:58:00.000Z"
-    },
     {
       "id": "25fbd8464cd08125",
       "title": "トラックなど自社車両を活用 物流会社主催の交通安全教室 仙台市宮城野区",
@@ -27,6 +18,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T13:34:37.000Z"
+    },
+    {
+      "id": "f6ffaddc8f9436dc",
+      "title": "＜更新＞茨城の10代男性3人が重軽傷 古殿の県道で大型トラックと軽乗用車が正面衝突",
+      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zNWJjekdKWk5OSEhXM3MwcG9iVkZycUpwbkdjbWpFUEhaNzNNUzZtN3FqanJRWUZGMUNTQXlxQVc2WlAyR3lIWF9GM3MyOVU?oc=5",
+      "source": "福島民報デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-26T13:22:19.000Z"
     },
     {
       "id": "cec166145ee53713",
@@ -49,9 +49,9 @@
     {
       "id": "64133cdda4029316",
       "title": "北海道南幌町 乗用車とトラック衝突 乗用車が炎上し男性２人けが",
-      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdFVaU1F0ekJlLUEtTmhRTkFkbkhLcmJ0djhhclg2eWZnT1lMWUpBRjRmS2ltWlBySEpremZQRGE1QTliRkRLWG5Vc1BCUFliUjNKb1hBelhlUQ?oc=5",
-      "source": "htb.co.jp",
+      "source": "HTB 北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:34:00.000Z"
     },
@@ -76,9 +76,9 @@
     {
       "id": "65e43f710fd5abdc",
       "title": "軽トラックと大型トラックが衝突し２人が搬送 現場付近では交通規制【長崎・川棚町白石郷の国道205号】",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWxVVWU0c3BYOG9PVXJWbUtHdnBRYUx3emNnWEItZGRjYmVFV0Zzc0xqbVBXNloxZk15YjlRZ2VsTjNvY1FpMzFjdU80RWZENTJFR2FSVnZBUQ?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T08:28:00.000Z"
     },
@@ -112,18 +112,18 @@
     {
       "id": "fe2f535596caa2cc",
       "title": "あわや大事故に…トラックのタイヤ2本外れる→1本が対向車線の別のトラックに衝突”ケガ人なし”現場は交通量の多い国道→警察がナットの締め付け状態の確認呼びかけ〈北海道旭川市〉",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSnRucTZxUDN5Qy1UODljRm1rVFZMX0owN3RFTVhpRU9tMHlRTlV3UzZhZk5QdG1hU0JLME53UXFxRjFjRWJSNDhFckpoZw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T04:30:00.000Z"
     },
     {
-      "id": "1bfb5893543f6e5d",
+      "id": "6e3ddaa5bc23c5be",
       "title": "南九州西回り自動車道で乗用車と大型トラック衝突 1人死亡 7時間近く通行止めに 鹿児島",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fcEJObmNFbTZ5UEVIZzVqako5QW5kTUZUb2I3ZEVLblg1QUk0TzRmUVVQLUtUaFBzTEZfblFoM25wRFNiaUxXMjBURExtQjhoZVVYOUkxc2ttM0xEVi1ZbmdSbzlwNmgyY2pJM2Qydl9EMmNQ0gF0QVVfeXFMT19wQk5uY0VtNnlQRUhnNWpqSjlBbmRNRlRvYjdkRUtuWDVBSTRPNGZRVVAtS1RoUHNMRl9uUWgzbnBEU2JpTFcyMFRETG1COGhlVVg5STFza20zTERWLVluZ1JvOXA2aDJjakkzZDJ2X0QyY1A?oc=5",
-      "source": "ｄメニューニュース",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1weHBLSjR3TmtXRjhGUzJMV25mcVFaR2tyeXpSaV9mWlNUa2JwRFRGc1hSWHotdFV5RVFCTTVCTlJuRkd5eGpjYXRzYVBtb1J5NFJMYUl6RQ?oc=5",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T03:15:00.000Z"
     },
@@ -182,6 +182,15 @@
       "publishedAt": "2026-09-26T00:46:09.000Z"
     },
     {
+      "id": "60f7a8e52cb1115b",
+      "title": "中央分離帯を越え大型トラックに衝突――乗用車の男性1人死亡 いちき串木野の南九州道",
+      "description": "南日本新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZT1V1TTFSVTE1bkJvbVNsSXpEckY3dl9jcGNKT3RDS2NiVy04UGdUNHZmWTBMNGo1Rm9TWnRTM3k3U1FzelA5WjFtandnbWoxc1BxVDNmNA?oc=5",
+      "source": "南日本新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-26T00:43:00.000Z"
+    },
+    {
       "id": "1ea4b36318ab58ee",
       "title": "クローバー（埼玉）が貨物利用運送事業に登録",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -220,9 +229,9 @@
     {
       "id": "0315a617fe8a62a9",
       "title": "南九州西回り自動車道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTm1mc1BOYzlONXVoNzl6QVB3d2lGTnFrNzV0UldTR2hXLVNIWUtFRDFnLU5fZVhEUWx4VlJVWVNPRjhZYkdmY1JBSlJDWjdUcndWWmVLOA?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T23:50:00.000Z"
     },
@@ -301,9 +310,9 @@
     {
       "id": "32324143b63557bb",
       "title": "南九州道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mcWJuQUR2UUl1ZnNuN19pOFh4UFh5R2lDbF9yUTdNV2ZYQlEyYU10M1VVQlVIdHNWSHNkNlNSZDRIMm1OVWZvZk1QRUd4aEtQdEZ1N2ZaM21ldENSRDZ3a1FLSGs?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
@@ -398,13 +407,13 @@
       "publishedAt": "2026-09-25T08:26:00.000Z"
     },
     {
-      "id": "bad97d58719ddea1",
-      "title": "株式会社オーサムエージェント｜ナビタイムジャパンなど物流5社による大規模調査レポートを公開、10月15日には解説ウェビナーを開催",
-      "description": "株式会社じげん || ZIGExN Co., Ltd.が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1RWXM5ZXNCMWhVd0NHQWhldndTWThMV21Idnp1aHVkU3FMTkN2MVRMYnpZSzVqRlJVanVrVDUxM1c?oc=5",
-      "source": "株式会社じげん || ZIGExN Co., Ltd.",
+      "id": "27a68719134e655f",
+      "title": "配送の選択肢が一つ消えただけで「売上数量15％減」、アリババ42時間トラブルでわかった意外な事実 (ダイヤモンド・オンライン)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUpTY0ZUenhVQXFRdXZzZkxjc1Y2eExROVFKTFh2aHhSSXRMMnYzU2FQOUZRd2pTMkp3ZzU5SDNHM3d4Z2txVFF1NTJyNWRUZ25RMjBKVEc2VUNQQ3BEY1BqTVhhMGJpWDJ5Tm1JbXNBYnZCVElGNHRsNmpVcUZVYXctMHNRTDctcWRQbWh3?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "物流",
-      "publishedAt": "2026-09-25T07:53:43.000Z"
+      "publishedAt": "2026-09-25T08:00:35.000Z"
     },
     {
       "id": "ddceb42648fca4e8",
@@ -470,15 +479,6 @@
       "publishedAt": "2026-09-25T06:51:37.000Z"
     },
     {
-      "id": "f739f5959e87f811",
-      "title": "京都府、北部物流の実態把握へKPMG選定",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43eHJZZ09UTzEzQnJwN0FQT1BGa0RfYklZdkxCZmxXUXNGSTYxdDMzcTJuUEQxQ3FFWE5FbTRvWFdoWnlqYnZKd0J3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T06:27:57.000Z"
-    },
-    {
       "id": "483acd16abb572e7",
       "title": "超低温冷凍庫市場：製品タイプ、容量、温度範囲、技術、冷却システム、用途、エンドユーザー、流通チャネル別―2026年～2032年の世界市場予測",
       "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -542,15 +542,6 @@
       "publishedAt": "2026-09-25T04:52:46.000Z"
     },
     {
-      "id": "d8df3ffb4a255670",
-      "title": "G.A.グループ／ドライバー不足の実態調査レポート公開、10月15日に解説セミナー開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yajdiSnFOcTFHbmplYUkwMjRyVDhHTGVuUENSVF9QSUVibVNhQ01PSWNtWTE2VUlwaHMwR1hxZGIzTzNxUE9uNkFBSkxNME1jNEVXZw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:44:11.000Z"
-    },
-    {
       "id": "986bfb77985209d6",
       "title": "ファミマ、「持続可能な天然ゴム」のタイヤ 配送車に導入",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -587,11 +578,11 @@
       "publishedAt": "2026-09-25T03:04:03.000Z"
     },
     {
-      "id": "612df5f2b44e4504",
+      "id": "5c05d9630990f4ae",
       "title": "米国の小売物流：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbV9wTkFteXdBUmExY1Y0NEJ1Z0JmdTd1VUlHWGZ6MTJPc3dWdHBVNzVEOVJpdDY5X09OS2k4N2pvZVVyeGlmS09MbGJGYjg?oc=5",
-      "source": "アットプレス",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Zmc1R2VhZFNscGN3MUpPeG9uSVVRal9BSUNHRUFDRG9WaG5kenlJS0h6UXlHTGxoc0pFdk5FMHZJQXJjaHJjdW5od2NaRHM?oc=5",
+      "source": "Newscast.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T03:00:00.000Z"
     },
@@ -632,19 +623,19 @@
       "publishedAt": "2026-09-25T02:11:46.000Z"
     },
     {
+      "id": "d13ddb9052d1edf4",
+      "title": "フリュー×佐川グローバルロジスティクス 物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を 愛知県一宮市で今年度も共同開催",
+      "description": "furyu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNklIbEU1bk0zbGc1VFFIWEZHYm1JNWpTNnNRVzJ2QmZ0RVR1TWluS1NraUZMUXNmQmNrVjN4V0N3WENmbGE1ZWcxNlFKelBCS0RKbi0tWEY5alozanA4ZDhncw?oc=5",
+      "source": "furyu.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-25T02:03:15.000Z"
+    },
+    {
       "id": "a4fe1c9cc3e46ddf",
       "title": "SANKEILOGI、「食品物流＆3PL総合展」に初出展",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hcThlREhlMUlSTExnMDFya01rTUliWnhzclB0ODF0UkpDOWN2WHFMNmpYRDlHNGxmamQyb2ZPNXhJRG1TUVVHbTJWUUNrWGUyZmNHaWdEV1M1aHRnazVuWTAxNU9IRlp0ZGc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-25T02:00:02.000Z"
-    },
-    {
-      "id": "5658f109b2013494",
-      "title": "フリュー×佐川グローバルロジスティクス 物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を愛知県一宮市で今年度も共同開催",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nN2tZamJleklNUkoyeFRqZTNiM0FsQVZRS1dGQUJHRC1UNS1yUVplY0JyNzU3RDkxcDdDcmtOWXljTER5ZWF6bEMyRDc2c3VLRVJHSXFBRUZ3cWpXUThGTGRqR3Q2aDl6OUE?oc=5",
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-25T02:00:02.000Z"
@@ -706,9 +697,9 @@
     {
       "id": "856bb04be0a4a70e",
       "title": "【速報】SM物流研究会、近接センター間で共同配送 サミット・ヤオコーで検証",
-      "description": "日本食糧新聞・電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.nissyoku.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MZk1lSUNyNVpnQV9aZThzZ3kxdnhmclZFRVFBTzFsVnhkQUZSZE5pTEJCYkRnQ2RsZ3RGb3ZEc2V0ZG42bG9PWm8tS2hldU1WVjNR?oc=5",
-      "source": "日本食糧新聞・電子版",
+      "source": "news.nissyoku.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T00:56:32.000Z"
     },
@@ -720,6 +711,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T00:24:40.000Z"
+    },
+    {
+      "id": "0cda9f5dccb7a8dd",
+      "title": "SBS、5社連携でアパレル物流を一体提案",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1seEN1VVFiSy1rQUwtTzJuRUdoNjU3TGFiMVJkLWl0Sm9KaVRrbGtJM0h5aHBVWEo2Nm9EMEhVOEZwTXlXaUtha053?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T00:08:02.000Z"
     }
   ]
 }
