@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:29:33.431Z",
+  "updatedAt": "2026-09-26T13:23:52.622Z",
   "articles": [
     {
       "id": "cec166145ee53713",
@@ -22,9 +22,9 @@
     {
       "id": "64133cdda4029316",
       "title": "北海道南幌町 乗用車とトラック衝突 乗用車が炎上し男性２人けが",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdFVaU1F0ekJlLUEtTmhRTkFkbkhLcmJ0djhhclg2eWZnT1lMWUpBRjRmS2ltWlBySEpremZQRGE1QTliRkRLWG5Vc1BCUFliUjNKb1hBelhlUQ?oc=5",
-      "source": "HTB 北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:34:00.000Z"
     },
@@ -49,9 +49,9 @@
     {
       "id": "65e43f710fd5abdc",
       "title": "軽トラックと大型トラックが衝突し２人が搬送 現場付近では交通規制【長崎・川棚町白石郷の国道205号】",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWxVVWU0c3BYOG9PVXJWbUtHdnBRYUx3emNnWEItZGRjYmVFV0Zzc0xqbVBXNloxZk15YjlRZ2VsTjNvY1FpMzFjdU80RWZENTJFR2FSVnZBUQ?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T08:28:00.000Z"
     },
@@ -101,29 +101,20 @@
       "publishedAt": "2026-09-26T03:20:27.000Z"
     },
     {
-      "id": "1bfb5893543f6e5d",
-      "title": "南九州西回り自動車道で乗用車と大型トラック衝突 1人死亡 7時間近く通行止めに 鹿児島",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fcEJObmNFbTZ5UEVIZzVqako5QW5kTUZUb2I3ZEVLblg1QUk0TzRmUVVQLUtUaFBzTEZfblFoM25wRFNiaUxXMjBURExtQjhoZVVYOUkxc2ttM0xEVi1ZbmdSbzlwNmgyY2pJM2Qydl9EMmNQ0gF0QVVfeXFMT19wQk5uY0VtNnlQRUhnNWpqSjlBbmRNRlRvYjdkRUtuWDVBSTRPNGZRVVAtS1RoUHNMRl9uUWgzbnBEU2JpTFcyMFRETG1COGhlVVg5STFza20zTERWLVluZ1JvOXA2aDJjakkzZDJ2X0QyY1A?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-26T03:15:00.000Z"
-    },
-    {
       "id": "71f9316631db4c15",
       "title": "南九州自動車道で事故 乗用車と大型トラック衝突 乗用車運転の男性死亡（2026年9月25日掲載）｜KYT NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLURfaDlGQmJwUFpBMW5FZm5vckF6ZXJSQ2RWc2NNVXhrU0tjTnRtSFR1cGJBaDg4dDhMdFlPWlFRc0RkMTNic0FYRFB6RDA3M0p0aGpkbThUNXhWeV8xNTI1RWNxYzVCT1BuSHNwdGpuSU9FR1hNWmYxYWhCc1ctWDQ2VTQyblU?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T03:09:00.000Z"
     },
     {
       "id": "38ec48f49f3f41a7",
       "title": "南九州道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41d3c5b0xyRDhfd0Q1M19XRXozdWk5VG10YTdYSXlSQjB6b0hNdkptb0xnTlhQNEZTNGRJeFdQVHpvSFF1V0xVZ0FYemJneGN5MVNiTldIRQ?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T02:03:00.000Z"
     },
@@ -175,9 +166,9 @@
     {
       "id": "60f7a8e52cb1115b",
       "title": "中央分離帯を越え大型トラックに衝突――乗用車の男性1人死亡 いちき串木野の南九州道",
-      "description": "南日本新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "373news.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZT1V1TTFSVTE1bkJvbVNsSXpEckY3dl9jcGNKT3RDS2NiVy04UGdUNHZmWTBMNGo1Rm9TWnRTM3k3U1FzelA5WjFtandnbWoxc1BxVDNmNA?oc=5",
-      "source": "南日本新聞",
+      "source": "373news.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T00:43:00.000Z"
     },
@@ -209,11 +200,20 @@
       "publishedAt": "2026-09-26T00:04:05.000Z"
     },
     {
+      "id": "69ad2f516c7e8635",
+      "title": "南九州西回り自動車道・市来IC〜串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島（MBC南日本放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81Y2FuZ1J2UVBRbVFMZlRxWXdQamMtaE1GcGpYNlM3ak1qaG5WVEg5OHpiOTZRbzVCOVF1MmtuMDZESXRucEprd1pXUnFwbjhhU19SSFJPdUpqYnRzZnFRblpaeHRLYTAwY183NS11X01pY05xMXE5RmdPWGtDc2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-25T23:55:25.000Z"
+    },
+    {
       "id": "0315a617fe8a62a9",
       "title": "南九州西回り自動車道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTm1mc1BOYzlONXVoNzl6QVB3d2lGTnFrNzV0UldTR2hXLVNIWUtFRDFnLU5fZVhEUWx4VlJVWVNPRjhZYkdmY1JBSlJDWjdUcndWWmVLOA?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T23:50:00.000Z"
     },
@@ -283,9 +283,9 @@
     {
       "id": "9363d76a0bd52d7e",
       "title": "南九州西回り自動車道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSEdvMk9pRkg3eXp4bThiTUFfaDBfcjZ0Xy1oSk9Qd2pjU3ZacTFMelJqNWgwTDVrSGNnSlNad3kya2wzdzRGa0JXeEU2WTYybWxFZUtEUjZHWDdPeFV6XzVEVENfU0k?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
@@ -380,6 +380,15 @@
       "publishedAt": "2026-09-25T08:26:00.000Z"
     },
     {
+      "id": "27a68719134e655f",
+      "title": "配送の選択肢が一つ消えただけで「売上数量15％減」、アリババ42時間トラブルでわかった意外な事実 (ダイヤモンド・オンライン)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUpTY0ZUenhVQXFRdXZzZkxjc1Y2eExROVFKTFh2aHhSSXRMMnYzU2FQOUZRd2pTMkp3ZzU5SDNHM3d4Z2txVFF1NTJyNWRUZ25RMjBKVEc2VUNQQ3BEY1BqTVhhMGJpWDJ5Tm1JbXNBYnZCVElGNHRsNmpVcUZVYXctMHNRTDctcWRQbWh3?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-25T08:00:35.000Z"
+    },
+    {
       "id": "ddceb42648fca4e8",
       "title": "倉敷青果が２８年にも低温設備導入 野菜や果物の品質管理強化狙い",
       "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -400,27 +409,27 @@
     {
       "id": "5dc54e0bd0bfbe4d",
       "title": "関東運輸局／4～8月の一般貨物自動車運送業「新規許可」2.6倍の267件に急増、8月90件",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SOG1HUXhHeU04d1RLSlNSSEdfdW1acmtiWW5JRjJfbUlhXzhwelprSkJUa1FzOFFXdmpuNTBFVjlfTkV2Ulh3dThCNHJoTFh3T001Mw?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-25T07:21:00.000Z"
     },
     {
       "id": "34248f1538b5c262",
       "title": "大型トラックにはねられ自転車の女性死亡 秋の交通安全運動期間中・初の死亡事故【徳島】",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTJIWUk1R0prekVFQ0stQWhyR1lhcDNha1JlaV80YXFfTG1LZkJQVnNHLWdDak5XSFRyWG96VTU3UmNoTXhUeTA4MFFzVHVfRWV1OHFkc2tLc0d0b1h6T1RlWXF1eElFMGtWZUVJVjh3YmNJZEZLY2ctdlBCVXRpMUxfYy1QRlU?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T07:07:00.000Z"
     },
     {
       "id": "56e278337a24dc0c",
       "title": "国土交通省／共同輸配送や帰り荷確保等のための物流データ連携促進支援事業、4次公募を開始",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhM2RYQkNiU1ZKdnROeHd6MTFvXzZnWXNrSkQ2bEF2cHRscmYxQnVZb0dIS29wd0ZXUG11OHk5NFhOWElITnRIWF9zeGNaZ0R4eGZlWg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-25T07:01:00.000Z"
     },
@@ -571,9 +580,9 @@
     {
       "id": "9faaf0599767e24e",
       "title": "【速報】大型トラックと衝突 自転車の女性が意識不明で搬送【徳島】（2026年9月24日掲載）｜JRT NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXBDeFJINTZleUtXS05QUTFPUzRBdlg2LXNlZURKS1lBUXUxM0szX3FwRkJsQnpCMDNGSUlEWTVmTFpyZGJVei1lRlhkTC1BTjhUdjhXbGhBZURJcnRhSTNpSW9XVVo4NGdMMzZoMWN6WlBTcU1DOUFPWFNwM3hyeVgyclh5em8?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T02:52:00.000Z"
     },
@@ -630,6 +639,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T01:23:06.000Z"
+    },
+    {
+      "id": "a7cfb63644bf6421",
+      "title": "伏木富山港、物流機能刷新へRORO対応強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pTFBTLTJxcUZEMFpvYTVieFpCbkFQZGt4UF93LVRCQmpnVlN3dEpsMVl6b29PNjRIRlZiRG55d1ZlNnk2dldrRWpR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T01:23:05.000Z"
     },
     {
       "id": "ad2255fadbe1fe73",
@@ -702,24 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-24T23:50:28.000Z"
-    },
-    {
-      "id": "e51a5c0acfbb1aa3",
-      "title": "NXHD、インド半導体物流基盤で政府機関と連携",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRWUZHM2JvT2hubzU1NDlaMUtLMGdnejRpSzEzR0ZzSUR5aUlTTGtWSl8tdVZMaFdNb0YybmVrMkktcmZjMk83OTBB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-24T23:31:53.000Z"
-    },
-    {
-      "id": "7a80b993988f1ed1",
-      "title": "SNSで話題の中国「無人配送車」 実際はどこを走り、何の役に立っているのか",
-      "description": "36Kr Japanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBabmhaQzJyQWREb1NwWTQ1b09qSGsyWG5tZHdOTkl5Q0pDYTVJLW1Db0JSbFJjLXp3UVgw?oc=5",
-      "source": "36Kr Japan",
-      "category": "物流",
-      "publishedAt": "2026-09-24T23:05:08.000Z"
     }
   ]
 }
