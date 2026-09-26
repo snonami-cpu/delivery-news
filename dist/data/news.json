@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-26T19:23:14.926Z",
+  "updatedAt": "2026-09-26T20:24:41.743Z",
   "articles": [
+    {
+      "id": "8b1d5169b7e397c1",
+      "title": "高速道路 交通情報【非公式】| ︎Highway ︎Traffic ︎Information ︎🛣 (@highwayinfo0) on X",
+      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA1UDRTbjFxT21vUGZPTFRUN1B6U3JrOTRmOVVmSUxJRFQ4MXZpUDlPcEJtRGNjSzRFdDFv?oc=5",
+      "source": "t.co",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-26T19:05:56.000Z"
+    },
+    {
+      "id": "1d836a491107e521",
+      "title": "【国道188号】岩国市内でトラック横転事故 6時間ぶり通行止め解除（26日22:00現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSkdBN0dLVkxudTBHQ1B1UXZwWElFWjBLOWd5TWpqYktJdG5WTm5rUGlndlFlS1Bwb1BTVTFxU3Z5YVpueG5TMThrT3hLUEFEWGt4WVhIdl9kQ3N1S3hz?oc=5",
+      "source": "chiba-tv.com",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-26T18:46:14.000Z"
+    },
     {
       "id": "25fbd8464cd08125",
       "title": "トラックなど自社車両を活用 物流会社主催の交通安全教室 仙台市宮城野区",
@@ -49,9 +67,9 @@
     {
       "id": "64133cdda4029316",
       "title": "北海道南幌町 乗用車とトラック衝突 乗用車が炎上し男性２人けが",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdFVaU1F0ekJlLUEtTmhRTkFkbkhLcmJ0djhhclg2eWZnT1lMWUpBRjRmS2ltWlBySEpremZQRGE1QTliRkRLWG5Vc1BCUFliUjNKb1hBelhlUQ?oc=5",
-      "source": "HTB 北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:34:00.000Z"
     },
@@ -101,15 +119,6 @@
       "publishedAt": "2026-09-26T06:13:04.000Z"
     },
     {
-      "id": "3cfa8bf371571f31",
-      "title": "全国民の大問題！ 日本の物流4割を支える「内航船員」若手が逃げ出す“3か月乗りっぱなし”の過酷なリアル",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekI0UmNtelY1Y2o0SU40WHJCYkdQdTA2VFV3Sl8zM1NTV0ZBdGw0X0lhTkx4N2FzZ2pUZ1dfb0JZQmJ2T1ptV2pqdkxyNGxkcGs3S1JaQWNLUDdzQlFHaFptdGRUdjEzR3ptZE85d0pWZjNGemFVYmQxSWM5X3hMbktrbEJMSW1q?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-26T04:57:34.000Z"
-    },
-    {
       "id": "fe2f535596caa2cc",
       "title": "あわや大事故に…トラックのタイヤ2本外れる→1本が対向車線の別のトラックに衝突”ケガ人なし”現場は交通量の多い国道→警察がナットの締め付け状態の確認呼びかけ〈北海道旭川市〉",
       "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -144,6 +153,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-26T01:54:19.000Z"
+    },
+    {
+      "id": "3cfa8bf371571f31",
+      "title": "全国民の大問題！ 日本の物流4割を支える「内航船員」若手が逃げ出す“3か月乗りっぱなし”の過酷なリアル",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekI0UmNtelY1Y2o0SU40WHJCYkdQdTA2VFV3Sl8zM1NTV0ZBdGw0X0lhTkx4N2FzZ2pUZ1dfb0JZQmJ2T1ptV2pqdkxyNGxkcGs3S1JaQWNLUDdzQlFHaFptdGRUdjEzR3ptZE85d0pWZjNGemFVYmQxSWM5X3hMbktrbEJMSW1q?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-26T01:42:00.000Z"
     },
     {
       "id": "4f140c23c2978373",
@@ -336,10 +354,10 @@
     },
     {
       "id": "e1eb4b2e7ca663d8",
-      "title": "【常磐道】日立市内で衝突死亡事故 8時間弱ぶり通行止め解除（25日14:30現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【常磐道】日立市内で衝突死亡事故 8時間弱ぶり通行止め解除（25日14:30現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaURKU0dEdXhEWDFYS1IwSUpSSGV6RlJRRnUxSWJtU1NWLTBnNFlRVmdvNWNFYWQwOXFwLXc4UnVJSXM2YlZlbVhiQWw3YUxGN0hUTmJ2b3VGZ0RpbjY0?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T12:05:18.000Z"
     },
@@ -562,9 +580,9 @@
     {
       "id": "714895f53d8cd185",
       "title": "【第２報】大型貨物車にはねられ女性が死亡 鳴門署がトラック運転手の40代男を現行犯逮捕",
-      "description": "徳島新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.or.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUS3hwdWxjOUxEcTNIZUFDWk02YW5GaFQ2UlFabVRmTDM3a1JVNUJoclUyWkJlQTFYcWlsSW96dkp4c1hiNGhOMHlTTVRTQ3lhUHpuZHlB?oc=5",
-      "source": "徳島新聞デジタル",
+      "source": "topics.or.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T03:05:00.000Z"
     },
@@ -625,9 +643,9 @@
     {
       "id": "d13ddb9052d1edf4",
       "title": "フリュー×佐川グローバルロジスティクス 物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を 愛知県一宮市で今年度も共同開催",
-      "description": "furyu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "フリュー株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNklIbEU1bk0zbGc1VFFIWEZHYm1JNWpTNnNRVzJ2QmZ0RVR1TWluS1NraUZMUXNmQmNrVjN4V0N3WENmbGE1ZWcxNlFKelBCS0RKbi0tWEY5alozanA4ZDhncw?oc=5",
-      "source": "furyu.jp",
+      "source": "フリュー株式会社",
       "category": "物流",
       "publishedAt": "2026-09-25T02:03:15.000Z"
     },
@@ -660,10 +678,10 @@
     },
     {
       "id": "ad2255fadbe1fe73",
-      "title": "【中部横断道】清水区内でトラック事故 一部通行止め（25日10:15現在）",
-      "description": "千葉テレビ放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【中部横断道】清水区内でトラック事故 一部通行止め（25日10:15現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wZG9iNHJfbmZaQXdwWkVyLXFHakhKdXBWODcwUnp0Wm1LQlhZTlVqVTlxa29mVFFkU29ramVSZXNQcEJBLUFGNG5DMXl1d29NR0VBZGZLU2VPTzVWY2dN?oc=5",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T01:15:56.000Z"
     },
@@ -697,29 +715,11 @@
     {
       "id": "856bb04be0a4a70e",
       "title": "【速報】SM物流研究会、近接センター間で共同配送 サミット・ヤオコーで検証",
-      "description": "news.nissyoku.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本食糧新聞・電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MZk1lSUNyNVpnQV9aZThzZ3kxdnhmclZFRVFBTzFsVnhkQUZSZE5pTEJCYkRnQ2RsZ3RGb3ZEc2V0ZG42bG9PWm8tS2hldU1WVjNR?oc=5",
-      "source": "news.nissyoku.co.jp",
+      "source": "日本食糧新聞・電子版",
       "category": "物流",
       "publishedAt": "2026-09-25T00:56:32.000Z"
-    },
-    {
-      "id": "95eeaa309976d94d",
-      "title": "GGC、JGLOGIなど10社が貨物利用運送を登録",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55Vl9ObTBXX1dhVFN0ZkNTdDVkZ1VYMGp1YkRWYkFYTHhIOGJJUlo4WWtBb0tGRHpFRVV4bVN2UXoydTNJOE5IX0VR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T00:24:40.000Z"
-    },
-    {
-      "id": "0cda9f5dccb7a8dd",
-      "title": "SBS、5社連携でアパレル物流を一体提案",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1seEN1VVFiSy1rQUwtTzJuRUdoNjU3TGFiMVJkLWl0Sm9KaVRrbGtJM0h5aHBVWEo2Nm9EMEhVOEZwTXlXaUtha053?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T00:08:02.000Z"
     }
   ]
 }
