@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-09-27T04:26:20.530Z",
+  "updatedAt": "2026-09-27T05:24:47.464Z",
   "articles": [
     {
-      "id": "f38380a732d1c822",
+      "id": "f08034a618363b1d",
+      "title": "【国道254号】和光富士見バイパス 志木市内でトラック衝突事故 再度通行止め（27日13:00現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S3kzZ3BMeWw4VnZRQ0pyd2N0b04yWkNaa0tUS2RfOFNOdV9lX3d5REQ0MkpMZG5tbkZQanVKTmFKeUhJb2dpeHc4NmR0QnltT0NNUm5wWmx0SkFJQUJn?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-27T04:00:00.000Z"
+    },
+    {
+      "id": "8b07bc8e4cef6fe6",
       "title": "1台が横転…新東名高速のIC付近でトラック3台が絡む事故 運転手1人を搬送も命に別条なし 本線が一部通行止めに",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqX1lFZTNZTDZMYUd6Q1otOVQwc2NDSlc1S1FncE1rRUtMaUoyc1hhNmh4bHh5UkJ1UmJaVHV0LUx1dVlzTkJWcnlVY05kQQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSFJqbE8zbnRsbjd1NjhvVHN5T29Pei04LUo1WTN5QVUwX2RteklaNnphVFdiWGVWUVB3VVhFZjh6Qzdvb09fd3E4dnFlNmRxNGdIYWUtYThrdjBHQWtNUWxkSk1zdHNPWjFhVGlRVXRtNm1ZU1M1aHNoc2hFSm8?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-27T03:14:45.000Z"
     },
@@ -27,6 +36,15 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T18:46:14.000Z"
+    },
+    {
+      "id": "a615f52e7852980d",
+      "title": "【速報】東名高速でトラックなど5台が絡む事故 4人搬送 豊田IC～東名三好IC 下り線で通行止め",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVmFrSTQ1WTlhVXlYWTNHcWpHNFlvX0Zzc19YdkNKYzdUOUh5SmlUcVlTOVpjLUpTNTF2ejZMeVZYWnhDYzZOVnlGa1YydmZVaDZZZVZ2RHktc2pGbk00?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-26T15:07:00.000Z"
     },
     {
       "id": "25fbd8464cd08125",
@@ -58,9 +76,9 @@
     {
       "id": "be0d0a9bf26061cd",
       "title": "大型トラックと軽自動車が正面衝突 ３人重軽傷 福島 古殿町",
-      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yM1R5d1M4NzJteTZENTlTZnh1MEVlMjVWOUNJMkNQNVQ2ZHpCS2U5U19abWFDNXRWV2lBVkJDOWs0UDQ3OVplYVZHandKZWZUQ2VpQzU4X0M?oc=5",
-      "source": "NHK ONE",
+      "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:59:00.000Z"
     },
@@ -245,15 +263,6 @@
       "publishedAt": "2026-09-26T00:22:58.000Z"
     },
     {
-      "id": "f514e6399ff0ca82",
-      "title": "運送71社参加、職場認証で採用・定着支援",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oNzBpSWVZTEhybkQ4bzBCemVUT0NGVzZsOElPUGlEdGJZZzhoZ0d4Z2szNTN1N3I3eEQ1X3hJX0poTlFYc1M5OFJn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-26T00:22:58.000Z"
-    },
-    {
       "id": "8020a4f8c1c96ed0",
       "title": "ロジスティード、物流DXとLIB保管でMH大賞2賞",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -310,9 +319,9 @@
     {
       "id": "3058f1d16201096d",
       "title": "パナソニックＨＤ 関西の物流拠点集約で収益改善へ",
-      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MRGc2RE85blI1YmxvRTBFOUd5cEQ5WmF2b1FfNUJ2SlY0TWlhR0RDYXdQSGcwZWdYdXM4QTU1S1p6Wms5djFwbk1JaG5YOERUQkxYN0RqYWs?oc=5",
-      "source": "NHK ONE",
+      "source": "NHKニュース",
       "category": "物流",
       "publishedAt": "2026-09-25T22:07:00.000Z"
     },
@@ -445,18 +454,18 @@
     {
       "id": "26c5787f742efc5c",
       "title": "日立 常磐道で軽ワゴン車とトラックが衝突 ４０代男性死亡",
-      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXalZCODByQW9EdE45TVY0QUI3Z2RSRDE5bTBKRG1ub2pldjEzdmt5ZG1SaVFfQmJwckRVbnBmY2ZNdEFBRnpYRTlhckdZSzhqS19KR2xaRkw?oc=5",
-      "source": "NHK ONE",
+      "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:41:00.000Z"
     },
     {
       "id": "c3b245f46c846be8",
       "title": "徳島県内 自転車や歩行者が関係する車の事故相次ぐ ２人死亡",
-      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZEV5NVJCY3E5N1VEc1pLSHBkVlFYY293QThfdkpXSVNyejZObklyUUlCSHRsWW41VktjQVVaQW1XUFdVMVNEbHpfVUdiS2pqUjI1a3hvODc?oc=5",
-      "source": "NHK ONE",
+      "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:26:00.000Z"
     },
@@ -652,9 +661,9 @@
     {
       "id": "5c05d9630990f4ae",
       "title": "米国の小売物流：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Zmc1R2VhZFNscGN3MUpPeG9uSVVRal9BSUNHRUFDRG9WaG5kenlJS0h6UXlHTGxoc0pFdk5FMHZJQXJjaHJjdW5od2NaRHM?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T03:00:00.000Z"
     },
@@ -697,9 +706,9 @@
     {
       "id": "d13ddb9052d1edf4",
       "title": "フリュー×佐川グローバルロジスティクス 物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を 愛知県一宮市で今年度も共同開催",
-      "description": "furyu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "フリュー株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNklIbEU1bk0zbGc1VFFIWEZHYm1JNWpTNnNRVzJ2QmZ0RVR1TWluS1NraUZMUXNmQmNrVjN4V0N3WENmbGE1ZWcxNlFKelBCS0RKbi0tWEY5alozanA4ZDhncw?oc=5",
-      "source": "furyu.jp",
+      "source": "フリュー株式会社",
       "category": "物流",
       "publishedAt": "2026-09-25T02:03:15.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-25T02:00:02.000Z"
-    },
-    {
-      "id": "a033fe49ad630c49",
-      "title": "ロジスネクスト、自動物流道路で荷役効率を検証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HVUlXVkZKT1pNWWNhNC1LWl9BcmdFUmtMbnAxUm51SkVNTF9fUjZnRlJnZkxPMDN5eEtod1JobHJOWkFnb1dzQWNn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T01:26:54.000Z"
     }
   ]
 }
