@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T05:24:47.464Z",
+  "updatedAt": "2026-09-27T06:31:04.301Z",
   "articles": [
     {
       "id": "f08034a618363b1d",
@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-27T04:00:00.000Z"
     },
     {
-      "id": "8b07bc8e4cef6fe6",
+      "id": "d271f402cb7130a6",
       "title": "1台が横転…新東名高速のIC付近でトラック3台が絡む事故 運転手1人を搬送も命に別条なし 本線が一部通行止めに",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSFJqbE8zbnRsbjd1NjhvVHN5T29Pei04LUo1WTN5QVUwX2RteklaNnphVFdiWGVWUVB3VVhFZjh6Qzdvb09fd3E4dnFlNmRxNGdIYWUtYThrdjBHQWtNUWxkSk1zdHNPWjFhVGlRVXRtNm1ZU1M1aHNoc2hFSm8?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "locipo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EbVNfd0VhSGl3dV9GZWQycU9MaUVQS2tZNzh3QVdJd2R1cjFMLWhGNTBJcWh6ZUZKZ2RLUW9JTUtlSEREd0hGczlKZnVyc0NPX3l6VnpRRmpWTnJyUTJzdVBXVXk3ZTlhQXhOQXJ5VQ?oc=5",
+      "source": "locipo.jp",
       "category": "道路・交通",
-      "publishedAt": "2026-09-27T03:14:45.000Z"
+      "publishedAt": "2026-09-27T03:44:25.000Z"
     },
     {
       "id": "a61b928b8723665f",
@@ -38,15 +38,6 @@
       "publishedAt": "2026-09-26T18:46:14.000Z"
     },
     {
-      "id": "a615f52e7852980d",
-      "title": "【速報】東名高速でトラックなど5台が絡む事故 4人搬送 豊田IC～東名三好IC 下り線で通行止め",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVmFrSTQ1WTlhVXlYWTNHcWpHNFlvX0Zzc19YdkNKYzdUOUh5SmlUcVlTOVpjLUpTNTF2ejZMeVZYWnhDYzZOVnlGa1YydmZVaDZZZVZ2RHktc2pGbk00?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-26T15:07:00.000Z"
-    },
-    {
       "id": "25fbd8464cd08125",
       "title": "トラックなど自社車両を活用 物流会社主催の交通安全教室 仙台市宮城野区",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -63,6 +54,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T13:34:37.000Z"
+    },
+    {
+      "id": "7ae6d815cc35a93a",
+      "title": "軽乗用車と大型トラック衝突 10代男性が意識不明の重体、2人重軽傷 古殿",
+      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10QUtnc2hLbHoycG1jU1FLZTJ6YzktclNCLU5iaGg0ZFpTUkJUNjhOWWJBaXhRTDRmRmpsNmNFLVdqNVdGR2duRHRodHZ4SnVCSUdXWUN0cWd5ZHFWN19BZmRveS00N05k?oc=5",
+      "source": "福島民友新聞社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-26T13:29:08.000Z"
     },
     {
       "id": "f6ffaddc8f9436dc",
@@ -328,9 +328,9 @@
     {
       "id": "8a440b0f2adde9bd",
       "title": "小牧で物流拠点相次ぐ 需要拡大 大型の集積進む",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00NHpnQkZqUTFzSVU1b0x6Tk10bllhdWg3UTR1V2tsd21vY2E3cUVOUmhINUh0Nm84ZzVvSDRVRFN5XzN0c04yRzQ5Zw?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T20:21:10.000Z"
     },
@@ -373,9 +373,9 @@
     {
       "id": "35dad377e1c44640",
       "title": "南九州道・市来IC〜串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUDBMVTVndS1kM25FRkVKd0hHYmctVmtoZ3JNVFRuN1E0dERmdGMxeGZiLUxORXo2RVYzYkVPWFdXcnRnYXRWZGlQWGVGYUphM2hSdVdFczNyR2I2X2tMaVVWMFRIUUduN1luWU5oVXBjaWt30gF0QVVfeXFMTmVQMExVNWd1LWQzbkVGRUp3SEdiZy1Wa2hnck1UVG43UTR0RGZ0YzF4ZmItTE5FejZFVjNiRU9YV1dydGdhdFZkaVBYZUZhSmEzaFJ1V0VzM3JHYjZfa0xpVVYwVEhRR243WW5ZTmhVcGNpa3c?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
