@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:26:09.723Z",
+  "updatedAt": "2026-09-27T17:24:12.432Z",
   "articles": [
     {
       "id": "3e97c988b3c881f8",
@@ -29,6 +29,15 @@
       "publishedAt": "2026-09-27T04:00:00.000Z"
     },
     {
+      "id": "957009a2d7dcc431",
+      "title": "【山陰道】青谷羽合道路 湯梨浜町内でトラック事故 一部通行止め解除（27日12:15現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QeUc4ZFpudGZBMm1YcXJLOXlKODUyNWNxMGJ1YXVIZ3hFZzRpLWxJd3pwMmVQUTdOMnI4dF9LUUhzVlB2R3VVbkFoc3A5MGtpZ1F1OF8wYWplcGNLdVlF?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-27T03:19:10.000Z"
+    },
+    {
       "id": "8b07bc8e4cef6fe6",
       "title": "1台が横転…新東名高速のIC付近でトラック3台が絡む事故 運転手1人を搬送も命に別条なし 本線が一部通行止めに",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -36,15 +45,6 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-27T03:14:45.000Z"
-    },
-    {
-      "id": "957009a2d7dcc431",
-      "title": "【山陰道】青谷羽合道路 湯梨浜町内でトラック事故 一部通行止め続く（27日11:30現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QeUc4ZFpudGZBMm1YcXJLOXlKODUyNWNxMGJ1YXVIZ3hFZzRpLWxJd3pwMmVQUTdOMnI4dF9LUUhzVlB2R3VVbkFoc3A5MGtpZ1F1OF8wYWplcGNLdVlF?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-27T02:31:52.000Z"
     },
     {
       "id": "a61b928b8723665f",
@@ -94,18 +94,18 @@
     {
       "id": "a615f52e7852980d",
       "title": "【速報】東名高速でトラックなど5台が絡む事故 4人搬送 豊田IC～東名三好IC 下り線で通行止め",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVmFrSTQ1WTlhVXlYWTNHcWpHNFlvX0Zzc19YdkNKYzdUOUh5SmlUcVlTOVpjLUpTNTF2ejZMeVZYWnhDYzZOVnlGa1YydmZVaDZZZVZ2RHktc2pGbk00?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T15:07:00.000Z"
     },
     {
       "id": "25fbd8464cd08125",
       "title": "トラックなど自社車両を活用 物流会社主催の交通安全教室 仙台市宮城野区",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbVZQWVptaG1hWk15V2RrM2dqT2c1dWw3RnV0ZEh1Q05KUkpYLU10QWdCZS16dEljMmN3alppTVRNN1Rxa0V5UVNoZzNYM1ZUYjVianAzYkRFaWFJTTNzcEJUWHFRQkI4bHp2YVh3?oc=5",
-      "source": "Excite エキサイト",
+      "source": "excite.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T13:39:00.000Z"
     },
@@ -175,9 +175,9 @@
     {
       "id": "65e43f710fd5abdc",
       "title": "軽トラックと大型トラックが衝突し２人が搬送 現場付近では交通規制【長崎・川棚町白石郷の国道205号】",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRWxVVWU0c3BYOG9PVXJWbUtHdnBRYUx3emNnWEItZGRjYmVFV0Zzc0xqbVBXNloxZk15YjlRZ2VsTjNvY1FpMzFjdU80RWZENTJFR2FSVnZBUQ?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T08:28:00.000Z"
     },
@@ -220,9 +220,9 @@
     {
       "id": "0fd8401e4bbb695a",
       "title": "南九州西回り自動車道で乗用車と大型トラック衝突 1人死亡 7時間近く通行止めに 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10ZmlCOU1ndExmQ0Z6UDJibkZJUlVDSG1hb2hrQVpTcHNVNXhxaEV3emNHQUtTZHBfVGxxMDZEN2xGOVlObmswZXJSSXN6bTQzTS1UMGV3RGFzRXRlMllBZTdEMjA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T03:15:00.000Z"
     },
@@ -328,9 +328,9 @@
     {
       "id": "c518a573c217afd0",
       "title": "南九州道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "excite.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QeFk1bWRIS0hlTldSTDVkY3hJZEhqM0FiVkhDZkg2ZVRBTVgwbDQ4WXRLRHBzOWlJT3loSXNjRkEwQUdpUEE5ZEJhaDBEOVdXSHRWYjcxQnRHMEd2LXZVS1YzSGlxYXlhR0MwbFJR?oc=5",
-      "source": "Excite エキサイト",
+      "source": "excite.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-26T00:09:00.000Z"
     },
@@ -364,9 +364,9 @@
     {
       "id": "0315a617fe8a62a9",
       "title": "南九州西回り自動車道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTm1mc1BOYzlONXVoNzl6QVB3d2lGTnFrNzV0UldTR2hXLVNIWUtFRDFnLU5fZVhEUWx4VlJVWVNPRjhZYkdmY1JBSlJDWjdUcndWWmVLOA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T23:50:00.000Z"
     },
@@ -454,18 +454,18 @@
     {
       "id": "32324143b63557bb",
       "title": "南九州道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mcWJuQUR2UUl1ZnNuN19pOFh4UFh5R2lDbF9yUTdNV2ZYQlEyYU10M1VVQlVIdHNWSHNkNlNSZDRIMm1OVWZvZk1QRUd4aEtQdEZ1N2ZaM21ldENSRDZ3a1FLSGs?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
     {
       "id": "aa0dd3803f1748da",
       "title": "南九州西回り自動車道・市来IC～串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WlVRdFlVZTdtVFJZSVJsMWIzQ0xqX1hiYVVhbEwzR1c2cUxJVjlVUThsNFVucXZRUk9ZOHBURWdxN0V5YVRndGJUcmZuV3h4OE5CWURmcTJDUQ?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
@@ -504,15 +504,6 @@
       "source": "千葉テレビ放送株式会社",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T12:05:18.000Z"
-    },
-    {
-      "id": "3103d0588b955fff",
-      "title": "【更新】常磐道でトラックと衝突 軽ワゴン車の男性死亡 高萩-日立北IC間 7時間50分通行止め 茨城",
-      "description": "茨城新聞クロスアイが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nbGcwbm41YUZBNGc3cEtKZmxOWUxBZkUya194T21fTXVPZy02TURzcldQc3I2cVgzMV9CNVVNaGIzVk1MVVZJTVRlRk4xTlF3Zk1DTzZ0dmFHNWwxZzRvc09uSmRGTmtkc2R1ZExqUFJMNnc?oc=5",
-      "source": "茨城新聞クロスアイ",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-25T10:37:59.000Z"
     },
     {
       "id": "b3bc987dde4f946c",
@@ -621,6 +612,15 @@
       "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-25T07:01:00.000Z"
+    },
+    {
+      "id": "a57662a7e3ad5b54",
+      "title": "物流効率化法でやるべき3つの取組｜2026年4月義務化の対象",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTERtb05Hc2ZOVHM4alV3dXhoc1NuQVNyTXFkcTVIcmNIOVBZSU1jU0lRTG5nX1h6SWYwSTliUkpoc1ZuUU1SRjczMW0?oc=5",
+      "source": "株式会社Hacobu",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-25T07:00:00.000Z"
     },
     {
       "id": "693d750a92ae62a5",
