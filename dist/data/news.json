@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-27T21:24:53.361Z",
+  "updatedAt": "2026-09-27T22:25:35.172Z",
   "articles": [
-    {
-      "id": "0d5028717436005d",
-      "title": "配車アプリ「TADA」、小口配送に参入 手数料ゼロで差別化［社会］",
-      "description": "VIET JOが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QZkdsMkUxbjFGTlFrcFUxOEJ3V3p1S0JqbURBd2VwT2t3WGdadDZJT2xzbENPVGhZZ0tPS2ZTUHhYTEhfQndqZ3dleW91T3Y2MDlhYVV2Y0EtWXZreTNleThMOA?oc=5",
-      "source": "VIET JO",
-      "category": "物流",
-      "publishedAt": "2026-09-27T19:28:00.000Z"
-    },
     {
       "id": "3e97c988b3c881f8",
       "title": "責任感？保身？ 「お人好し」「口下手」ばかりの運送業界",
@@ -18,6 +9,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-27T10:04:42.000Z"
+    },
+    {
+      "id": "95e678964b4b0883",
+      "title": "【展望台】物流政策、社会を支える次の役割 | コラム | ニュース - daily-cargo.com",
+      "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fYlZqckMtdEZmNC0tNE03ejdvTEV4aDdCeVZvTkxUaUpDWXdPYXlQVWY1aGVjc3FTQndXMy1UMDlmYmhnam5vUXJaUkt0ZFBDYVFaek10bTU2cWZIdWdvUDl6ZXQ2UQ?oc=5",
+      "source": "daily-cargo.com",
+      "category": "物流",
+      "publishedAt": "2026-09-27T10:01:38.000Z"
     },
     {
       "id": "445ec70ed45382d9",
@@ -317,6 +317,15 @@
       "publishedAt": "2026-09-26T00:22:58.000Z"
     },
     {
+      "id": "f514e6399ff0ca82",
+      "title": "運送71社参加、職場認証で採用・定着支援",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oNzBpSWVZTEhybkQ4bzBCemVUT0NGVzZsOElPUGlEdGJZZzhoZ0d4Z2szNTN1N3I3eEQ1X3hJX0poTlFYc1M5OFJn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-26T00:22:58.000Z"
+    },
+    {
       "id": "c518a573c217afd0",
       "title": "南九州道・市来IC～串木野ICの通行止め解除 乗用車とトラック衝突で1人死亡 鹿児島",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -463,18 +472,18 @@
     {
       "id": "35dad377e1c44640",
       "title": "南九州道・市来IC〜串木野IC間で乗用車とトラック衝突 1人死亡 現場は通行止め 鹿児島",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUDBMVTVndS1kM25FRkVKd0hHYmctVmtoZ3JNVFRuN1E0dERmdGMxeGZiLUxORXo2RVYzYkVPWFdXcnRnYXRWZGlQWGVGYUphM2hSdVdFczNyR2I2X2tMaVVWMFRIUUduN1luWU5oVXBjaWt30gF0QVVfeXFMTmVQMExVNWd1LWQzbkVGRUp3SEdiZy1Wa2hnck1UVG43UTR0RGZ0YzF4ZmItTE5FejZFVjNiRU9YV1dydGdhdFZkaVBYZUZhSmEzaFJ1V0VzM3JHYjZfa0xpVVYwVEhRR243WW5ZTmhVcGNpa3c?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-25T16:08:00.000Z"
     },
     {
       "id": "fd9a344a564ad3b0",
-      "title": "国土交通省／中小物流事業者の労働生産性向上事業費補助金（共同輸配送や帰り荷確保等のための物流データ連携促進支援事業）の4次公募開始について - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "国土交通省／中小物流事業者の労働生産性向上事業費補助金（共同輸配送や帰り荷確保等のための物流データ連携促進支援事業）の4次公募開始について - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OYlkwZVNacGt2MXowSFQ4NmtXOEV3MmJScFpLbV83OHc1TWdSdDBmQkZWXzRmOEt6dTVYWWp3UUNvMnJwbEFVMUFCdw?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-25T14:19:43.000Z"
     },
@@ -525,10 +534,10 @@
     },
     {
       "id": "d5a6fe18b0022e80",
-      "title": "東京建物、タイ・チョンブリ県で物流施設・賃貸工場の複合施設共同開発に参画 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東京建物、タイ・チョンブリ県で物流施設・賃貸工場の複合施設共同開発に参画 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOE8wZlB4UkJGNW84cGxzQWtZZUZSY1VMUkVJaE1PRF9SaFlqWHRQMmxNMlVpV0NIZDA4a0xiZzVkSmIwNnE0OFVqWQ?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-25T09:10:12.000Z"
     },
@@ -616,9 +625,9 @@
     {
       "id": "a57662a7e3ad5b54",
       "title": "物流効率化法でやるべき3つの取組｜2026年4月義務化の対象",
-      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTERtb05Hc2ZOVHM4alV3dXhoc1NuQVNyTXFkcTVIcmNIOVBZSU1jU0lRTG5nX1h6SWYwSTliUkpoc1ZuUU1SRjczMW0?oc=5",
-      "source": "株式会社Hacobu",
+      "source": "hacobu.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-25T07:00:00.000Z"
     },
@@ -633,12 +642,21 @@
     },
     {
       "id": "5fa2f5640fd2a2fb",
-      "title": "NXグループ、インドで半導体物流のインフラ構築へ現地機関と戦略的協力覚書を締結 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "NXグループ、インドで半導体物流のインフラ構築へ現地機関と戦略的協力覚書を締結 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWOEM5d0ZkcEpzb0x6Rlk4Wng3eUhUdktKSVZzS2pCOGRocXp2SnNvdzBFRVE2ck5qT3p6bXBwTFIxQ0VXei1WdDVXSQ?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-25T06:51:37.000Z"
+    },
+    {
+      "id": "f739f5959e87f811",
+      "title": "京都府、北部物流の実態把握へKPMG選定",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43eHJZZ09UTzEzQnJwN0FQT1BGa0RfYklZdkxCZmxXUXNGSTYxdDMzcTJuUEQxQ3FFWE5FbTRvWFdoWnlqYnZKd0J3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-25T06:27:57.000Z"
     },
     {
       "id": "483acd16abb572e7",
@@ -687,10 +705,10 @@
     },
     {
       "id": "96f456bed89deb82",
-      "title": "大学生の物流業界への理解・関心深める産学官連携プロジェクトが始動 - online.logi-biz.com",
-      "description": "online.logi-biz.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "大学生の物流業界への理解・関心深める産学官連携プロジェクトが始動 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zaWFtelItRUdGU09nYzh3WWFiZl9BWmZ6QjhTX0ZpT2lnbkFBdzcyaVp1Z3NDYVI1OGsybVZSVXRvaV8tQXV3SWdwWQ?oc=5",
-      "source": "online.logi-biz.com",
+      "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-25T04:52:46.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-25T04:44:11.000Z"
-    },
-    {
-      "id": "986bfb77985209d6",
-      "title": "ファミマ、「持続可能な天然ゴム」のタイヤ 配送車に導入",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5faVMxbVFMcnBKdUFESmxhQWp5SWgzV3FjVWpodmdhZ05iVmtxamR0R292R0lKTGo2SkIzOGhEMzNjMVE1aDJfdldsNjJHS2tkbGRScFVJYk5oMzExejZwNjVRZS03YndiSjVlcg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:22:41.000Z"
-    },
-    {
-      "id": "68707bf1dd436676",
-      "title": "Cuebus株式会社、食品物流＆3PL総合展2026 出展のお知らせ",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSmIxV3hIcmpxTjNUdUZuaDh6cmlBOFpCWS1vTUZDNFM4Y05DdUszSlVhSWQzbUdqSzhHZXdmWUlqV2JYSVFLVy1ndXBEWmoxVUVEeFEzWDFkNlVMN2VSWkkyTWM3TkZjbHc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-25T04:00:01.000Z"
     }
   ]
 }
