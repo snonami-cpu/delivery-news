@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-09-27T03:26:28.283Z",
+  "updatedAt": "2026-09-27T04:26:20.530Z",
   "articles": [
     {
-      "id": "8b07bc8e4cef6fe6",
+      "id": "f38380a732d1c822",
       "title": "1台が横転…新東名高速のIC付近でトラック3台が絡む事故 運転手1人を搬送も命に別条なし 本線が一部通行止めに",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSFJqbE8zbnRsbjd1NjhvVHN5T29Pei04LUo1WTN5QVUwX2RteklaNnphVFdiWGVWUVB3VVhFZjh6Qzdvb09fd3E4dnFlNmRxNGdIYWUtYThrdjBHQWtNUWxkSk1zdHNPWjFhVGlRVXRtNm1ZU1M1aHNoc2hFSm8?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqX1lFZTNZTDZMYUd6Q1otOVQwc2NDSlc1S1FncE1rRUtMaUoyc1hhNmh4bHh5UkJ1UmJaVHV0LUx1dVlzTkJWcnlVY05kQQ?oc=5",
+      "source": "FNNプライムオンライン",
       "category": "道路・交通",
       "publishedAt": "2026-09-27T03:14:45.000Z"
+    },
+    {
+      "id": "a61b928b8723665f",
+      "title": "【国道254号】和光富士見バイパス 志木市内でトラック衝突事故 9時間弱ぶり通行止め解除（27日10:15現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTN1V0OEFSdjI0TDNndk1VcG5fLTFPellpLXRRNWtxVGlRck5pUVpRWVhuSHF6d1VlUEdNd0NFZGpUaXRVNl9PTS1KQjk4X2o4S2F3clpXMVBLZ2lzZGJ3?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-27T02:29:19.000Z"
     },
     {
       "id": "1d836a491107e521",
@@ -49,9 +58,9 @@
     {
       "id": "be0d0a9bf26061cd",
       "title": "大型トラックと軽自動車が正面衝突 ３人重軽傷 福島 古殿町",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yM1R5d1M4NzJteTZENTlTZnh1MEVlMjVWOUNJMkNQNVQ2ZHpCS2U5U19abWFDNXRWV2lBVkJDOWs0UDQ3OVplYVZHandKZWZUQ2VpQzU4X0M?oc=5",
-      "source": "NHKニュース",
+      "source": "NHK ONE",
       "category": "安全・事故",
       "publishedAt": "2026-09-26T09:59:00.000Z"
     },
@@ -164,10 +173,10 @@
       "publishedAt": "2026-09-26T01:54:19.000Z"
     },
     {
-      "id": "3cfa8bf371571f31",
+      "id": "4154f45a5905ce28",
       "title": "全国民の大問題！ 日本の物流4割を支える「内航船員」若手が逃げ出す“3か月乗りっぱなし”の過酷なリアル",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekI0UmNtelY1Y2o0SU40WHJCYkdQdTA2VFV3Sl8zM1NTV0ZBdGw0X0lhTkx4N2FzZ2pUZ1dfb0JZQmJ2T1ptV2pqdkxyNGxkcGs3S1JaQWNLUDdzQlFHaFptdGRUdjEzR3ptZE85d0pWZjNGemFVYmQxSWM5X3hMbktrbEJMSW1q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTdsSkUtaEljekxJQ3ZqektBVFgyRkpWOU1pM1FPQmpHNzY1dWNyclBDR3R3aDRKSDhTSU5MY2VfUldmWENfZWtUazBTS296UEplM3VWZWRBUFFES2tvU1B1Rm5aUElPQk1UUmhhd0VybXZDeUFtek9XRmIxWDNSU2xqcXZlOFo4N2Q0eDF3?oc=5",
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-26T01:42:00.000Z"
@@ -301,9 +310,9 @@
     {
       "id": "3058f1d16201096d",
       "title": "パナソニックＨＤ 関西の物流拠点集約で収益改善へ",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MRGc2RE85blI1YmxvRTBFOUd5cEQ5WmF2b1FfNUJ2SlY0TWlhR0RDYXdQSGcwZWdYdXM4QTU1S1p6Wms5djFwbk1JaG5YOERUQkxYN0RqYWs?oc=5",
-      "source": "NHKニュース",
+      "source": "NHK ONE",
       "category": "物流",
       "publishedAt": "2026-09-25T22:07:00.000Z"
     },
@@ -436,18 +445,18 @@
     {
       "id": "26c5787f742efc5c",
       "title": "日立 常磐道で軽ワゴン車とトラックが衝突 ４０代男性死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXalZCODByQW9EdE45TVY0QUI3Z2RSRDE5bTBKRG1ub2pldjEzdmt5ZG1SaVFfQmJwckRVbnBmY2ZNdEFBRnpYRTlhckdZSzhqS19KR2xaRkw?oc=5",
-      "source": "NHKニュース",
+      "source": "NHK ONE",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:41:00.000Z"
     },
     {
       "id": "c3b245f46c846be8",
       "title": "徳島県内 自転車や歩行者が関係する車の事故相次ぐ ２人死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "NHK ONEが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZEV5NVJCY3E5N1VEc1pLSHBkVlFYY293QThfdkpXSVNyejZObklyUUlCSHRsWW41VktjQVVaQW1XUFdVMVNEbHpfVUdiS2pqUjI1a3hvODc?oc=5",
-      "source": "NHKニュース",
+      "source": "NHK ONE",
       "category": "安全・事故",
       "publishedAt": "2026-09-25T08:26:00.000Z"
     },
@@ -688,9 +697,9 @@
     {
       "id": "d13ddb9052d1edf4",
       "title": "フリュー×佐川グローバルロジスティクス 物流の仕事とその価値を学ぶ親子イベント「こどもさんかん日」を 愛知県一宮市で今年度も共同開催",
-      "description": "フリュー株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "furyu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNklIbEU1bk0zbGc1VFFIWEZHYm1JNWpTNnNRVzJ2QmZ0RVR1TWluS1NraUZMUXNmQmNrVjN4V0N3WENmbGE1ZWcxNlFKelBCS0RKbi0tWEY5alozanA4ZDhncw?oc=5",
-      "source": "フリュー株式会社",
+      "source": "furyu.jp",
       "category": "物流",
       "publishedAt": "2026-09-25T02:03:15.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-25T01:26:54.000Z"
-    },
-    {
-      "id": "650dd4f1b732ff85",
-      "title": "DXCとLOXO、自動運転物流を企業規模へ拡大",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZWVqYkxWdE1BRGVyS2R3ZjQ2NW42cXpBZHIwT2g4cFY0c3ZkMWRLb1h6Vy1HOXNDNFdwY0xRYlBRWjdmdkxEWTVB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-25T01:23:06.000Z"
     }
   ]
 }
