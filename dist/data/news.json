@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:29:16.092Z",
+  "updatedAt": "2026-09-28T14:30:56.336Z",
   "articles": [
     {
       "id": "17ca2828d561849f",
@@ -84,10 +84,10 @@
     },
     {
       "id": "728a7124287e755f",
-      "title": "山陽道走行中、トラック積載のショベルカーが出火 新名神宝塚北SAまで走行し消火 けが人なし|事件・事故",
-      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "山陽道走行中、トラック積載のショベルカーが出火 新名神宝塚北SAまで走行し消火 けが人なし|事件・事故 - kobe-np.co.jp",
+      "description": "kobe-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IU1lBUjhnU0pMaTFqWXB5YnU2bFpYaVNoblh0TFBzQ1NkSDA5YUtoZGVQbEdjZk13R0F6UUNGSUZvU0MtN1ZkWjdLcEUzLWlxRWx5OHZYeFYwM1RfQllXd24wS21HZ3luWDBr?oc=5",
-      "source": "神戸新聞",
+      "source": "kobe-np.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T09:19:00.000Z"
     },
@@ -155,6 +155,15 @@
       "publishedAt": "2026-09-28T08:10:00.000Z"
     },
     {
+      "id": "ace5ad5422f84b8e",
+      "title": "道路を横断中の女性（78）はねられ死亡 愛知・春日井市（2026年9月28日掲載）｜中京テレビNEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUlfUnQ2ZmIwOUYxYkVWZmFBR0ZacGU2Ql83enRLN3dTaU9mOEQxYU1CUENRM3U2Z2RjZC1UYnU0UEFWS2ctTU9ZYXBrMkU3MTJ2RFFMalBmQXd3dTNVdW5ncjJZWWJBT1JSNVBwWGF2Uk0xUzRhdDc3eWdyZDRQdHpiWUFxVFU?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-28T07:57:00.000Z"
+    },
+    {
       "id": "6983aee7ea32f90a",
       "title": "ホンダ、大雨でバンコク二輪工場の生産一時停止 NXHDは配送に影響",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -162,6 +171,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-28T07:51:45.000Z"
+    },
+    {
+      "id": "2d1333be357c27d1",
+      "title": "LOMBY／自動配送ロボット量産へ3.87億円の資金調達",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GaVpiWVJIZEhfdlZlaGxFNlRDbEJya1FzZ1g0dmJ0Ui1zRHF3a3dXd2NiU3M4TXY4Vk1XOVRyTHNkb0FIeGlhOEpYWURfcFFhbnlJVA?oc=5",
+      "source": "lnews.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-28T07:48:23.000Z"
     },
     {
       "id": "0008eda85ae9efca",
@@ -180,15 +198,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-28T07:30:57.000Z"
-    },
-    {
-      "id": "2d1333be357c27d1",
-      "title": "LOMBY／自動配送ロボット量産へ3.87億円の資金調達",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GaVpiWVJIZEhfdlZlaGxFNlRDbEJya1FzZ1g0dmJ0Ui1zRHF3a3dXd2NiU3M4TXY4Vk1XOVRyTHNkb0FIeGlhOEpYWURfcFFhbnlJVA?oc=5",
-      "source": "lnews.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-28T07:28:58.000Z"
     },
     {
       "id": "b40d922d2b1183e3",
@@ -255,10 +264,10 @@
     },
     {
       "id": "93dff906dbf5667b",
-      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得 - cargo-news.online",
+      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0cmo2ZjA4RExiS1IxV1o1a2d2bjZOVmp1NEh6ZFlub2ExY1RfTmtMcTJsZmUtYVNFZW4ybnhCZUJjMy1zZktLaFBUSlJWdkpMblpKZDdocGt3ZERBWnJJ?oc=5",
-      "source": "カーゴニュースオンライン",
+      "source": "cargo-news.online",
       "category": "物流",
       "publishedAt": "2026-09-28T07:00:00.000Z"
     },
@@ -362,10 +371,10 @@
       "publishedAt": "2026-09-28T06:08:00.000Z"
     },
     {
-      "id": "8ef0c97282216320",
+      "id": "8f10d02a549c31bf",
       "title": "サステナブル冷媒マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）3.2%の安定成長",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmLWpJNVdETWQzQUdCX0hfU1BOeVo1NHA5TU9id0lHMVJZRXB2aUh6V2ZvU1dXdDExYzE3N0ZKQVdGa0d6RkZNV1pObWRRNXZfR0ZNZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yYTV1eGJobm1Iblphd0ZORTFHMzJjcTQ0T21rUlZhTXVwb3NmWFl5eDNZRmpQbjZwa0hKUnNfLWkxeEE3clcxQU9lckY4WnJ2cThZaEhLZmZrRGZ4M0VobWVZVUgwUHBlaEt3WWNha3JnajVBZHNLWWtXYw?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-28T06:03:33.000Z"
@@ -391,9 +400,9 @@
     {
       "id": "0fabff19ca2a0f1e",
       "title": "勘に頼らない拠点配置へ ― アイディオット、物流拠点配置シミュレーション技術で特許取得",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOU1sQ2p1cko5bkpQeFZxcHR3N3BCT0d3aEJCWUdiWWJnMlZ5UWo5VlNDSndnYXBEWE1QSjFYbjVfRmdYOGUwTklJTTdUVUZ3ZlV0Vnl2VHVkUURrc0U0QXJBSFZHMktrVEE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-28T05:30:02.000Z"
     },
@@ -427,9 +436,9 @@
     {
       "id": "57889b7f309687cb",
       "title": "【開催レポート】ギオン、SmartHR主催「物流人事DXが導く2030年へのロードマップ」に登壇",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZ0t3VmF0N1EtLU5wRzIyeGR6S2NSZHVFQXhkUVF4bm02SVlGTDQ1TEZQd0JLdTV6UkMxN2ttNlVuS3VmeEVvRkU0QlZZOGx3eXhPaXBvME11UDh6VWJxaHJTeGstc2ctQ0E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-28T05:22:37.000Z"
     },
@@ -462,10 +471,10 @@
     },
     {
       "id": "f3bc5e51e0ff579a",
-      "title": "中国自動車道のトラック2台と乗用車の事故 通行止め解除 - chugoku-np.co.jp",
-      "description": "chugoku-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "中国自動車道のトラック2台と乗用車の事故 通行止め解除",
+      "description": "中国新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waklQd0hJQVZYMmJlTDNIX1AxRURueVIwT0VMQ0RPWEpuYzVYWE4xYXE0dFJsOE01UC1wcW83M3ZNRkN2Y2dOVkJ5a2M4cmpvYjlCRWxHMGlFQQ?oc=5",
-      "source": "chugoku-np.co.jp",
+      "source": "中国新聞デジタル",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T05:09:00.000Z"
     },
@@ -486,6 +495,15 @@
       "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-28T04:37:40.000Z"
+    },
+    {
+      "id": "26ed5129c988ddd8",
+      "title": "アマゾンが物流ロボ内製加速、米印州に新工場",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93Y3lRWGYwR3dfZjl2Y0syMzUtUGJqMUxoNldHR0FtdVJVMTFtcDJvSy1TUDVNUnJSSmdzc2pQeUtZYkczWEpLUXBB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-28T04:33:25.000Z"
     },
     {
       "id": "318e8496c18be24d",
@@ -571,9 +589,9 @@
     {
       "id": "6bb418475b42d084",
       "title": "戦略物流サミット2026「物流スタートアップピッチ」の登壇企業募集開始",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZUUwRHFEZGdBQ2Rqa2pJbVE4M2o2YUhKcG9HNjAzQTkyQkpDd2RkSkMzajlxdjN2cUdSZ25BZnlubGUyNEpCOFp5OFp6alRuSXBEd3RwTHM5NGZlS25GcnoxcE80QWM2Q3c?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-28T02:31:57.000Z"
     },
@@ -623,20 +641,20 @@
       "publishedAt": "2026-09-28T01:18:00.000Z"
     },
     {
-      "id": "b20210a554cefc00",
+      "id": "82da1c67d4c93318",
       "title": "松山自動車道新居浜IC～土居IC上り線 事故の影響で通行止め（午前１０時現在）",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1remhmbDlQNkxqMGlfUzJSdFZ2MUpIS2FERGh1VmY3OERKSmtCMHFNc2UybmdMX2VyRVVmZWVYb0xUMXFmNmV1OENZdHBxbnp0cld2ZEttOVFqQjltcFl2YUJ2aEVXSkFi0gFuQVVfeXFMT0I2RTZFVU5lLVZsM29lbGJ2d3Y1ZEhuckhtYmZhX2o2anp3b1NRcmRiTTl4S2RrRnNobW5ocjhHWFdPQnh4SkUwRTJxbUV0LTlEc0xwRWRHTW1zY2dYUVJRRjg2UDh3dkd2Skg1dkE?oc=5",
-      "source": "Infoseek",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWh6a2QyWjhjMExpbzM3ZWVocFZJWllDZ1dWMXJjanZKOU1TejlLM055NHFKUHJ2LWY3d0xQSkRLdmdSQ1VGTzNXOHhOb3ZBVkZPTHNjZWppT0JrYXBWVUpHUUU0Um5Gc2VTdkQzQ3JkUFZXVVViXzRZd196YUtKNGFxdnFzVmM?oc=5",
+      "source": "日テレNEWS NNN",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T01:18:00.000Z"
     },
     {
       "id": "3264b16718ce4884",
-      "title": "【PR】MDロジス 物流を企業競争力へ - dempa-digital.com",
-      "description": "dempa-digital.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【PR】MDロジス 物流を企業競争力へ",
+      "description": "電波新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpc0xzVUxELWhCUF9pdU85SkttQ1ZURGllVG1DNHB1VkVabEZxRXNaUTJEWjhucTBQczU5MkUtQXpKVFhYQVozbjBBaEVfWVNieDg0VGdTV3pubm1ZV01seXVR?oc=5",
-      "source": "dempa-digital.com",
+      "source": "電波新聞デジタル",
       "category": "物流",
       "publishedAt": "2026-09-28T01:04:34.000Z"
     },
@@ -652,9 +670,9 @@
     {
       "id": "569b94de4dc0871b",
       "title": "イズミ物流、ウズベキスタンで合弁物流事業を始動",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Q3RTTUFZXzlEM1M4VTAzdElGd1I0ME04OXk0Qzdsak5Ib0NpQWs3R292N2VxbWVSSURiSlJwM2VZbUdYbTZDUzMyNWUzNXljc0E3a0F3NUhJVWQya2RBcXpKd3ZLekh3ZFE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-28T00:00:01.000Z"
     },
@@ -697,29 +715,11 @@
     {
       "id": "5f08bbd65bfd63af",
       "title": "ハコブ、蓄積データ活用 物流 AI実装加速",
-      "description": "日刊工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90M3kyaV9mX19PTkc4dExOeG05UzZmdExLNFdTTlVZUjdJbGE3X1ZMRTVJbDhBbU85Ui03S0FNaDRpU2JlMFJxekcyS2o3bWJfM3dCMW5kM0g?oc=5",
-      "source": "日刊工業新聞",
+      "source": "nikkan.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-27T20:00:00.000Z"
-    },
-    {
-      "id": "0d5028717436005d",
-      "title": "配車アプリ「TADA」、小口配送に参入 手数料ゼロで差別化［社会］",
-      "description": "VIETJOベトナムニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QZkdsMkUxbjFGTlFrcFUxOEJ3V3p1S0JqbURBd2VwT2t3WGdadDZJT2xzbENPVGhZZ0tPS2ZTUHhYTEhfQndqZ3dleW91T3Y2MDlhYVV2Y0EtWXZreTNleThMOA?oc=5",
-      "source": "VIETJOベトナムニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-27T19:28:00.000Z"
-    },
-    {
-      "id": "3ed8b5f68ac9d05f",
-      "title": "冷蔵・冷凍倉庫用ドア市場2035年予測：コールドチェーン物流の拡大が成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHRLMzNibmF5Q09oVEx6akRDVm5odmJ1ZnNpQ2NlYlp1VGhVSUUzMFM4THQ2S2c3UmVnYWVUcVlpbzdRZUx2VVp6ZTBrdTVwYXZicDduODdOcC1LbTc5dHJLOU8zd0V5VHVPWHdJWHd3Q2VMalRuSUFxSjRvS2w4dE1EQnpYM1BjMmVpYmVXaF9fM0d6RTlPMk1oWElTUXA2dWhkaFNJMm0zSWFNLTBWLWlzdWw5N1VJSW16aHVrNEdSTWk1dWtn?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-27T18:56:04.000Z"
     }
   ]
 }
