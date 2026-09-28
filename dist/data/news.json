@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:27:43.669Z",
+  "updatedAt": "2026-09-28T18:31:15.604Z",
   "articles": [
     {
       "id": "01533c9c42647ba3",
@@ -18,15 +18,6 @@
       "source": "daily-cargo.com",
       "category": "物流",
       "publishedAt": "2026-09-28T15:43:11.000Z"
-    },
-    {
-      "id": "ee4c664d55eabd07",
-      "title": "勘に頼らない拠点配置へ ― アイディオット、物流拠点配置シミュレーション技術で特許取得",
-      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04bGppYXpQaTE5Tm44c0J2M2ptdVY2R2ZlNmJCZjgyN2haVU8tSXZMQzl2b3NvMjhCdGJTMnZfWk5MZmNtU1ZHVkd3ZFpZc2hkelQ3dDhnc2ROVjJRUF9UTWNHcnF6dU5fT0tzUXYyUjlFejVDUVBtOG5faw?oc=5",
-      "source": "ニコニコニュース",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-28T15:00:52.000Z"
     },
     {
       "id": "6651522200a1fbba",
@@ -49,9 +40,9 @@
     {
       "id": "b0e0179aa03a4aef",
       "title": "信号機のない交差点で大型トラックと軽ワゴン車が衝突 92歳の男性が死亡 仙台・若林区荒浜",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FQmRFTzZXMGVIbUdfemNtZm9WakpaczRuZFJHd2VJdFZWUnE1cmlRSHB3NFdoZS1nNjhuWTk3eGpkcThIa2JPZ29RVjl5UU9SVnpqVnNoV0dwUl9XaDFXNmdnTm0zM00?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T11:41:00.000Z"
     },
@@ -110,6 +101,15 @@
       "publishedAt": "2026-09-28T10:29:46.000Z"
     },
     {
+      "id": "2aec99710358edcf",
+      "title": "8月の豪雨からまもなく1か月 道路が陥没した国道364号はいまだ通行止めのまま 坂井市の竹田地区では影響続く",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTFjN00xZDJkNGRvM2NvS2ZSaUF6TGVWT0lPdHJDT210R2VTVGNKdlpxWHpXQzNycXc1RklhRnFXOHkxbzBhSTJkcjVMN24yX2F1MHE3aG5rUTI3cG1PUUZVQUhwWWxXcXg5Znk0QjJZSExCaVhsNDhnbE13UVF6MHdRRTZqLTQ?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-28T10:08:00.000Z"
+    },
+    {
       "id": "e26aeb33953e74b0",
       "title": "中国物流ロボット、日本で導入拡大 トヨタやコマツも採用、人手不足が追い風",
       "description": "36Kr Japanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -139,9 +139,9 @@
     {
       "id": "f0759ecdd51b2fe4",
       "title": "【脱・常識】なぜ「巨大な箱」は開かれた？／物流施設にカフェや保育施設を併設する真の狙い／競争から「共創」を生む次世代インフラの正体／Marq（日本GLP）帖佐義之×山崎怜奈",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11QXo0YmVKRktZR2JNVG5MekFvNW9QSEtGX2poZlpBVmdTbEplel9uVEg4WVZ2OW9sTXVyY3lZbC1SOWlPTjNjT3k0VnNIemE5MnBuR3czUTlsRTNqUFJGSUFNVTdJTDQ?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-09-28T09:00:00.000Z"
     },
@@ -193,9 +193,9 @@
     {
       "id": "72211e091e5983e9",
       "title": "国土交通省／10月・11月「荷主等に対する集中監視月間」公正取引委員会、中小企業庁、警察と連携、白トラ是正も",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbmNLWTBDNHF4QmJYRnlpb0NLMDM4Y1ViZmlZcFE2QTdONG40NFU5WjdYQVMtaDZIZUxLai0xQ2J6dGNZN2RwOXpocXFYYklHd1dpUg?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-28T08:10:00.000Z"
     },
@@ -256,9 +256,9 @@
     {
       "id": "4bd9ea3753740989",
       "title": "【速報】若林区荒浜で大型トラックと軽乗用車が衝突 高齢の男性が病院に搬送（ミヤギテレビ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWEFJaHN6c0E2WW1uU045WFVYbWEtVkhHYVl5SWxqcHgyeFJxaXpDTVpfcUZmUXo1THlFMUE3ekZTVmtTT21XVmxCLWo0QWxKVUtrU1dURWpvZTNFUWpnLWM1d1d6TEVibG82SWhSR0llT2FmVlVRYVdZRm1Bd00?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T07:21:00.000Z"
     },
@@ -283,18 +283,18 @@
     {
       "id": "fe5c61ed48e6326f",
       "title": "公正取引委員会／国土交通省・中小企業庁と執行連携「物流分野取引適正化地方ブロック連絡会議」設立",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PcDdncnlMOEZTMTdoUUZTdmhONFJfV1hHd2YwV2lfbjFsbzdHNDFhX1g4UTl4a1lxLU9tOEtsS1JLc3NHbHFvNi1vZnE1My1ob3h4eg?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-28T07:06:00.000Z"
     },
     {
       "id": "4fd5a2697d80c971",
       "title": "アンソン市場トラック事故の運転手送致2人死亡5人負傷 - CHOSUNBIZ",
-      "description": "Chosunbizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "biz.chosun.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG1RTWJuYzMxekI4eEFnQVFfSi1vN19RLVdGYk9XUnRqbFB4dk1IenlwbGI4MThGdGcxQTg0R0EtS1dlcXhyQ1ZYSUllMVpsNHBPb0c3M0dXLUhNeEdTN25vQ296aVFDSkFuVkM2OThVcW9GRXNrZGFXRC1WNzltX2pSazUtVV8xSVItcTVzWVEtdnVZ0gGUAUFVX3lxTE9MbVFNYm5jMzF6Qjh4QWdBUV9KLW83X1EtV0ZiT1dSdGpsUHh2TUh6eXBsYjgxOEZ0ZzFBODRHQS1LV2VxeHJDVlhJSWUxWmw0cE9vRzczR1ctSE14R1M3bm9Db3ppUUNKQW5WQzY5OFVxb0ZFc2tkYVdELVY3OW1falJrNS1VXzFJUi1xNXNZUS12dVk?oc=5",
-      "source": "Chosunbiz",
+      "source": "biz.chosun.com",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T07:04:00.000Z"
     },
@@ -355,9 +355,9 @@
     {
       "id": "d474ad24e8ee3373",
       "title": "米アマゾン、自社ECサイトでも「プライム配送」導入を可能にする新機能。「Buy with Prime」との違いは？配送代行手数料の割引プログラムも（ネットショップ担当者フォーラム）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWXNkV29TaWN3MENvbTFTUnZ5Z3dZZzg2aW5pWUNfZmNLM1hKR1V4UlBaVUN4Uy1aUmhLcWVBekltaHNHbmxlbnpRZ0ZVRTZtY05oZ1ZGaWplZ0RRZjdzVDB6dDU5Nm5NOERjd3k2dU1zeDlzRWYyeTY2aVJlQ1U?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-28T06:31:03.000Z"
     },
@@ -416,10 +416,10 @@
       "publishedAt": "2026-09-28T06:08:00.000Z"
     },
     {
-      "id": "8f10d02a549c31bf",
+      "id": "8ef0c97282216320",
       "title": "サステナブル冷媒マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）3.2%の安定成長",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yYTV1eGJobm1Iblphd0ZORTFHMzJjcTQ0T21rUlZhTXVwb3NmWFl5eDNZRmpQbjZwa0hKUnNfLWkxeEE3clcxQU9lckY4WnJ2cThZaEhLZmZrRGZ4M0VobWVZVUgwUHBlaEt3WWNha3JnajVBZHNLWWtXYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmLWpJNVdETWQzQUdCX0hfU1BOeVo1NHA5TU9id0lHMVJZRXB2aUh6V2ZvU1dXdDExYzE3N0ZKQVdGa0d6RkZNV1pObWRRNXZfR0ZNZA?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-28T06:03:33.000Z"
@@ -441,6 +441,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-28T05:39:52.000Z"
+    },
+    {
+      "id": "0fabff19ca2a0f1e",
+      "title": "勘に頼らない拠点配置へ ― アイディオット、物流拠点配置シミュレーション技術で特許取得",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOU1sQ2p1cko5bkpQeFZxcHR3N3BCT0d3aEJCWUdiWWJnMlZ5UWo5VlNDSndnYXBEWE1QSjFYbjVfRmdYOGUwTklJTTdUVUZ3ZlV0Vnl2VHVkUURrc0U0QXJBSFZHMktrVEE?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-28T05:30:02.000Z"
     },
     {
       "id": "95eee6e01b6eddfb",
@@ -526,9 +535,9 @@
     {
       "id": "73866e5a3a7ad0b5",
       "title": "北海道開発局など／物流マッチングイベント「道央＋オンラインロジスク」参加者募集、10月15日開催",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNWFkUEF1bzR0N3YyTld0eGFtX0pta3dwem5nNHVfMDBfM0RHZVFDTjl5N05EVGpkWkFiQ3FxQVJTMnlvN0FPS0V5V2ZZNC1WeHF3TQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-28T04:40:00.000Z"
     },
@@ -562,27 +571,27 @@
     {
       "id": "da76dc5dd99a3cd9",
       "title": "【速報】新名神・宝塚北SAで積み荷の重機が燃える火事 併設のスマートICが一時通行止め…現在は復旧 けが人なし 兵庫・宝塚市（関西テレビ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dUUyWVFjUmZSc1JHWlBMcEFRVGNaaFVuNlFrZzIyYWdIcTZHb3VaV0l5TGxkTGEzbV9zY1YycHZRUWVldzR5c0Z1U0tNV1VtWUY2SE56Tk9vWkZ5MjNYYnlnNm01eTlCWHVaSFlXend3N2Q5LXNUdkl4ZVRtd28?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T03:59:02.000Z"
     },
     {
       "id": "19d52f5b95179ebe",
       "title": "新名神高速道でトラック積載のショベルカーから出火 宝塚北SAを一時閉鎖、消火活動中（神戸新聞NEXT）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Y2N0XzdWdzB2ekd2TUpvRG04bmIxa3NDVzM3TjU0LXN0TE9WaEc4dnJacTFhZ3VDWFlENjdxZUtJQXhHb0lpODBuTnA5NzZSQk14MkxQV3lGVmhqV04ybGRJcldMVnh1VTYtcEwtQ1J4d2tsZGprdDQ1T3BjNTg?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T03:15:10.000Z"
     },
     {
       "id": "1010c836a2e5775f",
       "title": "新名神高速道でトラック積載のショベルカーから出火 宝塚北SAを一時閉鎖、消火活動中 (神戸新聞NEXT)",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGhkLUQ1VG4tUVVPTmVWQ1JPRlh6SlpBMUdmaTBYT2pVbEVDMlRPUmZfYVVKNXE0b1NvaEI3b0tKUzRSVkdaMU9EdU16MnBGV0ltajF0aUkzQ1p2YW41VmgzeTBqbTJ5SVYyaE1DM2xZUlA2QWwzTjhLSFEtNG5vZFNJSHBRWEVHT2NwVmxn?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T03:15:10.000Z"
     },
@@ -634,18 +643,18 @@
     {
       "id": "70bd1cba84592e75",
       "title": "人生返せ 30年物流支えた女性の詩",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcllYRnR4ZEJOZXhNUXcwMV9FT2NZV2FXZjZHdnZ0bmp5U09WbU1vYTYzZmh3d0ZJdFlGUmZ2WHhQb016WHlvT0lZNk9HTjI0?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-09-28T02:49:49.000Z"
     },
     {
       "id": "896744b05ffee35a",
       "title": "道路を横断中の女性がトラックにはねられ死亡 トラックは対向車線にはみ出し…乗用車に衝突 愛知･春日井市（CBCテレビ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDZDBZUXFLRnRwXzZrUklYT1RrZ2lVMnBibWZYTEV5X055dU5VamUwTU1OQXlYRElOemFfQXM5R1p5VUpqTS1qQVZZcGtzbklNZUlzRFZDakFjSml0d2ZxUW15VkpEUHV2YmowemstQmJRLThYR09VNWhoOGtPeFk?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T02:44:12.000Z"
     },
@@ -697,9 +706,9 @@
     {
       "id": "ab335a1623707822",
       "title": "松山自動車道新居浜IC～土居IC上り線 事故の影響で通行止め（午前１０時現在）（南海放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMUI3ZHpHNFNpenFleHBuYWtCUDNmNEswb0JjUXFSdjh2cEdJdFRpQnFlbTlYc3FudWNYaWxmdHFEbnZ5REZtdGxLM29US01iYW03M29wMjhBdFNDYWJMRFVJYUZFS3YwbHZuUFpsUTR2NnpzNGlDaGNITmxVNTg?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T01:18:00.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T01:18:00.000Z"
-    },
-    {
-      "id": "3264b16718ce4884",
-      "title": "【PR】MDロジス 物流を企業競争力へ",
-      "description": "電波新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpc0xzVUxELWhCUF9pdU85SkttQ1ZURGllVG1DNHB1VkVabEZxRXNaUTJEWjhucTBQczU5MkUtQXpKVFhYQVozbjBBaEVfWVNieDg0VGdTV3pubm1ZV01seXVR?oc=5",
-      "source": "電波新聞デジタル",
-      "category": "物流",
-      "publishedAt": "2026-09-28T01:04:34.000Z"
     }
   ]
 }
