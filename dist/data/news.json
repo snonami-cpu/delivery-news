@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-28T10:29:31.252Z",
+  "updatedAt": "2026-09-28T11:27:58.025Z",
   "articles": [
+    {
+      "id": "56583fd7f9f14e94",
+      "title": "物流拠点の最適配置を算出、アイディオットが特許",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wZllYQU5OMXNHT1FsRE83TFBxRm1rMjhkQ0dyY21HTXFBUTZENHA0UVBXQlhvRFdTRnVEb2loRTV2Qm5LQ2ZMa1BR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-28T10:52:00.000Z"
+    },
+    {
+      "id": "35c76a24c8dcf906",
+      "title": "物流スタートアップ14枠、荷主との協業機会も",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oNzVmWFVNRXJwUFBQS3VZOTlVcERPVkp1bnFVVUFlbjNjS1UtaGFGQUpNVUV2eFRERHRlM2FUZVgyc2tHX0VHSUln?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-28T10:51:59.000Z"
+    },
+    {
+      "id": "c7dfad3f21fdf620",
+      "title": "ダイセーエブリー二十四、長野・伊那の中央高速運輸を買収 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwMUI1QktCeVlsNVc3aXZicWQzckMtWGhPbkN5aVo0dExZYUIwTTkxZWg5ZXhyZFZzOVFWZzJuQ1dFRkU3VWMyYndDVQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-28T10:34:56.000Z"
+    },
+    {
+      "id": "f691c0eb2edbbd15",
+      "title": "適正原価の具体化へ、国交省が業界5団体から聴取",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXdjB4ZHE0bWM1NUZ4bko2blU4Wm5QOS1jcm5oV1U0LWNzb01TZlU3ckszeDdQOXpaOHZET0hwYWxWSjYxZDUybjR3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-28T10:29:46.000Z"
+    },
     {
       "id": "e26aeb33953e74b0",
       "title": "中国物流ロボット、日本で導入拡大 トヨタやコマツも採用、人手不足が追い風",
@@ -20,22 +56,22 @@
       "publishedAt": "2026-09-28T09:19:00.000Z"
     },
     {
-      "id": "3c7e75b091223e72",
+      "id": "f0759ecdd51b2fe4",
       "title": "【脱・常識】なぜ「巨大な箱」は開かれた？／物流施設にカフェや保育施設を併設する真の狙い／競争から「共創」を生む次世代インフラの正体／Marq（日本GLP）帖佐義之×山崎怜奈",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oM1VIOUJaeUQtUVVsRUtleVBtNVRKRm9CaFE1bGsxX1NncFB2V19BelBZNmhidWY5azZXUkhLaUJHZlhMRHlrOHFPcjlsTV84dUh0a2ZZVDhET1d3OXlFMGd2bEw4Z0tyM3BZaWxMcHRzTjhF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11QXo0YmVKRktZR2JNVG5MekFvNW9QSEtGX2poZlpBVmdTbEplel9uVEg4WVZ2OW9sTXVyY3lZbC1SOWlPTjNjT3k0VnNIemE5MnBuR3czUTlsRTNqUFJGSUFNVTdJTDQ?oc=5",
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-09-28T09:00:00.000Z"
     },
     {
-      "id": "c6f0b6329bced5f2",
+      "id": "61236d0d27ceac12",
       "title": "阪神高速守口線でトラック同士の事故 ７０代男性が車内に一時閉じ込め",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMHNWQ0NfajdpVTNXdUNKQ2dyUkxoSEdEWW00em4ydXBpbWhYRUR4V0hxYmpKRkFSNFloRUV6aUw1dXpYajZfVlY2VmNpWk1MTVZqUHFuVFI0aWJQNHFYcUtJblXSAWRBVV95cUxPMDBzVkNDX2o3aVUzV3VDSkNnclJMaEhHRFltNHpuMnVwaW1oWEVEeFdIcWJqSkZBUjRZaEVFemlMNXV6WGo2X1ZWNlZjaVpNTE1WalBxblRSNGliUDRxWHFLSW5V?oc=5",
-      "source": "news.infoseek.co.jp",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRlVBclRDREZRcWt5WFhsM21ldDZnSXBZSGN6RnpVOTBzNmNHN0RWUEpCMmc0cWQ3S1Zfcy1rODYyY3JKVVVWbHk2bE0teXVRTWxWdXlydGlCaElWQktEZXZQb3ZnRHY3d1hGYllaeEVrWmhTOWFPM2xvQXLSAXxBVV95cUxNQUZVQXJUQ0RGUXFreVhYbDNtZXQ2Z0lwWUhjekZ6VTkwczZjRzdEVlBKQjJnNHFkN0tWX3Mtazg2MmNySlVVVmx5NmxNLXl1UU1sVnV5cnRpQmhJVkJLRGV2UG92Z0R2N3dYRmJZWnhFa1poUzlhTzNsb0Fy?oc=5",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "安全・事故",
-      "publishedAt": "2026-09-28T08:58:48.000Z"
+      "publishedAt": "2026-09-28T08:58:00.000Z"
     },
     {
       "id": "0346f9352f4c5d12",
@@ -76,9 +112,9 @@
     {
       "id": "72211e091e5983e9",
       "title": "国土交通省／10月・11月「荷主等に対する集中監視月間」公正取引委員会、中小企業庁、警察と連携、白トラ是正も",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbmNLWTBDNHF4QmJYRnlpb0NLMDM4Y1ViZmlZcFE2QTdONG40NFU5WjdYQVMtaDZIZUxLai0xQ2J6dGNZN2RwOXpocXFYYklHd1dpUg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-09-28T08:10:00.000Z"
     },
@@ -121,9 +157,9 @@
     {
       "id": "b40d922d2b1183e3",
       "title": "ＳＢＳホールディングス、三菱ケミカルの物流子会社を192億円で買収",
-      "description": "reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Reutersが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZYWxXdFRNZzgxbHBKZUljWFNXd3RUWUtWSUJmVm50OXJEU09Ub0FKWlYyRHdGeHBwVTlOQXJ4TUdGVlF4aGE1SFl0VlNUb0dyZDVNcHJuYTQzSlR1WEl2TzBjN2Nla0phWUo2NmNOalB5b2dXQzNUTThTLW0yUQ?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "category": "物流",
       "publishedAt": "2026-09-28T07:21:37.000Z"
     },
@@ -139,9 +175,9 @@
     {
       "id": "40e38fe42627c477",
       "title": "日野自動車／物流データ連携による共同配送・積載最適化の実証事業に参画",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVXNpTDdXbUJtZmF5UU5Qd3pvR2RWYzFDRGF0bjVZbWx3TnZZdExrM08waHRjUm9PeW5sT1FYbXoyZ3FzZVFpNUpjdVhiX3pWNzBPSw?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "物流",
       "publishedAt": "2026-09-28T07:18:00.000Z"
     },
@@ -183,10 +219,10 @@
     },
     {
       "id": "93dff906dbf5667b",
-      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得 - cargo-news.online",
+      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0cmo2ZjA4RExiS1IxV1o1a2d2bjZOVmp1NEh6ZFlub2ExY1RfTmtMcTJsZmUtYVNFZW4ybnhCZUJjMy1zZktLaFBUSlJWdkpMblpKZDdocGt3ZERBWnJJ?oc=5",
-      "source": "カーゴニュースオンライン",
+      "source": "cargo-news.online",
       "category": "物流",
       "publishedAt": "2026-09-28T07:00:00.000Z"
     },
@@ -335,6 +371,15 @@
       "publishedAt": "2026-09-28T05:25:43.000Z"
     },
     {
+      "id": "54ed6e7216392e13",
+      "title": "清水建、現場内の物流改革進める「建設物流ＤＸシステム」開発(ウエルスアドバイザー)",
+      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDBOWHVkUGNhOWFqWWc2ZXU0NjJyUDRTNVRUUGhaQWtha0VBSVBQTEdnX2Z4Z0EyNUc5TDR5NUtBLXBoS0o3NjQzbUw3Z2FKUi1FcVZoNGt3c2o4bW1kcldWTXVaMGgyUHhKR2R0RlkyMmtHa1dRSjU4cklNd0NtTmQyQVVtbmc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "category": "物流",
+      "publishedAt": "2026-09-28T05:24:10.000Z"
+    },
+    {
       "id": "2e7a200ce76ffad8",
       "title": "清水建、現場内の物流改革進める「建設物流ＤＸシステム」開発 速報",
       "description": "kabushiki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -346,9 +391,9 @@
     {
       "id": "e9ece8e5ca384028",
       "title": "松山道の通行止め規制 午後２時に解除【愛媛】",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0QU9JVkZmWVhON1NrSkdTVzBxQzZUZFhTaktfZ0ZZQmJDXzBVQ2M0clI5VHlUUFJzalpRYkNyazFiTTAxNnJ5dWVrUS1ybUo4c2FJX1A3T2ZCQ3A2RWFsN3FESTdVOXV4WFhsVERzaW9zeWZEY1BfX0tBONIBgAFBVV95cUxObEFpNnNFM3Z2eF9tS3RWa2VsdmVWbWZOX0NrTEtiaFEwa1U5MkV1QjNObkpFMFN3dWJXU09wLXN4cURzUVhuZlhJUlRRaHJnOU9wSlN2VE5fRzdXS1c4bmtrX2c5QkRmTDBoQ1QxUENBTEl5Ql9IZEN4aU9RY0FfZw?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T05:19:00.000Z"
     },
@@ -363,10 +408,10 @@
     },
     {
       "id": "b33528fb8f11470b",
-      "title": "KDDIが「郵便局をドローンポート」に 日本郵便の物流DXを後押し",
-      "description": "ビジネスネットワークが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "KDDIが郵便局をドローンポートに 日本郵便の物流DXを後押し",
+      "description": "businessnetwork.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUYUhMbDNvMHhHMEdHOU9Mb211NWlDa2RUR1B4RldsLTd1azZmajdCM0RlX1poVGU2OFp0UlphVVYwSWdpaGJxU290d2RVZm5wZFFn?oc=5",
-      "source": "ビジネスネットワーク",
+      "source": "businessnetwork.jp",
       "category": "物流",
       "publishedAt": "2026-09-28T05:11:10.000Z"
     },
@@ -395,7 +440,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mY3lpbWI2Y3RiYTdPcHM5Nmg2aVlJV3B6V2lpa2FXSVZCd3VuZEU3ZlY0eWtWWlltOF9hc2EtbFdib3VtYXVBVHVPamhGdnJFUDB1Zg?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-28T04:37:49.000Z"
+      "publishedAt": "2026-09-28T04:37:40.000Z"
     },
     {
       "id": "318e8496c18be24d",
@@ -441,15 +486,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-28T03:09:08.000Z"
-    },
-    {
-      "id": "3aeb81bc428013e3",
-      "title": "松山道で事故相次ぐ ３人けが 新居浜〜土居の上り線通行止め",
-      "description": "news.web.nhkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43aGt4d2oxeHc4T3RkclkzRGdMWFNieTlCVFd2bEViTDNxdnRSdmlWdndvMlNDSG1CRU9YLU4tS2Z4NjFGWS14Q3JHVzNOSHZ5anh4YTFaMm8?oc=5",
-      "source": "news.web.nhk",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T03:00:00.000Z"
     },
     {
       "id": "73fd1c3fe729439f",
@@ -535,9 +571,9 @@
     {
       "id": "b20210a554cefc00",
       "title": "松山自動車道新居浜IC～土居IC上り線 事故の影響で通行止め（午前１０時現在）",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1remhmbDlQNkxqMGlfUzJSdFZ2MUpIS2FERGh1VmY3OERKSmtCMHFNc2UybmdMX2VyRVVmZWVYb0xUMXFmNmV1OENZdHBxbnp0cld2ZEttOVFqQjltcFl2YUJ2aEVXSkFi0gFuQVVfeXFMT0I2RTZFVU5lLVZsM29lbGJ2d3Y1ZEhuckhtYmZhX2o2anp3b1NRcmRiTTl4S2RrRnNobW5ocjhHWFdPQnh4SkUwRTJxbUV0LTlEc0xwRWRHTW1zY2dYUVJRRjg2UDh3dkd2Skg1dkE?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-09-28T01:18:00.000Z"
     },
@@ -587,15 +623,6 @@
       "publishedAt": "2026-09-27T23:16:04.000Z"
     },
     {
-      "id": "411a1d72e7117f1e",
-      "title": "中国自動車道の一部で通行止め",
-      "description": "中国新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PYkx3cEpnc0Q2ZmUxWGFGRTFfTTlTekdlWFNyaWkwT1dQQ1JBVEt1MGo3eHBoVUx0VV9RcEl0Q1BWcTlfcE1JcWhTYm8xbGJjME9YSTNnOUowUQ?oc=5",
-      "source": "中国新聞デジタル",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-27T23:13:00.000Z"
-    },
-    {
       "id": "f1be80a292c957ab",
       "title": "ダイフクが物流倉庫の完全自動化へヒューマノイドを開発、2030年に実証実験：国際物流総合展2026",
       "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -612,6 +639,15 @@
       "source": "日刊工業新聞",
       "category": "物流",
       "publishedAt": "2026-09-27T20:00:00.000Z"
+    },
+    {
+      "id": "3ed8b5f68ac9d05f",
+      "title": "冷蔵・冷凍倉庫用ドア市場2035年予測：コールドチェーン物流の拡大が成長を牽引 - ニュースと統計",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHRLMzNibmF5Q09oVEx6akRDVm5odmJ1ZnNpQ2NlYlp1VGhVSUUzMFM4THQ2S2c3UmVnYWVUcVlpbzdRZUx2VVp6ZTBrdTVwYXZicDduODdOcC1LbTc5dHJLOU8zd0V5VHVPWHdJWHd3Q2VMalRuSUFxSjRvS2w4dE1EQnpYM1BjMmVpYmVXaF9fM0d6RTlPMk1oWElTUXA2dWhkaFNJMm0zSWFNLTBWLWlzdWw5N1VJSW16aHVrNEdSTWk1dWtn?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-27T18:56:04.000Z"
     },
     {
       "id": "f08034a618363b1d",
@@ -668,6 +704,15 @@
       "publishedAt": "2026-09-27T06:46:00.000Z"
     },
     {
+      "id": "7dd17dcdc4dd41e8",
+      "title": "阪急箕面駅近くで不発弾の撤去作業 住民約２４００人が避難、周辺道路を通行止めに",
+      "description": "朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tY1owcFRMeWcteWk2MGg3Vk0zYnFaZ2NhRlR6cUk1MHo3RXBHamNrN2VnYmFtYXhFYWl6TkR5X1dXMDZHMGxhRTdpZEJUMmJVMzNDVk9Nc0Q3QmdyY0s2QzlR?oc=5",
+      "source": "朝日放送",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-27T03:25:00.000Z"
+    },
+    {
       "id": "957009a2d7dcc431",
       "title": "【山陰道】青谷羽合道路 湯梨浜町内でトラック事故 一部通行止め解除（27日12:15現在）",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -675,51 +720,6 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-09-27T03:19:10.000Z"
-    },
-    {
-      "id": "8b07bc8e4cef6fe6",
-      "title": "1台が横転…新東名高速のIC付近でトラック3台が絡む事故 運転手1人を搬送も命に別条なし 本線が一部通行止めに",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSFJqbE8zbnRsbjd1NjhvVHN5T29Pei04LUo1WTN5QVUwX2RteklaNnphVFdiWGVWUVB3VVhFZjh6Qzdvb09fd3E4dnFlNmRxNGdIYWUtYThrdjBHQWtNUWxkSk1zdHNPWjFhVGlRVXRtNm1ZU1M1aHNoc2hFSm8?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-27T03:14:45.000Z"
-    },
-    {
-      "id": "a61b928b8723665f",
-      "title": "【国道254号】和光富士見バイパス 志木市内でトラック衝突事故 9時間弱ぶり通行止め解除（27日10:15現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTN1V0OEFSdjI0TDNndk1VcG5fLTFPellpLXRRNWtxVGlRck5pUVpRWVhuSHF6d1VlUEdNd0NFZGpUaXRVNl9PTS1KQjk4X2o4S2F3clpXMVBLZ2lzZGJ3?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-27T02:29:19.000Z"
-    },
-    {
-      "id": "f6ffaddc8f9436dc",
-      "title": "＜更新＞茨城の１０代男性３人が重軽傷 古殿の県道で大型トラックと軽乗用車が正面衝突",
-      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zNWJjekdKWk5OSEhXM3MwcG9iVkZycUpwbkdjbWpFUEhaNzNNUzZtN3FqanJRWUZGMUNTQXlxQVc2WlAyR3lIWF9GM3MyOVU?oc=5",
-      "source": "福島民報デジタル",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-27T02:19:36.000Z"
-    },
-    {
-      "id": "f976bb360afa3d67",
-      "title": "軽乗用車と大型トラック衝突 10代男性が意識不明の重体、2人重軽傷 古殿",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPRGVMM0Q0ZHVpMDFFeDJjYU5DYmZZQy1nRXhJUVBZODR2ZnlQMEZFaTFvZmU1SDM1TXNpWWVZNE13VmFka1ZDMkdfaw?oc=5",
-      "source": "47NEWS",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-26T22:40:00.000Z"
-    },
-    {
-      "id": "1d836a491107e521",
-      "title": "【国道188号】岩国市内でトラック横転事故 6時間ぶり通行止め解除（26日22:00現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSkdBN0dLVkxudTBHQ1B1UXZwWElFWjBLOWd5TWpqYktJdG5WTm5rUGlndlFlS1Bwb1BTVTFxU3Z5YVpueG5TMThrT3hLUEFEWGt4WVhIdl9kQ3N1S3hz?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-26T18:46:14.000Z"
     }
   ]
 }
