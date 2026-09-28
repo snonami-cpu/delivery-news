@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-28T14:30:56.336Z",
+  "updatedAt": "2026-09-28T15:30:14.503Z",
   "articles": [
+    {
+      "id": "ee4c664d55eabd07",
+      "title": "勘に頼らない拠点配置へ ― アイディオット、物流拠点配置シミュレーション技術で特許取得",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04bGppYXpQaTE5Tm44c0J2M2ptdVY2R2ZlNmJCZjgyN2haVU8tSXZMQzl2b3NvMjhCdGJTMnZfWk5MZmNtU1ZHVkd3ZFpZc2hkelQ3dDhnc2ROVjJRUF9UTWNHcnF6dU5fT0tzUXYyUjlFejVDUVBtOG5faw?oc=5",
+      "source": "ニコニコニュース",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-28T15:00:52.000Z"
+    },
+    {
+      "id": "6651522200a1fbba",
+      "title": "ワイドインタビュー 物流子会社トップに聞く各社の物流戦略",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmNDAtUkF0dG96RHVMMmlEYUtOY2tjRDFCdDVVTjJucDZJUS0tM0pxV19YZzZ6Vm9mNTFObllTVGxudnFndlVpNUdPdFlfY3FNamNWOHN2X0FRNXB3azc4?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-09-28T13:15:53.000Z"
+    },
     {
       "id": "17ca2828d561849f",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：臨時報告書 関係会社である受託会社に異動 (有価証券報告書) ：日経会社情報DIGITAL",
@@ -18,6 +36,15 @@
       "source": "松本経済新聞",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-28T12:00:08.000Z"
+    },
+    {
+      "id": "b0e0179aa03a4aef",
+      "title": "信号機のない交差点で大型トラックと軽ワゴン車が衝突 92歳の男性が死亡 仙台・若林区荒浜",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FQmRFTzZXMGVIbUdfemNtZm9WakpaczRuZFJHd2VJdFZWUnE1cmlRSHB3NFdoZS1nNjhuWTk3eGpkcThIa2JPZ29RVjl5UU9SVnpqVnNoV0dwUl9XaDFXNmdnTm0zM00?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-28T11:41:00.000Z"
     },
     {
       "id": "56583fd7f9f14e94",
@@ -84,12 +111,21 @@
     },
     {
       "id": "728a7124287e755f",
-      "title": "山陽道走行中、トラック積載のショベルカーが出火 新名神宝塚北SAまで走行し消火 けが人なし|事件・事故 - kobe-np.co.jp",
-      "description": "kobe-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "山陽道走行中、トラック積載のショベルカーが出火 新名神宝塚北SAまで走行し消火 けが人なし|事件・事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IU1lBUjhnU0pMaTFqWXB5YnU2bFpYaVNoblh0TFBzQ1NkSDA5YUtoZGVQbEdjZk13R0F6UUNGSUZvU0MtN1ZkWjdLcEUzLWlxRWx5OHZYeFYwM1RfQllXd24wS21HZ3luWDBr?oc=5",
-      "source": "kobe-np.co.jp",
+      "source": "神戸新聞",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T09:19:00.000Z"
+    },
+    {
+      "id": "5dd84c08fe6d1074",
+      "title": "Mujin滝野CEO、物流ロボの先に描く日本の勝ち筋",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwS1dSelhxdkFxWWZpRWlxaDVfRXB3bUVhbDRSbjhiNmFjS0FRc0NzNGs4ZTJKZWpvbTdaWmxBVUlzV1VTbDFqeURB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-28T09:12:52.000Z"
     },
     {
       "id": "f0759ecdd51b2fe4",
@@ -121,18 +157,18 @@
     {
       "id": "d663690e84590bf5",
       "title": "国交省／10・11月は荷主・元請け事業者に対する「集中監視月間」、取引適正化地方ブロック連絡会議も開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yR2E1amgyUUhFdWJkN25nMTRXdW9kQTRNMUNER0QxbGxyTmpEUEkxNXpsTHpLVE5XVk5tdFdweHdFTjNXOHFzME44c1Vqa2VIUGJhcA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "法令・行政",
       "publishedAt": "2026-09-28T08:33:32.000Z"
     },
     {
       "id": "4bb6acb31da1a4cb",
       "title": "SBSHD／三菱ケミカル物流の全株式を193.5億円で取得、2027年4月に子会社化",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YRzhnbW1id0NialVBdE1Ja2ZCYmlDWVZHNmlWY1o0Q2E3WmtlVDBUUkVxbV9RemFza1ZfLXByaWwxbHNDakhOSkMxaG5mVGRaNmhLZA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T08:18:29.000Z"
     },
@@ -175,9 +211,9 @@
     {
       "id": "2d1333be357c27d1",
       "title": "LOMBY／自動配送ロボット量産へ3.87億円の資金調達",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GaVpiWVJIZEhfdlZlaGxFNlRDbEJya1FzZ1g0dmJ0Ui1zRHF3a3dXd2NiU3M4TXY4Vk1XOVRyTHNkb0FIeGlhOEpYWURfcFFhbnlJVA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T07:48:23.000Z"
     },
@@ -264,19 +300,19 @@
     },
     {
       "id": "93dff906dbf5667b",
-      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得 - cargo-news.online",
-      "description": "cargo-news.onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ＳＢＳＨＤ 三菱ケミカル物流の全株式を１９２億円で取得",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0cmo2ZjA4RExiS1IxV1o1a2d2bjZOVmp1NEh6ZFlub2ExY1RfTmtMcTJsZmUtYVNFZW4ybnhCZUJjMy1zZktLaFBUSlJWdkpMblpKZDdocGt3ZERBWnJJ?oc=5",
-      "source": "cargo-news.online",
+      "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-09-28T07:00:00.000Z"
     },
     {
       "id": "547a51ee88a33375",
       "title": "日野自動車／国交省の実証事業に参画し物流最適化システムを提供",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KT2dBQkNxc2xyZjdGTks0UFBnOFYtTDU4T2o5OEFWdUJtaWNUalB3eVI3bDcybldVd2x6WE8za1ZuX2FTanByX2x0Q3VZN2NmZU16cg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T06:48:10.000Z"
     },
@@ -292,18 +328,18 @@
     {
       "id": "08e64d0c7394db32",
       "title": "航空貨物運送協会／8月の国内宅配個数307万個で0.09％減",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNM3FPQzdIY3VpU0lSU1NtUlRET2pYUGxDN2xPLTFoV1pEdDRqeHQ4M3dlY21ldWZESU5HNUlPRGF1dXRBSGFla1MzV1lYTWtUQWVHMw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T06:38:08.000Z"
     },
     {
       "id": "f1fba3213fb49bed",
       "title": "ヤマトHD／櫻井社長に聞く業績回復への「選択」、価値創造への「打ち手」",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02b18wT0cxTWpQcm9pLWVfMGlIbGlteHpwUTYzTmtLSVZ2UjJSVGQ3QkJVazdsU1BvWHNiZHhDcUdyNDlNRXhIYTdLTXNmSUpDSmNyNQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T06:38:08.000Z"
     },
@@ -346,9 +382,9 @@
     {
       "id": "93b52556d00f28e2",
       "title": "ダイセーエブリー二十四／中央高速運輸を連結子会社化、低温物流ネットワーク強化",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tSy1BUzl6MVdESklPUXZYSjZ5T1BfNXJreU5vd09SY25CUVFhcXZEeFYtTFo5M3dnamxJRHVIT1llb19wOHFfMVlZVUt1cjk5ZmFrcA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-28T06:28:05.000Z"
     },
@@ -364,9 +400,9 @@
     {
       "id": "62bb570b02474fae",
       "title": "アイディオット／物流拠点の最適配置を実現するシミュレーション技術で特許取得",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLSlpSSExkNlNDSm04SWhqVVE5d3FyMnpfWlpQZW5nV2FLbXdDRjJQVmRBYk12R2Mtd0VJQnRtQUd6ejdfaThTSmpiRW45anpxZkxoZQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T06:08:00.000Z"
     },
@@ -396,15 +432,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-28T05:39:52.000Z"
-    },
-    {
-      "id": "0fabff19ca2a0f1e",
-      "title": "勘に頼らない拠点配置へ ― アイディオット、物流拠点配置シミュレーション技術で特許取得",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOU1sQ2p1cko5bkpQeFZxcHR3N3BCT0d3aEJCWUdiWWJnMlZ5UWo5VlNDSndnYXBEWE1QSjFYbjVfRmdYOGUwTklJTTdUVUZ3ZlV0Vnl2VHVkUURrc0U0QXJBSFZHMktrVEE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-28T05:30:02.000Z"
     },
     {
       "id": "95eee6e01b6eddfb",
@@ -488,11 +515,20 @@
       "publishedAt": "2026-09-28T05:03:15.000Z"
     },
     {
+      "id": "73866e5a3a7ad0b5",
+      "title": "北海道開発局など／物流マッチングイベント「道央＋オンラインロジスク」参加者募集、10月15日開催",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNWFkUEF1bzR0N3YyTld0eGFtX0pta3dwem5nNHVfMDBfM0RHZVFDTjl5N05EVGpkWkFiQ3FxQVJTMnlvN0FPS0V5V2ZZNC1WeHF3TQ?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-28T04:40:00.000Z"
+    },
+    {
       "id": "cc5ec7ffcb2b0675",
       "title": "NXHD／スタートアップ共創プログラム第2期の募集開始、AI・ロボティクスで物流課題の解決へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mY3lpbWI2Y3RiYTdPcHM5Nmg2aVlJV3B6V2lpa2FXSVZCd3VuZEU3ZlY0eWtWWlltOF9hc2EtbFdib3VtYXVBVHVPamhGdnJFUDB1Zg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T04:37:40.000Z"
     },
@@ -508,9 +544,9 @@
     {
       "id": "318e8496c18be24d",
       "title": "ロジスティード／「共同配送を実現するには」10月15日に無料オンラインセミナー開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04YmdEYUcxc2dBYWFwWHMxaEtFaDBiellLNFVtR1NpS1FWSnEtVUtoV0RIcl9BWFpzdldKeVNoZ2lwZGVIYmJWeFRrY1ZXSUZ3MVZ6VA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T04:18:44.000Z"
     },
@@ -549,6 +585,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-28T03:09:08.000Z"
+    },
+    {
+      "id": "04e29b43a6a18948",
+      "title": "ESR、再エネ事業買収で物流・DCと連携強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5aWM4bUNuVF9DLUluVUU2M2gwd1JrMkZGQ1B0UllsTlU5NkxkYmI4cTZUSTJNZ3k4bFlqVHp5bVJoV3RtS21IVEpR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-28T03:09:06.000Z"
     },
     {
       "id": "3aeb81bc428013e3",
@@ -598,9 +643,9 @@
     {
       "id": "5fb3aebd4450258f",
       "title": "CBRE／短期契約も可、兵庫県の（仮称）川西物流センターで内覧会を10月15日開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iNjNnSV9KSkx6U3FvdVNfeEphamlWZUlfT3FzbE9OUG1xR2cxNnJ2RzdtR3k0MHBfT2RKX2hsU2xxSF9kWVpMLW1xR3BFTGRYLVpPVw?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T02:12:11.000Z"
     },
@@ -616,9 +661,9 @@
     {
       "id": "39ab0fcad340ccfa",
       "title": "トーヨーカネツ／和歌山県有田市に物流ソリューション事業向け新工場建設用地を取得",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQb3BaaktwMmUwWTNFMTFva0xXaU1pVnJDdVAzdm5QdzBGUXBfQjVDaWUwMmVET0p6TDNoUGdST2I2UVh0c0N3YkgtZHFTUFBnNG5pWg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-28T01:47:07.000Z"
     },
@@ -651,10 +696,10 @@
     },
     {
       "id": "3264b16718ce4884",
-      "title": "【PR】MDロジス 物流を企業競争力へ",
-      "description": "電波新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【PR】MDロジス 物流を企業競争力へ - dempa-digital.com",
+      "description": "dempa-digital.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpc0xzVUxELWhCUF9pdU85SkttQ1ZURGllVG1DNHB1VkVabEZxRXNaUTJEWjhucTBQczU5MkUtQXpKVFhYQVozbjBBaEVfWVNieDg0VGdTV3pubm1ZV01seXVR?oc=5",
-      "source": "電波新聞デジタル",
+      "source": "dempa-digital.com",
       "category": "物流",
       "publishedAt": "2026-09-28T01:04:34.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-09-28T00:00:01.000Z"
-    },
-    {
-      "id": "29554bb8a119bbab",
-      "title": "「建設物流DXシステム」を開発・運用開始",
-      "description": "shimz.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTU9nRGNxbGJjNGFMQUZyY2NQVHNHVElsZHRSN3NVYW03V1Z4UmQ3RUJJZ3NjN2puenpISk9Nb19MNGRORUZqVUc3Q0wwUDVteHhXTDBtMWdSNXZYSllPYUhqQU00cmUzamx1dVQ2OWM5NUM0ZE5n?oc=5",
-      "source": "shimz.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-27T23:33:59.000Z"
-    },
-    {
-      "id": "fc2bf5f50e7dcc3b",
-      "title": "ポリウレタン断熱パネル市場2035年予測：省エネ基準とコールドチェーンが成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTVdHVjhoZGlEeVVaZkN2X0QzWjJxUFFlemRhQlMzdzVnMW1CYWRmV0hyTWl6WG5teWdfV2puT3A4b2NUb3ZLWnNEQkZ1c25BMlJoZXdvVnY0T3hOSHVJbWh3SDlOdXVscW9NYXJlWFhGQTRPRlViWjdfZzFxU04zLWxEM2VJSGhtcDhSLWxJZVB0a1Ayd3FKWWJGb1JnWDVMdlhkYmV6X2YwZ0lRT0ZiaU81UWYwX3BWZHpoQk84VTZVVXVQQ3lXR2YxaXJ6RW1jcV9zMXZMUTlNLU5R?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-27T23:16:04.000Z"
-    },
-    {
-      "id": "f1be80a292c957ab",
-      "title": "ダイフクが物流倉庫の完全自動化へヒューマノイドを開発、2030年に実証実験：国際物流総合展2026",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0REo0dnhsMEdCSm1ZektUTHZMRGZsbGVkOTRsbjItRnpNbFpib3l6S2E4NVIxZGlpdGZDejlDVERUS3lDVUkySjBzWFNfTUQ2RTFJUEJTdkVlMTZ2ekN4V2FubDgweDE5Q2hDZDI4bw?oc=5",
-      "source": "MONOist",
-      "category": "物流",
-      "publishedAt": "2026-09-27T22:15:00.000Z"
-    },
-    {
-      "id": "cdff7a16da8b2b78",
-      "title": "年間10億円超のコスト削減へ 最大物流拠点を公開 パナHD、関西の倉庫集約 京田辺 ／京都",
-      "description": "毎日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pTGo5NTE4TXl3dV9ncEZkRDdxYmVya3BOY1JoMnlza00tWmlRTGM3bTEtdVpUZDNiejVPQ2pRSm0taU1PaWRoMlpuTVY4ZVJtRXN0Nk55d1hPTllVLVRFU2wyRzN5Y1lH?oc=5",
-      "source": "毎日新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-27T20:03:43.000Z"
-    },
-    {
-      "id": "5f08bbd65bfd63af",
-      "title": "ハコブ、蓄積データ活用 物流 AI実装加速",
-      "description": "nikkan.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90M3kyaV9mX19PTkc4dExOeG05UzZmdExLNFdTTlVZUjdJbGE3X1ZMRTVJbDhBbU85Ui03S0FNaDRpU2JlMFJxekcyS2o3bWJfM3dCMW5kM0g?oc=5",
-      "source": "nikkan.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-27T20:00:00.000Z"
     }
   ]
 }
