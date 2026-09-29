@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-29T10:29:34.900Z",
+  "updatedAt": "2026-09-29T11:27:28.996Z",
   "articles": [
+    {
+      "id": "89c8c5a795d1d20c",
+      "title": "PI実装へ前進、評価モデルや共同配送を具体化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52dnhJYkx3Tm5KcmJDbmNwbkJaQmlKRVR2eGE1Ml92YjVBeXhhZkk2NjJRSlh2eHNGTDQxTDB0YUtrNVJCVmVBMnpn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T10:30:09.000Z"
+    },
+    {
+      "id": "4af9f56f9c3bed73",
+      "title": "群馬県伊勢崎市・上武道路３人死亡事故 元トラック運転手の男の控訴審 初公判で即日結審（群馬テレビ）",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4WVRTY0tPQ3hCd0EwODdzRC1UZXpha1JPTTlOWVQ3VkdwQnJEcnZnTWxFSF9JZ2ROSlR4b3I5c1U1OEVnSllLRU1HUkNaTC1ESlRVVHhfQXpiTVVSXzhuZ3YtZjJOSS00c3BWZ3pEQlh2N1NKVjBPV0MyQ0lScWM?oc=5",
+      "source": "news.yahoo.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T10:22:26.000Z"
+    },
     {
       "id": "84f5e75b09460972",
       "title": "富士通、食品流通向けの管理システム 受発注から物流まで効率化",
@@ -20,13 +38,22 @@
       "publishedAt": "2026-09-29T09:49:32.000Z"
     },
     {
-      "id": "ffa33ef378da6230",
-      "title": "【速報】千葉の国道で車2台が衝突事故、3人死亡",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XTE5oa0FNQncwZ2h1NW4zdEctZ2ZzOG1DN2p0VzAtZjNhc0xKR0o1a2VTdkdjOEJnaDh1VVZOUmxucm5KWFg4M3J1WQ?oc=5",
-      "source": "47NEWS",
+      "id": "21559c55c0af401c",
+      "title": "「車の2倍くらいの火」トラックと車が衝突し炎上 車の後部座席などに乗っていた3人死亡 車が対向車線にはみ出したか 千葉市",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcjRxd29MVjYzbkMxU2R4RzV2R1Z6Ui1VYkx1RXpjTFhSTDdpX1RyV3pycmtNeHdINFpucDNGWXFrM0pWanRsZlFucWtFbk1pcXRnRnNvcDRCUEpZUTV5X1VpQWFyU0p6OHE2ZGdGYlFJdnlOMVFHR3lZYkNmd0k?oc=5",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
-      "publishedAt": "2026-09-29T09:04:54.000Z"
+      "publishedAt": "2026-09-29T09:45:43.000Z"
+    },
+    {
+      "id": "e0ece0d05f5ff57d",
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T09:28:11.000Z"
     },
     {
       "id": "5dae1b62e7a18e11",
@@ -40,9 +67,9 @@
     {
       "id": "72ff38dd25edc301",
       "title": "乗用車がトラックと衝突し炎上 3人死亡、2人けが 千葉市（FNNプライムオンライン（フジテレビ系））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bTJEVTl5SXlfbUFZNDlXNnJaTVRFNjZkVFV5cFFMcGRfT3ZBdnppYWtKX1VwRWFPelZETzJ3ZXZpWTlXbE5sMnlpSkdoaTlYWGhsT0plbGhvVFhnWEtIS1docnpFTUNxc1JYMHdGckxRcjRqS01Cd0VmQ0d3TWc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T08:44:18.000Z"
     },
@@ -58,20 +85,29 @@
     {
       "id": "6e08d1c00151238d",
       "title": "RTS（レディトゥサーブ）食品市場―2026年～2032年の世界市場予測",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkYVE2MEllTHViYTAyTkd1MnBRRVR3MlNRV3VnN0lFb1IzZ3FzQ1pIMjlqa0lldVhwTHMyRkNPdHFScXkzMVloSWdFTGJxaTA?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T08:22:00.000Z"
     },
     {
       "id": "def7c9065e3e0c3a",
       "title": "トラックと正面衝突 乗用車炎上し3人死亡 千葉市中央区の国道交差点（チバテレ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVnhqOHlIZTYyWFdCNjd6R0lTcndrSmpVejhtQXBETWR6NHJVMzh0ZDV3VzY3aTBUZzNPOGI4MmVkWHBfSk9ja2t4TDV4aGZwWktMWTRTTG44TndBOFpmT2xfZktieGxqQUJMX2RhUFdTRnU1dHl5WWdNekVHYTg?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T07:45:39.000Z"
+    },
+    {
+      "id": "e7d84979c94036e7",
+      "title": "トモシア、食品卸3社の物流・販売基盤を共通化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TNkNPQXdVcDJNRzZLQy1uM21HTDJhTUdCUjZ6ZldubGNGNE1vVUllbW1CamJqWTZ2WjFiZUZ1aDRGSWxWOWMxeFdn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T07:34:14.000Z"
     },
     {
       "id": "1598c8108b736b27",
@@ -81,15 +117,6 @@
       "source": "jp.reuters.com",
       "category": "物流",
       "publishedAt": "2026-09-29T07:29:44.000Z"
-    },
-    {
-      "id": "4bc8966a048bf9ee",
-      "title": "米15州などが連邦航空局提訴、ドローン配送規則の環境評価巡り（ロイター）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zS0otNXNZM1JuZk9ZRXd6d0RTRlhZRllFTlA5M0RyTzJ4eV9tM0pjdmNpdm1mMlRRdHVqOU55ZHNuMW03WFBwdUJXaUlhTHlSN1JKN3JEMFE5aDVFQjUwSHRhWjdvVjY1dW5sWk95dllfdkxZbVFudDlSYzBoQ1E?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-29T07:28:38.000Z"
     },
     {
       "id": "d60647438114e572",
@@ -121,9 +148,9 @@
     {
       "id": "ad4e18320768710f",
       "title": "伊勢崎市家族3人死亡事故 鈴木被告の控訴審 検察側は控訴退けるよう求める（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUHdCN1RqM2xMdnVJZThpTHVzdk9IcGJmT3VaWEhJcmhxY1ZTWDYxSG5ha2ZXT3pGUTRWREhqaEdyZWU3TDlHYUdhMk9adUZ6bHdkaDkxTE5VWFFyN0RuNkVtaDRmaXBtZDBacTEweWxsQlowa0lvUTRYVjhPU1k?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T06:24:46.000Z"
     },
@@ -175,9 +202,9 @@
     {
       "id": "dbd74ad2832cd348",
       "title": "冷凍ショーケース市場分析レポート（2026年）：2032年3945百万米ドル到達予測",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HSC1Yc0xNMkJiU2dvYVJJT3JQczJYSmd3TDNpVmZYZXFlX0l6WTI5ZzNLOUt6V1Nkc1dUMHpUZ2tIRGJwM3RMWDVxZklNZWs?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T05:25:00.000Z"
     },
@@ -197,7 +224,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZGdTdHNXemNENEhkM2R1b1BHTnBaazRaRUkxU3JIbGhubkxrQXBfczA2QjdRWkFON05icXJnLXlwZUJ3dUt6R1QwcU94QzZ4MWVCaw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-29T05:11:25.000Z"
+      "publishedAt": "2026-09-29T05:16:05.000Z"
     },
     {
       "id": "0d6b1a125510403b",
@@ -301,9 +328,9 @@
     {
       "id": "bf425b3464ebcf41",
       "title": "「車の倍くらいの火が…」乗用車とトラックが衝突・炎上し3人死亡 19歳男性が運転の車が対向車線にはみ出しか 千葉市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdExrTEVEN0NBdmFqNEVfRk50UUVFenpNNjJfa1ROc2lyX3JuRDlNcGc0bzRFeGpPZW9zczNQbVlRNkJ4YmQ1VzZTOHQxSDRnU3N6amZ2TzJRcVJ5eUNoWnFqeUxZbjY1TXFHU3JQSkJsd1pTRVRZQWNKc1FGNHc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:38:18.000Z"
     },
@@ -317,11 +344,20 @@
       "publishedAt": "2026-09-29T03:16:00.000Z"
     },
     {
+      "id": "078c1a21987b2182",
+      "title": "【衝突の瞬間】吉野家の店舗にトラック突っ込む 雨で路面濡れスリップか 大阪・堺市",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQXZORkFCTUxZeVhSODgxZ0hHQVF0bU9TMk1EVW44a1JhRkNKeFJsUzRSQlFpVjRHSzBDSm41WmozOEJGb1lvUDBGSGliVExhY0pvcHBHRE5pbHgwZWVaLUhIcGdwSDQ?oc=5",
+      "source": "Infoseek",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T03:16:00.000Z"
+    },
+    {
       "id": "99fac15f3a3f8071",
       "title": "トラック飲酒運転で家族3人死亡 控訴審で検察側が「控訴棄却すべき」即日結審 被告の男（71）に一審は懲役20年の実刑判決",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsUWxncEN1c3dOMGs2TlZRQmpqbkdFalA3TmtmcWR2YVFMdWFqMzJOSlRtY2tCSS1FZ0k1ZndVTFpsWjhUNVFXX1FaM29NMzNwUVRVdlJOZEJacmxOZkxkNHc0SVpBcGRKVWg5MDFkZjd1VWR5cC1sQmxwRDY5a3c?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:08:20.000Z"
     },
@@ -353,11 +389,20 @@
       "publishedAt": "2026-09-29T03:00:00.000Z"
     },
     {
+      "id": "f1fba3213fb49bed",
+      "title": "ヤマトHD／櫻井社長に聞く業績回復への「選択」、価値創造への「打ち手」",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02b18wT0cxTWpQcm9pLWVfMGlIbGlteHpwUTYzTmtLSVZ2UjJSVGQ3QkJVazdsU1BvWHNiZHhDcUdyNDlNRXhIYTdLTXNmSUpDSmNyNQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-29T02:50:36.000Z"
+    },
+    {
       "id": "5c59576e07d0b83e",
       "title": "意識不明の９２歳男性が死亡 大型トラックと軽ワゴン車が衝突 仙台・若林区（khb東日本放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qU0VsX18zamlQZjVFYUQya1ZIbFoyQXpfaE50V1Uxc0dsM0R5a3Z1RmxnQXlNN3NpRjBZM3BYQlN4d3hvWjNNbTZBOEdvVUowRmlFTHNTc2xtWExvLUFZMWV6R2ZlZ2VSbHRmSDFuQXc1LXJ5VEVWZXJxOHlxamM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T02:49:00.000Z"
     },
@@ -409,9 +454,9 @@
     {
       "id": "effecc632c6575a0",
       "title": "「車の倍くらいの火が出てました」対向車線のトラックと衝突した乗用車が炎上 1時間後に鎮火も3人死亡2人けが 千葉市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95TzZ1bFdXdExRRVIyOFBCLUY4QzFKX3Z4WVRvWG8wUFJ1Y0pza2tUSDNBdW9nLVA5YWQ1bkdacUxwczRxTTFmRHFFZ1VjellrSFdqTVdVaWpoU1NEWS1FSDQySkd3em4wV1NZbWxmY2RJVURoWWNaSXl6Zmd6UHc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T02:18:24.000Z"
     },
@@ -472,9 +517,9 @@
     {
       "id": "c7f3be6b8ce36ced",
       "title": "トラックと正面衝突…乗用車が炎上 3人死亡 千葉市中央区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxdTl1X2p4bGdTcXZFang2RVpLUDdjWVVxQXpIR1lxNlZnMXJLNjZHbzE2ZlFRcl9lSktBdHRRcDF0ZS1TX3I2dVVKeTFvN01mM0h2dFI5Q0FfSjZDS0tCalVNUlNqVmE3cHFWdGpSV1g5c0ZtdEE5ZjhGVTg5bnM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T01:50:04.000Z"
     },
@@ -490,9 +535,9 @@
     {
       "id": "bbd719a91f4edd62",
       "title": "【速報】「吉野家」店舗にトラックが突っ込む 雨の影響でスリップか ケガ人なし 大阪・堺市北区（読売テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWTZEcTlIUXJoWkZiMldfelNWUE5nNjlKVjd0ZDRRLWpiclNGQnF1YTNIajJWd21lbENPdjFpLTBVMUlOR3lZeEcydlRWa2w4UWxjUHdNaW1rMHNaMzBnV2VKVGJOZWtwUG9yRUV2NmtaMVpPWUpFdUhWTFdXQnc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T01:47:00.000Z"
     },
@@ -504,15 +549,6 @@
       "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T01:17:00.000Z"
-    },
-    {
-      "id": "dfcfde67373ded42",
-      "title": "自動配送ロボ拡大へ、LOMBYが3.8億円調達",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xcUd0ekQ5WGlCOW1keEY1VUlKTDh6bW80TndJUGxyQjJTUElYbE9oS0JfWExPTzkySlN3a2RGT2tDcG9zbGI5QWl3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-29T01:14:30.000Z"
     },
     {
       "id": "35c76a24c8dcf906",
@@ -535,9 +571,9 @@
     {
       "id": "bb0b77815ff32280",
       "title": "【速報】国道３５７号で衝突の車炎上、３人死亡 千葉市中央区で事故、けが人も 対向車線はみ出しトラックと衝突か",
-      "description": "chibanippo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "千葉日報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRnlrc1VXZDNuOXNibzVtLUNkN1F6VEtTbktfNVhLVF9VUEt1WGl1MEFWMy1jenhzeW1yTFoxTWtTYXl4NmhVNnFZdjlTeXVJeEc5dlgwSmQ?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T01:08:00.000Z"
     },
@@ -580,9 +616,9 @@
     {
       "id": "2a0efe0b0ab7235a",
       "title": "乗用車がトラックと衝突し炎上、同乗の3人死亡 千葉・中央区の国道（朝日新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSEl5UGh6eTRxTV9BOGcyUXhWV3ktT1Z4d2tEcUxQRTNua1c0Z0RYUU1Id3dNei02cEdHajdQV0I3b25teVREMVhLUTJrekdSdFJjMFdWT3pzcVk3OGxLWEVxU045cGVrbVAxMUh3RUFmTkRlSlNnaXZUeWMxVjA?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T00:30:00.000Z"
     },
@@ -598,20 +634,11 @@
     {
       "id": "aaceb8a9ec771d33",
       "title": "【続報】大型トラックと軽ワゴン車衝突事故 重体だった９２歳男性の死亡確認〈仙台市〉",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KWEI5anFyUTczU2I3S05uQkdQZmQ0TzJvbHh2Ri05VjBXMW5rd21CRnFlQU80ZUtRX25BckJScVp1UVgyV1ZNT3cyYzNNZw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T00:22:00.000Z"
-    },
-    {
-      "id": "13ef54c4a1b893c9",
-      "title": "【速報】交差点でトラックと乗用車が衝突 乗用車が炎上し3人死亡 千葉市",
-      "description": "TVerが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83d0VCZ1Z2dzJYNXRuMGlvM0x6Y3FwVUlfOGhOODhnSnZOREJLNWMxWHNPRTh0YVFsQll0d3dQd3d6amd0YnBkVVZTYw?oc=5",
-      "source": "TVer",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T00:19:24.000Z"
     },
     {
       "id": "0346f9352f4c5d12",
@@ -661,9 +688,9 @@
     {
       "id": "5f476665ebce9539",
       "title": "トラックと衝突し乗用車が炎上 乗っていた3人死亡2人けが 乗用車が対向車線をはみ出したか 千葉市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pSjQ1WDZFRFVVd29qYmpRMXo1X2xic09zdjJYSWZVMDBLa21waGNoT3V5TnB0MXYzbERXMmZnMGxGNEFTYkhmTHNkY3pzQQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-28T23:53:00.000Z"
     },
@@ -686,40 +713,13 @@
       "publishedAt": "2026-09-28T23:20:04.000Z"
     },
     {
-      "id": "fd26b5c944ba56e6",
-      "title": "「乗用車が燃えている」乗用車とトラックが衝突 車内に3人の遺体 千葉・中央区",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nMmoxb3B1UUxVcVJ6RnFWTkpIMUQ4M3pqRlVCcWZwbFNaQU5zVlM3OFVOeldrY2VHNXdUOEx3NkRFWnlSMkVSWjRPWTV4SzI4?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "ffa33ef378da6230",
+      "title": "【速報】千葉の国道で車2台が衝突事故、3人死亡",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XTE5oa0FNQncwZ2h1NW4zdEctZ2ZzOG1DN2p0VzAtZjNhc0xKR0o1a2VTdkdjOEJnaDh1VVZOUmxucm5KWFg4M3J1WQ?oc=5",
+      "source": "47NEWS",
       "category": "安全・事故",
-      "publishedAt": "2026-09-28T23:01:02.000Z"
-    },
-    {
-      "id": "644d37b4bad25afa",
-      "title": "トラックと乗用車が衝突「乗用車が燃えている」3人死亡2人けが 千葉市中央区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cHBEWGFzRVNsaXZlb1NMVy1qZVZVOVBMdkhqT01nTG9jcnNpNnJHUy00elhuSXFZcWtzVXljYWlyemxtMnlYQ2hpVHNfZnM4YXB6aXJpUFotR2Y5eTM5YXo3OHJBVWc2VFN5b3lMZTJ3Smpid3ljdkRGZGNvbmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T22:55:43.000Z"
-    },
-    {
-      "id": "8695e3f28047c6fc",
-      "title": "「乗用車が燃えている」千葉市の交差点でトラックと車が衝突、炎上 3人死亡",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9peUJ2VmNKWTUyWVF5V282OHM4QU05cVJ5b0RLLVI5RmRIRFFHRzJiYnpHcmd5UmdiN1B5dGxWaTZjaFI3OWZpT1E5cnpwWDRmd2ZjWFhSTEx5eDZoMFdSUTdOeWFlTTRIZXlDXzV6TEVlQQ?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T22:52:58.000Z"
-    },
-    {
-      "id": "48a08c4f2934d66d",
-      "title": "「乗用車が燃えている」乗用車とトラックが衝突 車内に3人の遺体 千葉・中央区（TBS NEWS DIG Powered by JNN）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWVlKV3owUHp6cnRLcE5ISDNqV0Eybkl6MFZXZ1p0eE5aaFJ5T3JhMHYtTlF2TGVmbGNocHlpelRhUlkwd2xFcEs1UHVIWlprdXZ3TmVUN2JRLVlzOHhCR05heVVUTXpWUTZTYXZ0Z2dXc0N0YnhFb3NqbEF1QU0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T22:47:44.000Z"
+      "publishedAt": "2026-09-28T23:09:11.000Z"
     }
   ]
 }
