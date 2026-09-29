@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T14:29:40.471Z",
+  "updatedAt": "2026-09-29T15:30:43.287Z",
   "articles": [
     {
       "id": "c861e8676b55eaf5",
@@ -22,11 +22,11 @@
     {
       "id": "5dae1b62e7a18e11",
       "title": "マイクロバスやトラックなど車4台絡む事故 普通乗用車2台が正面衝突 1台が横転し反対車線走るマイクロバスやトラックの前に・・・60代男性が死亡 福岡・粕屋町",
-      "description": "福岡TNCニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.tnc.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1bVU1clRsakx4OXpHUjJOREN6bzZoYU5hdXZydG9xNlV3eEtnZkZYNUJaak5mZE5GMXZveFJaZHFERTJfbVAtTDhEWTBseTM4VE1VOHhmcDF6TUppajBfV0FMRQ?oc=5",
-      "source": "福岡TNCニュース",
+      "source": "news.tnc.co.jp",
       "category": "安全・事故",
-      "publishedAt": "2026-09-29T10:25:49.000Z"
+      "publishedAt": "2026-09-29T10:26:12.000Z"
     },
     {
       "id": "cb415a4f164831e2",
@@ -45,6 +45,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-09-29T10:07:40.000Z"
+    },
+    {
+      "id": "13459db11b42c360",
+      "title": "三協、アパレル物流改善の実務ポイントを公開",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOTWhyTG4xN3puY2EyTHA4SmJKY1RNQktIbkxoYkJsY1NrLWdtdjZDc0xaVU5nRGhaNkE4X1hYV3FBbnhFaHExdk1B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T09:59:10.000Z"
     },
     {
       "id": "51e85e085c19d208",
@@ -101,6 +110,15 @@
       "publishedAt": "2026-09-29T08:44:18.000Z"
     },
     {
+      "id": "098a24fd2ab91bfe",
+      "title": "スマート配送ロッカーの世界市場（2026年～2032年）、市場規模（屋内ロッカー、屋外ロッカー）・分析レポートを発表",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83c3J2eXNnR09zbHpDbmpWbDNBeWE2UWJRODJCMll4YnkzZ3duNDZZRlUwWUpReUtwbFJFY1FxWXdQaXU3TXl6TEkxSGlLQQ?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-09-29T08:30:00.000Z"
+    },
+    {
       "id": "6e08d1c00151238d",
       "title": "RTS（レディトゥサーブ）食品市場―2026年～2032年の世界市場予測",
       "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -108,15 +126,6 @@
       "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T08:22:00.000Z"
-    },
-    {
-      "id": "f2af3c3d17300bb2",
-      "title": "運送業務に潜むリスク 「病気」「ひき逃げ」「飲酒」「薬物」",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNWVLLWtDdWMzVG5lVEZtd1l5QVpWemU3eVM4N3l2enRSX2VseWg2dzRtWTVOWF9SRnctdWVnemI0VWhGX1M0TjdzX21Gdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-29T08:00:22.000Z"
     },
     {
       "id": "def7c9065e3e0c3a",
@@ -139,9 +148,9 @@
     {
       "id": "1598c8108b736b27",
       "title": "米15州などが連邦航空局提訴、ドローン配送規則の環境評価巡り",
-      "description": "jp.reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ロイターが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bkhNLVJscXNVYmZoV2c2N3dxS2hhTjRGQlp3UDUyVmZib3h0eFBWaU1BVUluQnY2MjFQc1Z2ZlBJWFVvZHpRaVFscnZvdlV5WXFyRUZkbHM3VktOOEFvTmpyaTc5MEZkWEhTQUdTOWtEYWNVVTZVWklYOWJmZw?oc=5",
-      "source": "jp.reuters.com",
+      "source": "ロイター",
       "category": "物流",
       "publishedAt": "2026-09-29T07:29:44.000Z"
     },
@@ -155,6 +164,15 @@
       "publishedAt": "2026-09-29T07:28:38.000Z"
     },
     {
+      "id": "f2af3c3d17300bb2",
+      "title": "運送業務に潜むリスク 「病気」「ひき逃げ」「飲酒」「薬物」",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNWVLLWtDdWMzVG5lVEZtd1l5QVpWemU3eVM4N3l2enRSX2VseWg2dzRtWTVOWF9SRnctdWVnemI0VWhGX1M0TjdzX21Gdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-29T07:18:11.000Z"
+    },
+    {
       "id": "d60647438114e572",
       "title": "米物流施設大手プロロジス、1000億円規模投じ賃貸型の自動倉庫開発",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -166,20 +184,29 @@
     {
       "id": "da10458173b12d06",
       "title": "東海運／子会社の関東エアーカーゴを解散、安定収益確保に至らず",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Y216QWJRTl91MGxzRkllVzgtQ0lEWFE4QXE4dVJ4aVFlUnZPLUtjQ0tWYjJ1dmxvc3g5SG4xTnBoNUU4NVJQU29KcEsxUlhhQ2xCWQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T06:48:02.000Z"
     },
     {
       "id": "08f8cac7f3e536c5",
       "title": "イズミ物流／ウズベキスタンで合弁会社設立、トレーラー・コンテナ輸送に参入",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OeEVpSV9RVjd6cUpnSldEeUg2U2ZySHlTb2k1TWdaNnVnOUVZTVRYWkJSNU5vMVNqU2xKdzhSZ056alN5WEFkOEJBM3ZhbC1iSzM3cQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T06:38:00.000Z"
+    },
+    {
+      "id": "ad4e18320768710f",
+      "title": "伊勢崎市家族3人死亡事故 鈴木被告の控訴審 検察側は控訴退けるよう求める（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUHdCN1RqM2xMdnVJZThpTHVzdk9IcGJmT3VaWEhJcmhxY1ZTWDYxSG5ha2ZXT3pGUTRWREhqaEdyZWU3TDlHYUdhMk9adUZ6bHdkaDkxTE5VWFFyN0RuNkVtaDRmaXBtZDBacTEweWxsQlowa0lvUTRYVjhPU1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T06:24:46.000Z"
     },
     {
       "id": "7737a3b735d06d1c",
@@ -202,27 +229,27 @@
     {
       "id": "1f2ea192a6fd7240",
       "title": "テープス／ヤマト運輸の産直出荷支援サービスと連携、受注管理や物流を自動化",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKMWJqdUdQcjh1UHYzdWNVcTdYNFI3a0toV05YazVhQ1V4eXpJWTJDZTJ0bXFHalZPbWMwRUVhZTZhSUthLVVsRkFXMDBLQThfbkJtWg?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T05:52:57.000Z"
     },
     {
       "id": "7668dc35e90ba92f",
       "title": "CRE／「楽しく学んで」京都府の物流施設で地元小学生向けに見学会",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TzRqcTNXLXJYdHh2QWR3c042dGhzUVZNNjJUZDA5VDQwQXg0eVh5dnNOdklBdFlHN2ppc184TlZGVVN0N284X0V1cG9WWkxwaWdsbQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T05:52:51.000Z"
     },
     {
       "id": "1636769d1ff54766",
       "title": "プロロジス／大阪府堺市の物流施設「プロロジスパーク堺」、2027年6月着工・29年2月竣工へ",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qU1BzU0Fkb1AwaVBzclUtY05sMmY4SkdiZGJ3cVJ3UzFVVDRZRHpLNFZHZkl1Y1ZyZm14R3RaYURnY1U2MURuVVBMYmRUcTJJWTUzdQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T05:49:49.000Z"
     },
@@ -247,9 +274,9 @@
     {
       "id": "cb0d98b0abe5fd53",
       "title": "高千穂交易／インド進出目指す日本企業へ現地製造や調達、物流構築を支援",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZGdTdHNXemNENEhkM2R1b1BHTnBaazRaRUkxU3JIbGhubkxrQXBfczA2QjdRWkFON05icXJnLXlwZUJ3dUt6R1QwcU94QzZ4MWVCaw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T05:16:05.000Z"
     },
@@ -265,11 +292,20 @@
     {
       "id": "901a37cd7cb1e094",
       "title": "コクヨ／176億円投資、自社最大規模となる4.5万m2の配送センターを滋賀県に着工",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SWWdmVG0wRHMwQ2lGNk1TYXplZGk1Y1U2VUpmSkhrcERhajc2QWZJTmVKOVFPUVMxVHBSbl80dDhMLVhBVzctOTlOQ1hUT3k3QXlhaw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T05:04:23.000Z"
+    },
+    {
+      "id": "8e8f01194017fd3d",
+      "title": "北陸道上り線で一部区間が一時通行止め、故障車のため 9月29日午後",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zcWVKUnNhZDJGZzI5aTFGX1NBYW91d3duc0UzXy1VZUpzdDdXclU3czJ4WVY4RG93RVMwb1NiNVViUlA0aEs1RTNpbw?oc=5",
+      "source": "47news.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-29T05:02:00.000Z"
     },
     {
       "id": "dff75ffcb288bfa3",
@@ -283,18 +319,18 @@
     {
       "id": "780253cbaf1a48ab",
       "title": "西鉄／仙台に営業拠点開設、東北エリアの物流ネットワーク強化",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhamF3U2c1bU13WVVRVlhoRGxXbFpWdGNQeVFRU05nV21mSDU4bkJ5bGlkcVlnZ3BPelkycG9lSEx5NFRpQ3NJNlpVY29TX3VqczUzXw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T04:32:36.000Z"
     },
     {
       "id": "79c825add0f443c4",
       "title": "郵船ロジ／英国ノーサンプトンに11万m2の物流拠点開設、自動倉庫や環境配慮設備を導入",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PN1ZBNl9ZdkdacDdhUUJZWVZSS1NpQkJVQWo5MHRKdkNPM0ZBQnVuRnhKWE9aZWs4NHVUd2NHWVdpcWE3bUs3WjRoYW1LNmZYTExxZw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T04:14:23.000Z"
     },
@@ -328,9 +364,9 @@
     {
       "id": "a1df73a5a065e828",
       "title": "「車の倍くらいの火が…」乗用車とトラックが衝突・炎上し3人死亡 19歳男性が運転の車が対向車線にはみ出しか 千葉市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05NVRPUGpiQWQwellsMVJwRWg3Uy02N3ItODRvWmJUQVZBbjMyRzNJdkNiNW9GQWQxdVJjT200eVRldkVuTDB5QV9JVWg2UQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:37:00.000Z"
     },
@@ -346,9 +382,9 @@
     {
       "id": "078c1a21987b2182",
       "title": "【衝突の瞬間】吉野家の店舗にトラック突っ込む 雨で路面濡れスリップか 大阪・堺市",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQXZORkFCTUxZeVhSODgxZ0hHQVF0bU9TMk1EVW44a1JhRkNKeFJsUzRSQlFpVjRHSzBDSm41WmozOEJGb1lvUDBGSGliVExhY0pvcHBHRE5pbHgwZWVaLUhIcGdwSDQ?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:16:00.000Z"
     },
@@ -373,9 +409,9 @@
     {
       "id": "facec7376f370693",
       "title": "大和ハウス工業／新潟市内に1.7万m2マルチテナント型物流施設着工、2027年11月末竣工予定",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5eDdsSC11dndsOThPT2xYYkNBa191Uk5Ga1F5QzJ5aGV4NzAtUFlENG5EMlMxQ0FjU3JITV9XT19FU2VzenBSWjRyWHktQ19VU2ZkNw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T03:04:23.000Z"
     },
@@ -391,9 +427,9 @@
     {
       "id": "f1fba3213fb49bed",
       "title": "ヤマトHD／櫻井社長に聞く業績回復への「選択」、価値創造への「打ち手」",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02b18wT0cxTWpQcm9pLWVfMGlIbGlteHpwUTYzTmtLSVZ2UjJSVGQ3QkJVazdsU1BvWHNiZHhDcUdyNDlNRXhIYTdLTXNmSUpDSmNyNQ?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T02:50:36.000Z"
     },
@@ -463,9 +499,9 @@
     {
       "id": "eaec9de9a0c99e60",
       "title": "佐川急便／10月1日集荷分から飛脚国際宅配便に繁忙期追加金を導入",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhTlhSNElNcFhvSTdUQllFX0JoelRyNVF5QkhDWHAzSVIyeU16MGpBYktuUFNHcGhOV1pXVW5CcG5uYjZvaHpwbVN0WnNnUll2S3RXTw?oc=5",
-      "source": "物流ニュースのLNEWS",
+      "source": "lnews.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T02:17:11.000Z"
     },
@@ -643,20 +679,11 @@
     {
       "id": "aaceb8a9ec771d33",
       "title": "【続報】大型トラックと軽ワゴン車衝突事故 重体だった９２歳男性の死亡確認〈仙台市〉",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KWEI5anFyUTczU2I3S05uQkdQZmQ0TzJvbHh2Ri05VjBXMW5rd21CRnFlQU80ZUtRX25BckJScVp1UVgyV1ZNT3cyYzNNZw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T00:22:00.000Z"
-    },
-    {
-      "id": "13ef54c4a1b893c9",
-      "title": "【速報】交差点でトラックと乗用車が衝突 乗用車が炎上し3人死亡 千葉市",
-      "description": "TVerが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83d0VCZ1Z2dzJYNXRuMGlvM0x6Y3FwVUlfOGhOODhnSnZOREJLNWMxWHNPRTh0YVFsQll0d3dQd3d6amd0YnBkVVZTYw?oc=5",
-      "source": "TVer",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T00:19:24.000Z"
     },
     {
       "id": "0346f9352f4c5d12",
@@ -693,33 +720,6 @@
       "source": "産経ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T00:00:39.000Z"
-    },
-    {
-      "id": "95eee6e01b6eddfb",
-      "title": "AIが物流の司令塔へ、DHLが次の10年予測",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0ajFHNHRhRXkyR0lIQlpkenBJZEctUDV5X2sxNzNQNjI5MmFoQ0hpVV9lbWtMN0VvV1VxQnZsZDNPX1FXaWg5clZB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-28T23:57:06.000Z"
-    },
-    {
-      "id": "5f476665ebce9539",
-      "title": "トラックと衝突し乗用車が炎上 乗っていた3人死亡2人けが 乗用車が対向車線をはみ出したか 千葉市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pSjQ1WDZFRFVVd29qYmpRMXo1X2xic09zdjJYSWZVMDBLa21waGNoT3V5TnB0MXYzbERXMmZnMGxGNEFTYkhmTHNkY3pzQQ?oc=5",
-      "source": "FNNプライムオンライン",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T23:53:00.000Z"
-    },
-    {
-      "id": "10c576d932356eb7",
-      "title": "【速報】交差点でトラックと乗用車が衝突 乗用車が炎上し3人死亡 千葉市（2026年9月28日掲載）｜日テレNEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MbHVZbEpWTGJQaVR6TlBTV0c4MzJhOEdoWU94Zm5ReU1OcThlX3pyUldCNHhkUXpORWJ0N0M4MHBzdWxtN1Bpc3Vfb0FLMTFGaVk0bjZyVkVITHU4WjRJM1dSR0hCNHVDOXJtZ0tqalYyaEMzdU91VVppeWU?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-28T23:38:00.000Z"
     }
   ]
 }
