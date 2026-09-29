@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-29T20:28:54.262Z",
+  "updatedAt": "2026-09-29T21:27:18.731Z",
   "articles": [
+    {
+      "id": "2c3df5a026b5be51",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その１】／国際物流総合展2026 フォトリポート",
+      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUUU5MUo5amJNNjc0eHZ2RmlrMmlxSk9yeUZnWFdla29EOGZEOWVHUlRoWlhZNEtSQlZCSl8zZjRQbk0zWkhJM25yU1IxTUR4aXpUYTVnLWhsMnQyb09tSml3X2pVZ2poSkx3?oc=5",
+      "source": "robot digest",
+      "category": "物流",
+      "publishedAt": "2026-09-29T21:04:45.000Z"
+    },
+    {
+      "id": "e5743400324e9415",
+      "title": "プロロジス、堺でBTS・マルチ対応の新物流施設",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zRHcyODFZc1c0NlNCNERfYV9TUUg1em5Ja0hya013UzZxdVFROTlIYU1IUGI0UkJwV2JxRm11VEI1YllYaVJDczZ3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T20:48:45.000Z"
+    },
+    {
+      "id": "20bc6f39af8ba821",
+      "title": "大和ハウス、新潟東港に北陸・東北向け物流拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OR2NWaTFOLVJ2ODQySkpVUWZiVnlvU09lcEVwRFpla0FZcUk3ZXloTTZwMVBHY1NpQjR0OG8waUd6dDVvdG5Bam5R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T20:37:30.000Z"
+    },
     {
       "id": "3ba66f1485aab270",
       "title": "千葉市蘇我事故 19歳免許取り立て対向車線衝突炎上3人死亡 | 蘇我国道357号正面衝突 | 千葉中央区乗用車トラック事故最新",
@@ -17,7 +44,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NdDA2d2dHUmJvcWUySW1LSjVodERnRjdrUGowX3gxRUF4aVlJandfZ3pBemFZblRfVjJBbjdjMTZTdXJpRTRYak0yWU5peXRRSVU3akxyQQ?oc=5",
       "source": "ps.nikkei.com",
       "category": "物流",
-      "publishedAt": "2026-09-29T15:11:15.000Z"
+      "publishedAt": "2026-09-29T15:14:34.000Z"
     },
     {
       "id": "f2af3c3d17300bb2",
@@ -56,6 +83,15 @@
       "publishedAt": "2026-09-29T10:30:09.000Z"
     },
     {
+      "id": "ddf0ceba57324aa2",
+      "title": "外国人物流人材9人全員が定着、SAグループ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ob1RuWmlQTmtYaDJOX0FDOWJGdFVPQ1lxVGRBQzZvTHIzRzRuWHkxQndhRG9rUllURlZQeXMxaF8zSWNkQTVwWWRn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T10:30:00.000Z"
+    },
+    {
       "id": "5dae1b62e7a18e11",
       "title": "マイクロバスやトラックなど車4台絡む事故 普通乗用車2台が正面衝突 1台が横転し反対車線走るマイクロバスやトラックの前に・・・60代男性が死亡 福岡・粕屋町",
       "description": "福岡TNCニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -76,9 +112,9 @@
     {
       "id": "84f5e75b09460972",
       "title": "富士通、食品流通向けの管理システム 受発注から物流まで効率化",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWGZoRWk1dVJuMEZvRWdIRldrUnB3M3BLc1o3M2wxbThReERwVlc1aGJkZS1VTjFwQmVURkJ6UDZoR1hla05ucGQ1WUhaZ2VjYUl5MGhiSTBWVXZ2dzJia1N1YzZmaF9HdEg5eA?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-29T10:07:40.000Z"
     },
@@ -184,9 +220,9 @@
     {
       "id": "1598c8108b736b27",
       "title": "米15州などが連邦航空局提訴、ドローン配送規則の環境評価巡り",
-      "description": "ロイターが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "jp.reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bkhNLVJscXNVYmZoV2c2N3dxS2hhTjRGQlp3UDUyVmZib3h0eFBWaU1BVUluQnY2MjFQc1Z2ZlBJWFVvZHpRaVFscnZvdlV5WXFyRUZkbHM3VktOOEFvTmpyaTc5MEZkWEhTQUdTOWtEYWNVVTZVWklYOWJmZw?oc=5",
-      "source": "ロイター",
+      "source": "jp.reuters.com",
       "category": "物流",
       "publishedAt": "2026-09-29T07:29:44.000Z"
     },
@@ -202,18 +238,18 @@
     {
       "id": "d60647438114e572",
       "title": "米物流施設大手プロロジス、1000億円規模投じ賃貸型の自動倉庫開発",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKLXNPSzFvbkhWdFc4TzVxazl1WEtLOXV5TmpmNWttMnJZdGs0cURTOG1panZ5U2JXYW93OVNXQzllY1FzMHkwdGVuVG1ZdlFheVBFQ3dNTm53VlBHRXUwVTZNWno5UGZOXzc4Sg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-29T07:04:31.000Z"
     },
     {
       "id": "8d0e40372bafb690",
-      "title": "貨物運送業の労災増加で安全活動の推進要請 群馬労働局",
-      "description": "上毛新聞電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "貨物運送業の労災増加で安全活動の推進要請 群馬労働局 - jomo-news.co.jp",
+      "description": "jomo-news.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZnVFY2NUb2Nray1xZWFDeEdLa1kwcFJvaXlBaXJBeUFHM3V2bzZlbnBCT0hnd2s4WXVTVjY5Um1iQ0pYb2NkV3hpLWFKWVRnU2hRUmRzS1ljZw?oc=5",
-      "source": "上毛新聞電子版",
+      "source": "jomo-news.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
@@ -281,6 +317,15 @@
       "publishedAt": "2026-09-29T05:52:51.000Z"
     },
     {
+      "id": "567a9523c7082bec",
+      "title": "中央道下り線 飯田山本IC～中津川ICの間で午後2時ごろから通行止め 岐阜県内で起きた事故のため 長野",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Q0JqWTBDa2xhVk0tc3lXSm5GUVpzM2pxMjlCaVRBTmxiOG1YS0VhbVJnY0pCOEd4REkzNzZ0NHJnemQzTjRyY1FkcmotM2NQb1gyRExveXViUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-29T05:51:00.000Z"
+    },
+    {
       "id": "1636769d1ff54766",
       "title": "プロロジス／大阪府堺市の物流施設「プロロジスパーク堺」、2027年6月着工・29年2月竣工へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -306,15 +351,6 @@
       "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-09-29T05:17:55.000Z"
-    },
-    {
-      "id": "20bc6f39af8ba821",
-      "title": "大和ハウス、新潟東港に北陸・東北向け物流拠点",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OR2NWaTFOLVJ2ODQySkpVUWZiVnlvU09lcEVwRFpla0FZcUk3ZXloTTZwMVBHY1NpQjR0OG8waUd6dDVvdG5Bam5R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:17:44.000Z"
     },
     {
       "id": "cb0d98b0abe5fd53",
@@ -389,6 +425,15 @@
       "publishedAt": "2026-09-29T04:32:36.000Z"
     },
     {
+      "id": "c69fc3370289e6ef",
+      "title": "シーオス、物流現場の人手不足対策を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84X2g1R01Fc3ZZV05ER0xIV1VyMFljWkxNZkkyTzNHWGQzYTV3X0JyMG9xQWVwSkZfOHNlblcwTHhhZ3IyZVVKQk9B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T04:24:43.000Z"
+    },
+    {
       "id": "79c825add0f443c4",
       "title": "郵船ロジ／英国ノーサンプトンに11万m2の物流拠点開設、自動倉庫や環境配慮設備を導入",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -409,9 +454,9 @@
     {
       "id": "8693f364ae1e55ea",
       "title": "ＴａｌｅｎｔＸ[330A]：「福祉×物流」で障がい者の社会参加を支えるアスラ株式会社が、 AIネイティブ採用を実現する「MyTalent Platform」を導入し、 採用オウンドメディアを公開 2026年9月29日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEVjRUduM05QdGJQb0ZDbzM5MVppc2ZaTGRVZmViLWk2bHVCanJuejdWcVhEU0hXaGYzSmNoNzhCVnBmc1AyZEZ5UkdKWDFOQ1NfSjFGNlpGcDNDSlMyeGFZdnB0cUJfWjkxVlFXWEJZVFk3eVIyWGtOeVVJZVF6UkJQdk8tRGxhVDZBaVhXN085Nk9zWXhmMzUyVE1Ia1BaYjRTYTJFdjBUSWUzOUZiLWo4MTJQRndyU0hrbHZadHFDbV9SczRVYkJZQXY?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-29T04:00:00.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-29T01:10:38.000Z"
-    },
-    {
-      "id": "2545b8c82f02856c",
-      "title": "車4台絡む事故 乗用車運転の男性1人死亡 乗用車同士が衝突 うち1台がその後トラックとマイクロバスに衝突して横転 福岡・粕屋町",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwT3NrOUk4U0JnLVVGcFpJN2NjWGFudl9lZGI2VVZYaklXYlJtMW5rWWNkMDlQY1lSdFBaMnF1dlRiWFVRMTV4UDVxaVR6ODJZcG1uWW1vSQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T01:09:23.000Z"
-    },
-    {
-      "id": "bb0b77815ff32280",
-      "title": "【速報】国道３５７号で衝突の車炎上、３人死亡 千葉市中央区で事故、けが人も 対向車線はみ出しトラックと衝突か",
-      "description": "千葉日報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRnlrc1VXZDNuOXNibzVtLUNkN1F6VEtTbktfNVhLVF9VUEt1WGl1MEFWMy1jenhzeW1yTFoxTWtTYXl4NmhVNnFZdjlTeXVJeEc5dlgwSmQ?oc=5",
-      "source": "千葉日報オンライン",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T01:08:00.000Z"
-    },
-    {
-      "id": "fd2659881a92e5c9",
-      "title": "海運から陸上輸送まで、物流の仕組みを現場で学ぶ 栗林商船・栗林運輸が28卒向け合同オープンカンパニーを実施",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVXBVRmRCNTJvek5EZW1fMUlhc2FTSTdFODlRalhJLVRrZG1ZRVJKU3F4dmZMaWdGY1VjVDJXbUhvZ2NwQVNBX1d6ak4yanIzSGZPSDBTaHBibUx3NWpKOVcwSEhDTFFmZ3c?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-29T01:00:03.000Z"
-    },
-    {
-      "id": "b67f9b4df1bedead",
-      "title": "Pioが広げる、手が届く物流自動化の新しい入口",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YcWtoZzlXNnd4cWVNY2l5ZERoN3JTdE5YbXBLOWVicG5saW94MTNuTjUwcmVDNG53STJEVnBTX1ZjRWYwb1pGaQ?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-29T00:56:27.000Z"
-    },
-    {
-      "id": "d2a3ee2d16a48b53",
-      "title": "事業用トラック死亡事故、大型が2割増",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kZXRJZUIwVFppSHFwUmpfTXA1ZGZNWEMzWkdHb2txZVJlbFpXRjRRa2Z4dE1hVUxWLXAzZmxxSENCSUtfZ2d1b0NB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T00:36:16.000Z"
     }
   ]
 }
