@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-30T15:31:39.050Z",
+  "updatedAt": "2026-09-30T16:31:09.490Z",
   "articles": [
+    {
+      "id": "e357d6174fa01814",
+      "title": "あなたの街でも活躍中。 地球にやさしい配送車図鑑 - sg-hldgs.co.jp",
+      "description": "sg-hldgs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbUNDR21DN3NOalJhdWZnQ2tuN0tESXJ3RFBvUzNPMENPX3dnQ1BDU3UtRGF2QVpWTlhaYUE0VTNNY3BPR2RWdmFiSktUSThxeUFYSDkwUVl4aFo2aE4w?oc=5",
+      "source": "sg-hldgs.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-30T15:13:12.000Z"
+    },
+    {
+      "id": "993bce2722a7df34",
+      "title": "豊橋市10月の野菜",
+      "description": "tonichi.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02VVY0ZHdzSTdMb0xoczNrOUdpdWFvZnRWc1lHcGpDbkNWVnAta1JfYWhxXy1jUkdLa0R5NFMycGxaYUtobktSZ0pwLU9JLWVkY3JwczBiYWRNeFha?oc=5",
+      "source": "tonichi.net",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-30T15:03:42.000Z"
+    },
     {
       "id": "8dcab2871e32734e",
       "title": "【無料セミナー】「ベトナム物流市場の次の成長領域、コールドチェーンの商機」開催のお知らせ",
@@ -18,6 +36,15 @@
       "source": "Xpert.Digital - Konrad Wolfenstein",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-30T12:56:27.000Z"
+    },
+    {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声 - weekly-net.co.jp",
+      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "weekly-net.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-09-30T12:14:17.000Z"
     },
     {
       "id": "f310c08b83da02d3",
@@ -121,9 +148,9 @@
     {
       "id": "f0e81c75b14c9eec",
       "title": "公正取引委員会／取適法執行で国土交通省と交流人事開始、全国で「集中監視月間」出発式に参加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rczh0ekg1Y2tsRVNwSlVPRFp1SUZBa0tBYTRQMHBPWWY2aHpYa0hwVTZGd1ViSUFPSTRHU1E4VDBSNDRlR25IaWVhSWg3b2xPYTFzOQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T07:16:00.000Z"
     },
@@ -245,15 +272,6 @@
       "publishedAt": "2026-09-30T04:43:58.000Z"
     },
     {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "weekly-net.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-30T04:38:34.000Z"
-    },
-    {
       "id": "ec4ec6fe0f14e78d",
       "title": "国道横断中に軽トラックにはねられ79歳の男性が死亡 ドライバーは78歳の男性【佐賀県】",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -274,9 +292,9 @@
     {
       "id": "e2e58bf33716dd2e",
       "title": "ごみ運送車改造めぐり 阿波市の運送会社を家宅捜索【徳島】（2026年9月29日掲載）｜JRT NEWS NNN",
-      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXFJSWVkWUU5REs1MXNUUFFHdjVDU3YyTWZHcUdnSGFTTzJiS1FLWXk0MmtUT2ZwdmIxaU5ONk5Eek9FdjRGZThoNno2R1RoNFRwNl80S2xfcEp4cGVsRllvU3NpcHZXUXdodmRYT0NRM2FjMjU4SXFQQzREX1VjVkQxMEtjWXc?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-09-30T02:48:00.000Z"
     },
@@ -292,9 +310,9 @@
     {
       "id": "507885bc418a5c01",
       "title": "物流ニュースなび【2026年9月30日号】監視の網は地方まで広がった 取適法の「本気度」を去年と比較する",
-      "description": "note.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzcGp1VG9ZR0hBamI4MVZoYlYxZFJabzU3X3FwRmtQV2p5T3piQnRROTA5VWRsRDQxa3VhLUktcXFiOWhTWUwycjNnRF9BNXJOQUxwUy03ek45LThPN1E?oc=5",
-      "source": "note.com",
+      "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T02:32:09.000Z"
     },
@@ -355,9 +373,9 @@
     {
       "id": "312a59a7f468b6f7",
       "title": "クロスマイル／運送業の実態に対応したGPS打刻機能を「ロジポケ」に追加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12QVotb2c3UjFsNmt4Y1pMLUQ2N2o1OVI0WmNwUkhQMldTaFpQRzFRNFFCX1BtSFRTcjB3RjcyVHB4aG5MWjZxcEM3aU5uQ29nU3hZSw?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-30T01:39:00.000Z"
     },
@@ -387,6 +405,15 @@
       "source": "fullload.bestcarweb.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T01:00:00.000Z"
+    },
+    {
+      "id": "098a467382a49c70",
+      "title": "CRE、京田辺の物流施設に小学生40人招く",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xYmlkMmxUcEVZRUhlQTZIUE9SRzhZM0xiZFhCVWVHaXkteHFjZnY4NDNzem5DaHBJdGxUemFnSlppUG9qZ21YRGp3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T00:54:58.000Z"
     },
     {
       "id": "dff75ffcb288bfa3",
@@ -553,9 +580,9 @@
     {
       "id": "8e0085c16e819cf0",
       "title": "ドイツ政府、中国海運大手の買収阻止検討 中堅港湾物流、重大な安保懸念―報道",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "jiji.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvUlN2TWMycjN3ZEFoWHhKVDZXM3plS29WUFlPRkNmaGtUdS1VVi1Gb3JtcExuVk5Qa0dZNlM2QXF3YzFQRG56cVk3MXhwQ2JPcEFObUI4YW52WUkzY241U1NBdw?oc=5",
-      "source": "時事ドットコム",
+      "source": "jiji.com",
       "category": "物流",
       "publishedAt": "2026-09-29T10:39:00.000Z"
     },
@@ -607,9 +634,9 @@
     {
       "id": "f232a0c156e62076",
       "title": "栗林商船・栗林運輸／2028年新卒向け合同オープンカンパニー実施「物流の仕組みを現場で学ぶ」",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YNFNreWZkcHo1ZDFBeXZPclhfeVRBcUZzTVlKWktqS1FEa1FxRFRjbjEwXzdJa2I0dHdUek5zbGg5ZFhWMGk0R2JtYkdMblJHam5zbA?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-29T10:03:00.000Z"
     },
@@ -652,9 +679,9 @@
     {
       "id": "a41fb4dc3389c9f9",
       "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場” – Quebee キュエビー",
-      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wY0l5T29WRmY2OGRvOGVHazFXOEplV2NnREh0SGIwVVZOSkwzUk1iaWtvSDQ5T1RBczIwRjIxVUdhWVRsdWZxeG5oMWYzcjczZjV6U1ZKV2g?oc=5",
-      "source": "qab.co.jp",
+      "source": "QAB 琉球朝日放送",
       "category": "道路・交通",
       "publishedAt": "2026-09-29T09:28:11.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T07:45:39.000Z"
-    },
-    {
-      "id": "1598c8108b736b27",
-      "title": "米15州などが連邦航空局提訴、ドローン配送規則の環境評価巡り",
-      "description": "jp.reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bkhNLVJscXNVYmZoV2c2N3dxS2hhTjRGQlp3UDUyVmZib3h0eFBWaU1BVUluQnY2MjFQc1Z2ZlBJWFVvZHpRaVFscnZvdlV5WXFyRUZkbHM3VktOOEFvTmpyaTc5MEZkWEhTQUdTOWtEYWNVVTZVWklYOWJmZw?oc=5",
-      "source": "jp.reuters.com",
-      "category": "物流",
-      "publishedAt": "2026-09-29T07:29:44.000Z"
-    },
-    {
-      "id": "d60647438114e572",
-      "title": "米物流施設大手プロロジス、1000億円規模投じ賃貸型の自動倉庫開発",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKLXNPSzFvbkhWdFc4TzVxazl1WEtLOXV5TmpmNWttMnJZdGs0cURTOG1panZ5U2JXYW93OVNXQzllY1FzMHkwdGVuVG1ZdlFheVBFQ3dNTm53VlBHRXUwVTZNWno5UGZOXzc4Sg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-29T07:04:31.000Z"
-    },
-    {
-      "id": "da10458173b12d06",
-      "title": "東海運／子会社の関東エアーカーゴを解散、安定収益確保に至らず",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Y216QWJRTl91MGxzRkllVzgtQ0lEWFE4QXE4dVJ4aVFlUnZPLUtjQ0tWYjJ1dmxvc3g5SG4xTnBoNUU4NVJQU29KcEsxUlhhQ2xCWQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-29T06:48:02.000Z"
     }
   ]
 }
