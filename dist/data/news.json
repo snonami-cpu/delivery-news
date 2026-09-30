@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-29T23:25:03.540Z",
+  "updatedAt": "2026-09-30T00:36:20.009Z",
   "articles": [
+    {
+      "id": "3f1dbdedeee36f0e",
+      "title": "【北陸道】金沢市内でトラック3台衝突事故 通行止めは6時間ぶりすべて解除（30日07:45現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GZFNBTExmQjlzVnRKajBBdndIX2hRblZkTG43cGlqTmQ3OWgwSGNfMmw1YnY0bE1sMVU1TVVjcnZScjZjZ2dpRGVYY0thSzFvQlFaaTBiM3NkWFFEa1dR?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "道路・交通",
+      "publishedAt": "2026-09-29T22:47:08.000Z"
+    },
     {
       "id": "48a08c4f2934d66d",
       "title": "「乗用車が燃えている」乗用車とトラックが衝突 車内に3人の遺体 千葉・中央区（TBS NEWS DIG Powered by JNN）",
@@ -45,6 +54,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-29T20:37:30.000Z"
+    },
+    {
+      "id": "3ba66f1485aab270",
+      "title": "千葉市蘇我事故 19歳免許取り立て対向車線衝突炎上3人死亡 | 蘇我国道357号正面衝突 | 千葉中央区乗用車トラック事故最新",
+      "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wa0dob1lYOXdWMndSQ0NqVE9IRUJCd3pYYVEtRjNoeVE3Q3hSc2NHOEVvbGkwTUFwMDZBTFQxTkhXZw?oc=5",
+      "source": "YouTube",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T17:21:38.000Z"
     },
     {
       "id": "cb415a4f164831e2",
@@ -103,9 +121,9 @@
     {
       "id": "ca198948c26723d9",
       "title": "コクヨ、滋賀・愛荘町に過去最大規模の物流拠点 約176億円投資、2029年2月竣工へ",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcDdJWklWYV9aWnFQZ3BTQmdMSmRQenk5YVlSSDRwMVZicWtyRzRwMUtvekJlMlFxZzJIUVJreS04c0VEbWtfV2g3X09JVVFydGZhTjZSUQ?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-29T10:22:16.000Z"
     },
@@ -121,9 +139,9 @@
     {
       "id": "f232a0c156e62076",
       "title": "栗林商船・栗林運輸／2028年新卒向け合同オープンカンパニー実施「物流の仕組みを現場で学ぶ」",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YNFNreWZkcHo1ZDFBeXZPclhfeVRBcUZzTVlKWktqS1FEa1FxRFRjbjEwXzdJa2I0dHdUek5zbGg5ZFhWMGk0R2JtYkdMblJHam5zbA?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-29T10:03:00.000Z"
     },
@@ -135,15 +153,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-29T09:59:10.000Z"
-    },
-    {
-      "id": "51e85e085c19d208",
-      "title": "貨物自動車運送業者「振興物産」破産手続き開始決定 負債は約1億8000万円 鳥取県岩美町 （日本海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUkViREdxY1NucFFOajN6NXM1OHhoZ3hPY283US1Rcm9YUHNBa29sX0xBckNLUkNTZGI3Q0NtQnBoM0lOdDZuWlR0QXV6cmxsZXJMV0VkTWl0b200Y2M3aW9iZkdVaTZPb3U0X3Z1U1NIdEMxTFo1UjVHcF93T0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-29T09:59:00.000Z"
     },
     {
       "id": "1a8986b08692960a",
@@ -193,18 +202,18 @@
     {
       "id": "098a24fd2ab91bfe",
       "title": "スマート配送ロッカーの世界市場（2026年～2032年）、市場規模（屋内ロッカー、屋外ロッカー）・分析レポートを発表",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83c3J2eXNnR09zbHpDbmpWbDNBeWE2UWJRODJCMll4YnkzZ3duNDZZRlUwWUpReUtwbFJFY1FxWXdQaXU3TXl6TEkxSGlLQQ?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T08:30:00.000Z"
     },
     {
       "id": "6e08d1c00151238d",
       "title": "RTS（レディトゥサーブ）食品市場―2026年～2032年の世界市場予測",
-      "description": "newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkYVE2MEllTHViYTAyTkd1MnBRRVR3MlNRV3VnN0lFb1IzZ3FzQ1pIMjlqa0lldVhwTHMyRkNPdHFScXkzMVloSWdFTGJxaTA?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T08:22:00.000Z"
     },
@@ -290,15 +299,6 @@
       "publishedAt": "2026-09-29T06:24:46.000Z"
     },
     {
-      "id": "7737a3b735d06d1c",
-      "title": "小売におけるモノのインターネット市場―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yZXRfcGZUUzkzQ3A3T09LX3FRV3FfcGwyZlIzOWxjYk5qWmlDMnhkZHI3U3RGbl8tdzZSX21HN3dURldIRGtQLW1yeks3a2s?oc=5",
-      "source": "アットプレス",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-29T06:17:00.000Z"
-    },
-    {
       "id": "ad56ea9dbe68f35c",
       "title": "クラウド型点呼支援システム「点呼＋モバイル版」がiOSに対応開始",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -346,9 +346,9 @@
     {
       "id": "0a41f48672ff31c4",
       "title": "冷凍ショーケース市場分析レポート（2026年）：2032年3945百万米ドル到達予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MNEZraUctSHN1ZUI0WWdUVGt2YkJoR0g3c0xWR0R4aHViWXEySEtuV1pjLTAwUlFaSnZiLXU3YmRrVlJ5YlBRcFlCemdTakU?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T05:25:00.000Z"
     },
@@ -400,9 +400,9 @@
     {
       "id": "8e8f01194017fd3d",
       "title": "北陸道上り線で一部区間が一時通行止め、故障車のため 9月29日午後",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zcWVKUnNhZDJGZzI5aTFGX1NBYW91d3duc0UzXy1VZUpzdDdXclU3czJ4WVY4RG93RVMwb1NiNVViUlA0aEs1RTNpbw?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-29T05:02:00.000Z"
     },
@@ -479,29 +479,38 @@
       "publishedAt": "2026-09-29T03:59:00.000Z"
     },
     {
-      "id": "bf425b3464ebcf41",
+      "id": "e6fa93730614ca9f",
+      "title": "ニデック、調達・物流をSCM傘下で再構築",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GTU42SkZvMzREOUVUY2xoUWFwUHZEbFd3MVR5eVM2OC1lRjkwaV9kdGNQNV80a2xQR1pwTWhUazV1UnQ5WE5JRGd3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T03:45:29.000Z"
+    },
+    {
+      "id": "a1df73a5a065e828",
       "title": "「車の倍くらいの火が…」乗用車とトラックが衝突・炎上し3人死亡 19歳男性が運転の車が対向車線にはみ出しか 千葉市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdExrTEVEN0NBdmFqNEVfRk50UUVFenpNNjJfa1ROc2lyX3JuRDlNcGc0bzRFeGpPZW9zczNQbVlRNkJ4YmQ1VzZTOHQxSDRnU3N6amZ2TzJRcVJ5eUNoWnFqeUxZbjY1TXFHU3JQSkJsd1pTRVRZQWNKc1FGNHc?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05NVRPUGpiQWQwellsMVJwRWg3Uy02N3ItODRvWmJUQVZBbjMyRzNJdkNiNW9GQWQxdVJjT200eVRldkVuTDB5QV9JVWg2UQ?oc=5",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
-      "publishedAt": "2026-09-29T03:38:18.000Z"
+      "publishedAt": "2026-09-29T03:37:00.000Z"
     },
     {
       "id": "b7112433cc5544f2",
       "title": "【衝突の瞬間】吉野家の店舗にトラック突っ込む 雨で路面濡れスリップか 大阪・堺市（2026年9月28日掲載）｜YTV NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEF5cGRHbGQ5U0FMNTVSYmNtYnhhUElrSXp5bTh5Q3dlY3JSTEhBNnZISDJxeWtsMjA3dklja2w5aDNiOTR1b1UzUnJweUE1ZmMxM0J3eTliMExFRlFIeWdVYTllLUVfamNHNDZOZENQVC1xWnJuejYwbktTMVV1V1hLUFluYWs?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:16:00.000Z"
     },
     {
       "id": "078c1a21987b2182",
       "title": "【衝突の瞬間】吉野家の店舗にトラック突っ込む 雨で路面濡れスリップか 大阪・堺市",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQXZORkFCTUxZeVhSODgxZ0hHQVF0bU9TMk1EVW44a1JhRkNKeFJsUzRSQlFpVjRHSzBDSm41WmozOEJGb1lvUDBGSGliVExhY0pvcHBHRE5pbHgwZWVaLUhIcGdwSDQ?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:16:00.000Z"
     },
@@ -571,18 +580,18 @@
     {
       "id": "211eac2707af4e3c",
       "title": "国土交通省／南魚沼市の関越道での大型トラックの衝突事故を重大事故等情報に掲載",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pazFyVDZMSjcxWlk1OUdDYUhRT1BCZVRkdUVsMVYxZkFkaWV4UE8wbGREM2d2cFNDbFJ1NDdZQlRTbXVQT0JwazY4N0ZGX2NVYVp0MQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T02:29:00.000Z"
     },
     {
       "id": "bca8a60b787e2bb0",
-      "title": "物流マッチングイベント「道央＋オンラインロジスク」参加者募集 - J-Net21[中小企業ビジネス支援サイト]",
-      "description": "J-Net21[中小企業ビジネス支援サイト]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "物流マッチングイベント「道央＋オンラインロジスク」参加者募集 - j-net21.smrj.go.jp",
+      "description": "j-net21.smrj.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hcVNHV0I5QmVBUzBGbVd5TzVOS0xDQ2RNNDhva0o2clFHYUkyQXlUTmZGdTJ1dVRvRDhUVy0zdHY2Vk9aU19BOWlCemltUVVoZkVncU05c0tQVTJpZmxQdGYtdw?oc=5",
-      "source": "J-Net21[中小企業ビジネス支援サイト]",
+      "source": "j-net21.smrj.go.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T02:24:18.000Z"
     },
@@ -661,9 +670,9 @@
     {
       "id": "6a93c561e10734d4",
       "title": "SBS、三菱ケミカル物流を192億円で買収 化学品輸送に本格参入",
-      "description": "BigGo ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "finance.biggo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1amdqbWE3MGEzMkZaX0ZXeGFzd3JDWXNra3I2UDlKdnVGQzZPbVhDWjFjNjg2a25tVTJYVEVOSUZuYzBqZlR6ZHJvbnBjdlYtNkIxNENCX1RWZHVJd0p5Yi1BeGFxdC1KTTJkTFJzZ1F3T25z?oc=5",
-      "source": "BigGo ファイナンス",
+      "source": "finance.biggo.jp",
       "category": "物流",
       "publishedAt": "2026-09-29T01:56:00.000Z"
     },
@@ -706,20 +715,11 @@
     {
       "id": "2c49e47bee491240",
       "title": "放射冷却フィルムマーケットリサーチ：調査方法＋業界分析＋売上規模",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DdjViX01aZXBKMExMUVdfMndBdzh4RmtQMWhvdTAtcjFScUl2cVQ2UnRKQUJ1bHVFdVloakVwc08waG53MEZ2TmFpWU10QQ?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T01:17:00.000Z"
-    },
-    {
-      "id": "dfcfde67373ded42",
-      "title": "自動配送ロボ拡大へ、LOMBYが3.8億円調達",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xcUd0ekQ5WGlCOW1keEY1VUlKTDh6bW80TndJUGxyQjJTUElYbE9oS0JfWExPTzkySlN3a2RGT2tDcG9zbGI5QWl3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-29T01:14:30.000Z"
     }
   ]
 }
