@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:30:13.026Z",
+  "updatedAt": "2026-09-30T14:32:00.663Z",
   "articles": [
     {
       "id": "8dcab2871e32734e",
@@ -92,13 +92,22 @@
       "publishedAt": "2026-09-30T08:24:06.000Z"
     },
     {
-      "id": "cd752a9d0de17844",
-      "title": "日本郵便汚職で運送会社代表らに有罪判決…ディズニー宿泊費など120万円相当を接待",
-      "description": "東京新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTN1RIRm9Pc3RsWkVodW01OVZVWHFmd3h0ZGd6ZVN4YWNPdFR2M0tUNjhjZ294WllwS2Z5YzlJOVBMNVBIS1ZwM0lVSkNIVWc1RWhV?oc=5",
-      "source": "東京新聞",
+      "id": "85da47a277f5cb24",
+      "title": "アイディオット、物流拠点の最適配置シミュレーション技術で特許取得 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPWlUtZUZpM2JYaWU2bDRITU5fTUpUVWZMeE5NUy1rX2w0dmYwMVBxZ1ZVa2dKRWl3QThBa0tLYkpJTGgwRDFTSnlCNA?oc=5",
+      "source": "LOGI-BIZ online",
       "category": "物流",
-      "publishedAt": "2026-09-30T08:08:17.000Z"
+      "publishedAt": "2026-09-30T07:59:55.000Z"
+    },
+    {
+      "id": "44b476f7ecb63e6e",
+      "title": "NXHD／アジア発海上輸送で米国到着後5日以内に配達、オプションサービス開始",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SVkJ2R0NZNHl1ZUdRcUNyX09TcFhmaWV1TjZuZXBWLTJ5SlFEaHVFY240SXZtVEJzZXB6eDFkbWUtR05nV2VBek5icFlvcTBweUl5OA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-30T07:38:56.000Z"
     },
     {
       "id": "f0e81c75b14c9eec",
@@ -121,9 +130,9 @@
     {
       "id": "3ddfbd189c8e8a3b",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：資産運用会社における組織変更に関するお知らせ 2026年9月30日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNE1hVWU1VGJvMmtVeXpPNHVLV0x1bXRoZVV0UmVMUk56WnB3cG8ydzF0QlFoN3ltRTNwSjZNS3FzRjY1d3l4Q0x0SVVmMlpNNGNnRExxQ2hXQThVUnJBM05uY3lwVmQwUEVMa1BPcVBfUDluYktCbC1LX0JQRlhZc2VaVjM2R1BWU1RYQmdlS2ltOWNQXzBZLUJDczZKSE5KSEhmdEFvLWhrb3JYLU1SOHN4eWI2cXVWdG80ckZPSlljdVE5bkFvSGF2eWg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-30T07:00:00.000Z"
     },
@@ -191,6 +200,15 @@
       "publishedAt": "2026-09-30T05:24:00.000Z"
     },
     {
+      "id": "8f7ad906bb58a9ff",
+      "title": "ドライバーモニタリングシステムを義務化します ～道路運送車両の保安基準等の改正について～",
+      "description": "mlit.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JTFNNZzZWekRiMWx2NDhwMjVCRnVfZndXMlJYX3I0RVZ3cEJYZkVOaDRyakZMMnNoZm00ZzZHTTZDekF3M1dGMFFZNmpodHhrN19DOVZ2MWxXRWhMeXA2bDFGOUZKZ1VKUENBbw?oc=5",
+      "source": "mlit.go.jp",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-30T05:11:05.000Z"
+    },
+    {
       "id": "c6a07a95216008b0",
       "title": "Hacobu／企業ごとに異なる物流システムをAIで接続する基盤「Hacobu X」発表",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -198,15 +216,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-09-30T05:08:17.000Z"
-    },
-    {
-      "id": "8f7ad906bb58a9ff",
-      "title": "ドライバーモニタリングシステムを義務化します ～道路運送車両の保安基準等の改正について～",
-      "description": "mlit.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JTFNNZzZWekRiMWx2NDhwMjVCRnVfZndXMlJYX3I0RVZ3cEJYZkVOaDRyakZMMnNoZm00ZzZHTTZDekF3M1dGMFFZNmpodHhrN19DOVZ2MWxXRWhMeXA2bDFGOUZKZ1VKUENBbw?oc=5",
-      "source": "mlit.go.jp",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-30T05:07:10.000Z"
     },
     {
       "id": "91cbac15254a3938",
@@ -233,7 +242,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-09-30T04:14:16.000Z"
+      "publishedAt": "2026-09-30T04:38:34.000Z"
     },
     {
       "id": "ec4ec6fe0f14e78d",
@@ -315,6 +324,15 @@
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-09-30T02:14:00.000Z"
+    },
+    {
+      "id": "663798e45e2c5e6d",
+      "title": "「チルド日配食品メーカーの物流課題」 人手不足深刻化、効率化へ対応策 新漬協が講習会",
+      "description": "食品新聞 WEB版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mQldYMlpsX1gySy0xVVBWUEstVmFLN0tUc2F6RDlEWUVKWEVpQUdyY0FpamlvZVVhV0tkelYzYUlGb0l0eDVCWXdFQkFoRkJLNzZPQ05qOGNVVnpIRTNJNDVLOWwwNTRURHNFUU9FZm5nZw?oc=5",
+      "source": "食品新聞 WEB版",
+      "category": "物流",
+      "publishedAt": "2026-09-30T02:07:46.000Z"
     },
     {
       "id": "13459db11b42c360",
@@ -445,18 +463,18 @@
     {
       "id": "1dc8db429ba1a9d3",
       "title": "「送料無料」のその送料、いったい誰が払っているのか",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQWtZNUJLSnlZNWhSYnROSFVBTkhPOUdpTExGM082eUd4WFRZbGxOOFAzbEpkT1ZfR01McXJ6YUpFeGlwVlBGVVg4UU9QX0NzZVpqM0dOSy13TlFIeEkxcWc1SdIBY0FVX3lxTE9tQWtZNUJLSnlZNWhSYnROSFVBTkhPOUdpTExGM082eUd4WFRZbGxOOFAzbEpkT1ZfR01McXJ6YUpFeGlwVlBGVVg4UU9QX0NzZVpqM0dOSy13TlFIeEkxcWc1SQ?oc=5",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "category": "法令・行政",
       "publishedAt": "2026-09-29T22:30:00.000Z"
     },
     {
       "id": "2c3df5a026b5be51",
-      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その１】／国際物流総合展2026 フォトリポート",
-      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その１】／国際物流総合展2026 フォトリポート - robot-digest.com",
+      "description": "robot-digest.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUUU5MUo5amJNNjc0eHZ2RmlrMmlxSk9yeUZnWFdla29EOGZEOWVHUlRoWlhZNEtSQlZCSl8zZjRQbk0zWkhJM25yU1IxTUR4aXpUYTVnLWhsMnQyb09tSml3X2pVZ2poSkx3?oc=5",
-      "source": "robot digest",
+      "source": "robot-digest.com",
       "category": "物流",
       "publishedAt": "2026-09-29T21:04:45.000Z"
     },
@@ -474,15 +492,6 @@
       "title": "大和ハウス、新潟東港に北陸・東北向け物流拠点",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OR2NWaTFOLVJ2ODQySkpVUWZiVnlvU09lcEVwRFpla0FZcUk3ZXloTTZwMVBHY1NpQjR0OG8waUd6dDVvdG5Bam5R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-29T20:50:21.000Z"
-    },
-    {
-      "id": "ddf0ceba57324aa2",
-      "title": "外国人物流人材9人全員が定着、SAグループ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ob1RuWmlQTmtYaDJOX0FDOWJGdFVPQ1lxVGRBQzZvTHIzRzRuWHkxQndhRG9rUllURlZQeXMxaF8zSWNkQTVwWWRn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-29T20:50:21.000Z"
@@ -562,9 +571,9 @@
     {
       "id": "84f5e75b09460972",
       "title": "富士通、食品流通向けの管理システム 受発注から物流まで効率化",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWGZoRWk1dVJuMEZvRWdIRldrUnB3M3BLc1o3M2wxbThReERwVlc1aGJkZS1VTjFwQmVURkJ6UDZoR1hla05ucGQ1WUhaZ2VjYUl5MGhiSTBWVXZ2dzJia1N1YzZmaF9HdEg5eA?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-29T10:07:40.000Z"
     },
@@ -624,10 +633,10 @@
     },
     {
       "id": "7d182fcda18b8fba",
-      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場” - khb-tv.co.jp",
-      "description": "khb-tv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
+      "description": "khb東日本放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16MGdIbGRGNEV0VktYbHNLdlNBekZMYUdrS2JzazRvZEFrTW4xdWdWR0Q3aFFueE5reGdYb1pUYklxeTM5eTNTcm95cmplRzg?oc=5",
-      "source": "khb-tv.co.jp",
+      "source": "khb東日本放送",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T09:28:11.000Z"
     },
@@ -679,18 +688,18 @@
     {
       "id": "1598c8108b736b27",
       "title": "米15州などが連邦航空局提訴、ドローン配送規則の環境評価巡り",
-      "description": "jp.reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ロイターが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bkhNLVJscXNVYmZoV2c2N3dxS2hhTjRGQlp3UDUyVmZib3h0eFBWaU1BVUluQnY2MjFQc1Z2ZlBJWFVvZHpRaVFscnZvdlV5WXFyRUZkbHM3VktOOEFvTmpyaTc5MEZkWEhTQUdTOWtEYWNVVTZVWklYOWJmZw?oc=5",
-      "source": "jp.reuters.com",
+      "source": "ロイター",
       "category": "物流",
       "publishedAt": "2026-09-29T07:29:44.000Z"
     },
     {
       "id": "d60647438114e572",
       "title": "米物流施設大手プロロジス、1000億円規模投じ賃貸型の自動倉庫開発",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKLXNPSzFvbkhWdFc4TzVxazl1WEtLOXV5TmpmNWttMnJZdGs0cURTOG1panZ5U2JXYW93OVNXQzllY1FzMHkwdGVuVG1ZdlFheVBFQ3dNTm53VlBHRXUwVTZNWno5UGZOXzc4Sg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "category": "物流",
       "publishedAt": "2026-09-29T07:04:31.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T06:24:46.000Z"
-    },
-    {
-      "id": "648ebd7f11b71f6d",
-      "title": "自動車運送業の経営者の7割以上が、特定技能に「自動車運送業」が追加されてから1年以上経過した現在も、自社の外国人ドライバーの受け入れ体制は未整備であると回答！ | G.A.グループ株式会社のプレスリリース",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJUTB3ektCZ2FjX3huTkFQeXhDZEdNY3o1c2lxa3JVaTd5ZkpjZEpXT1ltUWdjQ200NHNZMERNNXdkZkctNmlSd1liVFNYb2pJOV9xR0hrQUxmSzUxaDR0UG5FS1hQczFxVUE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-29T06:00:01.000Z"
     }
   ]
 }
