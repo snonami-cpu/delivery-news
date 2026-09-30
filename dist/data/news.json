@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-30T11:26:50.068Z",
+  "updatedAt": "2026-09-30T12:37:39.439Z",
   "articles": [
+    {
+      "id": "f310c08b83da02d3",
+      "title": "食品物流＆3PL総合展／東京ビッグサイトで初開催、食品供給網支える技術が一堂",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40TGZwQzU0cXp1enhhc0RvRlRUQ0RMVjV5cjItd1ZXb1FQT3NHZ2ZqTVZKbEhqbU14eFYwMHBHRWd0WVNHTmR3Nm9JX2NaYVc4VS1XNg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-30T11:33:54.000Z"
+    },
     {
       "id": "9330f7cf178e7e75",
       "title": "ほっとニュース北海道 「モーダルシフト」物流ルートをトラックから鉄道へ 北海道が実証実験を開始 NHK ONE 配信中 10/7まで",
@@ -9,6 +18,33 @@
       "source": "nhk.or.jp",
       "category": "物流",
       "publishedAt": "2026-09-30T10:28:19.000Z"
+    },
+    {
+      "id": "d9c5be794eb5b022",
+      "title": "MonoLu、物流倉庫DXの新サービス「Warehouse OS」を開発に着手",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieklxeDRvVlpIdEZWQm5LRzk5N0JBelB6SnVDSERxVExIMGxRMjVnQ1d6alVPRUl0dERYcDRrQ21ZZ2xFR2NDVXpDempIdmVLdnNYQ1NmajNwakFkN3prLXZwbnlLZmZjMkE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-09-30T10:23:55.000Z"
+    },
+    {
+      "id": "94e1adfa60216c59",
+      "title": "ロジスティードHD／「統合報告書2026」（日本語・英語）を発行",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42LVVOWHhXRjlETWpPeDdsNDV1YkJRVkc4VmJXbEtXMUJhd2FLbmlHZDMyQWg0M2xCS3JJWmhsblRPLW5RelJDdHVPM0x1ZjM0UjNJLQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-30T10:14:28.000Z"
+    },
+    {
+      "id": "54b684938aa59def",
+      "title": "「物流DX EXPO」開幕、物流改革の実装探る",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xNEJ5NWRaVWVsYXdhUU9uenVGUmZqbFpFd09hWGNhdm5ieE1GSGJuNWZmZVpQZEluNVdNMTdnV3ltaUJBeXJ2TGtn0gFPQVVfeXFMTUc1Z0hSYkcyaXFnUTVjZHhjYkRTZk5hZmlvTUNSQ1VrSXJLNUVLMjRQMFhGU01pYkdHUE0tclhoQkI2Ni10YTVDcFBEd3hEMA?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T09:52:32.000Z"
     },
     {
       "id": "5d9c2f03f1840d53",
@@ -47,29 +83,20 @@
       "publishedAt": "2026-09-30T08:24:06.000Z"
     },
     {
-      "id": "f310c08b83da02d3",
-      "title": "食品物流＆3PL総合展／初開催、747社・団体が東京ビッグサイトに集結",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40TGZwQzU0cXp1enhhc0RvRlRUQ0RMVjV5cjItd1ZXb1FQT3NHZ2ZqTVZKbEhqbU14eFYwMHBHRWd0WVNHTmR3Nm9JX2NaYVc4VS1XNg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-30T08:09:03.000Z"
-    },
-    {
       "id": "cd752a9d0de17844",
-      "title": "日本郵便汚職で運送会社代表らに有罪判決…ディズニー宿泊費など120万円相当を接待",
-      "description": "東京新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "日本郵便汚職で運送会社代表らに有罪判決…ディズニー宿泊費など120万円相当を接待 - tokyo-np.co.jp",
+      "description": "tokyo-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTN1RIRm9Pc3RsWkVodW01OVZVWHFmd3h0ZGd6ZVN4YWNPdFR2M0tUNjhjZ294WllwS2Z5YzlJOVBMNVBIS1ZwM0lVSkNIVWc1RWhV?oc=5",
-      "source": "東京新聞",
+      "source": "tokyo-np.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-30T08:08:17.000Z"
     },
     {
       "id": "f0e81c75b14c9eec",
       "title": "公正取引委員会／取適法執行で国土交通省と交流人事開始、全国で「集中監視月間」出発式に参加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rczh0ekg1Y2tsRVNwSlVPRFp1SUZBa0tBYTRQMHBPWWY2aHpYa0hwVTZGd1ViSUFPSTRHU1E4VDBSNDRlR25IaWVhSWg3b2xPYTFzOQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T07:16:00.000Z"
     },
@@ -110,6 +137,15 @@
       "publishedAt": "2026-09-30T06:23:59.000Z"
     },
     {
+      "id": "3f15a60bf63c0551",
+      "title": "日立製作所とファナック／フィジカルAI現場実装へ戦略的パートナーシップを締結",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82QnhvY09IRDAwVDQ1d1pUYWtDTm10NGVhQTgzZ1k5T01QaTFxVGphd1BnTS1HZS0yamFMLUNBNDc3MVZ2RTRPWDcxSklBbTh6Y0cyNg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-09-30T06:18:31.000Z"
+    },
+    {
       "id": "afcf43329685d76c",
       "title": "Amazon/Zooxのロボタクシー・自動運転・自動配送戦略",
       "description": "自動運転ラボが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -125,7 +161,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xVE5TdEdXckpmaEdOMnU2M1JzZlNvOGJyMDE2dTU2NmJreFE2S1BzTm0yRHIwaGZ0TkZ3VEZBbms3eVJKNEd5bUtXQnFSZUVyQ25pTw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-09-30T05:38:57.000Z"
+      "publishedAt": "2026-09-30T05:48:25.000Z"
+    },
+    {
+      "id": "365b41517dbeadf5",
+      "title": "【無料セミナー】「ベトナム物流市場の次の成長領域、コールドチェーンの商機」開催のお知らせ",
+      "description": "jiji.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10SmREdFozNmJRTTR0cUMxNC13Z19SOXhTeFEyc3VRTFRUbmtEdGl6N2tTM3pjcXFUQzR4SFJVR2ZIVUUwd0JWN0psTkh4NS1OcFd5VmktRWMyMWNBM3VLU3pVQldWWkRjdnZj?oc=5",
+      "source": "jiji.com",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-30T05:46:00.000Z"
     },
     {
       "id": "dd7070346a32f797",
@@ -174,12 +219,21 @@
     },
     {
       "id": "f2af3c3d17300bb2",
-      "title": "運送業務に潜むリスク 「病気」「ひき逃げ」「飲酒」「薬物」 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "運送業務に潜むリスク 「病気」「ひき逃げ」「飲酒」「薬物」",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNWVLLWtDdWMzVG5lVEZtd1l5QVpWemU3eVM4N3l2enRSX2VseWg2dzRtWTVOWF9SRnctdWVnemI0VWhGX1M0TjdzX21Gdw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-30T04:43:58.000Z"
+    },
+    {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-30T04:14:16.000Z"
     },
     {
       "id": "ec4ec6fe0f14e78d",
@@ -218,15 +272,6 @@
       "publishedAt": "2026-09-30T02:42:40.000Z"
     },
     {
-      "id": "1995d5bb375461bf",
-      "title": "慶尚南道昌原市（キョンサンナムド·チャンウォンシ）の鎮海（チンヘ）海洋公園のジップトラック事故で運営が中断されてから4年ぶりに、新しい体験施設として再び運営される。 既存のジップトラックをそのまま再開..",
-      "description": "매일경제が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wd0d3MkZrX2NHNHRybDdobkZ5a1B3NElYVndyQkw4YTh6amNPcm9CdWpsSHo1VHpHN3c0VzNyYXlxYTdPV2txZzJPZzh6QnJNM2c?oc=5",
-      "source": "매일경제",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-30T02:40:58.000Z"
-    },
-    {
       "id": "507885bc418a5c01",
       "title": "物流ニュースなび【2026年9月30日号】監視の網は地方まで広がった 取適法の「本気度」を去年と比較する",
       "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -234,15 +279,6 @@
       "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T02:32:09.000Z"
-    },
-    {
-      "id": "d0f642e95f0a1263",
-      "title": "【無料セミナー】「ベトナム物流市場の次の成長領域、コールドチェーンの商機」開催のお知らせ",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SbldTM3ktYmtKc0FvYmRsc2dJcExrRkVDb1NlSmtMMzZOQldjT1RGdmQ3d3BRM3IzZzB4MmJkTTNyeFVGdjA2V0hOTlBXMl9OOVNoTmQ3UDB0MW5CREI0OGZYUk9wZTM2UXc?oc=5",
-      "source": "PR TIMES",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-30T02:28:54.000Z"
     },
     {
       "id": "89c8c5a795d1d20c",
@@ -292,9 +328,9 @@
     {
       "id": "312a59a7f468b6f7",
       "title": "クロスマイル／運送業の実態に対応したGPS打刻機能を「ロジポケ」に追加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12QVotb2c3UjFsNmt4Y1pMLUQ2N2o1OVI0WmNwUkhQMldTaFpQRzFRNFFCX1BtSFRTcjB3RjcyVHB4aG5MWjZxcEM3aU5uQ29nU3hZSw?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-30T01:39:00.000Z"
     },
@@ -346,18 +382,18 @@
     {
       "id": "218e85f8d577f86c",
       "title": "無人物流車両の世界市場（2026年～2032年）、市場規模（小容量（ラストマイル配送）、中容量（都市配送）、大容量（幹線物流））・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByQmRWb254Zzc5c25KOFRPMk5xcXNpRmppUUhrN3AyQjlfTUZlX1RlLXRwM244ei1ubElidXk3akpZakluUm1BQ3J0d3lJQnc?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
       "id": "d735809a73300e2b",
       "title": "低温用潤滑油の世界市場（2026年～2032年）、市場規模（鉱物油系、PAO（ポリアルファオレフィン）系、エステル系）・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LaVAzaGpZLXhTRURvVVQ0Q0JxaEpGeHpNS2ZNRkx0Q08xVjB2WEwtbzVwY21HT2J4bmdPU3dFQ2pObUtMMGxmVEh2YmNGTE0?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -454,9 +490,9 @@
     {
       "id": "3ba66f1485aab270",
       "title": "千葉市蘇我事故 19歳免許取り立て対向車線衝突炎上3人死亡 | 蘇我国道357号正面衝突 | 千葉中央区乗用車トラック事故最新",
-      "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "youtu.beが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wa0dob1lYOXdWMndSQ0NqVE9IRUJCd3pYYVEtRjNoeVE3Q3hSc2NHOEVvbGkwTUFwMDZBTFQxTkhXZw?oc=5",
-      "source": "YouTube",
+      "source": "youtu.be",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T17:21:38.000Z"
     },
@@ -517,9 +553,9 @@
     {
       "id": "ca198948c26723d9",
       "title": "コクヨ、滋賀・愛荘町に過去最大規模の物流拠点 約176億円投資、2029年2月竣工へ",
-      "description": "ampmedia.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcDdJWklWYV9aWnFQZ3BTQmdMSmRQenk5YVlSSDRwMVZicWtyRzRwMUtvekJlMlFxZzJIUVJreS04c0VEbWtfV2g3X09JVVFydGZhTjZSUQ?oc=5",
-      "source": "ampmedia.jp",
+      "source": "AMP[アンプ]",
       "category": "物流",
       "publishedAt": "2026-09-29T10:22:16.000Z"
     },
@@ -544,9 +580,9 @@
     {
       "id": "f232a0c156e62076",
       "title": "栗林商船・栗林運輸／2028年新卒向け合同オープンカンパニー実施「物流の仕組みを現場で学ぶ」",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YNFNreWZkcHo1ZDFBeXZPclhfeVRBcUZzTVlKWktqS1FEa1FxRFRjbjEwXzdJa2I0dHdUek5zbGg5ZFhWMGk0R2JtYkdMblJHam5zbA?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-29T10:03:00.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-09-29T06:00:01.000Z"
-    },
-    {
-      "id": "1f2ea192a6fd7240",
-      "title": "テープス／ヤマト運輸の産直出荷支援サービスと連携、受注管理や物流を自動化",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKMWJqdUdQcjh1UHYzdWNVcTdYNFI3a0toV05YazVhQ1V4eXpJWTJDZTJ0bXFHalZPbWMwRUVhZTZhSUthLVVsRkFXMDBLQThfbkJtWg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:52:57.000Z"
-    },
-    {
-      "id": "7668dc35e90ba92f",
-      "title": "CRE／「楽しく学んで」京都府の物流施設で地元小学生向けに見学会",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1TzRqcTNXLXJYdHh2QWR3c042dGhzUVZNNjJUZDA5VDQwQXg0eVh5dnNOdklBdFlHN2ppc184TlZGVVN0N284X0V1cG9WWkxwaWdsbQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:52:51.000Z"
-    },
-    {
-      "id": "1636769d1ff54766",
-      "title": "プロロジス／大阪府堺市の物流施設「プロロジスパーク堺」、2027年6月着工・29年2月竣工へ",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qU1BzU0Fkb1AwaVBzclUtY05sMmY4SkdiZGJ3cVJ3UzFVVDRZRHpLNFZHZkl1Y1ZyZm14R3RaYURnY1U2MURuVVBMYmRUcTJJWTUzdQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:49:49.000Z"
-    },
-    {
-      "id": "2583d86f59ef4078",
-      "title": "プロロジス、大阪・堺で計画中の物流施設は29年2月竣工予定と発表 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QcmNfLXc0eE85a3RHdk95ZjRLbk9UOGtiREpiNGhFalgxVkN0U0laaVQyeFNMakNnTXRPcWZvTTRrVGRGX0QwZVk5UQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:40:30.000Z"
     }
   ]
 }
