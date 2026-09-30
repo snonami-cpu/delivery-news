@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-30T00:36:20.009Z",
+  "updatedAt": "2026-09-30T01:27:41.826Z",
   "articles": [
+    {
+      "id": "8fce73ed8e3e825e",
+      "title": "Hacobu、物流AI基盤「Hacobu X」を発表～「運ぶ」を最適化する物流AIインフラカンパニーへ",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DTk5jTTR0RTZhdmg3Q2xzMTlrRXV4Z3NYQzc3NmR4Wmt4end1Z3Z6OW55TmpadjJYWm9OU0RjaXQ5TzdzZmpHMVJ6SEhxeFZ1NU51d3BUOERrWkVDTEtGUnNQcm1vVGstZUE?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-30T01:00:02.000Z"
+    },
+    {
+      "id": "b870f6b4237fb47f",
+      "title": "iPhoneで積載率を計測!? 三菱電機グループが誤差5％以内を謳う積載率計測サービスを提供",
+      "description": "bestcarweb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRbFdWZVlwU3ByeTFlVzN0NEppTWNycjR5VmlTWndNUEpnUVNIb1Q3ZFY2UnU0U2YxREVRYk5jUjlad3RiaHFaMWI1X3M2cnc?oc=5",
+      "source": "bestcarweb.jp",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-30T01:00:00.000Z"
+    },
+    {
+      "id": "38b98c41c17f01ac",
+      "title": "西鉄国際物流、東北全域カバーへ仙台拠点開設",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmN3ZwWnNvenc5NGZ1QUJ5TmppSGhDV0thNVhxT2lqdzNfcXJ5NWhGQkRjVE1iMUZRR1pyQTA5SmNfbHR0UUJLenp3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T00:40:17.000Z"
+    },
+    {
+      "id": "218e85f8d577f86c",
+      "title": "無人物流車両の世界市場（2026年～2032年）、市場規模（小容量（ラストマイル配送）、中容量（都市配送）、大容量（幹線物流））・分析レポートを発表",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByQmRWb254Zzc5c25KOFRPMk5xcXNpRmppUUhrN3AyQjlfTUZlX1RlLXRwM244ei1ubElidXk3akpZakluUm1BQ3J0d3lJQnc?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-09-30T00:00:00.000Z"
+    },
     {
       "id": "3f1dbdedeee36f0e",
       "title": "【北陸道】金沢市内でトラック3台衝突事故 通行止めは6時間ぶりすべて解除（30日07:45現在）",
@@ -20,13 +56,22 @@
       "publishedAt": "2026-09-29T22:36:32.000Z"
     },
     {
-      "id": "203593bde6afeb09",
+      "id": "1dc8db429ba1a9d3",
       "title": "「送料無料」のその送料、いったい誰が払っているのか",
-      "description": "ガジェット通信が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mb1ZhLUw4c3M5Nm40Qk8tT1c1TDE0RkszVi1memlWdWlpak85Zi1oVjVicU9hc1BveFpLZC0yd2R4dTZodDMtNXJwbw?oc=5",
-      "source": "ガジェット通信",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQWtZNUJLSnlZNWhSYnROSFVBTkhPOUdpTExGM082eUd4WFRZbGxOOFAzbEpkT1ZfR01McXJ6YUpFeGlwVlBGVVg4UU9QX0NzZVpqM0dOSy13TlFIeEkxcWc1SdIBY0FVX3lxTE9tQWtZNUJLSnlZNWhSYnROSFVBTkhPOUdpTExGM082eUd4WFRZbGxOOFAzbEpkT1ZfR01McXJ6YUpFeGlwVlBGVVg4UU9QX0NzZVpqM0dOSy13TlFIeEkxcWc1SQ?oc=5",
+      "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-09-29T22:30:00.000Z"
+    },
+    {
+      "id": "afcf43329685d76c",
+      "title": "Amazon/Zooxのロボタクシー・自動運転・自動配送戦略",
+      "description": "自動運転ラボが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZaVNiR1lRQ1FJZ056M1J4R1JrSnVOcXd4UExpVVhTS0lzXzhkUEk3a2Q2Qndjd0pTY1YycUJrQ0k5MGpRZDlTcQ?oc=5",
+      "source": "自動運転ラボ",
+      "category": "物流",
+      "publishedAt": "2026-09-29T22:21:30.000Z"
     },
     {
       "id": "2c3df5a026b5be51",
@@ -173,6 +218,15 @@
       "publishedAt": "2026-09-29T09:28:11.000Z"
     },
     {
+      "id": "7d182fcda18b8fba",
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場” - khb-tv.co.jp",
+      "description": "khb-tv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16MGdIbGRGNEV0VktYbHNLdlNBekZMYUdrS2JzazRvZEFrTW4xdWdWR0Q3aFFueE5reGdYb1pUYklxeTM5eTNTcm95cmplRzg?oc=5",
+      "source": "khb-tv.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-29T09:28:11.000Z"
+    },
+    {
       "id": "0093887bf52dd66f",
       "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”（テレビ朝日系（ANN））",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -202,9 +256,9 @@
     {
       "id": "098a24fd2ab91bfe",
       "title": "スマート配送ロッカーの世界市場（2026年～2032年）、市場規模（屋内ロッカー、屋外ロッカー）・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83c3J2eXNnR09zbHpDbmpWbDNBeWE2UWJRODJCMll4YnkzZ3duNDZZRlUwWUpReUtwbFJFY1FxWXdQaXU3TXl6TEkxSGlLQQ?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-29T08:30:00.000Z"
     },
@@ -335,20 +389,11 @@
       "publishedAt": "2026-09-29T05:49:49.000Z"
     },
     {
-      "id": "2583d86f59ef4078",
-      "title": "プロロジス、大阪・堺で計画中の物流施設は29年2月竣工予定と発表 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QcmNfLXc0eE85a3RHdk95ZjRLbk9UOGtiREpiNGhFalgxVkN0U0laaVQyeFNMakNnTXRPcWZvTTRrVGRGX0QwZVk5UQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-29T05:40:30.000Z"
-    },
-    {
       "id": "0a41f48672ff31c4",
       "title": "冷凍ショーケース市場分析レポート（2026年）：2032年3945百万米ドル到達予測",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MNEZraUctSHN1ZUI0WWdUVGt2YkJoR0g3c0xWR0R4aHViWXEySEtuV1pjLTAwUlFaSnZiLXU3YmRrVlJ5YlBRcFlCemdTakU?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T05:25:00.000Z"
     },
@@ -405,6 +450,15 @@
       "source": "47news.jp",
       "category": "道路・交通",
       "publishedAt": "2026-09-29T05:02:00.000Z"
+    },
+    {
+      "id": "083dd5bbb7ec842c",
+      "title": "空飛ぶクルマとは？ヘリコプターとの違いは？車じゃない？",
+      "description": "自動運転ラボが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMXBwajAxb1ZIM0dQUk1JLWw5UG1raFByNWJzMlBDR2QtMlo2Q3pjMmp3NmtEUEtiTndMTDROVzV2VDZzQzd3dVJpbzNwSnowb3Q1dzh1UzRFblk?oc=5",
+      "source": "自動運転ラボ",
+      "category": "法令・行政",
+      "publishedAt": "2026-09-29T05:00:16.000Z"
     },
     {
       "id": "dff75ffcb288bfa3",
@@ -472,9 +526,9 @@
     {
       "id": "af03ceefb289ad38",
       "title": "気候変動と収穫後技術：双方向の関係。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQU1iR0lEMVdDZHdxTkl0N2g1UjZNc1BCY05vRTB4TmkyWFlkbVJCaEFjc0w4YlhzbHBXeWs1dmR3SFZUWjRUSTVTZDVIT1dkSVdLZ3hZVFlfSl9TZXQ5cExuYzJxSXlqdUo2WEJqdVJrSjYtZnBvYnBNem5OTkFYVmlxVDE0Vl83cHkwZ01mYTJtYnBqYzZhRldYOElpU0tGcXc?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-29T03:59:00.000Z"
     },
@@ -508,9 +562,9 @@
     {
       "id": "078c1a21987b2182",
       "title": "【衝突の瞬間】吉野家の店舗にトラック突っ込む 雨で路面濡れスリップか 大阪・堺市",
-      "description": "news.infoseek.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQXZORkFCTUxZeVhSODgxZ0hHQVF0bU9TMk1EVW44a1JhRkNKeFJsUzRSQlFpVjRHSzBDSm41WmozOEJGb1lvUDBGSGliVExhY0pvcHBHRE5pbHgwZWVaLUhIcGdwSDQ?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T03:16:00.000Z"
     },
@@ -588,10 +642,10 @@
     },
     {
       "id": "bca8a60b787e2bb0",
-      "title": "物流マッチングイベント「道央＋オンラインロジスク」参加者募集 - j-net21.smrj.go.jp",
-      "description": "j-net21.smrj.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "物流マッチングイベント「道央＋オンラインロジスク」参加者募集 - J-Net21[中小企業ビジネス支援サイト]",
+      "description": "J-Net21[中小企業ビジネス支援サイト]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hcVNHV0I5QmVBUzBGbVd5TzVOS0xDQ2RNNDhva0o2clFHYUkyQXlUTmZGdTJ1dVRvRDhUVy0zdHY2Vk9aU19BOWlCemltUVVoZkVncU05c0tQVTJpZmxQdGYtdw?oc=5",
-      "source": "j-net21.smrj.go.jp",
+      "source": "J-Net21[中小企業ビジネス支援サイト]",
       "category": "物流",
       "publishedAt": "2026-09-29T02:24:18.000Z"
     },
@@ -659,67 +713,13 @@
       "publishedAt": "2026-09-29T02:00:03.000Z"
     },
     {
-      "id": "083dd5bbb7ec842c",
-      "title": "空飛ぶクルマとは？ヘリコプターとの違いは？車じゃない？",
-      "description": "自動運転ラボが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMXBwajAxb1ZIM0dQUk1JLWw5UG1raFByNWJzMlBDR2QtMlo2Q3pjMmp3NmtEUEtiTndMTDROVzV2VDZzQzd3dVJpbzNwSnowb3Q1dzh1UzRFblk?oc=5",
-      "source": "自動運転ラボ",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-29T01:59:30.000Z"
-    },
-    {
       "id": "6a93c561e10734d4",
       "title": "SBS、三菱ケミカル物流を192億円で買収 化学品輸送に本格参入",
-      "description": "finance.biggo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "BigGo ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1amdqbWE3MGEzMkZaX0ZXeGFzd3JDWXNra3I2UDlKdnVGQzZPbVhDWjFjNjg2a25tVTJYVEVOSUZuYzBqZlR6ZHJvbnBjdlYtNkIxNENCX1RWZHVJd0p5Yi1BeGFxdC1KTTJkTFJzZ1F3T25z?oc=5",
-      "source": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
       "category": "物流",
       "publishedAt": "2026-09-29T01:56:00.000Z"
-    },
-    {
-      "id": "63e17bc7801a51c1",
-      "title": "トラックと正面衝突…乗用車が炎上 3人死亡 千葉市中央区",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yank3OU5jTFBaMFM0NzlSODItdlMzUHRVc283Yzk0NnBsUFJ6ZXNRQThNcWp4NEFGdWJBT2ViaG9EZTAyekxfRXNDSG45Vmt0Wk1CQUlpS1FFRFA0VmVJck92djRsaDcyOVpxOXBSM1h2dw?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T01:50:04.000Z"
-    },
-    {
-      "id": "c7f3be6b8ce36ced",
-      "title": "トラックと正面衝突…乗用車が炎上 3人死亡 千葉市中央区（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxdTl1X2p4bGdTcXZFang2RVpLUDdjWVVxQXpIR1lxNlZnMXJLNjZHbzE2ZlFRcl9lSktBdHRRcDF0ZS1TX3I2dVVKeTFvN01mM0h2dFI5Q0FfSjZDS0tCalVNUlNqVmE3cHFWdGpSV1g5c0ZtdEE5ZjhGVTg5bnM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T01:50:04.000Z"
-    },
-    {
-      "id": "d7a6662746f894e8",
-      "title": "トラックと正面衝突…乗用車が炎上 3人死亡 千葉市中央区 – Quebee キュエビー",
-      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qYTk3Z2trWS16MUY4X0tINlc3cnJYSGJPY0VkRXFJdm5Xb0pJYklqQlNCSklyR3VGU1ZDZTBwSWF0VnB5LWdTaXdpUVdkOHcxTzV4T1EzYWI?oc=5",
-      "source": "QAB 琉球朝日放送",
-      "category": "道路・交通",
-      "publishedAt": "2026-09-29T01:50:04.000Z"
-    },
-    {
-      "id": "bbd719a91f4edd62",
-      "title": "【速報】「吉野家」店舗にトラックが突っ込む 雨の影響でスリップか ケガ人なし 大阪・堺市北区（読売テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWTZEcTlIUXJoWkZiMldfelNWUE5nNjlKVjd0ZDRRLWpiclNGQnF1YTNIajJWd21lbENPdjFpLTBVMUlOR3lZeEcydlRWa2w4UWxjUHdNaW1rMHNaMzBnV2VKVGJOZWtwUG9yRUV2NmtaMVpPWUpFdUhWTFdXQnc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T01:47:00.000Z"
-    },
-    {
-      "id": "2c49e47bee491240",
-      "title": "放射冷却フィルムマーケットリサーチ：調査方法＋業界分析＋売上規模",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DdjViX01aZXBKMExMUVdfMndBdzh4RmtQMWhvdTAtcjFScUl2cVQ2UnRKQUJ1bHVFdVloakVwc08waG53MEZ2TmFpWU10QQ?oc=5",
-      "source": "atpress.ne.jp",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-29T01:17:00.000Z"
     }
   ]
 }
