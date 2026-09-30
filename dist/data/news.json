@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:30:45.612Z",
+  "updatedAt": "2026-09-30T19:28:24.018Z",
   "articles": [
     {
       "id": "e357d6174fa01814",
@@ -27,15 +27,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-30T15:00:02.000Z"
-    },
-    {
-      "id": "e3efe67b857d1c6f",
-      "title": "Die Zukunft der Kühlkettenlogistik in Indien: Ein Wachstumstreiber für die Industrie - Xpert.Digital",
-      "description": "Xpert.Digital - Konrad Wolfensteinが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcWdkLXBoNGNpaFlORXRVMzgwMVhMbE05M3JqRDFtOWE0S2Y5OVE3aXhweWl4Zmw0Ui1fc0prcW9wbHgzeExFaWhUOTh5OVNQd0VVNG9kbmtzZFJFMDdTX0EzY2Jib3FkRU5TTnhnQjgyNkdJSXlnRjQzMHRaUmV1SU1HdktuVF83VE1ud0JfbG4yWmhGSERiMHdfc3FHbXNRa0xrNlhzUDYtZlJ0OFlpbWxjNm1RYjBKeEtaem1rV1lrTlhLcXZiZ1p5dzZXN21rTkNBUzRlMUVSNGVUaFlZcGlUTThDRXBmWHhTN1FkV0hSdEdxLU03bjR3QXVXYUFzcGQ2dVlxTFIxLWc2eHY5ZU1jNzN4b0ZiX20xMFlyQXBJdjVIQUh1c3RwMy0yeGvSAbcCQVVfeXFMTXNnWVl4cHExRlppa1BQUTRLdERVSmJIQUNtSF9tQ0UxcUotME5oOTBlSFJsbnhncUdwV3BfaUE3OTAzYkFiZTdSci1nZVNZTzAwWm1lX0NNMGtDSDVfQ1JnVWU1UjE5cC0xTTRzQ1lkSmNDdGZkYUNwNEc2Uzdnb0NtdG5EWGRmZ3RWSFV2c2Q0Z2diYXVHQkh4Y3ZNajRHY3lYZEJtLTJPc095N1JTZDRVU1NUYjRSUWdSVGRXUGczYTdZSXdwYkNYSDhwUGQtNFppT3N3QUJBbEFxYXhHSF92SHpDV2JOcXRjSlRzZnJzcEVqZVByNERQU2ZOX3daVmhCTjJfNWhXUFFrR1ZyZHhNcXhnSXM1ODBFMGdkWW5abWotY1NSWnhUQVlFV3ZvQ1ViSlJydkk?oc=5",
-      "source": "Xpert.Digital - Konrad Wolfenstein",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-09-30T12:56:27.000Z"
     },
     {
       "id": "16c1148d49b482b6",
@@ -83,6 +74,15 @@
       "publishedAt": "2026-09-30T10:28:19.000Z"
     },
     {
+      "id": "3281c58140f276fd",
+      "title": "成田で「物流専用道」の実装試験、11月開始",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Ydmh1cEZIOWxVbkdYNnVvLUxRSlk1NFBEdHIwdEhGN3R4U3hVZm0zMHo3eWh4U19SUTlVYzV4Rk1rVFBrQXlEbUVn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T10:24:39.000Z"
+    },
+    {
       "id": "d9c5be794eb5b022",
       "title": "MonoLu、物流倉庫DXの新サービス「Warehouse OS」を開発に着手",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -119,6 +119,24 @@
       "publishedAt": "2026-09-30T09:52:32.000Z"
     },
     {
+      "id": "ebda74eb8a23bbe8",
+      "title": "物流DX未来会議、改革の順番と伴走力を議論",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhdDJLOUoxVjBpeHNQR1R1ODlPUzhTZlpQR21UMkd6QWtRX0lZUDNWOEQzNnk5MkEyODJzS1JGVkZDMVAtTG5scXFn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T09:52:26.000Z"
+    },
+    {
+      "id": "5d9c2f03f1840d53",
+      "title": "【続報】ごみ運搬車改造めぐり阿波市の運送会社を家宅捜索 関係書類など押収【徳島】（JRT四国放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETVM1NnVJLU56Y3pYWXI5OTRQeDZiU2N5ek5PYi10cTVweWVwU1pScUl6V1Rzbm5NdVJrSHhPRjRjUFVjZkllMGdTRlZBbVh4bGwya2cwcVVDWWJqdF8yRFdmaVg5VnJwNW1EdFR6OVAzSjhObU1sZGhPbGRVQ2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-09-30T09:09:00.000Z"
+    },
+    {
       "id": "458a07474f267440",
       "title": "物流ルートをトラックから鉄道へ 北海道が実証実験を開始",
       "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -130,9 +148,9 @@
     {
       "id": "abfed085c7fd1d2e",
       "title": "ハイフォン市は、ハノイ・ハイフォン高速道路での大型トレーラートラックの利用を促進することを提案している。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9KT2pwbjlScU9QZmtUWl9GaWswUWU5X3UzX2ZPV1RfMTdvZXlGdmpUN1JwVUQ4MWhCLXNfdW5jREgtZkNySnRUNTQyZTFxWkNhNEdLWWl4ejE2QmNBYUxFMzZwM2RNZkVZWklLTTlKd1FuejEtblRKV1lsTzJZS2gzVFZpUEtSc1pUVHBZODVJaUtMbnJXT085VFJ2dw?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-09-30T08:56:23.000Z"
     },
@@ -219,10 +237,10 @@
     },
     {
       "id": "afcf43329685d76c",
-      "title": "Amazon/Zooxのロボタクシー・自動運転・自動配送戦略",
-      "description": "自動運転ラボが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "Amazon/Zooxのロボタクシー・自動運転・自動配送戦略 - jidounten-lab.com",
+      "description": "jidounten-lab.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZaVNiR1lRQ1FJZ056M1J4R1JrSnVOcXd4UExpVVhTS0lzXzhkUEk3a2Q2Qndjd0pTY1YycUJrQ0k5MGpRZDlTcQ?oc=5",
-      "source": "自動運転ラボ",
+      "source": "jidounten-lab.com",
       "category": "物流",
       "publishedAt": "2026-09-30T06:16:41.000Z"
     },
@@ -328,9 +346,9 @@
     {
       "id": "507885bc418a5c01",
       "title": "物流ニュースなび【2026年9月30日号】監視の網は地方まで広がった 取適法の「本気度」を去年と比較する",
-      "description": "note.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzcGp1VG9ZR0hBamI4MVZoYlYxZFJabzU3X3FwRmtQV2p5T3piQnRROTA5VWRsRDQxa3VhLUktcXFiOWhTWUwycjNnRF9BNXJOQUxwUy03ek45LThPN1E?oc=5",
-      "source": "note.com",
+      "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T02:32:09.000Z"
     },
@@ -434,15 +452,6 @@
       "publishedAt": "2026-09-30T01:00:00.000Z"
     },
     {
-      "id": "098a467382a49c70",
-      "title": "CRE、京田辺の物流施設に小学生40人招く",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xYmlkMmxUcEVZRUhlQTZIUE9SRzhZM0xiZFhCVWVHaXkteHFjZnY4NDNzem5DaHBJdGxUemFnSlppUG9qZ21YRGp3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-30T00:54:58.000Z"
-    },
-    {
       "id": "dff75ffcb288bfa3",
       "title": "三重ト協など、物流革新説明会を10/29開催",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -463,18 +472,18 @@
     {
       "id": "218e85f8d577f86c",
       "title": "無人物流車両の世界市場（2026年～2032年）、市場規模（小容量（ラストマイル配送）、中容量（都市配送）、大容量（幹線物流））・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByQmRWb254Zzc5c25KOFRPMk5xcXNpRmppUUhrN3AyQjlfTUZlX1RlLXRwM244ei1ubElidXk3akpZakluUm1BQ3J0d3lJQnc?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
-      "id": "0ebdf2c3f00aef42",
+      "id": "d735809a73300e2b",
       "title": "低温用潤滑油の世界市場（2026年～2032年）、市場規模（鉱物油系、PAO（ポリアルファオレフィン）系、エステル系）・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0NVQ5NXpWOUNlZ0dKRGdDSHh4b1QzeEw3ZXRTNVZZUXhnbEhaVlNSNXBQd2JTbFFtVGhTazdfODU5TWhMQXlyNGFuRU1HZw?oc=5",
-      "source": "atpress.ne.jp",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LaVAzaGpZLXhTRURvVVQ0Q0JxaEpGeHpNS2ZNRkx0Q08xVjB2WEwtbzVwY21HT2J4bmdPU3dFQ2pObUtMMGxmVEh2YmNGTE0?oc=5",
+      "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -534,10 +543,10 @@
     },
     {
       "id": "2c3df5a026b5be51",
-      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その１】／国際物流総合展2026 フォトリポート - robot-digest.com",
-      "description": "robot-digest.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その１】／国際物流総合展2026 フォトリポート",
+      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUUU5MUo5amJNNjc0eHZ2RmlrMmlxSk9yeUZnWFdla29EOGZEOWVHUlRoWlhZNEtSQlZCSl8zZjRQbk0zWkhJM25yU1IxTUR4aXpUYTVnLWhsMnQyb09tSml3X2pVZ2poSkx3?oc=5",
-      "source": "robot-digest.com",
+      "source": "robot digest",
       "category": "物流",
       "publishedAt": "2026-09-29T21:04:45.000Z"
     },
@@ -562,9 +571,9 @@
     {
       "id": "3ba66f1485aab270",
       "title": "千葉市蘇我事故 19歳免許取り立て対向車線衝突炎上3人死亡 | 蘇我国道357号正面衝突 | 千葉中央区乗用車トラック事故最新",
-      "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "youtu.beが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wa0dob1lYOXdWMndSQ0NqVE9IRUJCd3pYYVEtRjNoeVE3Q3hSc2NHOEVvbGkwTUFwMDZBTFQxTkhXZw?oc=5",
-      "source": "YouTube",
+      "source": "youtu.be",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T17:21:38.000Z"
     },
@@ -666,15 +675,6 @@
       "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-29T10:03:00.000Z"
-    },
-    {
-      "id": "51e85e085c19d208",
-      "title": "貨物自動車運送業者「振興物産」破産手続き開始決定 負債は約1億8000万円 鳥取県岩美町 （日本海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUkViREdxY1NucFFOajN6NXM1OHhoZ3hPY283US1Rcm9YUHNBa29sX0xBckNLUkNTZGI3Q0NtQnBoM0lOdDZuWlR0QXV6cmxsZXJMV0VkTWl0b200Y2M3aW9iZkdVaTZPb3U0X3Z1U1NIdEMxTFo1UjVHcF93T0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-09-29T09:59:00.000Z"
     },
     {
       "id": "1a8986b08692960a",
