@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-01T00:37:33.809Z",
+  "updatedAt": "2026-10-01T01:27:59.610Z",
   "articles": [
+    {
+      "id": "10420a8702208693",
+      "title": "10/6開催 ロジスティクス全国大会2026に代表・松下が登壇「AIが解ける物流、解けない物流 ～”技術の見誤り”が分ける、活用後の明暗～」",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTnhWei03YWZfVzRYT2NlTktsT1c5bmJTVENzWnVYVEN6a3hwYzlPMVJPUHNiSVlpRGhaNURscHJkZE1URHVNcS1DNTU1YUZMLTZQa3I3S01rcmZIcy12eXVnQmFtQ0JyOWc?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-01T01:00:03.000Z"
+    },
+    {
+      "id": "9eae6d6e636a8028",
+      "title": "トラック協会が警察に交通安全啓発グッズを寄贈（ＯＡＢ大分朝日放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWjc3VHhqTjN3U0V2SDl3RnQxRDc0NGNUVUhGdXhnQjVyZEgtWDlWYUhwMGpPbEZzc1RKVXNtUndBUkEyVTd1QXhWbUlOT0VsUWZLbFA3bXpUci1zSE1PdzB0c3FvN0c0SWdfZW1xRFZVNUNhRWQ3QmdIMXNyMzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T00:45:04.000Z"
+    },
     {
       "id": "c5096cbded3e96cd",
       "title": "稼働中のWMSを物流現場で見てその場で相談できる。ダイアログ、GBtechnology・YellowTailと3社共催で「物流倉庫見学×個別相談会」を10月7日にGLP ALFALINK 流山5で開催",
@@ -18,6 +36,15 @@
       "source": "Yahoo!ファイナンス",
       "category": "物流",
       "publishedAt": "2026-09-30T23:15:31.000Z"
+    },
+    {
+      "id": "9d62cf96f33d62b5",
+      "title": "カルボプロスト トロメタミン世界シェアランキング",
+      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TMXlkZUgtZ0hrUGZHbUhKQmNWZVVVR3lTTXVvRW1ob1pZVTNPbFdxUS1GN2ZYNTVLOGRzczZDODF2bTdwWTZzZGNB?oc=5",
+      "source": "pando.life",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-30T22:02:59.000Z"
     },
     {
       "id": "ec997f64d4beaf5b",
@@ -44,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Ydmh1cEZIOWxVbkdYNnVvLUxRSlk1NFBEdHIwdEhGN3R4U3hVZm0zMHo3eWh4U19SUTlVYzV4Rk1rVFBrQXlEbUVn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-09-30T20:15:00.000Z"
+      "publishedAt": "2026-09-30T20:55:01.000Z"
     },
     {
       "id": "202d762aa88b379d",
@@ -72,6 +99,24 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-30T20:15:00.000Z"
+    },
+    {
+      "id": "1469351f39f8d024",
+      "title": "NXHD、北米向け海上輸送を拡張し全米5日配送",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xa01xSU1sS3NnVFIxNFY3MjdUd0YweTRDVTZtNldxYlE2VnNpM3lLNnFwWVJzdTJ1TlZxVm5DTUxDLTZHa2h1QS13?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-30T20:15:00.000Z"
+    },
+    {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-09-30T20:11:52.000Z"
     },
     {
       "id": "00bc44684bf72b46",
@@ -108,15 +153,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-09-30T15:00:02.000Z"
-    },
-    {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-30T13:14:18.000Z"
     },
     {
       "id": "5f7a2ae9d6d00dbc",
@@ -200,20 +236,11 @@
       "publishedAt": "2026-09-30T09:52:32.000Z"
     },
     {
-      "id": "ebda74eb8a23bbe8",
-      "title": "物流DX未来会議、改革の順番と伴走力を議論",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhdDJLOUoxVjBpeHNQR1R1ODlPUzhTZlpQR21UMkd6QWtRX0lZUDNWOEQzNnk5MkEyODJzS1JGVkZDMVAtTG5scXFn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-30T09:52:26.000Z"
-    },
-    {
       "id": "abfed085c7fd1d2e",
       "title": "ハイフォン市は、ハノイ・ハイフォン高速道路での大型トレーラートラックの利用を促進することを提案している。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9KT2pwbjlScU9QZmtUWl9GaWswUWU5X3UzX2ZPV1RfMTdvZXlGdmpUN1JwVUQ4MWhCLXNfdW5jREgtZkNySnRUNTQyZTFxWkNhNEdLWWl4ejE2QmNBYUxFMzZwM2RNZkVZWklLTTlKd1FuejEtblRKV1lsTzJZS2gzVFZpUEtSc1pUVHBZODVJaUtMbnJXT085VFJ2dw?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-09-30T08:56:23.000Z"
     },
@@ -265,9 +292,9 @@
     {
       "id": "f0e81c75b14c9eec",
       "title": "公正取引委員会／取適法執行で国土交通省と交流人事開始、全国で「集中監視月間」出発式に参加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rczh0ekg1Y2tsRVNwSlVPRFp1SUZBa0tBYTRQMHBPWWY2aHpYa0hwVTZGd1ViSUFPSTRHU1E4VDBSNDRlR25IaWVhSWg3b2xPYTFzOQ?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-09-30T07:16:00.000Z"
     },
@@ -398,6 +425,15 @@
       "publishedAt": "2026-09-30T03:09:24.000Z"
     },
     {
+      "id": "d3d4ee898e0d8796",
+      "title": "国道横断中に軽トラックにはねられ79歳の男性が死亡 ドライバーは78歳の男性【佐賀県】｜佐賀のニュース",
+      "description": "サガテレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VcVl3ZmVwWXIzclIyOWRzVnlPQnh3YW9nX1BTeTN1dnJTYjJ5VWtUQW1sc0RnUjFhYlA0TnhCVHNZYldRYUtUZ3BraGhxNmpZNWNCMkk0VFNDbGhBQksyZVpB?oc=5",
+      "source": "サガテレビ",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-30T03:00:00.000Z"
+    },
+    {
       "id": "e2e58bf33716dd2e",
       "title": "ごみ運搬車改造めぐり 阿波市の運送会社を家宅捜索【徳島】（2026年9月29日掲載）｜JRT NEWS NNN",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -490,9 +526,9 @@
     {
       "id": "312a59a7f468b6f7",
       "title": "クロスマイル／運送業の実態に対応したGPS打刻機能を「ロジポケ」に追加",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12QVotb2c3UjFsNmt4Y1pMLUQ2N2o1OVI0WmNwUkhQMldTaFpQRzFRNFFCX1BtSFRTcjB3RjcyVHB4aG5MWjZxcEM3aU5uQ29nU3hZSw?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "物流",
       "publishedAt": "2026-09-30T01:39:00.000Z"
     },
@@ -641,6 +677,15 @@
       "publishedAt": "2026-09-29T20:50:21.000Z"
     },
     {
+      "id": "20bc6f39af8ba821",
+      "title": "大和ハウス、新潟東港に北陸・東北向け物流拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OR2NWaTFOLVJ2ODQySkpVUWZiVnlvU09lcEVwRFpla0FZcUk3ZXloTTZwMVBHY1NpQjR0OG8waUd6dDVvdG5Bam5R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-09-29T20:50:21.000Z"
+    },
+    {
       "id": "3ba66f1485aab270",
       "title": "千葉市蘇我事故 19歳免許取り立て対向車線衝突炎上3人死亡 | 蘇我国道357号正面衝突 | 千葉中央区乗用車トラック事故最新",
       "description": "YouTubeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -675,51 +720,6 @@
       "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-09-29T11:55:00.000Z"
-    },
-    {
-      "id": "3b60e1ace5ec2af6",
-      "title": "物流・自動車局 正岡物流政策課長会見 「共創」で物流改革を推進 | ロジスティクス | ニュース - daily-cargo.com",
-      "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wSmFIRW5vWnp4Ty1VTU0tSS1sMjgydWxBZVBSMWxMZExCd1FTZTBTZFp1ZHJFa3ZZa05FMXA5LU1zdU9HQ21xVnExNEJERjJqbjZSb2Z4SlJaYm84TDdBY1NQTmxvS1h2ZVE?oc=5",
-      "source": "daily-cargo.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-09-29T11:49:30.000Z"
-    },
-    {
-      "id": "4af9f56f9c3bed73",
-      "title": "群馬県伊勢崎市・上武道路３人死亡事故 元トラック運転手の男の控訴審 初公判で即日結審（群馬テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4WVRTY0tPQ3hCd0EwODdzRC1UZXpha1JPTTlOWVQ3VkdwQnJEcnZnTWxFSF9JZ2ROSlR4b3I5c1U1OEVnSllLRU1HUkNaTC1ESlRVVHhfQXpiTVVSXzhuZ3YtZjJOSS00c3BWZ3pEQlh2N1NKVjBPV0MyQ0lScWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T10:22:26.000Z"
-    },
-    {
-      "id": "ca198948c26723d9",
-      "title": "コクヨ、滋賀・愛荘町に過去最大規模の物流拠点 約176億円投資、2029年2月竣工へ",
-      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcDdJWklWYV9aWnFQZ3BTQmdMSmRQenk5YVlSSDRwMVZicWtyRzRwMUtvekJlMlFxZzJIUVJreS04c0VEbWtfV2g3X09JVVFydGZhTjZSUQ?oc=5",
-      "source": "AMP[アンプ]",
-      "category": "物流",
-      "publishedAt": "2026-09-29T10:22:16.000Z"
-    },
-    {
-      "id": "84f5e75b09460972",
-      "title": "富士通、食品流通向けの管理システム 受発注から物流まで効率化",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWGZoRWk1dVJuMEZvRWdIRldrUnB3M3BLc1o3M2wxbThReERwVlc1aGJkZS1VTjFwQmVURkJ6UDZoR1hla05ucGQ1WUhaZ2VjYUl5MGhiSTBWVXZ2dzJia1N1YzZmaF9HdEg5eA?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-09-29T10:07:40.000Z"
-    },
-    {
-      "id": "843c0d3a07e2901c",
-      "title": "千葉市の国道で車がトラックと正面衝突して炎上 3人死亡",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IYi1icVV3dUNfNjBvTU9OTDVzVmpsMlIteHVkSkl1NmM0T0tBcFJWcDlxM3lEb3pNWjA1VkpOOFFwSE04NklKY0VYNnZweE44eG1TX0YxbXAwaDdOdlcw?oc=5",
-      "source": "NHKニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-09-29T10:03:58.000Z"
     }
   ]
 }
