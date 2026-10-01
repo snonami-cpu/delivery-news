@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:33:13.266Z",
+  "updatedAt": "2026-10-01T19:28:26.130Z",
   "articles": [
     {
       "id": "3f4b8e0e425de134",
@@ -9,6 +9,15 @@
       "source": "nna.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T15:00:00.000Z"
+    },
+    {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-01T14:15:31.000Z"
     },
     {
       "id": "d36a0a5b04033191",
@@ -47,11 +56,20 @@
       "publishedAt": "2026-10-01T11:40:00.000Z"
     },
     {
+      "id": "8efb3c1c13ee9c29",
+      "title": "ONE-VALUE、ベトナム物流の参入機会を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaTmhoemk0bGotek5VN1Vrc0p2RmRRVEdVSXNHWjdNRjJ0SVFYRlFnSDZTZEUxNFVMMm5TTllDY0JrX3p6MEozbWl3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T11:32:29.000Z"
+    },
+    {
       "id": "22560173d4ba661f",
-      "title": "昭和から積み残し続けた物流課題の早期解決を - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "昭和から積み残し続けた物流課題の早期解決を",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GaTYxbWpfTGtrQW9kaVNNbWZnSVFLUEdEZjh2TXAzc1hsMVRRU1NNd0pSbTBvR21LZkhlT1JhOEM4bmpZQ1Q2Nktn?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T10:56:46.000Z"
     },
@@ -63,15 +81,6 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-01T10:30:00.000Z"
-    },
-    {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-01T10:14:35.000Z"
     },
     {
       "id": "53771603583581ed",
@@ -94,9 +103,9 @@
     {
       "id": "d3a5566be36544d7",
       "title": "東京アクアラインで多重事故 トラックなど4台絡む 2人死亡",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZ0lLN0paeXpXaEFsSEUta3NBZHpJbVZHaU9EcWF2ZVQtbGVTSHQ3aTMydmZZT1NZdEtZZXdJMGgzMllmbmwzbUVzcTZPdw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T10:05:00.000Z"
     },
@@ -120,10 +129,10 @@
     },
     {
       "id": "91908931563e15e4",
-      "title": "八潮運輸（北海道）、運送継続し会社更生手続き - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "八潮運輸（北海道）、運送継続し会社更生手続き",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtekh6T3JVSGh4a3lpUi1VNUhOakJibHh3Qm5fTWNQODh1NEUxZWVWb25FZU1hZ254bDdSRWVRVGhYbVNpOFZxZl9R?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T09:01:58.000Z"
     },
@@ -155,6 +164,15 @@
       "publishedAt": "2026-10-01T08:49:18.000Z"
     },
     {
+      "id": "814de0fbef0b3723",
+      "title": "東京湾アクアライン多重事故 5人搬送2人死亡 上りの通行止めは解除",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XTlhLeUs0X1RZX1B0NmJDSVE5YktwajFPVTdLd3hOUjVHRjVxYWZ5RktXNkl6VlozT1VKYVBMQWNRLUZlVjkzaC00eWtTalNLX2dTUlpZRnV2QnN2NW9Vc085S0RScnFoWHJhMU5sRkplZw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T08:47:50.000Z"
+    },
+    {
       "id": "016587086f4c60f3",
       "title": "国交省／物流施設への非常用電源設備導入補助で2次公募開始",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -165,19 +183,19 @@
     },
     {
       "id": "2acf33426548e18d",
-      "title": "ファーストロジ、EC物流のフルフィルメント提供 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ファーストロジ、EC物流のフルフィルメント提供",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UanRTMTFUSXR3ZUtTRzV1MndCMHhPaUdyNHRfcGhIdkR6YTZWSk9vYkloby14UE1GR2Z3RkRFSUpQRVBzWFB4N3pn?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T08:38:05.000Z"
     },
     {
       "id": "4d2406be55059f55",
-      "title": "国交省、物流拠点の停電対策に最大1500万円 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "国交省、物流拠点の停電対策に最大1500万円",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05anVmTnJua0NPM1dVc2JxNXptamFLLVBMRWlLR3BQS3pJV1Eycld0YVhCUzFURGhNVnUxY3pPdTZCZ0VyT1dnLXln?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T08:36:04.000Z"
     },
@@ -209,6 +227,15 @@
       "publishedAt": "2026-10-01T06:50:25.000Z"
     },
     {
+      "id": "0c5e44d81b4a41b1",
+      "title": "東京湾アクアラインで大型トレーラーなど4台絡む事故 追突されたトラックの運転手ら2人が死亡 上り線で通行止め続く",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjbXp0UWNNVHRybmJFRkZSNFJKSXJvTTdyNTJFWGI2Mk9BazBhR0d3c2xiQk9xcGQ1TC1jVVVHY3Z6WXhCbmlBX04wWGxrZw?oc=5",
+      "source": "fnn.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T06:50:00.000Z"
+    },
+    {
       "id": "3f65b1c48e1b7da3",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：自己投資口の取得状況に関するお知らせ 2026年10月1日(適時開示) ：日経会社情報DIGITAL",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -229,9 +256,9 @@
     {
       "id": "df0b121f7c41ea49",
       "title": "【作業事故】クレーン付きトラックがバランスを崩して左側に横転…廃品回収業の男性が頭から出血_安全装置「アウトリガー」張り出さず〈北海道北見市〉",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GRFI0WEhfRGVfSnFhaUprY1RUbUFtRzlhTDY4cXpHbEV2eEtyUTh0WGVUWFJUQWJRblhEUklLbV92d2plUDhrUU1zTEtQUQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T06:20:00.000Z"
     },
@@ -282,10 +309,10 @@
     },
     {
       "id": "c65102d757849489",
-      "title": "福岡地所、物流施設「ロジシティ」4棟目完成 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "福岡地所、物流施設「ロジシティ」4棟目完成",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JaVF5V2tQX0NjeEp1eXZaMlRmaElEa1hKUjdseWluUHpaNURKTHY4Z1ZSdmllMXpnQVBPYWczNFVreEloN3JSOEpB?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T05:53:20.000Z"
     },
@@ -372,10 +399,10 @@
     },
     {
       "id": "5d1fe0300d414ac0",
-      "title": "京東プロパティ、アブダビ経済特区に物流拠点 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "京東プロパティ、アブダビ経済特区に物流拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UeUxubl8wR0RBOFUxU01mZ21FbTgtbUljSGJ6ZnZEcmFpYjZZU2xFUzZoMVd4SVUzZmpoNXJNdkZfVDFkOUFYaWhn?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T03:34:24.000Z"
     },
@@ -435,10 +462,10 @@
     },
     {
       "id": "0e8ebd5e254e4106",
-      "title": "JDI、ロジスティードから茂原物流施設を取得 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "JDI、ロジスティードから茂原物流施設を取得",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92ZTNhb2ZaYkItcy1rZUZmcXlTalJWbFl1Zkt5dHVudW1ta3RYUkhpVURCRWh1TEVQejZQZE1RS3BYODRycmdYemFB?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T03:02:44.000Z"
     },
@@ -471,10 +498,10 @@
     },
     {
       "id": "42fe1e2065610dc0",
-      "title": "生鮮物流の追跡刷新、電池長寿命化へ2社連携 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "生鮮物流の追跡刷新、電池長寿命化へ2社連携",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42WGluWlFNT2V0Tk9BWnAzS3JNdDZBdWZSRWx3RXl1NWczTUlYNmNJWHhYUW1oblRZQ253NFQ5dTNjelZYajh2NzhR?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T02:58:42.000Z"
     },
@@ -516,10 +543,10 @@
     },
     {
       "id": "5832897a7fc766ea",
-      "title": "GXO、フランス拠点軸にコロンビア欧州物流支援 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "GXO、フランス拠点軸にコロンビア欧州物流支援",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TWE5FUDdvUXZ3UjJFa1Y4dkhycWtBMkRnaEdUUWhoMFRtV091MVR4cFdaSVc2aUl0UExfdWtNU1lBcWFmZzQ1eEh3?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T02:44:34.000Z"
     },
@@ -561,10 +588,10 @@
     },
     {
       "id": "56d2a2b06b16fae4",
-      "title": "チャーチル港とロッテルダム港、資源物流で連携 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "チャーチル港とロッテルダム港、資源物流で連携",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHY1BSYUZLQjY1bHgtMDdkT254Ql94RW4teTNIV0RoQkdzYkxGX1Y1MlFSR1RsT05qaS1WZThJUDVoNGV5SkozaEl3?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T02:15:49.000Z"
     },
@@ -659,15 +686,6 @@
       "publishedAt": "2026-10-01T01:00:00.000Z"
     },
     {
-      "id": "b070fe96a22f050a",
-      "title": "トラック協会が警察に交通安全啓発グッズを寄贈",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdGthODYxcnJXeXJYaGRmVTUweVI4VGU4bDI4dE8tZkpfeXF4N29VTUxvbThzVDQwUDRBQ3FRNjUxeGhUZWN3RmZXU1VTaDFPenZjSl9YNkpoQ2VMcmRpc0ZldUxKN0wwNnJsekpB?oc=5",
-      "source": "au Webポータル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T00:52:00.000Z"
-    },
-    {
       "id": "9eae6d6e636a8028",
       "title": "トラック協会が警察に交通安全啓発グッズを寄贈（ＯＡＢ大分朝日放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -678,19 +696,19 @@
     },
     {
       "id": "d6b40a237fbf2197",
-      "title": "アイデム、運送業の人材確保へインドネシアと連携 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "アイデム、運送業の人材確保へインドネシアと連携",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wYmtlX0F2TGh5bTZnbm1aZk9PdnluYVFvWnRnSWU2SHo3TjcyUG9oczJkajBSVHhLYkgyUEhvSUtBamdoRm5yU1hn?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T00:30:25.000Z"
     },
     {
       "id": "2a6bc0607f0208d6",
-      "title": "ルミッション、運送会社の採算改善支援 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ルミッション、運送会社の採算改善支援",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uLThaTnRmQUQ4VE9SN05ZN1RwRDNGcnVGV012YTd4LVFCcm9kdVc3SnpwZjFUR0szYWNFZWFkMkVRbU1jMXQ2OVV3?oc=5",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T00:30:25.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T00:20:03.000Z"
-    },
-    {
-      "id": "cd8e4c820e706aac",
-      "title": "丸全昭和運輸～港湾物流や国際輸送に強く同業他社比で割安感(トウシル)",
-      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0FzVVE3UWlMQThiRkl2RURpWXlmOTVFLVJQVER2alVfcmpYRm92bThhUkQ3a2JjZ09UQ1QydGJaQVE5SnVqbWhVRVdRXzVRR09hcVFGaGUwekZaZm1BYVlmVGVrejFiU3VaNzNETHlpaGhEMVBGTmR0bmJ2UUplQldncGhKZWs?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "category": "物流",
-      "publishedAt": "2026-09-30T23:15:31.000Z"
-    },
-    {
-      "id": "38b98c41c17f01ac",
-      "title": "西鉄国際物流、東北全域カバーへ仙台拠点開設 - logi-today.com",
-      "description": "logi-today.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmN3ZwWnNvenc5NGZ1QUJ5TmppSGhDV0thNVhxT2lqdzNfcXJ5NWhGQkRjVE1iMUZRR1pyQTA5SmNfbHR0UUJLenp3?oc=5",
-      "source": "logi-today.com",
-      "category": "物流",
-      "publishedAt": "2026-09-30T22:57:56.000Z"
     }
   ]
 }
