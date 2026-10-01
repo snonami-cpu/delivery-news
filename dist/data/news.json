@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:35:35.531Z",
+  "updatedAt": "2026-10-01T13:32:20.603Z",
   "articles": [
     {
       "id": "0b09c4ec24b5e767",
@@ -11,6 +11,24 @@
       "publishedAt": "2026-10-01T11:48:36.000Z"
     },
     {
+      "id": "622921b794f661ea",
+      "title": "＜企業速報＞鳥栖市の運送業「九州甲斐物流」が自己破産申請準備 負債額は約1億円",
+      "description": "佐賀新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUjhLR2VpVmZGTzc4N1poeHd0bXBZTUFrSG5EZjlKN3BPbF9Pckc0b3hUaTRSaVNDeVdBeUc3X253al94MDVqOWJ1VTBqQ1FoZUY5NlZn?oc=5",
+      "source": "佐賀新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-01T11:40:00.000Z"
+    },
+    {
+      "id": "22560173d4ba661f",
+      "title": "昭和から積み残し続けた物流課題の早期解決を",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GaTYxbWpfTGtrQW9kaVNNbWZnSVFLUEdEZjh2TXAzc1hsMVRRU1NNd0pSbTBvR21LZkhlT1JhOEM4bmpZQ1Q2Nktn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T10:56:46.000Z"
+    },
+    {
       "id": "2816f44a643e151b",
       "title": "トラック運送「適正原価」を議論 新聞協会「物価高もたらす懸念」",
       "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -18,6 +36,15 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-01T10:30:00.000Z"
+    },
+    {
+      "id": "53771603583581ed",
+      "title": "鴻池運輸の主要事業を支える輸配送システムを開発 ～受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に～",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RU1FMUd6OHo4b0hwUy1odnkzR2RTXzM4T1JrZFQwTFRHXzlDN3VkalkwbjVHSTZ6cHZsZzhmVkI4ZXRpaG5vMHFmNA?oc=5",
+      "source": "株式会社Hacobu",
+      "category": "物流",
+      "publishedAt": "2026-10-01T10:09:55.000Z"
     },
     {
       "id": "d3a5566be36544d7",
@@ -90,6 +117,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T08:39:16.000Z"
+    },
+    {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-01T08:14:39.000Z"
     },
     {
       "id": "e51578a2070dba79",
@@ -175,9 +211,9 @@
     {
       "id": "2ada4008fcc075f6",
       "title": "Hacobu、鴻池運輸の主要事業を支える輸配送システムを開発 〜受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に",
-      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE01U3IxV2g3THYzNzRkRVVZX3pKQTRyeTl1YkR6ZXRLaHQtSHpNdHcxcENneVJDVWJCWFR5TGFEZW9WSWc?oc=5",
-      "source": "hacobu.jp",
+      "source": "株式会社Hacobu",
       "category": "物流",
       "publishedAt": "2026-10-01T06:04:19.000Z"
     },
@@ -216,15 +252,6 @@
       "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T05:36:00.000Z"
-    },
-    {
-      "id": "2f47a605d340094c",
-      "title": "東邦ガスエナジー／ウェビナー「巨大物流拠点の水素化プロジェクト」10月15日に開催",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zb05Oa0xhOWVpUlJZVmpreUZCRnJfUFhxeW5kNUJNWC1nWGdaMXJaYUI5ejU1VWxQZEs1a3ZsY1lsS0RxMUIxdDJRdHVoWnBUd001ag?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-01T05:23:35.000Z"
     },
     {
       "id": "e1ec3df9afdeb3cc",
@@ -344,15 +371,6 @@
       "publishedAt": "2026-10-01T03:20:54.000Z"
     },
     {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "weekly-net.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-01T03:12:12.000Z"
-    },
-    {
       "id": "a4aa7e1cc8b2f16a",
       "title": "飲酒運転根絶へトラック協会が署名提出 北陸道で福島市の運送会社の男が飲酒運転、2人死亡した事故受けて 福島",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -371,6 +389,15 @@
       "publishedAt": "2026-10-01T03:05:18.000Z"
     },
     {
+      "id": "a89934ae2eca2ba9",
+      "title": "トラックドライバー「気が付いたら怒鳴っていた」 短気は事故リスクにも",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUlZSRjRJTVZQeVA3WnVabVF0LS1lZk1QYldtZWJFMmVuMmhuX2xva0kybTZnZ05FazVsMk9QQ0dJMkZoRWMtTms1R01ndw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T03:05:12.000Z"
+    },
+    {
       "id": "0e8ebd5e254e4106",
       "title": "JDI、ロジスティードから茂原物流施設を取得",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -380,20 +407,11 @@
       "publishedAt": "2026-10-01T03:02:44.000Z"
     },
     {
-      "id": "7d83f6f513bb6682",
-      "title": "東京湾アクアラインでトラックなど４台玉突き事故、２人が心肺停止で搬送・うち１人の死亡確認（読売新聞オンライン）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92TG9ySk5BcDB4bmVkX09na0ttYWc3cEpFYmtmZ2xDblVwVkY2cm0tYXdYN3ZzcDlPNTBsNi1RSFJiVm9Ea3FPMlNOczYyRGlKV1RjcWJqMW55a3Z4SlBDdzVmOVZxUGh5VWRzbTFwVTdGNHpfSUE1OTBwdko5MWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-01T03:02:42.000Z"
-    },
-    {
-      "id": "e9d4b73a09013d0b",
+      "id": "8d641208da73e3a3",
       "title": "東京湾アクアラインでトラックなど４台玉突き事故、２人が心肺停止で搬送・うち１人の死亡確認",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWRQZER3bC1DZEdUR3ViQXVMWUpnaW1oSWtyRzVqemlqd1dVUklfX0drbS1UUTRoRlB1ZXA2ZExoYVYzQk5TSHd1T0lyY1dzeXRyQnlkVUk1dTZzWkZ5ZzFHX1d5VjA5SVBEQXQzTFUyV3Z1NWZlcU5VQUp2aDJ4Y0h5Q3QyOHZGS3fSAYoBQVVfeXFMUHVkUGREd2wtQ2RHVEd1YkF1TFlKZ2ltaElrckc1anppandXVVJJX19Ha20tVFE0aEZQdWVwNmRMaGFWM0JOU0h3dU9JcmNXc3l0ckJ5ZFVJNXU2c1pGeWcxR19XeVYwOUlQREF0M0xVMld2dTVmZXFOVUFKdmgyeGNIeUN0Mjh2Rkt3?oc=5",
-      "source": "ｄメニューニュース",
+      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DclBXeHBGYktqOXl6UjZhSXlYbERidVFZWlFjeUpaV01uNDU4aTZKaFFZZUszS2Y5dXdJUURsbTFDYXFMSkxUWnR2RVd0b0ItQ0s0ajBXV2ZBemxNT0J1ZmZsQnN3dw?oc=5",
+      "source": "読売新聞",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T03:00:00.000Z"
     },
@@ -426,7 +444,7 @@
     },
     {
       "id": "4520a96144eaf2df",
-      "title": "北俣駅の踏切で列車がトラックと衝突 乗客2人首の痛み訴える JR日豊本線西都城ー国分で運転見合わせ（10月1日午前11時40分時点）",
+      "title": "北俣駅の踏切で列車がトラックと衝突 乗客2人首の痛み訴える JR日豊本線西都城ー国分で運転見合わせ（10月1日午前11時40分時点）（2026年9月30日掲載）｜KYT NEWS NNN",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUoxbG16dEZjZlM1eVVyMnk1ZDFBV1lDTGY5VVoxVkQ3NzVaWjM5VWdyMzVfbXRHTDIxU0RtQ0lmVW5qeVg2cWJFREtFTVJYbmwtQmRRM2RVU0FyLVFOUkFJekg0TEczNUVSZ2Q3T0pCa09NZlc1bVpaUkZXdUlzMHVnT29ZV0E?oc=5",
       "source": "日テレNEWS NNN",
@@ -587,15 +605,6 @@
       "publishedAt": "2026-10-01T01:00:00.000Z"
     },
     {
-      "id": "b070fe96a22f050a",
-      "title": "トラック協会が警察に交通安全啓発グッズを寄贈",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdGthODYxcnJXeXJYaGRmVTUweVI4VGU4bDI4dE8tZkpfeXF4N29VTUxvbThzVDQwUDRBQ3FRNjUxeGhUZWN3RmZXU1VTaDFPenZjSl9YNkpoQ2VMcmRpc0ZldUxKN0wwNnJsekpB?oc=5",
-      "source": "au Webポータル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T00:52:00.000Z"
-    },
-    {
       "id": "9eae6d6e636a8028",
       "title": "トラック協会が警察に交通安全啓発グッズを寄贈（ＯＡＢ大分朝日放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -603,6 +612,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T00:45:04.000Z"
+    },
+    {
+      "id": "19f8fd407ebcf04b",
+      "title": "東京湾アクアライン 大型ダンプカー4台絡む事故 1人重体",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43enpsb00zOW1IMS1EWDZxMFRNQjNGenhGcFF3bUhxOHhLeXBjOVphT2tVN0p2VGJwWTRpbEdhdUFmZzd1dEhrRW5iSlk2T213SGY1blM1cXJDaGRUOWo0Y1VHX1lPMkFyN2JCOTJOT1JlZw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T00:40:32.000Z"
     },
     {
       "id": "d6b40a237fbf2197",
@@ -650,11 +668,20 @@
       "publishedAt": "2026-09-30T22:57:56.000Z"
     },
     {
+      "id": "f8f5dceb9f53db74",
+      "title": "路上に死んだ飼い犬が…いなくなった犬を捜していた22歳大学生が車にはねられ意識不明の重体 国道でトラックから車外へ",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UdWk4RUhtUzE3NFRVdU9ENEJoMjYzcmUwTllZTjJOVUVFZC04TVV2ZEtrUGFPZUU4ZHdZV1o0bTM2SVZ5T1VtN09TbzFzNGRWekpfa1c2aDFhclVqalNDamNEX1JhdFFYZmlIS0FIS3UyZV9UWkllOVN4bTlFU2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-09-30T22:32:22.000Z"
+    },
+    {
       "id": "5f7a2ae9d6d00dbc",
-      "title": "2026年10月1日／新規許認可運送事業者 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "2026年10月1日／新規許認可運送事業者",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNlF4RjR3SHVzQ0cySDE2TzVSMHV0WGJiRUwyeFBHRnZJZUVUam5ETlRiWnh2NjFQckJJMW42Q2Y3dXQwUHRkenptaFVKWWRSVzQ0cXFnUWM?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-30T22:05:54.000Z"
     },
@@ -692,33 +719,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kcGgyTi0wLWNiMmhZVHppQTAxOXktVVhjTEd5X3pubjFqTUhBREs0SlJyalRCU3JEeU1Ib09SaXRYX2VvdFN1TTBuRUpQYjlKcGpRa1B6YkxNRXQxdDBn?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
-      "publishedAt": "2026-09-30T21:00:00.000Z"
-    },
-    {
-      "id": "3057ec741e2662c3",
-      "title": "物流施設等で創出した再エネを他施設に供給",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wSHAyYlhMSnNaazlxeUR4elcwcElkMkVEMVBIVE4zbjNDZFExNEpfZFQ3ZVVqa25mR2c3QzR3c3A2V1NOdWQyQnlaZDR1WEJhTV9JSlp6d3NvUDc3OEVz?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-30T21:00:00.000Z"
-    },
-    {
-      "id": "a296e9110dcb1b08",
-      "title": "国交省、共同輸配送促進事業が４次公募",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91X2tpclZWSVZuempQTjhkSWtIOGhCUXE2bXhwXzRZU2V6N2EzajRpdmlGdlZqYTlJT3NiY0dfbDJaQUhpLXdxYUYyNTNEMUk1MWx0ZDV6RktKZ0xUZHZV?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-09-30T21:00:00.000Z"
-    },
-    {
-      "id": "5b5a689357d84ff7",
-      "title": "事故も犯罪も「ストップ！」 奈良県警五條署デザイントラック出発式",
-      "description": "奈良新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ub1I5NjU5YXBOdi00V2JQMHUyckdXdk1qeWJ1XzkxOHlxQl9Vb2w4SllZTmI5VE9sNk1aRGpxdm1FTHYtVTNvbXJ5cXktSFo5MWJHTmFudXNpY3J4R01n?oc=5",
-      "source": "奈良新聞",
-      "category": "安全・事故",
       "publishedAt": "2026-09-30T21:00:00.000Z"
     }
   ]
