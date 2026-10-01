@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-01T14:32:10.433Z",
+  "updatedAt": "2026-10-01T15:30:28.882Z",
   "articles": [
+    {
+      "id": "3f4b8e0e425de134",
+      "title": "Ｊランドと霞ヶ関キャピタル、低温物流で提携",
+      "description": "nna.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXQ0JmQ1JuNVZ3MUF1UV83OHBTd0tvcFV5QlpnNWkzSW5OTnZqbDRfTGFOdFlRMmZfNVlSeEpXX1I2OXF3MkE?oc=5",
+      "source": "nna.jp",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-01T15:00:00.000Z"
+    },
     {
       "id": "d36a0a5b04033191",
       "title": "ヤマト運輸 熊本に寄付、現地で支援業務も",
@@ -9,15 +18,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-01T13:29:06.000Z"
-    },
-    {
-      "id": "7c34791f6eb983f2",
-      "title": "赤信号で車が急発進か 神戸・三宮の事故で女性死亡、4人重軽傷（毎日新聞）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IY2lBTHRDSXI4LW1SMkw1OW05d2pNWUNIYUZuc3M2N1JDQ3JhZkN6V0ZwQlpyMEZZZXZNdmpDMmRsOS1MZXBoN0UxRkJWbkl6aGxjTS1FaUoza0ExYlBKSGhmS3RYcEl4RHlzVDVjOXpGanVFajRnV0hkVU1IRlk?oc=5",
-      "source": "news.yahoo.co.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T11:55:01.000Z"
     },
     {
       "id": "0b09c4ec24b5e767",
@@ -29,11 +29,20 @@
       "publishedAt": "2026-10-01T11:48:36.000Z"
     },
     {
+      "id": "d4d2e9524b7ea887",
+      "title": "奈良物流担当審議官就任会見 適正原価、ドライバー処遇改善にまい進 | ロジスティクス | ニュース - daily-cargo.com",
+      "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJWmVJUXlWUFBjVE15Z05SMFhOSUttQ3RJMmFlRlNaUnZ0Z2Yzak95UFNJRU9PZUwzejk1dU1pUV9VOWgtWGJkTTNhRXVGNHBXd1BlYlJVZ1Q2ZWZSY3hUbWJQUlFkMDVhWEE?oc=5",
+      "source": "daily-cargo.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-01T11:47:06.000Z"
+    },
+    {
       "id": "622921b794f661ea",
-      "title": "＜企業速報＞鳥栖市の運送業「九州甲斐物流」が自己破産申請準備 負債額は約1億円",
-      "description": "佐賀新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "＜企業速報＞鳥栖市の運送業「九州甲斐物流」が自己破産申請準備 負債額は約1億円 - saga-s.co.jp",
+      "description": "saga-s.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUjhLR2VpVmZGTzc4N1poeHd0bXBZTUFrSG5EZjlKN3BPbF9Pckc0b3hUaTRSaVNDeVdBeUc3X253al94MDVqOWJ1VTBqQ1FoZUY5NlZn?oc=5",
-      "source": "佐賀新聞",
+      "source": "saga-s.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-01T11:40:00.000Z"
     },
@@ -76,9 +85,9 @@
     {
       "id": "ad70b40dfb14f9e9",
       "title": "伊佐市の国道 トラックと乗用車が衝突 普通乗用車運転の80歳女性が死亡【鹿児島】",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTjBGRUtDNTVYQUlRSGFQRDdQX0VMUVIxamxoby1CYmtUcjBJalBUOXRpS1I0bFRUU21fRXNEelJLYk0xVkpGcHdhRHlyWmZydXcyY0FsbUtVNjhGYWdJdjBjd1hEdWY5czRTV3ZacU9wLXFTZWswbGJHN3Y1RzQ?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T09:51:01.000Z"
     },
@@ -92,15 +101,6 @@
       "publishedAt": "2026-10-01T09:26:26.000Z"
     },
     {
-      "id": "d4d2e9524b7ea887",
-      "title": "奈良物流担当審議官就任会見 適正原価、ドライバー処遇改善にまい進 | ロジスティクス | ニュース - daily-cargo.com",
-      "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJWmVJUXlWUFBjVE15Z05SMFhOSUttQ3RJMmFlRlNaUnZ0Z2Yzak95UFNJRU9PZUwzejk1dU1pUV9VOWgtWGJkTTNhRXVGNHBXd1BlYlJVZ1Q2ZWZSY3hUbWJQUlFkMDVhWEE?oc=5",
-      "source": "daily-cargo.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-01T09:02:15.000Z"
-    },
-    {
       "id": "cb7f1cee030bc924",
       "title": "韓国イーマート、格安牛乳が10年連続売上高首位…大手メーカー品より約40％安",
       "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -112,9 +112,9 @@
     {
       "id": "8d073f241d0211a5",
       "title": "東京湾アクアラインで4台絡む事故 一部区間の通行止めが解除 トラックに乗っていた男性2人が死亡",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tUUxmMFNIUWRiNUxKMld4M01BZ3BMZUUyVkRZNUxvWkQxZk43V2pCSmRGUTJmTzA0blBYbnRQUlJBamNCU2NIRFdBbVJnVFl1LVNIUEVBSXp4YkVDRHU2Tm1UdkJLbkdVVlBfNU9wRHlzeW5XTjhjd3g3ZndLdlk?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T08:53:18.000Z"
     },
@@ -191,15 +191,6 @@
       "publishedAt": "2026-10-01T07:33:41.000Z"
     },
     {
-      "id": "b36950836d53959e",
-      "title": "「乗用車が燃えている」千葉市の交差点でトラックと車が衝突、炎上 3人死亡",
-      "description": "ABEMAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUnFjSlE4dHJySWRHZnRhWmdtTHFHVHpoRmUxNW1NZkVad293bm1oSjQ1RWN5VkpqeXNBUVZEY0psRENRdmdGdVhrRS1idjRxdHV4bnFvNXZXMGM?oc=5",
-      "source": "ABEMA",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T06:38:57.000Z"
-    },
-    {
       "id": "3f65b1c48e1b7da3",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：自己投資口の取得状況に関するお知らせ 2026年10月1日(適時開示) ：日経会社情報DIGITAL",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -265,9 +256,9 @@
     {
       "id": "6ee836d0196c4a34",
       "title": "東京湾アクアラインで大型トラックなど4台絡む事故 2人死亡（2026年9月30日掲載）｜日テレNEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OaWhRVEpzT3RZeUFKLVBncjMxcjF1TFB4dzZDckF6TUVUd2I5TmJ5WUtFampPYUdlM0N2aHh5dXZ1SFdzSVVWV05VNGxfSTltYTJMMnpTdDMybWVSVW85XzdxOVZmY3R1WENKUVo4NXRZZkNyWmJBdFZOc24?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T05:58:00.000Z"
     },
@@ -292,9 +283,9 @@
     {
       "id": "a18aecb4d4595367",
       "title": "断熱材市場―2026年～2032年の世界市場予測",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NVVpaWUI3OFo5NmNFajQ0U3ZlMFc3REZJZHp5em5wXzQ1VWJmSko3WHBqaFRMbm93SEVHQlJwV3pNNEY0LU5oajFVUE8tdw?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T05:36:00.000Z"
     },
@@ -337,9 +328,9 @@
     {
       "id": "9b839cebabd37dbb",
       "title": "大型トレーラーが渋滞の列に 追突されたトラック運転手死亡 助手席の1人が心肺停止ほか3人搬送 東京湾アクアライン上り一部で通行止め続く（FNNプライムオンライン（フジテレビ系））",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSU9ianMzbUU4YmExNjFhT2RpQUQzRmQtaEFhWnZqbWxtQzU4ZnVneFpHcWpUUTBTWEt6bXJ2eTBleWNIV0s4NkZhVkdMWWw2QmdGdlhGRzYzeDZad0RrOVN4VXlsNElFcjU0Rmp5blNnX3JoRWN4NVVoZUtiOW8?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T04:07:19.000Z"
     },
@@ -382,27 +373,27 @@
     {
       "id": "f98e6fd421085dfb",
       "title": "法改正から５年たつけれど「内水ハザードマップ」を作成し公表したのは県内で１市のみ…「短期間で作るのは難しい」「一部地域だけ公開すると誤解が生まれかねない」",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "yomiuri.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSjZpYS1qY2ZZNEhfYmticU1NRUprRElMWnZuY2FwTV9mQk04RWMyVE80dlBVNXRkS3k5SFF4WnJWNnppWk12ejZFU0M2UWVtRkJQUnd2eU1SUmpWcFNXaXpTVU9OY1l1ZE9HUjQ3b3J2QQ?oc=5",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "category": "法令・行政",
       "publishedAt": "2026-10-01T03:25:00.000Z"
     },
     {
       "id": "9c32afbaebe4bc50",
       "title": "特急きりしまがトラックと衝突事故 鹿児島・ＪＲ日豊線（KKB鹿児島放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CT2tpUzN5MlBpX1ViUzF6aG5hdE5VbnRWTnE3dDRHWmh3dVlhZU5NOVJ4MllPRWRyOTExbXNUNnVORGhGSVczWDBxTmkyU1N2ZlcxN0UxcFlta3Y5UmpaYjZUdGxUNkoxMUxqZGxuREJJeTlRa1JyLTdJN2R0czQ?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T03:22:33.000Z"
     },
     {
       "id": "505a75e81302d84f",
       "title": "東京湾アクアラインで4台絡む玉突き事故 トラックに乗っていたとみられる1人死亡 通行止め続く",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfbGNSZC1BNmVlTWFoQkc4bHdGS04yakZ5b0Z2QVJFcVV1NVRWcGtmT3pjYTcwanhXMEZvd3QtYVpPX2hZXzdTbzFFdTBGbE1FVG5LYlFDRHF5Q3prVG94UDVRNkNVSkhfeXJKcW42YUo1MDgyYnVyXy1qMzlmRzQ?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T03:20:54.000Z"
     },
@@ -418,9 +409,9 @@
     {
       "id": "63a89eb3fca74fc5",
       "title": "物流環境の改善へ 川内村と運送業者が連携協定（ふくしまNEWS -KFBデジタル-）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMVdCc3haUnhTNHU3Mkw1MXVaR2c1Nk9BV3ZkblNTaXVZN3FYeDVIamJQZDdxc3NtdXBCc3h1TS1aNTZkWFZTRUEzdWg5Qi1lMldpeWlyNlQ4Zjk4WjY3cnpnbGlVYktvTGhxNEp6VmNjMkYtanBxelprRGJsdG8?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-01T03:05:18.000Z"
     },
@@ -436,18 +427,18 @@
     {
       "id": "8d641208da73e3a3",
       "title": "東京湾アクアラインでトラックなど４台玉突き事故、２人が心肺停止で搬送・うち１人の死亡確認",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "yomiuri.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DclBXeHBGYktqOXl6UjZhSXlYbERidVFZWlFjeUpaV01uNDU4aTZKaFFZZUszS2Y5dXdJUURsbTFDYXFMSkxUWnR2RVd0b0ItQ0s0ajBXV2ZBemxNT0J1ZmZsQnN3dw?oc=5",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T03:00:00.000Z"
     },
     {
       "id": "8fd6e071b4fe86e4",
       "title": "【日豊本線】特急列車とトラックが衝突 北俣駅構内 国分~西都城で運転見合わせ （鹿児島ニュースＫＴＳ）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSG5DQVlDcnltV3I1bEtuNUVrVE1zcndVQWdjTUpMeGwtY05EOWJkUmxQM1A1czg2dmgzenhiWVloQ3l6UzgwbXRwc0JmTnV1M24yTWlzcG5LeE1YdU1pQzNZMFhwamZaUWI5aHp5ajF5NFVERlBQQ0lCYVNjd0k?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T02:59:02.000Z"
     },
@@ -472,9 +463,9 @@
     {
       "id": "4520a96144eaf2df",
       "title": "北俣駅の踏切で列車がトラックと衝突 乗客2人首の痛み訴える JR日豊本線西都城ー国分で運転見合わせ（10月1日午前11時40分時点）（2026年9月30日掲載）｜KYT NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUoxbG16dEZjZlM1eVVyMnk1ZDFBV1lDTGY5VVoxVkQ3NzVaWjM5VWdyMzVfbXRHTDIxU0RtQ0lmVW5qeVg2cWJFREtFTVJYbmwtQmRRM2RVU0FyLVFOUkFJekg0TEczNUVSZ2Q3T0pCa09NZlc1bVpaUkZXdUlzMHVnT29ZV0E?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T02:51:00.000Z"
     },
@@ -489,10 +480,10 @@
     },
     {
       "id": "4a7bd7f7864712ab",
-      "title": "アクアラインで4台事故 1人死亡",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "東京湾アクアライン上りで大型トラックなど4台絡む事故 5人搬送 うち1人死亡",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Q2txYVhndmRHcXJSY3AwXzNUck9xOU1zY0xBUDhiazZxSWxhamNBa1lGazFrMHVmRXB2NGV1amdiNGotTENWRF9oQUVVeEZa?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T02:45:16.000Z"
     },
@@ -508,9 +499,9 @@
     {
       "id": "c9dc11d5bf1ee6e3",
       "title": "東京湾アクアラインで1人死亡の事故、上り線で通行止め続く JR内房線不通で“迂回” 高速バスが運休も",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.ntv.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PaHNOZm11bExTTHZTRTN1OTFoTzdoZktMdFgzaHY3clVpdV83UmpnQWM5VWRFeXgwMnZ6VXNtenVKUS1lc3dKVVhYbkhpT3RGQnNPYWNjOWpSdmszZGlyLWpibjhFb2pmZDZUdm5oRTRjUVB0UThqeDhaUzQ?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T02:37:00.000Z"
     },
@@ -571,20 +562,20 @@
     {
       "id": "879ba022e8545ce8",
       "title": "JR日豊本線運転見合わせ 曽於市北俣駅付近でトラックと列車が衝突か 鹿児島（MBC南日本放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUWtuOW5aZVFDTWF4MDdrcHRrUE9zd1dyNFlyTUNRSlI3VElyV0tmZ3hrN3ZteWJ1TVlINGNpSHJ3TDlRQXdDQXlMdGE4TmFVTzd0QTVNMXoxemRya2lqOWs5Y295eUl5d0o3c0tzc0tTVi11eDYyTVVtTUdtb2c?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T01:53:13.000Z"
     },
     {
-      "id": "8179de1f26422553",
+      "id": "831338af5b0645b0",
       "title": "【JAF福岡】大型トラックが集まるイベントで交通安全を学ぼう！「はたらくトラックフェスタ2026」にJAFブース出展",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mQ2YyWDB0VzZNa3RvU2FOSmRFNVJPZDNVWUdvR0V0SEhVeVVBb1BGWER6UEZVSDdrWHhfOTY4a0FFVlNEa0FHck9OYmRTMVpaaVJ5dXM3Tjl0VE9LMnNVMjlHTGVETDctSnc?oc=5",
-      "source": "PR TIMES",
+      "description": "山口新聞 電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15cWdHUzMtcTk5em9tQWFyZ2hIRWtxbVB1MENhVlAteHFVV3JJU3lrTVFDdm1Ka3lrQVFiR096VHRCVmIwZWRTZzVUTDF1OUtaelc3cTJsYW1JbGVRUkxmSjZqTVJCRkxDN2I4OUNVRHJSU01EQ0l5SQ?oc=5",
+      "source": "山口新聞 電子版",
       "category": "安全・事故",
-      "publishedAt": "2026-10-01T01:50:01.000Z"
+      "publishedAt": "2026-10-01T01:50:00.000Z"
     },
     {
       "id": "d0b57b4562c98c3f",
@@ -598,27 +589,27 @@
     {
       "id": "26414baf3dfbce09",
       "title": "アクアラインでトラックなど4台絡む事故 5人けが 上りの通行止め続く – Quebee キュエビー",
-      "description": "qab.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ld0ZGZEdGS2FFSzVPM2w1NEdHUFdNNG1CczB0RzhfMjM0S295TXZUXzJTWFY1ZXpYcnBxaW8zNE5ENk5YdnBraUdKVmNleVF4YjNSUXFoMVU?oc=5",
-      "source": "qab.co.jp",
+      "source": "QAB 琉球朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T01:49:03.000Z"
     },
     {
       "id": "0f1aa793ef5de58d",
       "title": "アクアラインでトラックなど4台絡む事故 5人けが 上りの通行止め続く（テレビ朝日系（ANN））",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82eXIxemU1THFhdFMtdndfanNtd3FaOW9UcnM4YV80S0pWRFd4UERXejhPYmp3anJ5MEhOc19ua1JlVUhoMWVDSG1xNmc5NG11SjN1aWFiMjlBNUxZTERweUxvOXluTUlUOUNlSDdWWDRwM0Y5RHJDMEV1cWhpMkE?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T01:49:03.000Z"
     },
     {
       "id": "cb36b916bd3e7e4f",
-      "title": "川内村と宮田運輸が包括協定、物流インフラ改善で産業振興:地域ニュース - minyu-net.com",
-      "description": "minyu-net.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "川内村と宮田運輸が包括協定、物流インフラ改善で産業振興:地域ニュース",
+      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMzlNSnJSWjZVQjBKTnp4NXdtTHh5Mzgxd1lTOUNjVGJlMzB6aFVEbVVSdW1MSzBIaGVtZ3pCWVJXdklHeHVJaVhMdFpzd01JeUZHdzBVNFE1M3EzXzdseDFpSGlPTmxl?oc=5",
-      "source": "minyu-net.com",
+      "source": "福島民友新聞社",
       "category": "物流",
       "publishedAt": "2026-10-01T01:10:00.000Z"
     },
@@ -643,9 +634,9 @@
     {
       "id": "9eae6d6e636a8028",
       "title": "トラック協会が警察に交通安全啓発グッズを寄贈（ＯＡＢ大分朝日放送）",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWjc3VHhqTjN3U0V2SDl3RnQxRDc0NGNUVUhGdXhnQjVyZEgtWDlWYUhwMGpPbEZzc1RKVXNtUndBUkEyVTd1QXhWbUlOT0VsUWZLbFA3bXpUci1zSE1PdzB0c3FvN0c0SWdfZW1xRFZVNUNhRWQ3QmdIMXNyMzg?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T00:45:04.000Z"
     },
@@ -679,18 +670,18 @@
     {
       "id": "5d98ebaf9f1569d3",
       "title": "東京湾アクアライン上りで大型トラックなど4台絡む事故 5人搬送 男性2人死亡 上りで通行止め続く（テレビ朝日系（ANN））",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OVAzYW1veWZOMXVQcVZEbDBySVhwOHZSTW1fSzVyZXRteEVrY0M4SzN2M1FUVjBLU1VYdHV2Y2gxS1kwQy1aZXBxZlRueEtFbWF4TElkbDdMN2NWNUxLQllTanY3MnpJT0lvczhDZ0huTEh2RkVzQkVTa1Z2SEk?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T00:20:03.000Z"
     },
     {
       "id": "cd8e4c820e706aac",
       "title": "丸全昭和運輸～港湾物流や国際輸送に強く同業他社比で割安感(トウシル)",
-      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "finance.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0FzVVE3UWlMQThiRkl2RURpWXlmOTVFLVJQVER2alVfcmpYRm92bThhUkQ3a2JjZ09UQ1QydGJaQVE5SnVqbWhVRVdRXzVRR09hcVFGaGUwekZaZm1BYVlmVGVrejFiU3VaNzNETHlpaGhEMVBGTmR0bmJ2UUplQldncGhKZWs?oc=5",
-      "source": "Yahoo!ファイナンス",
+      "source": "finance.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-09-30T23:15:31.000Z"
     },
@@ -706,9 +697,9 @@
     {
       "id": "f8f5dceb9f53db74",
       "title": "路上に死んだ飼い犬が…いなくなった犬を捜していた22歳大学生が車にはねられ意識不明の重体 国道でトラックから車外へ",
-      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UdWk4RUhtUzE3NFRVdU9ENEJoMjYzcmUwTllZTjJOVUVFZC04TVV2ZEtrUGFPZUU4ZHdZV1o0bTM2SVZ5T1VtN09TbzFzNGRWekpfa1c2aDFhclVqalNDamNEX1JhdFFYZmlIS0FIS3UyZV9UWkllOVN4bTlFU2s?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-30T22:32:22.000Z"
     },
@@ -720,6 +711,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-09-30T22:05:54.000Z"
+    },
+    {
+      "id": "ec997f64d4beaf5b",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その２】／国際物流総合展2026 フォトリポート",
+      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQ24yZU5jODR4cEJUbFJyQmlITDBJOTI3VmotcVVsS3FySTBjaEV0QlItMmVmeWVJWm5KWUpRYUZGamFOUzJiXzZBOTJoanBMMVNhT1ZhNUNQUWJaZ19PS04wUTVJMTFRazhj?oc=5",
+      "source": "robot digest",
+      "category": "物流",
+      "publishedAt": "2026-09-30T22:05:02.000Z"
     }
   ]
 }
