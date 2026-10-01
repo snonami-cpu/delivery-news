@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:35:36.451Z",
+  "updatedAt": "2026-10-01T07:30:56.861Z",
   "articles": [
     {
       "id": "b88777bed3590b3a",
@@ -20,22 +20,67 @@
       "publishedAt": "2026-10-01T06:29:34.000Z"
     },
     {
-      "id": "fce431865769c27d",
-      "title": "東京湾アクアラインで4台絡む玉突き事故 トラックに乗っていたとみられる男性2人死亡、3人けが 一部区間が通行止め",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MUUJ3TUJDVTdxbE9mUTdMaHJSSUVFYXR4cERwdl9OSXdPajhVRnlIX0ZpQnB3ZHRQTXItU1NMN09CMjM1N2FySXJqM0x0ZXc0YTdZcjhzY1hWTHA0?oc=5",
-      "source": "Infoseek",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-01T06:18:35.000Z"
+      "id": "df0b121f7c41ea49",
+      "title": "【作業事故】クレーン付きトラックがバランスを崩して左側に横転…廃品回収業の男性が頭から出血_安全装置「アウトリガー」張り出さず〈北海道北見市〉",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GRFI0WEhfRGVfSnFhaUprY1RUbUFtRzlhTDY4cXpHbEV2eEtyUTh0WGVUWFJUQWJRblhEUklLbV92d2plUDhrUU1zTEtQUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T06:20:00.000Z"
     },
     {
-      "id": "5165eaae5e36660f",
-      "title": "東京湾アクアラインで大型トラックなど4台絡む事故 2人死亡（日テレNEWS NNN）",
+      "id": "e049fa19af9f4f76",
+      "title": "東京湾アクアラインで4台絡む玉突き事故 トラックに乗っていたとみられる男性2人死亡、3人けが 一部区間が通行止め",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xXzI3bXl0N0RDTWdkQTBGUDRyMmVfOGg4TjRUVzZEWFFCYnpIVnIwTGZhXzgtUDBWRG5sUXhiSXJOblI5LVZwdWlnczdpNlc4eHUyRGtlcU9Bd0hBV0JZUzh2S3QxVlR1ZTZsV0pwb25xMVdfaVBiOEthdm9tRTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqamtLNmhLWmhOamc1RWpPLXBHWVJUM2k5ZmlZaGxZWE02aG9nYms3V25INl9EUWFnSGZZdGtiZDk3NEZZSVp0SXlwX3BQa3VsXy1fbXZXOWR2VGRnR2RXSFoxRzFjaDZHbzdEMjhxTF9WQ2kwRk1nUHdqLTdfX1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-01T06:17:35.000Z"
+    },
+    {
+      "id": "5d98ebaf9f1569d3",
+      "title": "東京湾アクアライン上りで大型トラックなど4台絡む事故 5人搬送 男性2人死亡 上りで通行止め続く（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OVAzYW1veWZOMXVQcVZEbDBySVhwOHZSTW1fSzVyZXRteEVrY0M4SzN2M1FUVjBLU1VYdHV2Y2gxS1kwQy1aZXBxZlRueEtFbWF4TElkbDdMN2NWNUxLQllTanY3MnpJT0lvczhDZ0huTEh2RkVzQkVTa1Z2SEk?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
+      "publishedAt": "2026-10-01T06:14:15.000Z"
+    },
+    {
+      "id": "6e4869a90d8510db",
+      "title": "センコー、積水ハウス／EVトラックに再エネ活用、茨城の工場から住宅部材配送で",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVTRtc0Rkb3Fham9QOWF0N0VkcktsSjBucGY0UEZLWjdGTWV0NnhSZEROTmt2a1NKMEhTWlBrV1BpdTZkWHdSTTF0ckdQaC1pMHU1eA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-01T06:13:45.000Z"
+    },
+    {
+      "id": "961f4098326ab326",
+      "title": "追突されたトラックの男性2人死亡 アクアライン上り線多重事故",
+      "description": "毎日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84anp2eXAxVEo2VDVrSklka2ZpQ1NtNlluTDNMRS1LVmUtMkFiQ3JHMDloQ0FDdk9TRmpGX1FpZGVpMU8tVGluT0pkWm5WZXBHVC1VNlBrajNOT01JdmFSdXNJb21KRnhl?oc=5",
+      "source": "毎日新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T06:11:53.000Z"
+    },
+    {
+      "id": "6ee836d0196c4a34",
+      "title": "東京湾アクアラインで大型トラックなど4台絡む事故 2人死亡（2026年9月30日掲載）｜日テレNEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OaWhRVEpzT3RZeUFKLVBncjMxcjF1TFB4dzZDckF6TUVUd2I5TmJ5WUtFampPYUdlM0N2aHh5dXZ1SFdzSVVWV05VNGxfSTltYTJMMnpTdDMybWVSVW85XzdxOVZmY3R1WENKUVo4NXRZZkNyWmJBdFZOc24?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "道路・交通",
       "publishedAt": "2026-10-01T05:58:00.000Z"
+    },
+    {
+      "id": "c65102d757849489",
+      "title": "福岡地所、物流施設「ロジシティ」4棟目完成",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JaVF5V2tQX0NjeEp1eXZaMlRmaElEa1hKUjdseWluUHpaNURKTHY4Z1ZSdmllMXpnQVBPYWczNFVreEloN3JSOEpB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T05:53:20.000Z"
     },
     {
       "id": "1fc8fb6fe3bb3e92",
@@ -92,13 +137,31 @@
       "publishedAt": "2026-10-01T05:08:09.000Z"
     },
     {
+      "id": "7ab1befeb26b0231",
+      "title": "サプライ・チェーン・セキュリティ市場の主要10社まとめ",
+      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sSFAtQVhrT0FadlZxeVgzOXM2WWdsaC1WaFJDeVFCdjlpazBJWU03MnZndHVVTFhrVVBIWHpzNm1pM0lsOUVtRVdn?oc=5",
+      "source": "pando.life",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-01T05:03:47.000Z"
+    },
+    {
       "id": "c5e32c00207ede05",
       "title": "アクアラインで４台が絡む事故 トラック運転手が死亡、上り線が通行止めに",
-      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "kanaloco.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xeFVWNEpkbGs1bUs5eEhyOFNrMm8zck5EeENha3ZYYWdGV3p2RW56OVVEZ1UwYjg1TmdIbS02cU1CUGlxWkVtZnFiVGlxRnNRQVMyZnVTU0tQdWRDUFN2Si1LQUxhclJGcDQ1cDZn?oc=5",
-      "source": "カナロコ",
+      "source": "kanaloco.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T05:00:00.000Z"
+    },
+    {
+      "id": "9b839cebabd37dbb",
+      "title": "大型トレーラーが渋滞の列に 追突されたトラック運転手死亡 助手席の1人が心肺停止ほか3人搬送 東京湾アクアライン上り一部で通行止め続く（FNNプライムオンライン（フジテレビ系））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSU9ianMzbUU4YmExNjFhT2RpQUQzRmQtaEFhWnZqbWxtQzU4ZnVneFpHcWpUUTBTWEt6bXJ2eTBleWNIV0s4NkZhVkdMWWw2QmdGdlhGRzYzeDZad0RrOVN4VXlsNElFcjU0Rmp5blNnX3JoRWN4NVVoZUtiOW8?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T04:07:19.000Z"
     },
     {
       "id": "f3ac97d6583c1df9",
@@ -137,6 +200,15 @@
       "publishedAt": "2026-10-01T03:34:24.000Z"
     },
     {
+      "id": "a9c1f936dd9a15a3",
+      "title": "伊佐市の国道447号で大型トラックと乗用車が衝突 乗用車の運転手がけが 付近の道路は通行止め（MBC南日本放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peUlXMmVLa1RWRnpCWmxUamtSOURqZm1FRkllWlhLWWwwY3B5NWRuSDZRaU5qQ0RiTF9ENFZiR3VHTllaM3d4WUpRalprNnluVllRYlU1d2t2SVNRWU5HN3cxeEQ1QjV6ODVrTFlnQ0RkOWdaUUFSbE1nZFpQa0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T03:30:32.000Z"
+    },
+    {
       "id": "a6442a7da9ccd78e",
       "title": "伊佐市の国道447号で大型トラックと乗用車が衝突 乗用車の運転手がけが 付近の道路は通行止め",
       "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -171,15 +243,6 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T03:20:54.000Z"
-    },
-    {
-      "id": "5d98ebaf9f1569d3",
-      "title": "東京湾アクアライン上りで大型トラックなど4台絡む事故 5人搬送 うち1人死亡（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OVAzYW1veWZOMXVQcVZEbDBySVhwOHZSTW1fSzVyZXRteEVrY0M4SzN2M1FUVjBLU1VYdHV2Y2gxS1kwQy1aZXBxZlRueEtFbWF4TElkbDdMN2NWNUxLQllTanY3MnpJT0lvczhDZ0huTEh2RkVzQkVTa1Z2SEk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T03:19:38.000Z"
     },
     {
       "id": "a4aa7e1cc8b2f16a",
@@ -326,6 +389,15 @@
       "publishedAt": "2026-10-01T02:15:00.000Z"
     },
     {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-01T02:12:56.000Z"
+    },
+    {
       "id": "112f5ac2a3b97e2f",
       "title": "ビューテHD Research Memo（3）：高い技術力やデザイン性に加え、事業間シナジーによる価格競争力にも強み",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -344,6 +416,15 @@
       "publishedAt": "2026-10-01T02:00:02.000Z"
     },
     {
+      "id": "879ba022e8545ce8",
+      "title": "JR日豊本線運転見合わせ 曽於市北俣駅付近でトラックと列車が衝突か 鹿児島（MBC南日本放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUWtuOW5aZVFDTWF4MDdrcHRrUE9zd1dyNFlyTUNRSlI3VElyV0tmZ3hrN3ZteWJ1TVlINGNpSHJ3TDlRQXdDQXlMdGE4TmFVTzd0QTVNMXoxemRya2lqOWs5Y295eUl5d0o3c0tzc0tTVi11eDYyTVVtTUdtb2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T01:53:13.000Z"
+    },
+    {
       "id": "8179de1f26422553",
       "title": "【JAF福岡】大型トラックが集まるイベントで交通安全を学ぼう！「はたらくトラックフェスタ2026」にJAFブース出展",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -351,15 +432,6 @@
       "source": "PR TIMES",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T01:50:01.000Z"
-    },
-    {
-      "id": "33c5fbf40f2bee96",
-      "title": "JR日豊本線運転見合わせ 曽於市北俣駅付近でトラックと列車が衝突か 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvYkRDZEZ5bWFwdlNXdy1sVFdZLVpSWDVqMzZTZklxV1NHU0I5WVNYdDZFOWhTckhKaldVamE3cXhSdW90X2tRU05XTHBpdzcxeGhnNVEzdlRoSHd5N1Y2OTc0SjZOMjA?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T01:50:00.000Z"
     },
     {
       "id": "d0b57b4562c98c3f",
@@ -381,10 +453,10 @@
     },
     {
       "id": "cb36b916bd3e7e4f",
-      "title": "川内村と宮田運輸が包括協定、物流インフラ改善で産業振興:地域ニュース",
-      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "川内村と宮田運輸が包括協定、物流インフラ改善で産業振興:地域ニュース - minyu-net.com",
+      "description": "minyu-net.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMzlNSnJSWjZVQjBKTnp4NXdtTHh5Mzgxd1lTOUNjVGJlMzB6aFVEbVVSdW1MSzBIaGVtZ3pCWVJXdklHeHVJaVhMdFpzd01JeUZHdzBVNFE1M3EzXzdseDFpSGlPTmxl?oc=5",
-      "source": "福島民友新聞社",
+      "source": "minyu-net.com",
       "category": "物流",
       "publishedAt": "2026-10-01T01:10:00.000Z"
     },
@@ -398,6 +470,15 @@
       "publishedAt": "2026-10-01T01:00:03.000Z"
     },
     {
+      "id": "9488a8d368060a63",
+      "title": "スマホアプリで貨物軽自動車運送事業者の安全管理業務を支援する「e-TranSpot」の機能を拡充",
+      "description": "共同通信PRワイヤーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTWZ5S2RrbzRsRU92cGVqbnNBTkJ2SlV1RV8zWVdUYmRUWjhQN1RzRE1yTndtby1ZcEVtd1ZUNGszaC1POXMzT21NaTdYbURiRGl4elFnWmlfRGs?oc=5",
+      "source": "共同通信PRワイヤー",
+      "category": "物流",
+      "publishedAt": "2026-10-01T01:00:00.000Z"
+    },
+    {
       "id": "9eae6d6e636a8028",
       "title": "トラック協会が警察に交通安全啓発グッズを寄贈（ＯＡＢ大分朝日放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -405,15 +486,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T00:45:04.000Z"
-    },
-    {
-      "id": "19f8fd407ebcf04b",
-      "title": "東京湾アクアライン 大型ダンプカー4台絡む事故 1人重体",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43enpsb00zOW1IMS1EWDZxMFRNQjNGenhGcFF3bUhxOHhLeXBjOVphT2tVN0p2VGJwWTRpbEdhdUFmZzd1dEhrRW5iSlk2T213SGY1blM1cXJDaGRUOWo0Y1VHX1lPMkFyN2JCOTJOT1JlZw?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T00:40:32.000Z"
     },
     {
       "id": "d6b40a237fbf2197",
@@ -441,15 +513,6 @@
       "source": "Yahoo!ファイナンス",
       "category": "物流",
       "publishedAt": "2026-09-30T23:15:31.000Z"
-    },
-    {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-09-30T23:12:29.000Z"
     },
     {
       "id": "f2af3c3d17300bb2",
@@ -489,12 +552,21 @@
     },
     {
       "id": "ec997f64d4beaf5b",
-      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その２】／国際物流総合展2026 フォトリポート - robot-digest.com",
-      "description": "robot-digest.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その２】／国際物流総合展2026 フォトリポート",
+      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQ24yZU5jODR4cEJUbFJyQmlITDBJOTI3VmotcVVsS3FySTBjaEV0QlItMmVmeWVJWm5KWUpRYUZGamFOUzJiXzZBOTJoanBMMVNhT1ZhNUNQUWJaZ19PS04wUTVJMTFRazhj?oc=5",
-      "source": "robot-digest.com",
+      "source": "robot digest",
       "category": "物流",
       "publishedAt": "2026-09-30T22:05:02.000Z"
+    },
+    {
+      "id": "9d62cf96f33d62b5",
+      "title": "カルボプロスト トロメタミン世界シェアランキング",
+      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TMXlkZUgtZ0hrUGZHbUhKQmNWZVVVR3lTTXVvRW1ob1pZVTNPbFdxUS1GN2ZYNTVLOGRzczZDODF2bTdwWTZzZGNB?oc=5",
+      "source": "pando.life",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-09-30T22:02:59.000Z"
     },
     {
       "id": "098a467382a49c70",
@@ -596,6 +668,15 @@
       "publishedAt": "2026-09-30T20:23:09.000Z"
     },
     {
+      "id": "10b75ca49e1bc7c4",
+      "title": "ＪＡ１割が物流改善義務 「特定荷主」指定 計画月内に",
+      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LVWdsTjlQNDhCZ0ZFbzZNek4zM0c2Z25YOEpYaFRwX1JKVDcyRjZfVnFqSkdEYzA3M20xWEYzMDNBRkp4Z20ySVYwY0Y0TjlLQmVaWUU4NA?oc=5",
+      "source": "日本農業新聞",
+      "category": "物流",
+      "publishedAt": "2026-09-30T20:01:29.000Z"
+    },
+    {
       "id": "00bc44684bf72b46",
       "title": "リポート：気鋭の運送事業者とスタートアップがタッグを組んだ現場変革[PR] - LOGI-BIZ online",
       "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -639,87 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-09-30T12:32:00.000Z"
-    },
-    {
-      "id": "9e6add53fcb0d85a",
-      "title": "イズミ物流、ウズベキスタンで合弁物流事業を始動 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TUjB2ZDRacnM0RGFIdW12Sm5NeUJpZFVJTDVyY050VHBNTzZRY0xtZnQ1YjJFWnp1dzJfQ1dZVEg2cUpDREtncWI5bw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-30T11:52:39.000Z"
-    },
-    {
-      "id": "63fd2253d878f591",
-      "title": "荷主等に対する集中監視月間を設け、「トラック・物流Ｇメン」が重点的に監視を強化します - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBydVVEdF9qTUwzSTVyQkZZQW9IMUJUNTdTMndrLTBDMURucl9zTEdlMTM2RmwwLXZyMEZFbzcxdWhuMlN4eW9IRk5mQQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-09-30T11:41:29.000Z"
-    },
-    {
-      "id": "f310c08b83da02d3",
-      "title": "食品物流＆3PL総合展／東京ビッグサイトで初開催、食品供給網支える技術が一堂",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40TGZwQzU0cXp1enhhc0RvRlRUQ0RMVjV5cjItd1ZXb1FQT3NHZ2ZqTVZKbEhqbU14eFYwMHBHRWd0WVNHTmR3Nm9JX2NaYVc4VS1XNg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-30T11:33:54.000Z"
-    },
-    {
-      "id": "9330f7cf178e7e75",
-      "title": "ほっとニュース北海道 「モーダルシフト」物流ルートをトラックから鉄道へ 北海道が実証実験を開始 NHK ONE 配信中 10/7まで",
-      "description": "nhk.or.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Q0lXdllfdlVLemVOWFFQZ0FNbGE2NFZVcGJ2VXE3Sk9RSDBUelk1eWZRQ21qM3V3dVRBNzI3Z0QxdHFUQklDN01JcUdNVUVhNnNVSkhOMHVGYTA3cS1LOUttalR6OUU?oc=5",
-      "source": "nhk.or.jp",
-      "category": "物流",
-      "publishedAt": "2026-09-30T10:28:19.000Z"
-    },
-    {
-      "id": "d9c5be794eb5b022",
-      "title": "MonoLu、物流倉庫DXの新サービス「Warehouse OS」を開発に着手",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieklxeDRvVlpIdEZWQm5LRzk5N0JBelB6SnVDSERxVExIMGxRMjVnQ1d6alVPRUl0dERYcDRrQ21ZZ2xFR2NDVXpDempIdmVLdnNYQ1NmajNwakFkN3prLXZwbnlLZmZjMkE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-09-30T10:23:55.000Z"
-    },
-    {
-      "id": "47f5cdc33a466788",
-      "title": "NTTロジスコ／「スマートリプ」で日別・荷姿別の出荷予測機能を提供開始",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4za2J1bW5sMG9heEVjZEJUeW9vRWVLTjhvUDY3VURCNnlTeGpOeGlUV2cwQU9xd3l4Z1ZGUUdCX0hwLXd6bGlUY2h6SV9oTVJ4SzJLLQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-09-30T10:14:28.000Z"
-    },
-    {
-      "id": "54b684938aa59def",
-      "title": "「物流DX EXPO」開幕、物流改革の実装探る",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xNEJ5NWRaVWVsYXdhUU9uenVGUmZqbFpFd09hWGNhdm5ieE1GSGJuNWZmZVpQZEluNVdNMTdnV3ltaUJBeXJ2TGtn0gFPQVVfeXFMTUc1Z0hSYkcyaXFnUTVjZHhjYkRTZk5hZmlvTUNSQ1VrSXJLNUVLMjRQMFhGU01pYkdHUE0tclhoQkI2Ni10YTVDcFBEd3hEMA?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-30T09:52:32.000Z"
-    },
-    {
-      "id": "ebda74eb8a23bbe8",
-      "title": "物流DX未来会議、改革の順番と伴走力を議論",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhdDJLOUoxVjBpeHNQR1R1ODlPUzhTZlpQR21UMkd6QWtRX0lZUDNWOEQzNnk5MkEyODJzS1JGVkZDMVAtTG5scXFn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-09-30T09:52:26.000Z"
-    },
-    {
-      "id": "39d61945e413eafd",
-      "title": "西福運送株式会社 オフィシャルパートナー契約締結（継続）のお知らせ",
-      "description": "ライジングゼファー福岡が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rb1Rib0pRRnJzdXVrNklDOHI5Vl9BMW1tamJ4NHNzOW1EcHpCUHQxWGx4R3ZwQ29wbnFGcl9XV3Z1c3ZlLVRZRlRDdjNyR29aQmo0?oc=5",
-      "source": "ライジングゼファー福岡",
-      "category": "物流",
-      "publishedAt": "2026-09-30T09:46:16.000Z"
     }
   ]
 }
