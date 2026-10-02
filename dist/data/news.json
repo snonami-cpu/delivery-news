@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-02T07:29:55.570Z",
+  "updatedAt": "2026-10-02T08:30:49.298Z",
   "articles": [
+    {
+      "id": "0098f7b79fa6843b",
+      "title": "鴻池運輸、配送管理を一元化で月3人分の業務減 運賃・車両情報集約",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNDJBZVpOa052dHREeWdaVWpGUVV0Y1NTcUJnbFpxcUlXWElfMS02ZVhjV2YwaklZaTVhaXlkYjV4LUJXdUlpVFVfUDg3cFFSWkZ0anNvZFVqdmJETXJoMG4zUklDMFU3SHZsWQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-02T08:03:53.000Z"
+    },
+    {
+      "id": "e4894bce5d9dade8",
+      "title": "冷凍食品ラベルの世界市場（2026年～2032年）、市場規模（コート紙、合成紙、クラフト紙、その他）・分析レポートを発表",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mUDl3TGpHUmZ5ZnhITjAtaVU0dmVldkhROHdDenFiVUVRZGoxLTlGVEVueWNzbGFKX1RJRGdnVnV3WWZjVkJGNjExTkpvZ1U?oc=5",
+      "source": "アットプレス",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-02T07:30:00.000Z"
+    },
     {
       "id": "9623869b9f2239d0",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」（CBCテレビ）",
@@ -20,29 +38,38 @@
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
     {
-      "id": "0cfc609ba45073d2",
-      "title": "梱包用テープ市場：製品タイプ、接着剤の種類、基材、用途、エンドユーザー産業、流通チャネル別―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MTmxFeGcxOC1Ra2MySGFDQzRrekgwcW95b2VLN2hRbkU0azlncUdJWkJJT0xLdlhVaEVELWN3Zkx1S2VsRVVKcTFnWmE5bms?oc=5",
-      "source": "アットプレス",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-02T06:33:00.000Z"
+      "id": "1597a666b37b9e67",
+      "title": "［動画］丸全昭和運輸に割安感、港湾物流と国際輸送に強み - media.rakuten-sec.net",
+      "description": "media.rakuten-sec.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13eTJQbVI3ZDFkOF9DNGl4c2NxYXVfZGJfdmVqRV93aXQ0dkFXVHJxOWVlQUNpVWdPTzdlMzY1d1FXMXNxdXF0UmNXMTQycmVGRDlqZ2RsODNtdw?oc=5",
+      "source": "media.rakuten-sec.net",
+      "category": "物流",
+      "publishedAt": "2026-10-02T06:57:00.000Z"
+    },
+    {
+      "id": "adf7fd4e7ce13ca0",
+      "title": "米原JCT付近で大型車の火災、名神上り線で一時通行止め 10月2日午前 彦根ICー米原JCT",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lanR3NnpEeW9USWcyTWdHdG91bUllTElJdTl5TC1oRm5OVThsY0h6b0NScHJBVEtlWFJtajdLUGdrS1h4Y1d2UjdqNA?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-02T06:30:00.000Z"
     },
     {
       "id": "c15098462ee5cf82",
       "title": "適正原価の設定に向けた融資者検討会／適正原価の具体的な金額は議論せず「適正原価」は告示で示す",
-      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQaXp0ai05eWZyVGJwc1hWMkdqbzc3dFpOakNJc2RzWjlUS1dxanJlb2JaQ2ZXbWRQdzVfYlg0RTlJS2Zab3lVelB6TEc0R1JLMVB5Xw?oc=5",
-      "source": "trucknews.biz",
+      "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T06:12:00.000Z"
     },
     {
       "id": "490c38667d6be865",
-      "title": "［倒産情報］貨物運送業の流通管財（新潟市中央区）、特別清算開始決定",
-      "description": "新潟日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "［倒産情報］貨物運送業の流通管財（新潟市中央区）、特別清算開始決定 - niigata-nippo.co.jp",
+      "description": "niigata-nippo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nS0gwemhTOVRpSllGdnMzX2IzSjd1enlORmhjb1I5VFNJWmFmRHhhMFdfQjluWmJ0ZDJUSHU4Ym52eEhMeDBDQTRyVUFwUGFfSnEwdExISVljY3lSMEE?oc=5",
-      "source": "新潟日報",
+      "source": "niigata-nippo.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T05:35:00.000Z"
     },
@@ -112,9 +139,9 @@
     {
       "id": "e7f61c87253a1d0f",
       "title": "日本郵船グループが描く環インド洋サプライチェーン戦略——インド・中東・アフリカ成長市場を繋ぐ",
-      "description": "日本郵船株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "nyk.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ya09QSUNCaXE5QUVpOV9XZk5KWl9tZmVsemFUX3gwQjF4cGNUVk5YVUVadTBpekt1RDU4VXNWaW5wNUdOeHZMek1nclUzTXNnUmJuLVY3TDZpZFU?oc=5",
-      "source": "日本郵船株式会社",
+      "source": "nyk.com",
       "category": "物流",
       "publishedAt": "2026-10-02T02:50:00.000Z"
     },
@@ -146,15 +173,6 @@
       "publishedAt": "2026-10-02T01:52:19.000Z"
     },
     {
-      "id": "adf7fd4e7ce13ca0",
-      "title": "米原JCT付近で大型車の火災、名神上り線で通行止め 10月2日午前 彦根ICー米原JCT",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lanR3NnpEeW9USWcyTWdHdG91bUllTElJdTl5TC1oRm5OVThsY0h6b0NScHJBVEtlWFJtajdLUGdrS1h4Y1d2UjdqNA?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-02T01:50:00.000Z"
-    },
-    {
       "id": "091e8e64bd297fb2",
       "title": "ダイセーエブリー二十四、中央高速運輸を子会社化…長野エリアの空白を埋め全国コールドチェーン網を強化",
       "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -165,7 +183,7 @@
     },
     {
       "id": "371856a2300b87e1",
-      "title": "【速報】名神高速道路上り線の一部区間で通行止め 滋賀県内、車両火災の影響",
+      "title": "名神高速道路上り線の区間で一時通行止め 滋賀県内、車両火災の影響",
       "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44dTNnQTBSRlpoT2EtQWt2TVJmbjV0enBpanRFajNoQVFoYmV0TUpWYW9zZnBJOEdZd3FmQkx2NTFqVF82UGRwRFdUeVhRSEVULUdyNjg2Mlo?oc=5",
       "source": "京都新聞デジタル",
@@ -197,7 +215,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-02T01:00:04.000Z"
+      "publishedAt": "2026-10-02T01:01:11.000Z"
     },
     {
       "id": "d3e2f0059ff8ce32",
@@ -237,10 +255,10 @@
     },
     {
       "id": "6747e0de69a0df09",
-      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その３】／国際物流総合展2026 フォトリポート - robot-digest.com",
-      "description": "robot-digest.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その３】／国際物流総合展2026 フォトリポート",
+      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UQ09WWEFqX0Fldk5FVjJyUWtIZ0xSV044bDdQcjB0azNDMFpjMHgtTmhyQV9OT3Z5TUplVFVHakRjVzE4bmRqZzNxU0JIY09Hc1B2TE54VGNRZGw0bFNra1Q1c2dja0NuY2FR?oc=5",
-      "source": "robot-digest.com",
+      "source": "robot digest",
       "category": "物流",
       "publishedAt": "2026-10-01T21:00:56.000Z"
     },
@@ -481,9 +499,9 @@
     {
       "id": "d3a5566be36544d7",
       "title": "東京アクアラインで多重事故 トラックなど4台絡む 2人死亡",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZ0lLN0paeXpXaEFsSEUta3NBZHpJbVZHaU9EcWF2ZVQtbGVTSHQ3aTMydmZZT1NZdEtZZXdJMGgzMllmbmwzbUVzcTZPdw?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T10:05:00.000Z"
     },
@@ -504,6 +522,15 @@
       "source": "ライブドアニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-01T09:35:21.000Z"
+    },
+    {
+      "id": "91908931563e15e4",
+      "title": "八潮運輸（北海道）、運送継続し会社更生手続き",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtekh6T3JVSGh4a3lpUi1VNUhOakJibHh3Qm5fTWNQODh1NEUxZWVWb25FZU1hZ254bDdSRWVRVGhYbVNpOFZxZl9R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T09:01:58.000Z"
     },
     {
       "id": "cb7f1cee030bc924",
@@ -587,6 +614,15 @@
       "publishedAt": "2026-10-01T06:50:00.000Z"
     },
     {
+      "id": "22930d99961bd327",
+      "title": "学生向けに釧路港の物流施設見学会、公立大生12人参加",
+      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cF9DSjJyTngzMkVCLXpvY3kzaUtMaC0tNG9MZXE5Wkt3cWdkSDRteXpPcndJam51bnppQmNCUk41aXJDaWlOYXZXcWdaZkJQTzZXSVFvOTd4QQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "category": "物流",
+      "publishedAt": "2026-10-01T06:30:43.000Z"
+    },
+    {
       "id": "3f65b1c48e1b7da3",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：自己投資口の取得状況に関するお知らせ 2026年10月1日(適時開示) ：日経会社情報DIGITAL",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -607,9 +643,9 @@
     {
       "id": "df0b121f7c41ea49",
       "title": "【作業事故】クレーン付きトラックがバランスを崩して左側に横転…廃品回収業の男性が頭から出血_安全装置「アウトリガー」張り出さず〈北海道北見市〉",
-      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GRFI0WEhfRGVfSnFhaUprY1RUbUFtRzlhTDY4cXpHbEV2eEtyUTh0WGVUWFJUQWJRblhEUklLbV92d2plUDhrUU1zTEtQUQ?oc=5",
-      "source": "fnn.jp",
+      "source": "FNNプライムオンライン",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T06:20:00.000Z"
     },
@@ -684,42 +720,6 @@
       "source": "朝日新聞",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T05:21:00.000Z"
-    },
-    {
-      "id": "487cc89946d4b2d7",
-      "title": "東京湾アクアライン上りでトラック4台が玉突き、1人死亡 トンネル通行止めで高速バスのトイレ長蛇の列",
-      "description": "coki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NX3RhTkw1MnlQLURBVUhsSW5UbUNTdlhwbHJzRnBGNUZfeldEYWl3UFEwckdBQk1xM1FnaFFlTkxOXzdMa0s2M1pCRnNmdw?oc=5",
-      "source": "coki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-01T05:08:09.000Z"
-    },
-    {
-      "id": "9b839cebabd37dbb",
-      "title": "大型トレーラーが渋滞の列に 追突されたトラック運転手死亡 助手席の1人が心肺停止ほか3人搬送 東京湾アクアライン上り一部で通行止め続く（FNNプライムオンライン（フジテレビ系））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSU9ianMzbUU4YmExNjFhT2RpQUQzRmQtaEFhWnZqbWxtQzU4ZnVneFpHcWpUUTBTWEt6bXJ2eTBleWNIV0s4NkZhVkdMWWw2QmdGdlhGRzYzeDZad0RrOVN4VXlsNElFcjU0Rmp5blNnX3JoRWN4NVVoZUtiOW8?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T04:07:19.000Z"
-    },
-    {
-      "id": "2c7eca7000fcc7a2",
-      "title": "東京湾アクアラインでトラック4台事故 男性1人死亡 上りの通行止め続く",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5naWZEcE41enRnR0R6ZDdqeDlOR2RQU0pwbGhYS3ZqcDNOUWhra2R3enhIU1FvcnJkUnJIZHgydDFZc2xBaFdFdFczMUdFc1ZWSXhfNkZnRmY5RXhrUVFwMng5SFNrWFV4cUpvaTNXTzdiQQ?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-01T03:43:18.000Z"
-    },
-    {
-      "id": "a548f36cf5928b27",
-      "title": "東京湾アクアラインでトラック4台事故 男性1人死亡 上りの通行止め続く – Quebee キュエビー",
-      "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tNU1sdkl3R3JaZGtuOE1POHR2ODNCZ1pXWTl0cWpCUlBfS0ZSb1VOVHF6Q0NybHB2Nk8ydExPR0FOM3RSOXktdXdqYWwzd2NGOUFMUy1TU3A?oc=5",
-      "source": "QAB 琉球朝日放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T03:43:18.000Z"
     }
   ]
 }
