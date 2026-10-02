@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:34:20.899Z",
+  "updatedAt": "2026-10-02T13:30:32.218Z",
   "articles": [
     {
       "id": "848a6ffbb11b3737",
@@ -16,7 +16,7 @@
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56d3ViT3Jaa1lIQ25rU20xalVWSW5vc2dOYUJ6UnZXanhLWlFwU1BWRFMwbld0LVdUTVpvZTljMVgyRHVLMmFCaHZB?oc=5",
       "source": "LOGISTICS TODAY",
-      "category": "物流",
+      "category": "法令・行政",
       "publishedAt": "2026-10-02T10:27:08.000Z"
     },
     {
@@ -65,6 +65,15 @@
       "publishedAt": "2026-10-02T09:30:12.000Z"
     },
     {
+      "id": "16c1148d49b482b6",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-02T09:19:18.000Z"
+    },
+    {
       "id": "7a1a5e1654348ad5",
       "title": "日本郵便／東京都江東区で15万m2の物流施設を取得、近隣郵便局再編し跡地で不動産開発へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -94,9 +103,9 @@
     {
       "id": "0387bd2363faa5e1",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
@@ -175,9 +184,9 @@
     {
       "id": "c15098462ee5cf82",
       "title": "適正原価の設定に向けた有識者検討会／具体的な金額は議論せず提言後の告示で示す",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQaXp0ai05eWZyVGJwc1hWMkdqbzc3dFpOakNJc2RzWjlUS1dxanJlb2JaQ2ZXbWRQdzVfYlg0RTlJS2Zab3lVelB6TEc0R1JLMVB5Xw?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T06:12:00.000Z"
     },
@@ -202,9 +211,9 @@
     {
       "id": "d3c0e2c9d61f614d",
       "title": "【速報】霧島市福山町・国道220号が片側交互通行に ニワトリ積んだトラック横転 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ0EtTjFPX0RnOWVFdE81QlVZbXNIT0p4WWVtU2swUFhoWlBMN05XbUMtX2dpa0ZtNG92azhIYVRENjJtMm5PWFdhaWRVeWlVRGJYd3hLREFjUkNVcTBpaDgxY3g?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T05:15:00.000Z"
     },
@@ -224,7 +233,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUlZSRjRJTVZQeVA3WnVabVF0LS1lZk1QYldtZWJFMmVuMmhuX2xva0kybTZnZ05FazVsMk9QQ0dJMkZoRWMtTms1R01ndw?oc=5",
       "source": "物流ウィークリー",
       "category": "安全・事故",
-      "publishedAt": "2026-10-02T03:42:40.000Z"
+      "publishedAt": "2026-10-02T03:43:13.000Z"
     },
     {
       "id": "8991a9aaa43e8f0d",
@@ -236,22 +245,13 @@
       "publishedAt": "2026-10-02T03:27:00.000Z"
     },
     {
-      "id": "0933f6be3211b7a0",
+      "id": "b2e0321e0e1369cc",
       "title": "札幌市白石区の横断歩道で男性がトラックにはねられる 病院搬送時に意識あり",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MHE5dkRKMVFVSzRhUkktM0VUTEhCenphVVhwZjdUbEw1NlBmckpxNkFlbXA5enVJdzJWYk44WHA5YUlwMS1yaEhEa1Fzck03em5QSWlTTDJKRHVwNnE0NHNDMDZwWjRHQVJLMW9JSUxFM1RMdHdrb2dmU0xMTHM?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU3N3bzNhMkVtbnozUHFMWW44TEtfRzk5NmYyU2QwRkpiUnUtNjFYMHhiOVRtTjM4blJOY3dRUjJzaGxVRFg3WEF4bmEzdmFTLWFZSVBHdkdZQQ?oc=5",
+      "source": "htb.co.jp",
       "category": "安全・事故",
-      "publishedAt": "2026-10-02T03:21:20.000Z"
-    },
-    {
-      "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-02T03:18:44.000Z"
+      "publishedAt": "2026-10-02T03:21:00.000Z"
     },
     {
       "id": "7288de18c01b463b",
@@ -319,20 +319,11 @@
     {
       "id": "091e8e64bd297fb2",
       "title": "ダイセーエブリー二十四、中央高速運輸を子会社化…長野エリアの空白を埋め全国コールドチェーン網を強化",
-      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "response.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZVG1QSlpyVGFJLXY2bHZYV2JJQ3htelc1eUs5ajYtLXNuZUpRaWRpMUlSdFpHX2tvbThCY3JqOWpOS0E0UnNZTEhuMG5ldDVhU2tkUXVZcERFQ0V2Z0Jz?oc=5",
-      "source": "レスポンス（Response.jp）",
+      "source": "response.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T01:45:03.000Z"
-    },
-    {
-      "id": "371856a2300b87e1",
-      "title": "名神高速道路上り線の区間で一時通行止め 滋賀県内、車両火災の影響",
-      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44dTNnQTBSRlpoT2EtQWt2TVJmbjV0enBpanRFajNoQVFoYmV0TUpWYW9zZnBJOEdZd3FmQkx2NTFqVF82UGRwRFdUeVhRSEVULUdyNjg2Mlo?oc=5",
-      "source": "京都新聞デジタル",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-02T01:42:00.000Z"
     },
     {
       "id": "dcdd68e1a77ce272",
@@ -350,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-02T01:01:11.000Z"
+      "publishedAt": "2026-10-02T01:00:04.000Z"
     },
     {
       "id": "d3e2f0059ff8ce32",
@@ -634,9 +625,9 @@
     {
       "id": "d3a5566be36544d7",
       "title": "東京アクアラインで多重事故 トラックなど4台絡む 2人死亡",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "fnn.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZ0lLN0paeXpXaEFsSEUta3NBZHpJbVZHaU9EcWF2ZVQtbGVTSHQ3aTMydmZZT1NZdEtZZXdJMGgzMllmbmwzbUVzcTZPdw?oc=5",
-      "source": "FNNプライムオンライン",
+      "source": "fnn.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T10:05:00.000Z"
     },
@@ -711,6 +702,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T08:39:16.000Z"
+    },
+    {
+      "id": "fc5c9a3e9c0f0136",
+      "title": "川崎 東京湾アクアライン事故 2人死亡3人けが",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90MU1lZVNXZXI4el95eXFQQzFGQnhHQWp0Y083NGJmRWo4aXZMQTZlZThCYlA3eE5KZF85UUc5bm15MGItWHdiWlR5VzRtek9hQnJWTlBSWTdVaDF2Vklz?oc=5",
+      "source": "NHKニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-01T08:21:20.000Z"
     },
     {
       "id": "e51578a2070dba79",
