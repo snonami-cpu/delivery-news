@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-02T11:27:31.718Z",
+  "updatedAt": "2026-10-02T12:34:20.899Z",
   "articles": [
+    {
+      "id": "848a6ffbb11b3737",
+      "title": "【開催レポート】株式会社J-オイルミルズ・国土交通省登壇「先進企業から学ぶ、経営のアクセルを踏む『物流組織』の作り方」セミナーを開催しました",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa2pBTlctVENZUU1lQndudDNBNWdXZGdOZG5LRzl2ckEzbDE4Y1k2ODN0NXVXSUY3VzZhVlpzYzA5N1pMc3ZxZkxLVE5GT1RpeDBDWVA0bXI2bkVBYWlHbkwtTWdwV0tUOEE?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-02T12:10:01.000Z"
+    },
+    {
+      "id": "2e8b3e0e4045334b",
+      "title": "SST、パレットレール便は鉄道共同配送の解となるか",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56d3ViT3Jaa1lIQ25rU20xalVWSW5vc2dOYUJ6UnZXanhLWlFwU1BWRFMwbld0LVdUTVpvZTljMVgyRHVLMmFCaHZB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-02T10:27:08.000Z"
+    },
     {
       "id": "99e2760ffd6af700",
       "title": "物流連、次期大綱と物流政策の方向性確認",
@@ -9,6 +27,15 @@
       "source": "LOGISTICS TODAY",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T10:09:15.000Z"
+    },
+    {
+      "id": "aa65f34e55053d51",
+      "title": "物流ニュースなび【26年10月2日号】運転席の「見張り役」が義務に 警報を鳴らすのは誰のためか",
+      "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BRF9EOWRzTDNKNVlqZzl2cUhBQm8xODd5ZXFGbFYtS2dKN3RnaXc4LU5nVnYxNUkxNU04UXZIc0F6cXRqOGkyaXJiT0ZMaVl4eHlUT3RCWUhkMHY3U0E?oc=5",
+      "source": "note",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-02T10:02:13.000Z"
     },
     {
       "id": "8e1775e325854c5f",
@@ -147,12 +174,21 @@
     },
     {
       "id": "c15098462ee5cf82",
-      "title": "適正原価の設定に向けた融資者検討会／適正原価の具体的な金額は議論せず「適正原価」は告示で示す",
+      "title": "適正原価の設定に向けた有識者検討会／具体的な金額は議論せず提言後の告示で示す",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQaXp0ai05eWZyVGJwc1hWMkdqbzc3dFpOakNJc2RzWjlUS1dxanJlb2JaQ2ZXbWRQdzVfYlg0RTlJS2Zab3lVelB6TEc0R1JLMVB5Xw?oc=5",
       "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T06:12:00.000Z"
+    },
+    {
+      "id": "9943b11991964ed9",
+      "title": "ヤマト運輸／スマホアプリ「e-TranSpot」機能拡充、法令13事項の安全対策を支援",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNThpZ3lFbGNGckJYMVNJRk9raVI4eHZDcEJvZ3k3Wk51VDItWFVrUkJwd25JTFJhNDFXTkZORWUxRVcwM2l1MTBJYm5Td3RWRHc3eQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-02T05:43:35.000Z"
     },
     {
       "id": "490c38667d6be865",
@@ -180,15 +216,6 @@
       "source": "日経BPイベント＆セミナー",
       "category": "物流",
       "publishedAt": "2026-10-02T05:04:10.000Z"
-    },
-    {
-      "id": "aa65f34e55053d51",
-      "title": "物流ニュースなび【2026年10月2日号】運転席の「見張り役」が義務に 警報を鳴らすのは誰のためか",
-      "description": "note.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BRF9EOWRzTDNKNVlqZzl2cUhBQm8xODd5ZXFGbFYtS2dKN3RnaXc4LU5nVnYxNUkxNU04UXZIc0F6cXRqOGkyaXJiT0ZMaVl4eHlUT3RCWUhkMHY3U0E?oc=5",
-      "source": "note.com",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-02T04:27:31.000Z"
     },
     {
       "id": "a89934ae2eca2ba9",
@@ -336,7 +363,7 @@
     },
     {
       "id": "73153b2b26953469",
-      "title": "「モノ」から「コト」へ。ジャロック、物流現場の“困った”から 解決策を探せる公式サイトへリニューアル | 株式会社ジャロック",
+      "title": "「モノ」から「コト」へ。ジャロック、物流現場の“困った”から 解決策を探せる公式サイトへリニューアル",
       "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYS02ODI3anhVWm9FUnFOVUFvNXhzZmJvbFpoaHV1RFFQR1dGZUMwM1JNTDduSTUzZWc1aVNUeWdxXzJFWnlaRk1pd0cxUQ?oc=5",
       "source": "アットプレス",
@@ -425,6 +452,15 @@
       "publishedAt": "2026-10-01T20:50:14.000Z"
     },
     {
+      "id": "3243fcef856c5eb9",
+      "title": "運送会社260社調査から探る、人材確保の具体策",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XUWxtZU1LaVpuMl9aeG42M3RiN1VXWWZVTXBZd3hVaDlScmEwWVJGODEwSjdTNU0xanF3dEwxZDFENUphWkh6Q1R3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T20:49:55.000Z"
+    },
+    {
       "id": "cb860a37d8ea017b",
       "title": "DOORCOM、物流の「ラスト50メートル」を省力化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -438,15 +474,6 @@
       "title": "ONE-VALUE、ベトナム物流の参入機会を解説",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaTmhoemk0bGotek5VN1Vrc0p2RmRRVEdVSXNHWjdNRjJ0SVFYRlFnSDZTZEUxNFVMMm5TTllDY0JrX3p6MEozbWl3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-01T20:49:55.000Z"
-    },
-    {
-      "id": "3243fcef856c5eb9",
-      "title": "運送会社260社調査から探る、人材確保の具体策",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XUWxtZU1LaVpuMl9aeG42M3RiN1VXWWZVTXBZd3hVaDlScmEwWVJGODEwSjdTNU0xanF3dEwxZDFENUphWkh6Q1R3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T20:49:55.000Z"
@@ -499,9 +526,9 @@
     {
       "id": "1946fe71deb6d51b",
       "title": "トラック運送の「適正原価」議論 新聞協会などにヒアリング 国交省検討会",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Ykl1WnVEUHRMLUxVX2JLcjVmc0xOamloRGwyblNkT2o2VlRianJGcFh2VkxqcnpLdjRmLWxjZDVWYk9FNmd2MXhwMnZqaEhjQzFYTFY0dzA3bmVB?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-01T20:00:00.000Z"
     },
@@ -580,9 +607,9 @@
     {
       "id": "f084c80ccdaa4f37",
       "title": "トラック運送「適正原価」を議論 新聞協会「物価高もたらす懸念」",
-      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVo0NmNUbXhSa2k2eW9IMTJReVV3UnJnNVFzTElwYkpTU09MV3NoUnJEX1Vmd0VIcUs1cE01djVOVDZqQlpRWnVSWjVabjB4TVV0czlRMEJVNWRxMElXVl8wRDZSbDNUclpwUkl4eUN5TVRzR0RhZ2dnc1VDdjVVOW04RGZfdDA?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-01T10:30:00.000Z"
     },
@@ -598,9 +625,9 @@
     {
       "id": "53771603583581ed",
       "title": "鴻池運輸の主要事業を支える輸配送システムを開発 ～受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に～",
-      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RU1FMUd6OHo4b0hwUy1odnkzR2RTXzM4T1JrZFQwTFRHXzlDN3VkalkwbjVHSTZ6cHZsZzhmVkI4ZXRpaG5vMHFmNA?oc=5",
-      "source": "hacobu.jp",
+      "source": "株式会社Hacobu",
       "category": "物流",
       "publishedAt": "2026-10-01T10:09:55.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T07:39:04.000Z"
-    },
-    {
-      "id": "9fca43ce18bfb3c9",
-      "title": "物流特殊指定をやさしく解説！ | 公正取引委員会",
-      "description": "jftc.go.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhckxLSzA1RnFFT241Znl1czd3NDNYQmxab2dHU3BJQ1B0YlNkME1Tb2c2ek84OVNqNGRDOHZrMlZscHNyUVcxZnJaZEtyVFdnM1pITlN6UVZncTFlVVl6OGp3UHA?oc=5",
-      "source": "jftc.go.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-01T07:33:41.000Z"
-    },
-    {
-      "id": "483a8dd21f8364f4",
-      "title": "東京湾アクアラインで大型トレーラーなど4台絡む事故 追突されたトラックの運転手ら2人が死亡 上り線で通行止め続く",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQTJoMXNwMHZjVkU1ZXJxMGYxcGgwUHV6NmlqY1RXcjU4eU5LN0hKZTBzWXNEZ0lRcmozcE55OV9sMlZpZENzUEs1WmlFbUVVdHVfWGlXdEw5UDBUTTZSYVp4dFpKNEZrbGl5MXFxM05vb2RvbExoNUM1N2hWYkE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T06:51:24.000Z"
-    },
-    {
-      "id": "526f1854b05f4242",
-      "title": "【倒産速報】燃料高騰の価格転嫁が進まず…中長距離輸送を主体とした貨物運送が事業を停止→自己破産申請へ【帝国データバンク】（RKB毎日放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeUZJdlpzc1RLZDRuRFVWY0xVQk94VWVxMU0xVk8yOXFBYkFtTnYzR0xBd0FDekIySlJELTk1b09fdHpISlhoV2xzeG9MWXJzMmxUQnNSQzB1TVJVdGFfLTlEVnNRaDd4MzFWTXotOHlTU19xX3dVVElHSWxteWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-01T06:50:25.000Z"
     }
   ]
 }
