@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-02T01:28:06.843Z",
+  "updatedAt": "2026-10-02T02:26:42.160Z",
   "articles": [
+    {
+      "id": "c72ee2fd7f41312c",
+      "title": "JAF福岡、トラックフェスタで交通安全啓発",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwM0NqZ0txTHhaYnlnMm5PeXRfbjNFUlZZX2VZQkM4MXRSZF8xVmJIWmEzZjJ1OEhQWFFsQ0dLbWx1OUxHQ3Q1S3hR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T02:23:07.000Z"
+    },
+    {
+      "id": "d433c0b79b532a0d",
+      "title": "「トラックが荷台ごと押し上げられ…」東京湾アクアラインで4台絡む事故 追突された2人死亡、3人搬送 渋滞の列に大型トレーラーが突っ込んだか （FNNプライムオンライン（フジテレビ系））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HM0RBUXhYUEVTVWo2SnZBcko3MHBaN1VVTzZRUVRJTTZWTzk2NnlKRkhwaG1DZWlibksxUFpRbTVaQXZwNC1QLWlNUldvQV8weXB1Vy13ME8yNkxnaGNYT0Zoc1I3djlRaVg1VDg4RWNqdDBxODFCVjR0NUFsVDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T01:52:19.000Z"
+    },
+    {
+      "id": "091e8e64bd297fb2",
+      "title": "ダイセーエブリー二十四、中央高速運輸を子会社化…長野エリアの空白を埋め全国コールドチェーン網を強化",
+      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZVG1QSlpyVGFJLXY2bHZYV2JJQ3htelc1eUs5ajYtLXNuZUpRaWRpMUlSdFpHX2tvbThCY3JqOWpOS0E0UnNZTEhuMG5ldDVhU2tkUXVZcERFQ0V2Z0Jz?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-02T01:45:03.000Z"
+    },
+    {
+      "id": "d3a5566be36544d7",
+      "title": "東京アクアラインで多重事故 トラックなど4台絡む 2人死亡",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZ0lLN0paeXpXaEFsSEUta3NBZHpJbVZHaU9EcWF2ZVQtbGVTSHQ3aTMydmZZT1NZdEtZZXdJMGgzMllmbmwzbUVzcTZPdw?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T01:34:10.000Z"
+    },
     {
       "id": "d3e2f0059ff8ce32",
       "title": "物流最適化システム「NeLOSS」を提供!! 日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画",
@@ -218,15 +254,6 @@
       "publishedAt": "2026-10-01T13:29:06.000Z"
     },
     {
-      "id": "0b09c4ec24b5e767",
-      "title": "食品物流＆3PL総合展／AMRやデバンニングロボ、冷凍倉庫など多彩な展示",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdzUwcXB3Q1FKWHBuaDZmQVpxUTcwUU1yQ3hhNEcza25zLWF0NG5za3RPcVhMS3c2dWd3QWt3Qm80RkdpdDhpM0tNUi1pMnM4dDFwNQ?oc=5",
-      "source": "lnews.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-01T11:48:36.000Z"
-    },
-    {
       "id": "d4d2e9524b7ea887",
       "title": "奈良物流担当審議官就任会見 適正原価、ドライバー処遇改善にまい進 | ロジスティクス | ニュース - daily-cargo.com",
       "description": "daily-cargo.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -274,20 +301,11 @@
     {
       "id": "53771603583581ed",
       "title": "鴻池運輸の主要事業を支える輸配送システムを開発 ～受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に～",
-      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RU1FMUd6OHo4b0hwUy1odnkzR2RTXzM4T1JrZFQwTFRHXzlDN3VkalkwbjVHSTZ6cHZsZzhmVkI4ZXRpaG5vMHFmNA?oc=5",
-      "source": "hacobu.jp",
+      "source": "株式会社Hacobu",
       "category": "物流",
       "publishedAt": "2026-10-01T10:09:55.000Z"
-    },
-    {
-      "id": "d3a5566be36544d7",
-      "title": "東京アクアラインで多重事故 トラックなど4台絡む 2人死亡",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZ0lLN0paeXpXaEFsSEUta3NBZHpJbVZHaU9EcWF2ZVQtbGVTSHQ3aTMydmZZT1NZdEtZZXdJMGgzMllmbmwzbUVzcTZPdw?oc=5",
-      "source": "FNNプライムオンライン",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-01T10:05:00.000Z"
     },
     {
       "id": "ad70b40dfb14f9e9",
@@ -328,18 +346,18 @@
     {
       "id": "99427422b3f396b8",
       "title": "阪急阪神不動産／トランスコスモス登壇のEC物流セミナーを10月23日に開催",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NUzJkazF3ZEZxVEs1amMwVm1sWVN1SkJBMnNabU43d3VycnFJVXlWa1NBSzVWNi1kaVl0MWRIQnV1RnlHT05DbndHMkpYRDZmN2F0LQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T08:49:18.000Z"
     },
     {
       "id": "016587086f4c60f3",
       "title": "国交省／物流施設への非常用電源設備導入補助で2次公募開始",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWTktSVB0aHVyalJtOVg3ME8tczhZRVJyLUhONjdiS2FaZzE3QzJhdVhfU2l4WUkzRlVMMDM4dEY5R29QTzNiWVZHV2JfTEtZcTRqaQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T08:39:16.000Z"
     },
@@ -353,20 +371,11 @@
       "publishedAt": "2026-10-01T08:17:02.000Z"
     },
     {
-      "id": "d7c36969324424d3",
-      "title": "日本酒醸造蔵でプロセス用の冷却と調湿を担うインバータ式ブラインクーラ｜納入事例｜低温機器",
-      "description": "mitsubishielectric.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lOFl2dGNWRXo2akdoQ1M2cjdyWTc0dE1sdkxrU3MzOG9OOGNvNGJpN0hLS1RWY3ZwS2MwNEY0dXB5dHhtazdvVXczVjVXMk9ucWhNTXNmcjVFX2haRXBFckhHeTAtVXpX?oc=5",
-      "source": "mitsubishielectric.co.jp",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-01T08:17:02.000Z"
-    },
-    {
       "id": "e51578a2070dba79",
       "title": "SGHD／コーポレートサイト刷新、オウンドメディアも開設",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IV1dfSTZUYWdYeTh0X1hYX25fYnRFZk1rYjhoY2E0S1pNVzd5WDdzLTc1MThPQWx5NlJXZlktWkNKVWwzYk5Ta3BUanRYRlAxYUNYMg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T07:39:04.000Z"
     },
@@ -389,11 +398,11 @@
       "publishedAt": "2026-10-01T06:50:25.000Z"
     },
     {
-      "id": "0c5e44d81b4a41b1",
+      "id": "55d8713a008be547",
       "title": "東京湾アクアラインで大型トレーラーなど4台絡む事故 追突されたトラックの運転手ら2人が死亡 上り線で通行止め続く",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjbXp0UWNNVHRybmJFRkZSNFJKSXJvTTdyNTJFWGI2Mk9BazBhR0d3c2xiQk9xcGQ1TC1jVVVHY3Z6WXhCbmlBX04wWGxrZw?oc=5",
-      "source": "FNNプライムオンライン",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0h2T1lLeU43UVNROThVM29xbXRDbldOOEhGS2R2ZXdxVEE3Ny1NRkJFWXoyb3FSa0ZhZkJ5dzN1WTJaSkpQQ1JLa29RMy1GYmkwQVNvS25DRkNuWWZ3Y1NiTUJxbW5lOXZyMkgxNmE2clM0cWFaTU5kMGxyNGdKelp5VnM3MFF1eFV1VkNMNl9PbDhqSFJoQXJqSzZjSE02RUM0cjN1Q0o2ZDJYcXppQVdHZEhXNjR0d0RyaGdFM0pfS0Vw?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T06:50:00.000Z"
     },
@@ -409,9 +418,9 @@
     {
       "id": "9acec93e29a672e0",
       "title": "「第1回 物流統括管理者連携推進会議」を開催 ― 荷主・共働メンバーが立場を越えて交流",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeWVaNVE5bk5YUHIyZ2U2Qi1tc2owekxBY1dRc3NVbmRaNGh5X2JVMXFoczlhODE0YUdCYUc0VWw3SWdtekRnUTVsMnl0bWMzcy01TFJlbW5ETlBaU3ZRV2tUN0VEZUtsemc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "法令・行政",
       "publishedAt": "2026-10-01T06:29:34.000Z"
     },
@@ -436,9 +445,9 @@
     {
       "id": "6e4869a90d8510db",
       "title": "センコー、積水ハウス／EVトラックに再エネ活用、茨城の工場から住宅部材配送で",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVTRtc0Rkb3Fham9QOWF0N0VkcktsSjBucGY0UEZLWjdGTWV0NnhSZEROTmt2a1NKMEhTWlBrV1BpdTZkWHdSTTF0ckdQaC1pMHU1eA?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T06:13:45.000Z"
     },
@@ -454,9 +463,9 @@
     {
       "id": "2ada4008fcc075f6",
       "title": "Hacobu、鴻池運輸の主要事業を支える輸配送システムを開発 〜受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に",
-      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE01U3IxV2g3THYzNzRkRVVZX3pKQTRyeTl1YkR6ZXRLaHQtSHpNdHcxcENneVJDVWJCWFR5TGFEZW9WSWc?oc=5",
-      "source": "hacobu.jp",
+      "source": "株式会社Hacobu",
       "category": "物流",
       "publishedAt": "2026-10-01T06:04:19.000Z"
     },
@@ -490,9 +499,9 @@
     {
       "id": "a18aecb4d4595367",
       "title": "断熱材市場―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NVVpaWUI3OFo5NmNFajQ0U3ZlMFc3REZJZHp5em5wXzQ1VWJmSko3WHBqaFRMbm93SEVHQlJwV3pNNEY0LU5oajFVUE8tdw?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T05:36:00.000Z"
     },
@@ -598,9 +607,9 @@
     {
       "id": "9cbdbf0dc48d7ab9",
       "title": "飲酒運転根絶へトラック協会が署名提出 北陸道で福島市の運送会社の男が飲酒運転、2人死亡した事故受けて 福島",
-      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lcEVRdzRTMEtPR2pjZFl3Tk9kR2g5Sm52dFphTWNsMzlKYXU4cFZEcmtmZUNsRHlJNk9tNmRkekxaRmI1OUF1UDdoaTdxT09hQVM4Q05mSHJFanJNWVpsY0t5Vm9hZnk4aTROVVVBVdIBdEFVX3lxTE5HN2tpQ3FQRzBhVk52XzhBWEp3WjRIM1ZZZTNmSzVmOENOQ2RQT0xOZ1MxVG1hemZ4UU9zV0VxSXZqX3Vsd011Qzgwc2pTMVJIX1NfT3F6bXdJYVdoXzhPd0VQREZ2VW1sbFdwV083bVZYSFNs?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T03:10:00.000Z"
     },
@@ -651,7 +660,7 @@
     },
     {
       "id": "4520a96144eaf2df",
-      "title": "北俣駅の踏切で列車がトラックと衝突 乗客2人首の痛み訴える JR日豊本線西都城ー国分で運転見合わせ（10月1日午前11時40分時点）（2026年9月30日掲載）｜KYT NEWS NNN",
+      "title": "北俣駅の踏切で列車がトラックと衝突 乗客2人首の痛み訴える JR日豊本線西都城ー国分で運転見合わせ（10月1日午前11時40分時点）",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUoxbG16dEZjZlM1eVVyMnk1ZDFBV1lDTGY5VVoxVkQ3NzVaWjM5VWdyMzVfbXRHTDIxU0RtQ0lmVW5qeVg2cWJFREtFTVJYbmwtQmRRM2RVU0FyLVFOUkFJekg0TEczNUVSZ2Q3T0pCa09NZlc1bVpaUkZXdUlzMHVnT29ZV0E?oc=5",
       "source": "日テレNEWS NNN",
@@ -711,15 +720,6 @@
       "source": "イザ！",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T02:20:00.000Z"
-    },
-    {
-      "id": "56d2a2b06b16fae4",
-      "title": "チャーチル港とロッテルダム港、資源物流で連携",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHY1BSYUZLQjY1bHgtMDdkT254Ql94RW4teTNIV0RoQkdzYkxGX1Y1MlFSR1RsT05qaS1WZThJUDVoNGV5SkozaEl3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-01T02:15:49.000Z"
     }
   ]
 }
