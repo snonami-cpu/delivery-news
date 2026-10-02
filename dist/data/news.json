@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:28:17.243Z",
+  "updatedAt": "2026-10-02T11:27:31.718Z",
   "articles": [
     {
       "id": "99e2760ffd6af700",
@@ -121,9 +121,9 @@
     {
       "id": "adf7fd4e7ce13ca0",
       "title": "米原JCT付近で大型車の火災、名神上り線で一時通行止め 10月2日午前 彦根ICー米原JCT",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lanR3NnpEeW9USWcyTWdHdG91bUllTElJdTl5TC1oRm5OVThsY0h6b0NScHJBVEtlWFJtajdLUGdrS1h4Y1d2UjdqNA?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T06:30:00.000Z"
     },
@@ -137,6 +137,15 @@
       "publishedAt": "2026-10-02T06:26:41.000Z"
     },
     {
+      "id": "85103146f21f1c9e",
+      "title": "【負債は約9,000万円】貨物運送業の流通管財（新潟市中央区）が特別清算開始決定",
+      "description": "にいがた経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QbERUSEhCRzN5Z2FpSUJqLW1ZQnFhenJZbjZWa0FLTWJOS1ZiMWt2cUhaMzVOQU9LbnNWR3ZQd3d0VnJE?oc=5",
+      "source": "にいがた経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-02T06:14:03.000Z"
+    },
+    {
       "id": "c15098462ee5cf82",
       "title": "適正原価の設定に向けた融資者検討会／適正原価の具体的な金額は議論せず「適正原価」は告示で示す",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -144,6 +153,15 @@
       "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T06:12:00.000Z"
+    },
+    {
+      "id": "490c38667d6be865",
+      "title": "［倒産情報］貨物運送業の流通管財（新潟市中央区）、特別清算開始決定",
+      "description": "新潟日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nS0gwemhTOVRpSllGdnMzX2IzSjd1enlORmhjb1I5VFNJWmFmRHhhMFdfQjluWmJ0ZDJUSHU4Ym52eEhMeDBDQTRyVUFwUGFfSnEwdExISVljY3lSMEE?oc=5",
+      "source": "新潟日報",
+      "category": "物流",
+      "publishedAt": "2026-10-02T05:35:00.000Z"
     },
     {
       "id": "d3c0e2c9d61f614d",
@@ -164,20 +182,11 @@
       "publishedAt": "2026-10-02T05:04:10.000Z"
     },
     {
-      "id": "1375590407dee19a",
-      "title": "Amazon、約30分配送の「Amazon Now」で配送料無料キャンペーンを実施",
-      "description": "コマースピックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UcUFza2dVSE5JQkdFVmVaSjI1SWd2TWRWZFhKSDN3UjQ3VENWOFktX2E1MWdvVEkzU3JST1phMGs0d0xkVXZjZXhiYTBaUy1MVTYxa1FrQQ?oc=5",
-      "source": "コマースピック",
-      "category": "物流",
-      "publishedAt": "2026-10-02T04:27:41.000Z"
-    },
-    {
       "id": "aa65f34e55053d51",
       "title": "物流ニュースなび【2026年10月2日号】運転席の「見張り役」が義務に 警報を鳴らすのは誰のためか",
-      "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "note.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BRF9EOWRzTDNKNVlqZzl2cUhBQm8xODd5ZXFGbFYtS2dKN3RnaXc4LU5nVnYxNUkxNU04UXZIc0F6cXRqOGkyaXJiT0ZMaVl4eHlUT3RCWUhkMHY3U0E?oc=5",
-      "source": "note",
+      "source": "note.com",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T04:27:31.000Z"
     },
@@ -490,9 +499,9 @@
     {
       "id": "1946fe71deb6d51b",
       "title": "トラック運送の「適正原価」議論 新聞協会などにヒアリング 国交省検討会",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Ykl1WnVEUHRMLUxVX2JLcjVmc0xOamloRGwyblNkT2o2VlRianJGcFh2VkxqcnpLdjRmLWxjZDVWYk9FNmd2MXhwMnZqaEhjQzFYTFY0dzA3bmVB?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "category": "物流",
       "publishedAt": "2026-10-01T20:00:00.000Z"
     },
@@ -571,9 +580,9 @@
     {
       "id": "f084c80ccdaa4f37",
       "title": "トラック運送「適正原価」を議論 新聞協会「物価高もたらす懸念」",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "asahi.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVo0NmNUbXhSa2k2eW9IMTJReVV3UnJnNVFzTElwYkpTU09MV3NoUnJEX1Vmd0VIcUs1cE01djVOVDZqQlpRWnVSWjVabjB4TVV0czlRMEJVNWRxMElXVl8wRDZSbDNUclpwUkl4eUN5TVRzR0RhZ2dnc1VDdjVVOW04RGZfdDA?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "category": "物流",
       "publishedAt": "2026-10-01T10:30:00.000Z"
     },
@@ -589,9 +598,9 @@
     {
       "id": "53771603583581ed",
       "title": "鴻池運輸の主要事業を支える輸配送システムを開発 ～受注から請求・支払いまでを一気通貫でつなぎ、案件ごとの採算を把握できる基盤に～",
-      "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "hacobu.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RU1FMUd6OHo4b0hwUy1odnkzR2RTXzM4T1JrZFQwTFRHXzlDN3VkalkwbjVHSTZ6cHZsZzhmVkI4ZXRpaG5vMHFmNA?oc=5",
-      "source": "株式会社Hacobu",
+      "source": "hacobu.jp",
       "category": "物流",
       "publishedAt": "2026-10-01T10:09:55.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-01T06:50:25.000Z"
-    },
-    {
-      "id": "22930d99961bd327",
-      "title": "学生向けに釧路港の物流施設見学会、公立大生12人参加",
-      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cF9DSjJyTngzMkVCLXpvY3kzaUtMaC0tNG9MZXE5Wkt3cWdkSDRteXpPcndJam51bnppQmNCUk41aXJDaWlOYXZXcWdaZkJQTzZXSVFvOTd4QQ?oc=5",
-      "source": "北海道新聞デジタル",
-      "category": "物流",
-      "publishedAt": "2026-10-01T06:30:43.000Z"
     }
   ]
 }
