@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:28:49.682Z",
+  "updatedAt": "2026-10-03T05:36:16.059Z",
   "articles": [
     {
       "id": "648a334cca281ba8",
@@ -9,6 +9,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-03T02:23:33.000Z"
+    },
+    {
+      "id": "4503a1ba3306a045",
+      "title": "KMHのプリントヘッド発売は、京セラ株の強気材料を変えるのか？",
+      "description": "Simply Wall Streetが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlJvcGdUOWVFQlJKWTVYczBaa2xsMzg1cnJueGtDOThlNlQzMWNka1BIVzNNSDlFVlREMHNaZTB0cUVaa3JCamx3QnVYbG05QmRKZDhrSlFUbWZkbng1RVJPT3NHY3EtZ0tkRGZIX25hM2JBUVM3aTVzRjZMcWdFNzJ1UlhDeW5VVmF2ZktR0gGTAUFVX3lxTFBNdGR5cDVCejBlWTJEcHd5Z0tBV2xPZE4tYmMtWHlBWUhIa0w1bVJ0NkJ1UEExdzFtMkMyY05SZVFNMHA0VUc3MXByQlNFVG9sblYtXzBXb3ctQm5hbHJnWFcxY2ExcWstZ3E0RlZEaFFTak9aREdhMDFQZFktajIzcGxpMzlOeWxkQ3JuVGhzQklBNA?oc=5",
+      "source": "Simply Wall Street",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-02T22:03:49.000Z"
     },
     {
       "id": "99e2760ffd6af700",
@@ -83,15 +92,6 @@
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
-      "id": "fd64e9178819ea27",
-      "title": "ダイアログ、EC特化3PLで初の倉庫見学会10/7",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jZWNSSkVVcTdNcjd5eU1FblBvV1R0d0JLcjBIOVJvcFphVHVrN25VQ2xTZUQ5RjVVRi1lSHlhOFBXQzRSRGpMOTR3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-02T20:43:56.000Z"
-    },
-    {
       "id": "e2f2d0eab06137b8",
       "title": "食品物流改善展、11月に東京ビッグサイトで開催",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -111,28 +111,28 @@
     },
     {
       "id": "16c1148d49b482b6",
-      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "どうなる運送業界 法律や車両価格の変化で聞こえる「経営できない」の声",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4R0NzZ1JDcUd1SlZzMmhiV29BTzhBWlZjNXBqY2hOQWpEb2FrRmhjdEd5N1QxT0Z4VC1HT3hwUUgwazE4VFRobGpIYTNBUQ?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-10-02T19:25:58.000Z"
+      "publishedAt": "2026-10-02T19:30:36.000Z"
     },
     {
       "id": "a89934ae2eca2ba9",
-      "title": "トラックドライバー「気が付いたら怒鳴っていた」 短気は事故リスクにも - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トラックドライバー「気が付いたら怒鳴っていた」 短気は事故リスクにも",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUlZSRjRJTVZQeVA3WnVabVF0LS1lZk1QYldtZWJFMmVuMmhuX2xva0kybTZnZ05FazVsMk9QQ0dJMkZoRWMtTms1R01ndw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T18:54:30.000Z"
     },
     {
       "id": "3607b7700276be2a",
       "title": "世界食料価格、9月は約4年ぶり高水準 物流混乱や悪天候響く＝ＦＡＯ",
-      "description": "Reutersが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mYnRyb0pOQUxsbERvMVBjc1l2TGdYLWJWWU1QMlZsTkEzVHQtZ3hIT2QwRVN6eVNHai1LT0hTNFlyNHJQaTRlbW54aWE5bEtYQ19MVHFtTTFPT1cyYU1ocUljc3Y0ZXctU2NtZmR6cHgwWGhXQndidmpDRWtEZw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "category": "物流",
       "publishedAt": "2026-10-02T16:08:09.000Z"
     },
@@ -166,9 +166,9 @@
     {
       "id": "33bdfe2cf856a56a",
       "title": "霞ヶ関キャピタル、マレーシアで冷凍自動倉庫開発のMOU締結",
-      "description": "voix.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ニュースメディアVOIXが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11SEZLMklLb3lwZFFLZDZ5dzhtVGk0TUstNG5xWXp3YlFDZnNYR2VDekFwa00zMlR3QUFhdGRBODVPbnc3aEpqYnBib0Z1bzFEaDdB?oc=5",
-      "source": "voix.jp",
+      "source": "ニュースメディアVOIX",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T09:31:51.000Z"
     },
@@ -202,9 +202,9 @@
     {
       "id": "7a1a5e1654348ad5",
       "title": "日本郵便／東京都江東区で15万m2の物流施設を取得、近隣郵便局再編し跡地で不動産開発へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTl9FUHBhMDBZMHo2SXlVdVh0S2FKZmk5OGZ1LVdpaGV1Vl9MRmhkWm1qU0lqVzRzRzk4eXQ1NDktRmxvUmI5ZGtUWHVwR2t5ajNoQg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-02T08:35:17.000Z"
     },
@@ -236,10 +236,10 @@
       "publishedAt": "2026-10-02T07:00:34.000Z"
     },
     {
-      "id": "0387bd2363faa5e1",
+      "id": "4ac1750e50a06889",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3AxZUV0MVdPODFZdDhMYXp4czIyQVp2TGFuZndCRlRMNmh3OTlWaGV5STFORjkxa0tzUUNWdUh5czQ2cUtpUlNJSEMxUHJ4aV9mWWJ1VDIxNjBLQUl1ZjMxcC0?oc=5",
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
@@ -291,10 +291,10 @@
     },
     {
       "id": "490c38667d6be865",
-      "title": "［倒産情報］貨物運送業の流通管財（新潟市中央区）、特別清算開始決定",
-      "description": "新潟日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "［倒産情報］貨物運送業の流通管財（新潟市中央区）、特別清算開始決定 - niigata-nippo.co.jp",
+      "description": "niigata-nippo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nS0gwemhTOVRpSllGdnMzX2IzSjd1enlORmhjb1I5VFNJWmFmRHhhMFdfQjluWmJ0ZDJUSHU4Ym52eEhMeDBDQTRyVUFwUGFfSnEwdExISVljY3lSMEE?oc=5",
-      "source": "新潟日報",
+      "source": "niigata-nippo.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T05:35:00.000Z"
     },
@@ -319,9 +319,9 @@
     {
       "id": "9a63bc84f317225b",
       "title": "次世代物流改革フォーラム～CLO時代の物流戦略～",
-      "description": "events.nikkeibp.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日経BPイベント＆セミナーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Z1hTdi1BYTdUUk5VUVZXNGFSeURqczZSb3hkdHlhX243YW5KVEZkMTl6VmlwTHlnUGwyanhDd1lvYV9KbkxUNHJYX3cwdEJQX0toTVVUNVdRLUUyYTBJ?oc=5",
-      "source": "events.nikkeibp.co.jp",
+      "source": "日経BPイベント＆セミナー",
       "category": "物流",
       "publishedAt": "2026-10-02T05:04:10.000Z"
     },
@@ -425,6 +425,15 @@
       "publishedAt": "2026-10-02T01:30:00.000Z"
     },
     {
+      "id": "67dbbe6645345e40",
+      "title": "飲酒事故で3人死亡 運転手を提訴",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T01:01:11.000Z"
+    },
+    {
       "id": "a65031f26044f548",
       "title": "物流最適化システム「NeLOSS」を提供!! 日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画 (ベストカーWeb)",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -432,15 +441,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-02T01:01:01.000Z"
-    },
-    {
-      "id": "67dbbe6645345e40",
-      "title": "飲酒事故で3人死亡 運転手を提訴",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-02T01:00:04.000Z"
     },
     {
       "id": "d3e2f0059ff8ce32",
@@ -471,10 +471,10 @@
     },
     {
       "id": "6747e0de69a0df09",
-      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その３】／国際物流総合展2026 フォトリポート",
-      "description": "robot digestが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その３】／国際物流総合展2026 フォトリポート - robot-digest.com",
+      "description": "robot-digest.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UQ09WWEFqX0Fldk5FVjJyUWtIZ0xSV044bDdQcjB0azNDMFpjMHgtTmhyQV9OT3Z5TUplVFVHakRjVzE4bmRqZzNxU0JIY09Hc1B2TE54VGNRZGw0bFNra1Q1c2dja0NuY2FR?oc=5",
-      "source": "robot digest",
+      "source": "robot-digest.com",
       "category": "物流",
       "publishedAt": "2026-10-01T21:00:56.000Z"
     },
@@ -633,19 +633,19 @@
     },
     {
       "id": "b7404f97e5dc7551",
-      "title": "適正取引どこ吹く風 「無料でご奉仕」も、あるわあるわ理不尽 - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "適正取引どこ吹く風 「無料でご奉仕」も、あるわあるわ理不尽",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xN3hlN1lsMG9CQ2pjeVByeklDRkVzTXd1SDVyRm9UWDVaT1VyYmRMNktmb040WFpqQzFReUVuQ3JGOG9iUHFHMG1paEI5Zw?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-01T16:24:02.000Z"
     },
     {
       "id": "d36a0a5b04033191",
-      "title": "ヤマト運輸 熊本に寄付、現地で支援業務も - weekly-net.co.jp",
-      "description": "weekly-net.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "ヤマト運輸 熊本に寄付、現地で支援業務も",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUGFGZE1oQ0luY3FBYkp4YzBYd3dLcmM5WHdLUkpaR2htSWVnbm9aR2E1VWlxQ2YtU0JYTEs2ci1hWURhOHUzTnR3eEM5UQ?oc=5",
-      "source": "weekly-net.co.jp",
+      "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-01T13:29:06.000Z"
     },
@@ -679,9 +679,9 @@
     {
       "id": "0b09c4ec24b5e767",
       "title": "食品物流＆3PL総合展／AMRやデバンニングロボ、冷凍倉庫など多彩な展示",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdzUwcXB3Q1FKWHBuaDZmQVpxUTcwUU1yQ3hhNEcza25zLWF0NG5za3RPcVhMS3c2dWd3QWt3Qm80RkdpdDhpM0tNUi1pMnM4dDFwNQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T11:48:36.000Z"
     },
@@ -696,10 +696,10 @@
     },
     {
       "id": "622921b794f661ea",
-      "title": "鳥栖市の運送業「九州甲斐物流」が自己破産申請準備 負債額は約1億円 ＜企業速報＞ | 経済 | 佐賀県のニュース - saga-s.co.jp",
-      "description": "saga-s.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "鳥栖市の運送業「九州甲斐物流」が自己破産申請準備 負債額は約1億円 ＜企業速報＞ | 経済 | 佐賀県のニュース",
+      "description": "佐賀新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUjhLR2VpVmZGTzc4N1poeHd0bXBZTUFrSG5EZjlKN3BPbF9Pckc0b3hUaTRSaVNDeVdBeUc3X253al94MDVqOWJ1VTBqQ1FoZUY5NlZn?oc=5",
-      "source": "saga-s.co.jp",
+      "source": "佐賀新聞",
       "category": "物流",
       "publishedAt": "2026-10-01T11:40:00.000Z"
     },
