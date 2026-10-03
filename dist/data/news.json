@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:35:32.518Z",
+  "updatedAt": "2026-10-03T19:27:45.122Z",
   "articles": [
     {
       "id": "5925d3b97026d220",
@@ -45,6 +45,15 @@
       "source": "物流ウィークリー",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T02:04:07.000Z"
+    },
+    {
+      "id": "5c93b5f39b7c1141",
+      "title": "軽トラックと自転車衝突 小学生が重傷 笛吹",
+      "description": "sannichi.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FY3o5bWdFNTNDb1VCc25fQUZYZHJDRTRZaWQzaW0zT2JvSU5kQVRFSHZvTFhhREwzNjZadm8zVFZUSnJVbnZvUERMUGZXajA1bktBWmZFSkZIVG1faTl3Nk55Qng?oc=5",
+      "source": "sannichi.co.jp",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-03T01:16:49.000Z"
     },
     {
       "id": "4503a1ba3306a045",
@@ -227,6 +236,15 @@
       "publishedAt": "2026-10-02T09:30:12.000Z"
     },
     {
+      "id": "32fc0e00cab793ba",
+      "title": "貨物運送業者「流通管財」が特別清算開始命令、県内企業へ事業譲渡【新潟】（UX新潟テレビ21）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mT2w1LWtveFpma3ZjbWdrTjRvS08wbk95UUpUd2dTMFFyMmVTQVo3SVlDSU5QY3hPUnY5bVdQMDh6MEFOcWoyRkprWjhabXh3SmRKRk11VjNQSDdyTTdBeFVOd3Rtei1oUWpmMlpRalhPbGpNRjE2cTBkVmRxWnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-02T09:10:32.000Z"
+    },
+    {
       "id": "5aa6d09cb95adcec",
       "title": "AEGISAPP運送業がタンクローリー輸送に対応",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -256,9 +274,9 @@
     {
       "id": "abb15dd37340d15a",
       "title": "交通規制の発炎筒、９１００万円割高 納期調整で、首都高に指摘―検査院",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "jiji.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVGRpdHhUVE1XTDVZOGh6Z3hKWml1b3ZWdXhfQ0JPUWNFYmdJU096SlgyNEpYdGl2REtsY1U3TGxmaENJbFNXLU9DUkF6VlEwbk14VWdyQl9VbjBPMkkwS3dfRQ?oc=5",
-      "source": "時事ドットコム",
+      "source": "jiji.com",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T08:15:00.000Z"
     },
@@ -308,15 +326,6 @@
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
     {
-      "id": "1597a666b37b9e67",
-      "title": "［動画］丸全昭和運輸に割安感、港湾物流と国際輸送に強み - media.rakuten-sec.net",
-      "description": "media.rakuten-sec.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13eTJQbVI3ZDFkOF9DNGl4c2NxYXVfZGJfdmVqRV93aXQ0dkFXVHJxOWVlQUNpVWdPTzdlMzY1d1FXMXNxdXF0UmNXMTQycmVGRDlqZ2RsODNtdw?oc=5",
-      "source": "media.rakuten-sec.net",
-      "category": "物流",
-      "publishedAt": "2026-10-02T06:57:00.000Z"
-    },
-    {
       "id": "adf7fd4e7ce13ca0",
       "title": "米原JCT付近で大型車の火災、名神上り線で一時通行止め 10月2日午前 彦根ICー米原JCT",
       "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -353,6 +362,15 @@
       "publishedAt": "2026-10-02T06:12:00.000Z"
     },
     {
+      "id": "9943b11991964ed9",
+      "title": "ヤマト運輸／スマホアプリ「e-TranSpot」機能拡充、法令13事項の安全対策を支援",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNThpZ3lFbGNGckJYMVNJRk9raVI4eHZDcEJvZ3k3Wk51VDItWFVrUkJwd25JTFJhNDFXTkZORWUxRVcwM2l1MTBJYm5Td3RWRHc3eQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-02T05:43:35.000Z"
+    },
+    {
       "id": "b92bc19d8242ae84",
       "title": "中央道／10月3日、八王子JCTの一部ランプを緊急工事のため夜間通行止め",
       "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -380,24 +398,6 @@
       "publishedAt": "2026-10-02T05:15:00.000Z"
     },
     {
-      "id": "db1c1ba8630a545e",
-      "title": "【国道220号】亀割峠 霧島市内でトラック横転事故 10時間ぶり通行止め解除（2日13:50現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Yk9zMDVDeGJQUnVFcEdBSUZjQkNIODZNYnpUeDJlZGt6dktFcUljTTRrRlFwVGtFZXJhMEdnc2V6ODlfMFpBNy0zaTYwMl9DcUotR1I0R2lRQ1dzNkJF?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-02T05:05:34.000Z"
-    },
-    {
-      "id": "9a63bc84f317225b",
-      "title": "次世代物流改革フォーラム～CLO時代の物流戦略～",
-      "description": "日経BPイベント＆セミナーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Z1hTdi1BYTdUUk5VUVZXNGFSeURqczZSb3hkdHlhX243YW5KVEZkMTl6VmlwTHlnUGwyanhDd1lvYV9KbkxUNHJYX3cwdEJQX0toTVVUNVdRLUUyYTBJ?oc=5",
-      "source": "日経BPイベント＆セミナー",
-      "category": "物流",
-      "publishedAt": "2026-10-02T05:04:10.000Z"
-    },
-    {
       "id": "b549a3b89acdf356",
       "title": "消費地近接型物流施設「SOSiLA横浜港北Ⅱ」が竣工",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -414,6 +414,15 @@
       "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T04:27:31.000Z"
+    },
+    {
+      "id": "374ffdfc6cebd288",
+      "title": "オプティマインド、物流AIの技術選定を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lWE42cm5rQXJKSXBDOWVlWUxyMzFtTHdlN1BhUVMzRHU1VjlKbXRrQVJvVF85TnJuYm93WkRwSnd6Tk12ellTakFR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-02T04:13:16.000Z"
     },
     {
       "id": "8991a9aaa43e8f0d",
@@ -461,6 +470,15 @@
       "publishedAt": "2026-10-02T02:50:00.000Z"
     },
     {
+      "id": "dd85a78a6016df6a",
+      "title": "〈ひと〉国土交通省 物流・自動車局車両基準・国際課長に就いた猶野喬さん",
+      "description": "netdenjd.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zbVN5OFJieEp3cGFuczcwaEt3cWN6MzZsSWtoU0ZKYnNtNVV0NVdGTlVrUFJDSm00clkxN2lQSHVXMFc4QUw4aG53TmcxQlZ2TGc?oc=5",
+      "source": "netdenjd.com",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-02T02:34:37.000Z"
+    },
+    {
       "id": "a1a96d9427632714",
       "title": "【マレーシア】Ｊランドと霞ヶ関キャピタル、低温物流で提携（NNA）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -506,6 +524,15 @@
       "publishedAt": "2026-10-02T01:30:00.000Z"
     },
     {
+      "id": "67dbbe6645345e40",
+      "title": "飲酒事故で3人死亡 運転手を提訴",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T01:01:11.000Z"
+    },
+    {
       "id": "a65031f26044f548",
       "title": "物流最適化システム「NeLOSS」を提供!! 日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画 (ベストカーWeb)",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -513,15 +540,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-02T01:01:01.000Z"
-    },
-    {
-      "id": "67dbbe6645345e40",
-      "title": "飲酒事故で3人死亡 運転手を提訴",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HdXJ4NW9leC1LWDJKbDdTamJUdEZHVFBJUEI0MGMwQkgxZjRMMzNITFpyMmFKRTRzeXgwSjBDU3VPRXdkdjVxZ21GNHhsYXpi?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-02T01:00:04.000Z"
     },
     {
       "id": "d3e2f0059ff8ce32",
@@ -614,15 +632,6 @@
       "publishedAt": "2026-10-01T20:50:14.000Z"
     },
     {
-      "id": "cb860a37d8ea017b",
-      "title": "DOORCOM、物流の「ラスト50メートル」を省力化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrV1BDLTJZWjBLN0U1dTdUcnB1QTRRSFpOelpRMjYxb0l0TlBKTzVLNjlZN3kyLUJQeHBQdkRoUlZLN01MWGZqbWtB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-01T20:49:55.000Z"
-    },
-    {
       "id": "3243fcef856c5eb9",
       "title": "運送会社260社調査から探る、人材確保の具体策",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -650,19 +659,19 @@
       "publishedAt": "2026-10-01T20:49:55.000Z"
     },
     {
-      "id": "2acf33426548e18d",
-      "title": "ファーストロジ、EC物流のフルフィルメント提供",
+      "id": "cb860a37d8ea017b",
+      "title": "DOORCOM、物流の「ラスト50メートル」を省力化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UanRTMTFUSXR3ZUtTRzV1MndCMHhPaUdyNHRfcGhIdkR6YTZWSk9vYkloby14UE1GR2Z3RkRFSUpQRVBzWFB4N3pn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrV1BDLTJZWjBLN0U1dTdUcnB1QTRRSFpOelpRMjYxb0l0TlBKTzVLNjlZN3kyLUJQeHBQdkRoUlZLN01MWGZqbWtB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T20:49:55.000Z"
     },
     {
-      "id": "16c5e7b451758df7",
-      "title": "センコーと積水ハウス、住宅の再エネを物流へ循環",
+      "id": "2acf33426548e18d",
+      "title": "ファーストロジ、EC物流のフルフィルメント提供",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QSk9MWUhkaVRlVF9lVDg0WWhmdzJFTnJRSVNrVlZzSXpySnJ1RmFRMkJGbXpEZVYyVHotbzRUQ3Q0U2ZCNUFWNHlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UanRTMTFUSXR3ZUtTRzV1MndCMHhPaUdyNHRfcGhIdkR6YTZWSk9vYkloby14UE1GR2Z3RkRFSUpQRVBzWFB4N3pn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T20:49:55.000Z"
@@ -686,6 +695,15 @@
       "publishedAt": "2026-10-01T20:49:55.000Z"
     },
     {
+      "id": "16c5e7b451758df7",
+      "title": "センコーと積水ハウス、住宅の再エネを物流へ循環",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QSk9MWUhkaVRlVF9lVDg0WWhmdzJFTnJRSVNrVlZzSXpySnJ1RmFRMkJGbXpEZVYyVHotbzRUQ3Q0U2ZCNUFWNHlB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-01T20:49:55.000Z"
+    },
+    {
       "id": "1946fe71deb6d51b",
       "title": "トラック運送の「適正原価」議論 新聞協会などにヒアリング 国交省検討会",
       "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "千葉テレビ放送株式会社",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T17:01:53.000Z"
-    },
-    {
-      "id": "b7404f97e5dc7551",
-      "title": "適正取引どこ吹く風 「無料でご奉仕」も、あるわあるわ理不尽",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xN3hlN1lsMG9CQ2pjeVByeklDRkVzTXd1SDVyRm9UWDVaT1VyYmRMNktmb040WFpqQzFReUVuQ3JGOG9iUHFHMG1paEI5Zw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-01T16:24:02.000Z"
-    },
-    {
-      "id": "d36a0a5b04033191",
-      "title": "ヤマト運輸 熊本に寄付、現地で支援業務も",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUGFGZE1oQ0luY3FBYkp4YzBYd3dLcmM5WHdLUkpaR2htSWVnbm9aR2E1VWlxQ2YtU0JYTEs2ci1hWURhOHUzTnR3eEM5UQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-01T13:29:06.000Z"
     }
   ]
 }
