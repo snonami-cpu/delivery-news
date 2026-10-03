@@ -1,11 +1,20 @@
 {
-  "updatedAt": "2026-10-02T23:24:11.295Z",
+  "updatedAt": "2026-10-03T00:33:40.981Z",
   "articles": [
     {
       "id": "9b2f7ef03b0d2253",
       "title": "UCCコーヒープロフェッショナル、利用運送登録",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2UE40ZXAtOTRuNWJHandVVlZ3MjV0UW44SGRJbFpTTlpaVDc5SnV6YnA4UGNlZE9Ra3ZSSFBIbzNpSjlBNXR3ampR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-02T20:43:56.000Z"
+    },
+    {
+      "id": "5d352471e0e7f3b8",
+      "title": "日本郵便、都心集配再編へ新砂の物流機能拡充",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBweVBlYWZOdnBjU08zLWlKaG5SN3IySHBiQUppV2JNMEFXd092NFhzNUR6STlNV25pZE5JUnF4WUE4WWlHLUpDTWVB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-02T20:43:56.000Z"
@@ -42,15 +51,6 @@
       "title": "物流現場のDX化、AIを活用すればFAX排除は不要",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3b0FZdy1OQXBUcEhmeGVoSmdmNlBwdWpPM0RBdkFvclNkc3M1WHVGNlhicW9zYVZsdmlNSW14dEF4ZHQ1MnZnSGR3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-02T20:37:30.000Z"
-    },
-    {
-      "id": "5d352471e0e7f3b8",
-      "title": "日本郵便、都心集配再編へ新砂の物流機能拡充",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBweVBlYWZOdnBjU08zLWlKaG5SN3IySHBiQUppV2JNMEFXd092NFhzNUR6STlNV25pZE5JUnF4WUE4WWlHLUpDTWVB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-02T20:37:30.000Z"
@@ -130,9 +130,9 @@
     {
       "id": "848a6ffbb11b3737",
       "title": "【開催レポート】株式会社J-オイルミルズ・国土交通省登壇「先進企業から学ぶ、経営のアクセルを踏む『物流組織』の作り方」セミナーを開催しました | 株式会社船井総研サプライチェーンコンサルティングのプレスリリース",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa2pBTlctVENZUU1lQndudDNBNWdXZGdOZG5LRzl2ckEzbDE4Y1k2ODN0NXVXSUY3VzZhVlpzYzA5N1pMc3ZxZkxLVE5GT1RpeDBDWVA0bXI2bkVBYWlHbkwtTWdwV0tUOEE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T12:10:01.000Z"
     },
@@ -146,6 +146,15 @@
       "publishedAt": "2026-10-02T09:52:26.000Z"
     },
     {
+      "id": "7cd94fbba96da324",
+      "title": "新名神事故 原形留めぬ車に遺族涙",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWmVtV21hNWJCMG1wZXZubmF4OFI0TVNDNUxCM0dEbzRISk1reWFBeTRYMDBoTHIydEJQazJoa3ZoNFFqMlRmcmtnMi1QV0ti?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T09:40:00.000Z"
+    },
+    {
       "id": "33bdfe2cf856a56a",
       "title": "霞ヶ関キャピタル、マレーシアで冷凍自動倉庫開発のMOU締結",
       "description": "ニュースメディアVOIXが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -157,36 +166,36 @@
     {
       "id": "7ef9d2683a965ee0",
       "title": "霞ヶ関キャピタルマレーシア、JLG Capitalとマレーシアにおける冷凍自動倉庫等の開発および低温物流インフラにおける事業機会創出に向けたMOUを締結",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1feHJpTTh4cmF0YUh2Ym9SY2pIS3hvNFU2bkx5S2tQRWFlNm9mcjkwenNnOHoyNkFxLVRlanN5V3ZqMWk3UEhzQ1E5MUc3Vl9CWkx0b3Rvb2VQbnB3bG1UOXNxSjMwUS1OT2c?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T09:30:12.000Z"
     },
     {
       "id": "604d9eea2913b9ae",
       "title": "霞ヶ関キャピタルマレーシア、JLG Capitalとマレーシアにおける冷凍自動倉庫等の開発および低温物流インフラにおける事業機会創出に向けたMOUを締結 (2026年10月2日掲載)",
-      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOcGpteVJtVlIxRW02R3d5RzM5dy1FSUlmSDdwNVVuc01aWi13c2p0RGNFZVl1bFAzMXljY0NiMm1MdWx3U3U3YW5FQjJjNFVZWkZqNTBwaU41QktEZWJ4ZUZ3?oc=5",
-      "source": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T09:30:12.000Z"
     },
     {
       "id": "5aa6d09cb95adcec",
       "title": "AEGISAPP運送業がタンクローリー輸送に対応",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NXViTWZGZVZRM3JwaEZyUFdoSWd5azNxV1JHU3FxOEVNUEtTSTROaUJLeENyTlBsczhIcGdJUjd6Vm5PSW5ja1JiNTNJNnRWdUFjX1hWX0lEWk1nYjhJc1RuXzdTcUN2OVE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-10-02T09:06:48.000Z"
     },
     {
       "id": "7a1a5e1654348ad5",
       "title": "日本郵便／東京都江東区で15万m2の物流施設を取得、近隣郵便局再編し跡地で不動産開発へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTl9FUHBhMDBZMHo2SXlVdVh0S2FKZmk5OGZ1LVdpaGV1Vl9MRmhkWm1qU0lqVzRzRzk4eXQ1NDktRmxvUmI5ZGtUWHVwR2t5ajNoQg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-02T08:35:17.000Z"
     },
@@ -245,15 +254,6 @@
       "publishedAt": "2026-10-02T06:26:41.000Z"
     },
     {
-      "id": "85103146f21f1c9e",
-      "title": "【負債は約9,000万円】貨物運送業の流通管財（新潟市中央区）が特別清算開始決定",
-      "description": "にいがた経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QbERUSEhCRzN5Z2FpSUJqLW1ZQnFhenJZbjZWa0FLTWJOS1ZiMWt2cUhaMzVOQU9LbnNWR3ZQd3d0VnJE?oc=5",
-      "source": "にいがた経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-02T06:14:03.000Z"
-    },
-    {
       "id": "c15098462ee5cf82",
       "title": "適正原価の設定に向けた有識者検討会／具体的な金額は議論せず提言後の告示で示す",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -272,6 +272,24 @@
       "publishedAt": "2026-10-02T05:52:19.000Z"
     },
     {
+      "id": "9943b11991964ed9",
+      "title": "ヤマト運輸／スマホアプリ「e-TranSpot」機能拡充、法令13事項の安全対策を支援",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNThpZ3lFbGNGckJYMVNJRk9raVI4eHZDcEJvZ3k3Wk51VDItWFVrUkJwd25JTFJhNDFXTkZORWUxRVcwM2l1MTBJYm5Td3RWRHc3eQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-02T05:43:35.000Z"
+    },
+    {
+      "id": "b92bc19d8242ae84",
+      "title": "中央道／10月3日、八王子JCTの一部ランプを緊急工事のため夜間通行止め",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5eWtPYjhwZHFNcVVVLWJZS180cENqYmRSeUxqdzdEcVh3QXIxZWRPc3NlMVJFdXZ2SkxVb18ycWN2RVB3VnVMOVZhbE5mZFp4UFhCNg?oc=5",
+      "source": "トラックニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-02T05:37:00.000Z"
+    },
+    {
       "id": "d3c0e2c9d61f614d",
       "title": "【速報】霧島市福山町・国道220号が片側交互通行に ニワトリ積んだトラック横転 鹿児島",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -283,9 +301,9 @@
     {
       "id": "9a63bc84f317225b",
       "title": "次世代物流改革フォーラム～CLO時代の物流戦略～",
-      "description": "events.nikkeibp.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日経BPイベント＆セミナーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Z1hTdi1BYTdUUk5VUVZXNGFSeURqczZSb3hkdHlhX243YW5KVEZkMTl6VmlwTHlnUGwyanhDd1lvYV9KbkxUNHJYX3cwdEJQX0toTVVUNVdRLUUyYTBJ?oc=5",
-      "source": "events.nikkeibp.co.jp",
+      "source": "日経BPイベント＆セミナー",
       "category": "物流",
       "publishedAt": "2026-10-02T05:04:10.000Z"
     },
@@ -318,10 +336,10 @@
     },
     {
       "id": "7288de18c01b463b",
-      "title": "【名神】米原市内でトラック火災 通行止め解除には時間がかかる見込み（2日11:30現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【名神】米原市内でトラック火災 通行止め解除には時間がかかる見込み（2日11:30現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYmdMbnhFYnQ5VG9vaVo2eDdxNV8wcjVReDdGM2lKdUlpZGlZY1FqNGdBaWpodXNTRWFGTGVoNjZyZUgyQ04tamFaSGRzWklLeWh1ZnFUdGNXUXdSSXRB?oc=5",
-      "source": "千葉テレビ放送株式会社",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T02:51:03.000Z"
     },
@@ -588,10 +606,10 @@
     },
     {
       "id": "eb3fda163207e251",
-      "title": "【マレーシア】Ｊランドと霞ヶ関キャピタル、低温物流で提携［運輸］",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【マレーシア】Ｊランドと霞ヶ関キャピタル、低温物流で提携［運輸］ - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtekFkX1N3REV2UHE1WDhBUEJIZG1NaldwZFVpZklvWGJwZXQxVVpNLXBkNVVYY3FaMURjbTNUMzZTRUZ3N25rSkozN25HMjhiVHNsU2I0QjRFQmVhUjZJ?oc=5",
-      "source": "千葉テレビ放送株式会社",
+      "source": "chiba-tv.com",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-01T17:01:53.000Z"
     },
@@ -616,9 +634,9 @@
     {
       "id": "46cae30a39e02c4b",
       "title": "伊佐市の国道447号、80歳女性が対向トラックと衝突「頭を強く打ち」死亡",
-      "description": "南日本新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "373news.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91OXQwdHdQdmVFQVBaVFE0VWNSekFMRzR2XzdDV3cyYmQ2dExyU2NuUGhVZTY1RFZ3Vk9LR2JhTHhJZTRIems1VXZneEZMWEJ3NUtmLTJaakg?oc=5",
-      "source": "南日本新聞",
+      "source": "373news.com",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T12:52:00.000Z"
     },
@@ -643,9 +661,9 @@
     {
       "id": "0b09c4ec24b5e767",
       "title": "食品物流＆3PL総合展／AMRやデバンニングロボ、冷凍倉庫など多彩な展示",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdzUwcXB3Q1FKWHBuaDZmQVpxUTcwUU1yQ3hhNEcza25zLWF0NG5za3RPcVhMS3c2dWd3QWt3Qm80RkdpdDhpM0tNUi1pMnM4dDFwNQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-01T11:48:36.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-01T09:51:01.000Z"
-    },
-    {
-      "id": "d6f6bd9bddb49ad0",
-      "title": "トラックの男性2人死亡 東京湾アクアライン・車4台絡む玉突き事故 一部区間で通行止め",
-      "description": "news.livedoor.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uck9LVFFmYlc3Smkzem9DNklvNVg2MTZTbW1WNHA2SEZwYUZKbFNlZVNIaVdmVkg4bWRZMVRYcE1nWHJWS1NjTVR6TDBMOHNudjFZclU1Q1VGc0xWY2FJ?oc=5",
-      "source": "news.livedoor.com",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-01T09:35:21.000Z"
-    },
-    {
-      "id": "0098f7b79fa6843b",
-      "title": "鴻池運輸、配送管理一元化で月3人分の業務減 運賃・車両情報集約",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNDJBZVpOa052dHREeWdaVWpGUVV0Y1NTcUJnbFpxcUlXWElfMS02ZVhjV2YwaklZaTVhaXlkYjV4LUJXdUlpVFVfUDg3cFFSWkZ0anNvZFVqdmJETXJoMG4zUklDMFU3SHZsWQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-01T09:26:26.000Z"
     }
   ]
 }
