@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:25:29.868Z",
+  "updatedAt": "2026-10-04T22:27:08.850Z",
   "articles": [
     {
       "id": "bb5782c520c8c6f1",
@@ -66,19 +66,19 @@
     },
     {
       "id": "4d0857bf6eb7ada6",
-      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント",
-      "description": "岐阜新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント - gifu-np.co.jp",
+      "description": "gifu-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hc1R4cjRaRjRNMnp0TUxHYWVPMGZrT21aLXd2aGhhZi1tRnJ6UkRHdzUxazY5dFZFMHdTS3dfTWlpUnpDMWJIWHExNTFBQ2F4UnlMODln?oc=5",
-      "source": "岐阜新聞デジタル",
+      "source": "gifu-np.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T20:00:00.000Z"
     },
     {
       "id": "c4a22c01a7654409",
       "title": "二重壁断熱ボックス市場、医薬品コールドチェーン需要を背景に2035年まで拡大へ",
-      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVh5TmtBb3JwVEZtY2cxeUVlZUtxSUF2a0lBOVA5YUZsSldpRlNKeEJiQzd2UzZFa1lsckRRRnNLd0ZURG9tWmNhMl9zNFBBTVkxUGVrQnJhc0lMTkF1MW1CdzhnTm1ENklQRVQwTk9VTWRic1hiSmo0Y3RaVWNIcHpHQVhrYWxsOFMtX1M4Sm1sRkE4QUFGVkluOGF3M2t0X3RJbGRvWkVibDJMVGhVVkZxT1FrdTluc0hfcFliS3h4MnQxVllDTw?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-03T15:41:03.000Z"
     },
@@ -90,6 +90,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-03T15:27:30.000Z"
+    },
+    {
+      "id": "09bcde0409aaf212",
+      "title": "輸送機器、アクセスクレードル、荷役ドック設備市場は2035年まで拡大へ、Eコマース物流が成長を牽引 - ニュースと統計",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWptazZxb2JFOXdnMkx5QU1XV292aXgzMFdjdFRzZVA0SGthY3RoblBvWm11MTNKbi02NEJCRVB4dlpWMDhyTmVEdXdWaW5MczV2ZXc1cVBuS3NEbXlaRmpsLWtBU0VWa25HYW1pUGdicWFUeHNnVzBkMkhLU2xlRGxab25uaXk1emZKLW5NOTV5RjNmQkZQZ291Q1BRRlRoeHZxRjV0ZXRZX2pIdkhRSi1hT04xc0dZS2d1eDV4cjJHbEY1cU5YMy1VWU9ZR0lxcEFJSFRVeUxkV3JyX0xuTjZmcldGSmc?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-03T11:46:04.000Z"
     },
     {
       "id": "3942e1779bf53fd2",
@@ -120,10 +129,10 @@
     },
     {
       "id": "793bccf11cde7e87",
-      "title": "コクヨ、１７６億円投じ滋賀に最大規模の物流拠点 新配送センター造成工事に着手 - weekly-osakanichi2.net",
-      "description": "weekly-osakanichi2.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "コクヨ、１７６億円投じ滋賀に最大規模の物流拠点 新配送センター造成工事に着手",
+      "description": "週刊大阪日日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMHFJenpnSFZCbFJQcm9USElXVDRubTd5aWlhMzhLR3BxZ0VTUzFUUjhzbUZXc0YyR2VOMW1HclN4c3FkQmVjanBlQm5RVWRHQkQ2Yjlkb1o?oc=5",
-      "source": "weekly-osakanichi2.net",
+      "source": "週刊大阪日日新聞",
       "category": "物流",
       "publishedAt": "2026-10-03T03:46:34.000Z"
     },
@@ -254,21 +263,21 @@
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
-      "id": "e2f2d0eab06137b8",
-      "title": "食品物流改善展、11月に東京ビッグサイトで開催",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OTWlEUTQ1RThsX0trdnV4MDRHODFoWDJzSDh4dG52TlJyS3NiSmxWcWVHazJRX3lCTnZuSUdvRWsxWnZXYjhYNnJ3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-02T20:43:56.000Z"
-    },
-    {
       "id": "aa9ac11182eaddff",
       "title": "物流標準化はAI同士の会話で、Hacobu社長が構想",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yNk9CTl8tNWFzSkNHY0R4ZDMzQ0pfa0V1X2tDN2lKZThqZGpqWXZrdVpsUnZjaHlyUVZnb1ZOWWJBQ2J4Qnc2YUJB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
+      "publishedAt": "2026-10-02T20:43:56.000Z"
+    },
+    {
+      "id": "e2f2d0eab06137b8",
+      "title": "食品物流改善展、11月に東京ビッグサイトで開催",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OTWlEUTQ1RThsX0trdnV4MDRHODFoWDJzSDh4dG52TlJyS3NiSmxWcWVHazJRX3lCTnZuSUdvRWsxWnZXYjhYNnJ3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
@@ -283,9 +292,9 @@
     {
       "id": "3607b7700276be2a",
       "title": "世界食料価格、9月は約4年ぶり高水準 物流混乱や悪天候響く＝ＦＡＯ | ロイター",
-      "description": "Reutersが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "reuters.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mYnRyb0pOQUxsbERvMVBjc1l2TGdYLWJWWU1QMlZsTkEzVHQtZ3hIT2QwRVN6eVNHai1LT0hTNFlyNHJQaTRlbW54aWE5bEtYQ19MVHFtTTFPT1cyYU1ocUljc3Y0ZXctU2NtZmR6cHgwWGhXQndidmpDRWtEZw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "category": "物流",
       "publishedAt": "2026-10-02T16:08:09.000Z"
     },
@@ -389,6 +398,15 @@
       "publishedAt": "2026-10-02T08:35:17.000Z"
     },
     {
+      "id": "0098f7b79fa6843b",
+      "title": "鴻池運輸、配送管理一元化で月3人分の業務減 運賃・車両情報集約",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNDJBZVpOa052dHREeWdaVWpGUVV0Y1NTcUJnbFpxcUlXWElfMS02ZVhjV2YwaklZaTVhaXlkYjV4LUJXdUlpVFVfUDg3cFFSWkZ0anNvZFVqdmJETXJoMG4zUklDMFU3SHZsWQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-02T08:03:53.000Z"
+    },
+    {
       "id": "7fb1bfc124d6bd27",
       "title": "日本郵便が東京・新砂の大型物流施設を取得、既存局の郵便・物流機能を集約へ - LOGI-BIZ online",
       "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -400,9 +418,9 @@
     {
       "id": "e4894bce5d9dade8",
       "title": "冷凍食品ラベルの世界市場（2026年～2032年）、市場規模（コート紙、合成紙、クラフト紙、その他）・分析レポートを発表",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mUDl3TGpHUmZ5ZnhITjAtaVU0dmVldkhROHdDenFiVUVRZGoxLTlGVEVueWNzbGFKX1RJRGdnVnV3WWZjVkJGNjExTkpvZ1U?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T07:30:00.000Z"
     },
@@ -436,9 +454,9 @@
     {
       "id": "0387bd2363faa5e1",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
@@ -535,11 +553,20 @@
     {
       "id": "d3c0e2c9d61f614d",
       "title": "【速報】霧島市福山町・国道220号が片側交互通行に ニワトリ積んだトラック横転 鹿児島",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ0EtTjFPX0RnOWVFdE81QlVZbXNIT0p4WWVtU2swUFhoWlBMN05XbUMtX2dpa0ZtNG92azhIYVRENjJtMm5PWFdhaWRVeWlVRGJYd3hLREFjUkNVcTBpaDgxY3g?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T05:15:00.000Z"
+    },
+    {
+      "id": "db1c1ba8630a545e",
+      "title": "【国道220号】亀割峠 霧島市内でトラック横転事故 10時間ぶり通行止め解除（2日13:50現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Yk9zMDVDeGJQUnVFcEdBSUZjQkNIODZNYnpUeDJlZGt6dktFcUljTTRrRlFwVGtFZXJhMEdnc2V6ODlfMFpBNy0zaTYwMl9DcUotR1I0R2lRQ1dzNkJF?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T05:05:34.000Z"
     },
     {
       "id": "3a36a9c042ebd0f8",
@@ -589,17 +616,17 @@
     {
       "id": "b2e0321e0e1369cc",
       "title": "札幌市白石区の横断歩道で男性がトラックにはねられる 病院搬送時に意識あり",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU3N3bzNhMkVtbnozUHFMWW44TEtfRzk5NmYyU2QwRkpiUnUtNjFYMHhiOVRtTjM4blJOY3dRUjJzaGxVRFg3WEF4bmEzdmFTLWFZSVBHdkdZQQ?oc=5",
-      "source": "HTB 北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T03:21:00.000Z"
     },
     {
-      "id": "7fcc494142532840",
+      "id": "ba9213d4d0985240",
       "title": "霧島市の国道220号 鶏を積んだ10トントラック横転 全面通行止め続く 鹿児島",
       "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZDA4anFsQ2UyY0RiU3lrRXEzZDVFNFFRY2VSR25jU1pJNU5DajVCYzVxQ0tsOWRCenFqN05VMGdsLW5KcFZkei1Gcm9XbWM2dnJjTHc1bW1pNE1Z0gFiQVVfeXFMTVdDSjJIWDcyQXFEc0psMEtnZHhIR1Q0N2hOOHcyV1REWWpHdXAtQlRvWEtUaWN2U2NjMjdCRXdNY0J2ZW9RbDdNT3l6T0RmU2ZURkh6aVpxeGxqSDJ6b29DUWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZDA4anFsQ2UyY0RiU3lrRXEzZDVFNFFRY2VSR25jU1pJNU5DajVCYzVxQ0tsOWRCenFqN05VMGdsLW5KcFZkei1Gcm9XbWM2dnJjTHc1bW1pNE1Z?oc=5",
       "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T03:00:00.000Z"
@@ -652,9 +679,9 @@
     {
       "id": "091e8e64bd297fb2",
       "title": "ダイセーエブリー二十四、中央高速運輸を子会社化…長野エリアの空白を埋め全国コールドチェーン網を強化",
-      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "response.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZVG1QSlpyVGFJLXY2bHZYV2JJQ3htelc1eUs5ajYtLXNuZUpRaWRpMUlSdFpHX2tvbThCY3JqOWpOS0E0UnNZTEhuMG5ldDVhU2tkUXVZcERFQ0V2Z0Jz?oc=5",
-      "source": "レスポンス（Response.jp）",
+      "source": "response.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T01:45:03.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T01:00:04.000Z"
-    },
-    {
-      "id": "d3e2f0059ff8ce32",
-      "title": "物流最適化システム「NeLOSS」を提供!! 日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画",
-      "description": "fullload.bestcarweb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vOHlubkgzQTVyN2lzbTZSMWw0bzRDa21raXp2dmZESkJ0blFfX1poVnVJSHhkQS1saWhUazJpSG5ncnVUcWhxWEMwMTBFWXp0YURKQQ?oc=5",
-      "source": "fullload.bestcarweb.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-02T01:00:00.000Z"
-    },
-    {
-      "id": "73153b2b26953469",
-      "title": "「モノ」から「コト」へ。ジャロック、物流現場の“困った”から 解決策を探せる公式サイトへリニューアル",
-      "description": "atpress.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYS02ODI3anhVWm9FUnFOVUFvNXhzZmJvbFpoaHV1RFFQR1dGZUMwM1JNTDduSTUzZWc1aVNUeWdxXzJFWnlaRk1pd0cxUQ?oc=5",
-      "source": "atpress.ne.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-02T00:30:00.000Z"
-    },
-    {
-      "id": "f4710db47b32bc8d",
-      "title": "Amazon、「貧困地域差別」訴訟で和解 配送優遇から除外で返金",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13NXZ6OXBlcTFNWmpzcWV5QWF0ZHRmLXlGYjBfbkI2dFdGNWFad0stZ3VfeVFKcWZZcEdnSmNSanQwUUhHTVNUUlVyekplOWhYUVNrYi1pWXJST0I3Y3M5WDB4cTFvSmI0dXFpRw?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-01T23:12:17.000Z"
     }
   ]
 }
