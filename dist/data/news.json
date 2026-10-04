@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:38:16.918Z",
+  "updatedAt": "2026-10-04T05:18:05.026Z",
   "articles": [
     {
       "id": "4d0857bf6eb7ada6",
@@ -27,6 +27,15 @@
       "source": "サンテレビ",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T04:53:00.000Z"
+    },
+    {
+      "id": "3942e1779bf53fd2",
+      "title": "国交省がドライバーモニタリング義務化へ→新車の価格高騰や実効性を懸念や、それよりも先に実装すべきものも多いのではないか？という声が多数寄せられている",
+      "description": "Togetterが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lSkF4Wk1aMkVSRF9nZnMxT05xMGIzZ3A1VUNHMnZMNS1QczcyemZjd09keENvNDlhS3VZWGtqUS1jczVtSmc?oc=5",
+      "source": "Togetter",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-03T02:59:12.000Z"
     },
     {
       "id": "16c1148d49b482b6",
@@ -67,9 +76,9 @@
     {
       "id": "d51d30ad3a829275",
       "title": "KMHのプリントヘッド発売は、京セラ株の強気材料を変えるのか？",
-      "description": "Simply Wall Streetが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "simplywall.stが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXRkeXA1QnowZVkyRHB3eWdLQVdsT2ROLWJjLVh5QVlISGtMNW1SdDZCdVBBMXcxbTJDMmNOUmVRTTBwNFVHNzFwckJTRVRvbG5WLV8wV293LUJuYWxyZ1hXMWNhMXFrLWdxNEZWRGhRU2pPWkRHYTAxUGRZLWoyM3BsaTM5TnlsZENyblRoc0JJQTTSAZMBQVVfeXFMUE10ZHlwNUJ6MGVZMkRwd3lnS0FXbE9kTi1iYy1YeUFZSEhrTDVtUnQ2QnVQQTF3MW0yQzJjTlJlUU0wcDRVRzcxcHJCU0VUb2xuVi1fMFdvdy1CbmFscmdYVzFjYTFxay1ncTRGVkRoUVNqT1pER2EwMVBkWS1qMjNwbGkzOU55bGRDcm5UaHNCSUE0?oc=5",
-      "source": "Simply Wall Street",
+      "source": "simplywall.st",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T22:03:50.000Z"
     },
@@ -220,9 +229,9 @@
     {
       "id": "33bdfe2cf856a56a",
       "title": "霞ヶ関キャピタル、マレーシアで冷凍自動倉庫開発のMOU締結",
-      "description": "voix.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ニュースメディアVOIXが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11SEZLMklLb3lwZFFLZDZ5dzhtVGk0TUstNG5xWXp3YlFDZnNYR2VDekFwa00zMlR3QUFhdGRBODVPbnc3aEpqYnBib0Z1bzFEaDdB?oc=5",
-      "source": "voix.jp",
+      "source": "ニュースメディアVOIX",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-02T09:31:51.000Z"
     },
@@ -274,20 +283,11 @@
     {
       "id": "7a1a5e1654348ad5",
       "title": "日本郵便／東京都江東区で15万m2の物流施設を取得、近隣郵便局再編し跡地で不動産開発へ",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTl9FUHBhMDBZMHo2SXlVdVh0S2FKZmk5OGZ1LVdpaGV1Vl9MRmhkWm1qU0lqVzRzRzk4eXQ1NDktRmxvUmI5ZGtUWHVwR2t5ajNoQg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-02T08:35:17.000Z"
-    },
-    {
-      "id": "abb15dd37340d15a",
-      "title": "交通規制の発炎筒、９１００万円割高 納期調整で、首都高に指摘―検査院",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVGRpdHhUVE1XTDVZOGh6Z3hKWml1b3ZWdXhfQ0JPUWNFYmdJU096SlgyNEpYdGl2REtsY1U3TGxmaENJbFNXLU9DUkF6VlEwbk14VWdyQl9VbjBPMkkwS3dfRQ?oc=5",
-      "source": "時事ドットコム",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-02T08:15:00.000Z"
     },
     {
       "id": "e4894bce5d9dade8",
@@ -301,9 +301,9 @@
     {
       "id": "6c6ad93ceab91991",
       "title": "日本GLP／熊本県菊池市に1.8万m2のSSX専用物流施設「Marq 熊本菊池」竣工",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wS0FNR09NSU9oWTlTNVBuVDVWSkdac1EtWkNmcFdRQS1MRDdpYnJpNWphbHNQS0ZLVXotUXJZeE03M25hMmtlVlg5Z200Sm9KWk16Tg?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-02T07:20:17.000Z"
     },
@@ -326,10 +326,10 @@
       "publishedAt": "2026-10-02T07:00:00.000Z"
     },
     {
-      "id": "0387bd2363faa5e1",
+      "id": "4ac1750e50a06889",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tQ3AxZUV0MVdPODFZdDhMYXp4czIyQVp2TGFuZndCRlRMNmh3OTlWaGV5STFORjkxa0tzUUNWdUh5czQ2cUtpUlNJSEMxUHJ4aV9mWWJ1VDIxNjBLQUl1ZjMxcC0?oc=5",
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
@@ -337,18 +337,18 @@
     {
       "id": "adf7fd4e7ce13ca0",
       "title": "米原JCT付近で大型車の火災、名神上り線で一時通行止め 10月2日午前 彦根ICー米原JCT",
-      "description": "47news.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lanR3NnpEeW9USWcyTWdHdG91bUllTElJdTl5TC1oRm5OVThsY0h6b0NScHJBVEtlWFJtajdLUGdrS1h4Y1d2UjdqNA?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T06:30:00.000Z"
     },
     {
       "id": "7288de18c01b463b",
-      "title": "【名神】米原市内でトラック火災 5時間ぶり通行止め解除（2日15:00現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "【名神】米原市内でトラック火災 5時間ぶり通行止め解除（2日15:00現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYmdMbnhFYnQ5VG9vaVo2eDdxNV8wcjVReDdGM2lKdUlpZGlZY1FqNGdBaWpodXNTRWFGTGVoNjZyZUgyQ04tamFaSGRzWklLeWh1ZnFUdGNXUXdSSXRB?oc=5",
-      "source": "千葉テレビ放送株式会社",
+      "source": "chiba-tv.com",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T06:16:32.000Z"
     },
@@ -373,9 +373,9 @@
     {
       "id": "9943b11991964ed9",
       "title": "ヤマト運輸／スマホアプリ「e-TranSpot」機能拡充、法令13事項の安全対策を支援",
-      "description": "lnews.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNThpZ3lFbGNGckJYMVNJRk9raVI4eHZDcEJvZ3k3Wk51VDItWFVrUkJwd25JTFJhNDFXTkZORWUxRVcwM2l1MTBJYm5Td3RWRHc3eQ?oc=5",
-      "source": "lnews.jp",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-02T05:43:35.000Z"
     },
@@ -407,6 +407,15 @@
       "publishedAt": "2026-10-02T05:15:00.000Z"
     },
     {
+      "id": "db1c1ba8630a545e",
+      "title": "【国道220号】亀割峠 霧島市内でトラック横転事故 10時間ぶり通行止め解除（2日13:50現在） - chiba-tv.com",
+      "description": "chiba-tv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Yk9zMDVDeGJQUnVFcEdBSUZjQkNIODZNYnpUeDJlZGt6dktFcUljTTRrRlFwVGtFZXJhMEdnc2V6ODlfMFpBNy0zaTYwMl9DcUotR1I0R2lRQ1dzNkJF?oc=5",
+      "source": "chiba-tv.com",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-02T05:05:34.000Z"
+    },
+    {
       "id": "b549a3b89acdf356",
       "title": "消費地近接型物流施設「SOSiLA横浜港北Ⅱ」が竣工",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -423,15 +432,6 @@
       "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T04:27:31.000Z"
-    },
-    {
-      "id": "374ffdfc6cebd288",
-      "title": "オプティマインド、物流AIの技術選定を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lWE42cm5rQXJKSXBDOWVlWUxyMzFtTHdlN1BhUVMzRHU1VjlKbXRrQVJvVF85TnJuYm93WkRwSnd6Tk12ellTakFR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-02T04:13:16.000Z"
     },
     {
       "id": "8991a9aaa43e8f0d",
@@ -454,11 +454,20 @@
     {
       "id": "b2e0321e0e1369cc",
       "title": "札幌市白石区の横断歩道で男性がトラックにはねられる 病院搬送時に意識あり",
-      "description": "HTB北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU3N3bzNhMkVtbnozUHFMWW44TEtfRzk5NmYyU2QwRkpiUnUtNjFYMHhiOVRtTjM4blJOY3dRUjJzaGxVRFg3WEF4bmEzdmFTLWFZSVBHdkdZQQ?oc=5",
-      "source": "HTB北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T03:21:00.000Z"
+    },
+    {
+      "id": "7fcc494142532840",
+      "title": "霧島市の国道220号 鶏を積んだ10トントラック横転 全面通行止め続く 鹿児島",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZDA4anFsQ2UyY0RiU3lrRXEzZDVFNFFRY2VSR25jU1pJNU5DajVCYzVxQ0tsOWRCenFqN05VMGdsLW5KcFZkei1Gcm9XbWM2dnJjTHc1bW1pNE1Z0gFiQVVfeXFMTVdDSjJIWDcyQXFEc0psMEtnZHhIR1Q0N2hOOHcyV1REWWpHdXAtQlRvWEtUaWN2U2NjMjdCRXdNY0J2ZW9RbDdNT3l6T0RmU2ZURkh6aVpxeGxqSDJ6b29DUWc?oc=5",
+      "source": "Infoseek",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-02T03:00:00.000Z"
     },
     {
       "id": "b8b4c92585353905",
@@ -576,6 +585,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T23:12:03.000Z"
+    },
+    {
+      "id": "ab0fcd1f0b90286b",
+      "title": "アイティエス ＤＸ化で負担軽減、働きやすい職場へ｜運送会社",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42RkxqYnFPc1ZaUzZmclU0c0dtRnczaE9ETTlSNFlRQkNiN0YxZXZTREMySkNsNl95WVpaVC11MFZVSVpHQTQyZUxWbHd4UGtFNmc?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-01T21:30:15.000Z"
     },
     {
       "id": "6747e0de69a0df09",
@@ -702,24 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-01T20:49:55.000Z"
-    },
-    {
-      "id": "16c5e7b451758df7",
-      "title": "センコーと積水ハウス、住宅の再エネを物流へ循環",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QSk9MWUhkaVRlVF9lVDg0WWhmdzJFTnJRSVNrVlZzSXpySnJ1RmFRMkJGbXpEZVYyVHotbzRUQ3Q0U2ZCNUFWNHlB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-01T20:49:55.000Z"
-    },
-    {
-      "id": "1946fe71deb6d51b",
-      "title": "トラック運送の「適正原価」議論 新聞協会などにヒアリング 国交省検討会",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Ykl1WnVEUHRMLUxVX2JLcjVmc0xOamloRGwyblNkT2o2VlRianJGcFh2VkxqcnpLdjRmLWxjZDVWYk9FNmd2MXhwMnZqaEhjQzFYTFY0dzA3bmVB?oc=5",
-      "source": "朝日新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-01T20:00:00.000Z"
     }
   ]
 }
