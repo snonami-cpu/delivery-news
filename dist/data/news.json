@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-04T23:25:28.106Z",
+  "updatedAt": "2026-10-05T00:38:14.243Z",
   "articles": [
+    {
+      "id": "aba58bb214a64102",
+      "title": "レポートオーシャン株式会社プレスリリース : 温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・生鮮食品の輸送品質を支える低温物流需要が成長を牽引",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mbk1iVWE2Q3hJVUNKUlY3QlprOTBwTVlpUzNJdlo0ck9aellmeEtid1lJTWNLWTdtNVhndy05bElRdWxrbDFCbE5KVEJYa0VycnlzcjhPbGxoLUp0VGJTUjNBM05zOGdTR3c?oc=5",
+      "source": "Excite エキサイト",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-05T00:00:00.000Z"
+    },
     {
       "id": "6f17d6bce635eb3a",
       "title": "海運大手 日本郵船と商船三井の決算比較 総合物流と資源輸送で攻める日本郵船と非海運・安定収益化を強める商船三井の違い",
@@ -18,15 +27,6 @@
       "source": "新横浜新聞（しんよこ新聞）",
       "category": "物流",
       "publishedAt": "2026-10-04T15:03:12.000Z"
-    },
-    {
-      "id": "1e19eeda6f596b52",
-      "title": "【舞鶴若狭道】若狭町内でトラック事故 4時間ぶり通行止め解除（4日22:30現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aa3kxWkNaNkFlUC1tWF9SX0F5SkFfUUJiQ1lIakdhdGxwZDNITlNpeHF2Uk5LRS1ydzhZd0RBOUhoOVowN3I1Z0R1NlhHdkd3TlZsWHMzaVIzTWZ2R3Bv?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-04T13:31:17.000Z"
     },
     {
       "id": "214b4321b2bb0f2d",
@@ -75,10 +75,10 @@
     },
     {
       "id": "4d0857bf6eb7ada6",
-      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント - gifu-np.co.jp",
-      "description": "gifu-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント",
+      "description": "岐阜新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hc1R4cjRaRjRNMnp0TUxHYWVPMGZrT21aLXd2aGhhZi1tRnJ6UkRHdzUxazY5dFZFMHdTS3dfTWlpUnpDMWJIWHExNTFBQ2F4UnlMODln?oc=5",
-      "source": "gifu-np.co.jp",
+      "source": "岐阜新聞デジタル",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T20:00:00.000Z"
     },
@@ -184,9 +184,9 @@
     {
       "id": "93c3af00a5e03b4f",
       "title": "土曜の夜間に「八王子JCT」で緊急工事！ 中央道→圏央道が一部通行止めに 迂回路は？",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaENDc2p3ZTlmLXY1U3Y3VXBYbTFSVVNHR0ExekFZUm85SHptLVVlTUZyYVZEakZlUkJUX1M2SkFvUnBmTmlDOWwwZUp0bF9aTUtEbnJoMzJjUzgzVFdnSXdpd2p0M09fN0hRQnpGSEpWaWRObnZCbFBLcm1jQXR4Vk91cXhzbVXSAYcBQVVfeXFMTmhDQ3Nqd2U5Zi12NVN2N1VwWG0xUlVTR0dBMXpBWVJvOUh6bS1VZU1GcmFWRGpGZVJCVF9TNkpBb1JwZk5pQzlsMGVKdGxfWk1LRG5yaDMyY1M4M1RXZ0l3aXdqdDNPXzdIUUJ6RkhKVmlkTm52QmxQS3JtY0F0eFZPdXF4c21V?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T22:12:00.000Z"
     },
@@ -416,6 +416,15 @@
       "publishedAt": "2026-10-02T08:35:17.000Z"
     },
     {
+      "id": "abb15dd37340d15a",
+      "title": "交通規制の発炎筒、９１００万円割高 納期調整で、首都高に指摘―検査院",
+      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVGRpdHhUVE1XTDVZOGh6Z3hKWml1b3ZWdXhfQ0JPUWNFYmdJU096SlgyNEpYdGl2REtsY1U3TGxmaENJbFNXLU9DUkF6VlEwbk14VWdyQl9VbjBPMkkwS3dfRQ?oc=5",
+      "source": "時事ドットコム",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-02T08:15:00.000Z"
+    },
+    {
       "id": "0098f7b79fa6843b",
       "title": "鴻池運輸、配送管理一元化で月3人分の業務減 運賃・車両情報集約",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -625,9 +634,9 @@
     {
       "id": "b2e0321e0e1369cc",
       "title": "札幌市白石区の横断歩道で男性がトラックにはねられる 病院搬送時に意識あり",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU3N3bzNhMkVtbnozUHFMWW44TEtfRzk5NmYyU2QwRkpiUnUtNjFYMHhiOVRtTjM4blJOY3dRUjJzaGxVRFg3WEF4bmEzdmFTLWFZSVBHdkdZQQ?oc=5",
-      "source": "HTB 北海道テレビ",
+      "source": "htb.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T03:21:00.000Z"
     },
@@ -695,31 +704,22 @@
       "publishedAt": "2026-10-02T01:45:03.000Z"
     },
     {
+      "id": "64bcb828ab47f924",
+      "title": "ダイセーエブリー二十四、中央高速運輸を子会社化…長野エリアの空白を埋め全国コールドチェーン網を強化 1枚目の写真・画像",
+      "description": "レスポンス（Response.jp）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MeDlCa3J4TzJQcVZDOHBOUFMzWkM2eVAyR0l0VzlseGpHQXNZMDlwWGJCckVDNGh0QWJBN2tzeGt0bE5nd1E2enBkcEhHMUtSazhBMFpGVGhDNlNaR0xrbUlXUGo1OFNqV0p5aUFaTQ?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-02T01:45:03.000Z"
+    },
+    {
       "id": "3f6c29b52840c5da",
       "title": "名神高速道路上り線の区間で一時通行止め 滋賀県内、車両火災の影響",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "topics.smt.docomo.ne.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZmhacjBRWFpXcTFRNzd3V3VUWWRPNzVMTW5VMGVGOUVPWEg4aXItUEg4OW16VkdNYTdWSkxwSVZaYU1fN0c0MHZCZ0s4NzJacGZlQTdyajNhbG13a2FwVGctZGVsOHRpZ0VOV08wRXlKSzQ5QUMwUTNmVWpHRzBGaWt3SzdRUdIBiwFBVV95cUxOUmtxcDNkU2o4aDFyamIxcHVoWkgwQW1kRGhENlNMQzlSUFhnR2llT0ZrYzJjQXF6Z3RWQV9NeUtkSUFoT3ZHeS1tTmVPcWFaMGpsZFZxSmdEYnJFY3ZJRG1qbkN3b3VleDhSU3o3czZ2cG0zNk5XRUZuX3hyQS1VaWVwV1JMc1JaWDNj?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T01:42:00.000Z"
-    },
-    {
-      "id": "dcdd68e1a77ce272",
-      "title": "パナソニック最大の物流拠点／3時間超え会見でニデック新社長は何を語った？",
-      "description": "monoist.itmedia.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScFpDazFaMUtpVXBXeTRpN3dKMk0xc1MtRkFlSksxN01pZENFZDRYcXBWZmhBNHI2NGdLZlA3R0UxMlhQYnFBMWhNZ01EQ2tXbEFEazdKWjRpVVFxMnlEc2RQTDYzRG1FeVpxb3FmSQ?oc=5",
-      "source": "monoist.itmedia.co.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-02T01:30:00.000Z"
-    },
-    {
-      "id": "a65031f26044f548",
-      "title": "物流最適化システム「NeLOSS」を提供!! 日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画 (ベストカーWeb)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmVoY2pBWjM0OFZzUGNNX0xYbWlYSWtMbjA1RnBhU1I4cERrQ2VJTUxLSUUwS1pTWmV2eFpHY05lS19hMFJsbTl0d1ZrbUtsVGFDRFp4TmRWV204Z1dYRjRLdmhKQjJfWktJNUxXZWlqNm9ZbEdFaFpGajdMNlBwMmVydWx0RW5IY3FQZ0xn?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-02T01:01:01.000Z"
     }
   ]
 }
