@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-05T03:30:51.409Z",
+  "updatedAt": "2026-10-05T04:31:36.885Z",
   "articles": [
+    {
+      "id": "697a96bd2c8cfd43",
+      "title": "住友商事／横浜港北に11.2万m2の物流施設竣工、危険物倉庫も併設",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02RjF6d2puX0xENlNmMWJDQjRsVi1NYnhYZjhjbnpwU1VUbXhuMkNPLWdhT2ZwaGk1Z2hEZGNYaDRIWjg5ODJ4Y0V2TlpOLU9Ebnh0MA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-05T04:09:18.000Z"
+    },
+    {
+      "id": "39b62029dec16c4e",
+      "title": "「T-LOGI」シリーズ関東最大の物流施設「T-LOGI南船橋」竣工 配送効率と人材確保に配慮した都心近接の湾岸立地、屋上太陽光の余剰電力を都心で活用",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMSm56aFBZQTBVRjlBdGp6bFJvaEZ1OW93MzhQMUdvd1F5dXdPMmJyZWFLemRMaWRQMFp4RGR6WU5QLTJNS21wZEFsQVptVmJ3dnc0WGZlMGlldU42RmN4cjkyRnZYVjBZVkE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-05T04:00:02.000Z"
+    },
     {
       "id": "630e401045a12d71",
       "title": "霞ヶ関キャピタルマレーシア、現地企業と冷凍自動倉庫の開発や低温物流インフラの事業機会創出で連携 - LOGI-BIZ online",
@@ -31,9 +49,9 @@
     {
       "id": "06382f676aadfe2f",
       "title": "【物流DX】総合クラウド点呼システム「IT点呼キーパー」、新機能「遠隔地自動点呼」を2026年10月14日より提供開始！",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvOE0tekRpeFYzM1ZpNG5YdmhkQjhvYWZQTEN5bHQ1TnZyUVhocDdLaEYwZkxYMDEwakNKMnM2aEpsejhMRXVJUmMxanZhWGJDVy1GbnhpVm5XVE4xVlgyNHB0Z3hlV0hrVUE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-10-05T01:04:24.000Z"
     },
@@ -67,9 +85,9 @@
     {
       "id": "6f17d6bce635eb3a",
       "title": "海運大手 日本郵船と商船三井の決算比較 総合物流と資源輸送で攻める日本郵船と非海運・安定収益化を強める商船三井の違い",
-      "description": "SmartNewsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "smartnews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimwZBVV95cUxOZHVvZnVGTl85X19LRjM1dU1PWDBQTUVvWEl0RWUtZHBqWmRLcTNqdnAxSWFyZXVKaDZCdEtGaEhUbmZzWjdzNzBlT3dLeXZqeXlEMjBmZURLVEpfQjc4Vm80b2g2cnZnLTZPdWZvdUdfWFQyS3BZN3hpWkE1ZmJFWURXaV9TQkU3ZWphTlNhQmpiTE5ZYk1jVTVYMU1OdDh1OUZmMnhXSzRQc1psenJybEdtSl8xbVdjczFOMFQtNDRwX005ME0wNjNnX1dnM085M1l2aVpER1hwN21DY3RNZS1GNi1PSFdUdzJ5cXIyMTQ1dVpwU2NvYkxZNEpvSndFZkE0eVZlZHJGX0g4NnVKa3FCd05JandTMGRtUkFYa3dJTHJObTljLVFFd3RMTUtfNTZKaXF5YXRzOVZWdmNGZkpLaDE0c3kyV2FOWDFUX05xc1pxd2xRejhYejI0bDVRNndrSmszNTV2OHNBQzQza1oxaGlhOW5NYVhLUkpZNzFOSkh4cUEwbWdQQmRqcEttSTFSQ2F0RUNBdTZYMVJsM3RONUt1dnotUE9NR2hQM0VqZ2ZJV01lcmdrYUFzWjgxaWUxcnRITGhIaTFwT0lOdnhwLTlVZDFKaDkzVWVMMGdfdmZ1bHF3Q1o0bks5TlRxYVoxQWgyRkJERTJiOEZoOWVnazBzbzEtZzlXSTJfVWJfaTZYY2tMR3JvQkdfbUIxeGV3b1A1d3cxMzVESVdjZ0NlOENHd3Z1elhlMEh0enZWZTh1VUJZdXA2eXVaeU5DMFBiQnJfLWlqS2V0b0ViOXNzVnRHSF9IMzN1bVBhdm0xLVh1UU9JS2ZhZUFqSy03WnlMMlJXUkpLMUxtMXJkZlFwczFMdGxNOXhGcHFhWEo3aGpLeTB2MFJrdk5PUjJRZEtMMHVweTktUWJuc1J3M3g1SEtMVWx1WEFKLVdOSmtJX2d2TGd4eHV0dmt4MkNOQjhPMXdoVDJTMVpjUkNxY1VfS1hiSDdzS3RNdnR0a0xwZlBaV0dOcUtHbkYzbzR2VUxEZ2pNeXNPTmM?oc=5",
-      "source": "SmartNews",
+      "source": "smartnews.com",
       "category": "物流",
       "publishedAt": "2026-10-04T21:30:00.000Z"
     },
@@ -175,9 +193,9 @@
     {
       "id": "5925d3b97026d220",
       "title": "物流コンサルタントが徹底解説！自社の物流体制を客観的に評価するための「本物の物流パートナーの見極め方」セミナーを開催｜株式会社船井総研サプライチェーンコンサルティング",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RQTF0Z2FNenZTdVQyYS1ubTdPa1JhMmh0cDlKbFhISXFDcDdCcWgzRllUaUdxUHZJU3RsQjhnaDB0LWlqbWtuTm1uUGJ3cmVUTlJScFZQZlotaFlBZjRGTm8yeGwwQWI3VGc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-10-03T09:28:51.000Z"
     },
@@ -382,9 +400,9 @@
     {
       "id": "848a6ffbb11b3737",
       "title": "【開催レポート】株式会社J-オイルミルズ・国土交通省登壇「先進企業から学ぶ、経営のアクセルを踏む『物流組織』の作り方」セミナーを開催しました",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa2pBTlctVENZUU1lQndudDNBNWdXZGdOZG5LRzl2ckEzbDE4Y1k2ODN0NXVXSUY3VzZhVlpzYzA5N1pMc3ZxZkxLVE5GT1RpeDBDWVA0bXI2bkVBYWlHbkwtTWdwV0tUOEE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T12:10:01.000Z"
     },
@@ -454,9 +472,9 @@
     {
       "id": "5aa6d09cb95adcec",
       "title": "AEGISAPP運送業がタンクローリー輸送に対応",
-      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NXViTWZGZVZRM3JwaEZyUFdoSWd5azNxV1JHU3FxOEVNUEtTSTROaUJLeENyTlBsczhIcGdJUjd6Vm5PSW5ja1JiNTNJNnRWdUFjX1hWX0lEWk1nYjhJc1RuXzdTcUN2OVE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-10-02T09:06:48.000Z"
     },
@@ -544,9 +562,9 @@
     {
       "id": "0387bd2363faa5e1",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
@@ -700,24 +718,6 @@
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXQXdmRHB5TkZrLURsTUloUUxDeDhDYXI3bUtmWHZCYmZic3NrUVlkS0l5eGV5bUtfZWtfTW5NYkN2aUU4SFFTRkZwRk1KeDBGV09RQl9kVnE0MXZJM1RwOGh4aE1oOElBbno4clNHRU5pdmFZQnM3QlhCSGVWSFk?oc=5",
       "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-02T03:27:00.000Z"
-    },
-    {
-      "id": "ec088c5adcda3e7d",
-      "title": "“トラック・物流Gメン”集中監視月間の出発式 物流取引の適正化をめざす 名古屋・中区 (中京テレビＮＥＷＳ)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONG93eF95b2lMR09MdVJETU1DZThhamhEZHNrbERXUnJWMGlSSFAtSG5yS0d1NWl3dGtvOEZpYW95dnY5RUluODFnTjI4Q3NjZl83WnRPN2hMdmZETEpBWktkaHo3dVAzRFFwbXg4QUtvcjZMaVJHcEI2d0ttT2lFQl9YUTlmdkJHTzBzM2hR?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-02T03:27:00.000Z"
-    },
-    {
-      "id": "e1f96c1efb87e2df",
-      "title": "“トラック・物流Gメン”集中監視月間の出発式 物流取引の適正化をめざす 名古屋・中区（2026年10月1日掲載）",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53ZHBCZzVoLWtSeDR2NU9xeW05MzVtTzl1RlhLYjJCUkRtMnJ6cEZma1dNcV9Tcm9ibjFiWGZySlFUbG5sSi14Z1IzZGJ0MjJBSVZvLXFnWGRzX1BETXJXTmZCcy1OWFBXNGJCcFVRa0NQS3dTTGh2TWpjSFgtZWM?oc=5",
-      "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-10-02T03:27:00.000Z"
     }
