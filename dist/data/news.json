@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-05T02:28:39.855Z",
+  "updatedAt": "2026-10-05T03:30:51.409Z",
   "articles": [
+    {
+      "id": "630e401045a12d71",
+      "title": "霞ヶ関キャピタルマレーシア、現地企業と冷凍自動倉庫の開発や低温物流インフラの事業機会創出で連携 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiQ0ZWUF9kTE1wd2YzbzBwd0F3TEZLQlVxQWJEMXN1SmtyZl9lcjJYaUdiQ1BnWjM2UmdJS2VibTl2c0lZaXZUSWZ5aw?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-05T02:42:48.000Z"
+    },
     {
       "id": "c95163da43889ed4",
       "title": "【速報】舞鶴若狭自動車道、京都府内の上下線が通行止め 中央ワイヤに車が衝突、復旧工事（京都新聞）",
@@ -11,40 +20,49 @@
       "publishedAt": "2026-10-05T02:21:17.000Z"
     },
     {
-      "id": "e8889088c36a4197",
-      "title": "常磐道／11月4日～18日、南相馬IC～山元ICを夜間通行止め",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wN2NNQTVVV0ZIR2pCZEFHSjA1ZkZWTzJCZHEzNnFRNm54UllFNElDZDAyQkdHUDY0bUp5TU5fVWdGMWpzbmE2cThXNTQwaFk5bWhOcw?oc=5",
-      "source": "トラックニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-05T02:07:00.000Z"
-    },
-    {
       "id": "0f19f693838d8f5c",
       "title": "圏央道／11月4日～16日、松尾横芝IC～木更津東ICを夜間通行止め",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1NG9fd01kY3lObmxmX0JnTlJ1WUU4anJaeUFiRDAzVlZWeE8xNXpVanR0OHNLaUlzRTJGUHdjVV80ZmNyU2lwRjd1WC03TVBvVTZEMg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "道路・交通",
       "publishedAt": "2026-10-05T01:53:00.000Z"
     },
     {
       "id": "06382f676aadfe2f",
       "title": "【物流DX】総合クラウド点呼システム「IT点呼キーパー」、新機能「遠隔地自動点呼」を2026年10月14日より提供開始！",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvOE0tekRpeFYzM1ZpNG5YdmhkQjhvYWZQTEN5bHQ1TnZyUVhocDdLaEYwZkxYMDEwakNKMnM2aEpsejhMRXVJUmMxanZhWGJDVy1GbnhpVm5XVE4xVlgyNHB0Z3hlV0hrVUE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "法令・行政",
       "publishedAt": "2026-10-05T01:04:24.000Z"
     },
     {
+      "id": "e5a49b02c4d3760e",
+      "title": "輸送費用と輸送時間がトラック貨物量に与える影響 - nli-research.co.jp",
+      "description": "nli-research.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIcDUzek1MUm1ScVV6TXhEZXpJSXMtdVlOM3BKcXNnVDJ1NGlnWFRsUlNuclIyWjhXOURXazBKdjhQUk1ZSXZtbGxYc2pWTnRUNGF2LWxqSEtNMTRjYktGbmxaOWtnRlkyUEtfazNiNHgzbDZIdW1QLXlZNVRUR2fSAX9BVV95cUxQSHA1M3pNTFJtUnFVek14RGV6SUlzLXVZTjNwSnFzZ1QydTRpZ1hUbFJTbnJSMlo4VzlEV2swSnY4UFJNWUl2bWxsWHNqVk50VDRhdi1sakhLTTE0Y2JLRm5sWjlrZ0ZZMlBLX2szYjR4M2w2SHVtUC15WTVUVEdn?oc=5",
+      "source": "nli-research.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-10-05T00:50:44.000Z"
+    },
+    {
       "id": "8c7b79425574dcea",
       "title": "レポートオーシャン株式会社プレスリリース : 温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・生鮮食品の輸送品質を支える低温物流需要が成長を牽引",
-      "description": "news.nicovideo.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sc25yY2ZDM3BzemtDVFMtRGZDOU1SMWEya2xGZEN0TTFJMUp2QkYyTWlwVVF1NGVoNHU2cHVVV1lLYzBibEc3VTRnc29FYTJ4QkFxWlRES3M3alpmakUzRENJd0o2WW5JT1NhRS1SbW1jMjgtemw5TUk4QQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-05T00:03:26.000Z"
+    },
+    {
+      "id": "4e23b846b752da11",
+      "title": "レポートオーシャン株式会社プレスリリース : 温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・生鮮食品の輸送品質を支える低温物流需要が成長を牽引 (2026年10月5日掲載)",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DYjJrTjZWNW5yRGxwLUd2TzA0bXFLRl9wVS1vMk5ZSVU2eXlrVGpZTlJld2s2c09VWWNyU1N0Q1NOXzhfTV9pUVNSM2xlcFZlamtFa2hTQWIzVWkzNmdjQlhR?oc=5",
+      "source": "ライブドアニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-05T00:00:00.000Z"
     },
     {
       "id": "6f17d6bce635eb3a",
@@ -101,17 +119,8 @@
       "publishedAt": "2026-10-04T11:07:01.000Z"
     },
     {
-      "id": "5b5fefe5f67865af",
-      "title": "舞鶴若狭自動車道、福井県内で一時通行止め 片側1車線区間、トラックが中央ワイヤに衝突（京都新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bm1fUFlSeFlyZ25rLWx2d0dQY1NaOTAyazN4Y0I3TGRQLWhUQm9tNC1CNFBBYy1IaTlTSUxjeEJaUFJzbnRzd010elhUOHJkYUFZYjg2Y3Z6Z0lKeThRaDQ1blBXUnU2U1R0YnVTQ0hZY2hMTG5WeGhMUkdrSE0?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-04T10:15:35.000Z"
-    },
-    {
       "id": "0cbc3a9a68562671",
-      "title": "舞鶴若狭自動車道、福井県内で上下線通行止め 片側1車線区間、トラックが中央ワイヤに衝突",
+      "title": "舞鶴若狭自動車道、福井県内で一時通行止め 片側1車線区間、トラックが中央ワイヤに衝突",
       "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rdHFJRk1EWW5Zak80QVlvQmNOR0ZSWnBCRjNTcEY0MmRUcG9Sd3d6emVrNkV2Q3lCcmdFNWU5RE94QTI0cUxlNGMybEVPbW5reVBEbWJrZGo?oc=5",
       "source": "京都新聞デジタル",
@@ -155,15 +164,6 @@
       "publishedAt": "2026-10-03T15:27:30.000Z"
     },
     {
-      "id": "09bcde0409aaf212",
-      "title": "輸送機器、アクセスクレードル、荷役ドック設備市場は2035年まで拡大へ、Eコマース物流が成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWptazZxb2JFOXdnMkx5QU1XV292aXgzMFdjdFRzZVA0SGthY3RoblBvWm11MTNKbi02NEJCRVB4dlpWMDhyTmVEdXdWaW5MczV2ZXc1cVBuS3NEbXlaRmpsLWtBU0VWa25HYW1pUGdicWFUeHNnVzBkMkhLU2xlRGxab25uaXk1emZKLW5NOTV5RjNmQkZQZ291Q1BRRlRoeHZxRjV0ZXRZX2pIdkhRSi1hT04xc0dZS2d1eDV4cjJHbEY1cU5YMy1VWU9ZR0lxcEFJSFRVeUxkV3JyX0xuTjZmcldGSmc?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-03T11:46:04.000Z"
-    },
-    {
       "id": "3942e1779bf53fd2",
       "title": "国交省がドライバーモニタリング義務化へ→新車の価格高騰や実効性を懸念や、それよりも先に実装すべきものも多いのではないか？という声が多数寄せられている",
       "description": "Togetterが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -175,9 +175,9 @@
     {
       "id": "5925d3b97026d220",
       "title": "物流コンサルタントが徹底解説！自社の物流体制を客観的に評価するための「本物の物流パートナーの見極め方」セミナーを開催｜株式会社船井総研サプライチェーンコンサルティング",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RQTF0Z2FNenZTdVQyYS1ubTdPa1JhMmh0cDlKbFhISXFDcDdCcWgzRllUaUdxUHZJU3RsQjhnaDB0LWlqbWtuTm1uUGJ3cmVUTlJScFZQZlotaFlBZjRGTm8yeGwwQWI3VGc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-10-03T09:28:51.000Z"
     },
@@ -344,6 +344,15 @@
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
+      "id": "0aca11ee435b6aee",
+      "title": "WacWac、物流VR教育を「無事故へGO！」",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsaFlielhuLTNiZWVhcUpDS2RtLWZiVWtqV2VMR254MjVzbDUwN2NmRUtteHBjT1RSSlFTNTJEOGE0UVU3ZGpVdkt3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-02T20:43:56.000Z"
+    },
+    {
       "id": "c72ee2fd7f41312c",
       "title": "JAF福岡、トラックフェスタで交通安全啓発",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -373,9 +382,9 @@
     {
       "id": "848a6ffbb11b3737",
       "title": "【開催レポート】株式会社J-オイルミルズ・国土交通省登壇「先進企業から学ぶ、経営のアクセルを踏む『物流組織』の作り方」セミナーを開催しました",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa2pBTlctVENZUU1lQndudDNBNWdXZGdOZG5LRzl2ckEzbDE4Y1k2ODN0NXVXSUY3VzZhVlpzYzA5N1pMc3ZxZkxLVE5GT1RpeDBDWVA0bXI2bkVBYWlHbkwtTWdwV0tUOEE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T12:10:01.000Z"
     },
@@ -445,9 +454,9 @@
     {
       "id": "5aa6d09cb95adcec",
       "title": "AEGISAPP運送業がタンクローリー輸送に対応",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "prtimes.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NXViTWZGZVZRM3JwaEZyUFdoSWd5azNxV1JHU3FxOEVNUEtTSTROaUJLeENyTlBsczhIcGdJUjd6Vm5PSW5ja1JiNTNJNnRWdUFjX1hWX0lEWk1nYjhJc1RuXzdTcUN2OVE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T09:06:48.000Z"
     },
@@ -481,9 +490,9 @@
     {
       "id": "0098f7b79fa6843b",
       "title": "鴻池運輸、配送管理一元化で月3人分の業務減 運賃・車両情報集約",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNDJBZVpOa052dHREeWdaVWpGUVV0Y1NTcUJnbFpxcUlXWElfMS02ZVhjV2YwaklZaTVhaXlkYjV4LUJXdUlpVFVfUDg3cFFSWkZ0anNvZFVqdmJETXJoMG4zUklDMFU3SHZsWQ?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-02T08:03:53.000Z"
     },
@@ -535,9 +544,9 @@
     {
       "id": "0387bd2363faa5e1",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "newsdig.tbs.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T06:59:00.000Z"
     },
@@ -553,9 +562,9 @@
     {
       "id": "59fddc28aa069a0c",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：GRESB評価結果に関するお知らせ 2026年10月2日(適時開示) ：日経会社情報DIGITAL",
-      "description": "nikkei.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xMnpWelBSb2tyYTFkQ3RqenZvRHoyMGc4VGNkb1owTUs5WHA5QjJpMzJJeFFPVmM2eEN0WU9zd3RpeFNOTnhWLTRZVXFSc0Q3SkxLd0VCUHpWZi1TNlBnR1BwaGJZUWl3TXc?oc=5",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-02T06:30:00.000Z"
     },
@@ -607,9 +616,9 @@
     {
       "id": "c15098462ee5cf82",
       "title": "適正原価の設定に向けた有識者検討会／具体的な金額は議論せず提言後の告示で示す",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQaXp0ai05eWZyVGJwc1hWMkdqbzc3dFpOakNJc2RzWjlUS1dxanJlb2JaQ2ZXbWRQdzVfYlg0RTlJS2Zab3lVelB6TEc0R1JLMVB5Xw?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T06:12:00.000Z"
     },
@@ -625,9 +634,9 @@
     {
       "id": "b92bc19d8242ae84",
       "title": "中央道／10月3日、八王子JCTの一部ランプを緊急工事のため夜間通行止め",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "trucknews.bizが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5eWtPYjhwZHFNcVVVLWJZS180cENqYmRSeUxqdzdEcVh3QXIxZWRPc3NlMVJFdXZ2SkxVb18ycWN2RVB3VnVMOVZhbE5mZFp4UFhCNg?oc=5",
-      "source": "トラックニュース",
+      "source": "trucknews.biz",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T05:37:00.000Z"
     },
@@ -641,15 +650,6 @@
       "publishedAt": "2026-10-02T05:35:00.000Z"
     },
     {
-      "id": "d3c0e2c9d61f614d",
-      "title": "【速報】霧島市福山町・国道220号が片側交互通行に ニワトリ積んだトラック横転 鹿児島",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ0EtTjFPX0RnOWVFdE81QlVZbXNIT0p4WWVtU2swUFhoWlBMN05XbUMtX2dpa0ZtNG92azhIYVRENjJtMm5PWFdhaWRVeWlVRGJYd3hLREFjUkNVcTBpaDgxY3g?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-02T05:15:00.000Z"
-    },
-    {
       "id": "db1c1ba8630a545e",
       "title": "【国道220号】亀割峠 霧島市内でトラック横転事故 10時間ぶり通行止め解除（2日13:50現在）",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -657,6 +657,15 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T05:05:34.000Z"
+    },
+    {
+      "id": "9a63bc84f317225b",
+      "title": "次世代物流改革フォーラム～CLO時代の物流戦略～",
+      "description": "日経BPイベント＆セミナーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Z1hTdi1BYTdUUk5VUVZXNGFSeURqczZSb3hkdHlhX243YW5KVEZkMTl6VmlwTHlnUGwyanhDd1lvYV9KbkxUNHJYX3cwdEJQX0toTVVUNVdRLUUyYTBJ?oc=5",
+      "source": "日経BPイベント＆セミナー",
+      "category": "物流",
+      "publishedAt": "2026-10-02T05:04:10.000Z"
     },
     {
       "id": "3a36a9c042ebd0f8",
@@ -670,9 +679,9 @@
     {
       "id": "aa65f34e55053d51",
       "title": "物流ニュースなび【26年10月2日号】運転席の「見張り役」が義務に 警報を鳴らすのは誰のためか",
-      "description": "note.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "noteが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BRF9EOWRzTDNKNVlqZzl2cUhBQm8xODd5ZXFGbFYtS2dKN3RnaXc4LU5nVnYxNUkxNU04UXZIc0F6cXRqOGkyaXJiT0ZMaVl4eHlUT3RCWUhkMHY3U0E?oc=5",
-      "source": "note.com",
+      "source": "note",
       "category": "法令・行政",
       "publishedAt": "2026-10-02T04:27:31.000Z"
     },
@@ -711,15 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "物流",
       "publishedAt": "2026-10-02T03:27:00.000Z"
-    },
-    {
-      "id": "b2e0321e0e1369cc",
-      "title": "札幌市白石区の横断歩道で男性がトラックにはねられる 病院搬送時に意識あり",
-      "description": "htb.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU3N3bzNhMkVtbnozUHFMWW44TEtfRzk5NmYyU2QwRkpiUnUtNjFYMHhiOVRtTjM4blJOY3dRUjJzaGxVRFg3WEF4bmEzdmFTLWFZSVBHdkdZQQ?oc=5",
-      "source": "htb.co.jp",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-02T03:21:00.000Z"
     }
   ]
 }
