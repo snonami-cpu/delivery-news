@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-05T04:31:36.885Z",
+  "updatedAt": "2026-10-05T05:32:03.218Z",
   "articles": [
+    {
+      "id": "79933ba321c91056",
+      "title": "国土交通省、2026年10月・11月「トラック・物流Gメン」による集中監視を強化",
+      "description": "ECのミカタが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45Ti1VbXg1LXVocjVkeDF0STYzSXdkV1pjNEI3QWlqZE5IZTJkOV9ld1FHY1B1VWMxeTBIQ2Nya2VXVlJiaW9OQnI5NHU?oc=5",
+      "source": "ECのミカタ",
+      "category": "物流",
+      "publishedAt": "2026-10-05T05:00:00.000Z"
+    },
     {
       "id": "697a96bd2c8cfd43",
       "title": "住友商事／横浜港北に11.2万m2の物流施設竣工、危険物倉庫も併設",
@@ -31,11 +40,20 @@
     {
       "id": "c95163da43889ed4",
       "title": "【速報】舞鶴若狭自動車道、京都府内の上下線が通行止め 中央ワイヤに車が衝突、復旧工事（京都新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wX2lHOU1HQjA5M2dOYXZoT3AxcWJ3S05CeElfS2x3NUJfS0ZVbFNnY1p0UUdNaE5ud3RfNWI0YWVTWWYwQ1RxblExdVRpX2dFSXR5anlXVC1zZGRWX0dFSHZ1cEtjQ0FKTHBLcm5UZHVOdXlqeWJVYkVvTGlOaEE?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "道路・交通",
       "publishedAt": "2026-10-05T02:21:17.000Z"
+    },
+    {
+      "id": "4f9964a57e9ca619",
+      "title": "【速報】舞鶴若狭自動車道、京都府内の上下線が通行止め 中央ワイヤに車が衝突、復旧工事",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmdDZlIyTHduVThFVldXRXFHMmtneDRuS0RLbHpiNEowaFh2Z2VGUTFmdzFHa2UzMlotVFRjSHl2Z2YwcVdGZ3E4ZmI0ZUFOMC1jMUl3cVdWbTlYS0stZEJMSHBfRm5NT3NFTTVXMTRJN3Rza3FiWE9pRUFRY3BwREYzMGtDTUUzTnNV0gGLAUFVX3lxTE9aZ0NmUjJMd25VOEVWV1dFcUcya2d4NG5LREtsemI0SjBoWHZnZUZRMWZ3MUdrZTMyWi1UVGNIeXZnZjBxV0ZncThmYjRlQU4wLWMxSXdxV1ZtOVhLSy1kQkxIcF9Gbk1Pc0VNNVcxNEk3dHNrcWJYT2lFQVFjcHBERjMwa0NNRTNOc1U?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-05T02:20:00.000Z"
     },
     {
       "id": "0f19f693838d8f5c",
@@ -66,7 +84,7 @@
     },
     {
       "id": "8c7b79425574dcea",
-      "title": "レポートオーシャン株式会社プレスリリース : 温度管理型包装ソリューション市場、2035年に434億4,000万米ドルへ拡大｜CAGR 9％、医薬品・生鮮食品の輸送品質を支える低温物流需要が成長を牽引",
+      "title": "レポートオーシャン株式会社プレスリリース",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sc25yY2ZDM3BzemtDVFMtRGZDOU1SMWEya2xGZEN0TTFJMUp2QkYyTWlwVVF1NGVoNHU2cHVVV1lLYzBibEc3VTRnc29FYTJ4QkFxWlRES3M3alpmakUzRENJd0o2WW5JT1NhRS1SbW1jMjgtemw5TUk4QQ?oc=5",
       "source": "ニコニコニュース",
@@ -85,9 +103,9 @@
     {
       "id": "6f17d6bce635eb3a",
       "title": "海運大手 日本郵船と商船三井の決算比較 総合物流と資源輸送で攻める日本郵船と非海運・安定収益化を強める商船三井の違い",
-      "description": "smartnews.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "SmartNewsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimwZBVV95cUxOZHVvZnVGTl85X19LRjM1dU1PWDBQTUVvWEl0RWUtZHBqWmRLcTNqdnAxSWFyZXVKaDZCdEtGaEhUbmZzWjdzNzBlT3dLeXZqeXlEMjBmZURLVEpfQjc4Vm80b2g2cnZnLTZPdWZvdUdfWFQyS3BZN3hpWkE1ZmJFWURXaV9TQkU3ZWphTlNhQmpiTE5ZYk1jVTVYMU1OdDh1OUZmMnhXSzRQc1psenJybEdtSl8xbVdjczFOMFQtNDRwX005ME0wNjNnX1dnM085M1l2aVpER1hwN21DY3RNZS1GNi1PSFdUdzJ5cXIyMTQ1dVpwU2NvYkxZNEpvSndFZkE0eVZlZHJGX0g4NnVKa3FCd05JandTMGRtUkFYa3dJTHJObTljLVFFd3RMTUtfNTZKaXF5YXRzOVZWdmNGZkpLaDE0c3kyV2FOWDFUX05xc1pxd2xRejhYejI0bDVRNndrSmszNTV2OHNBQzQza1oxaGlhOW5NYVhLUkpZNzFOSkh4cUEwbWdQQmRqcEttSTFSQ2F0RUNBdTZYMVJsM3RONUt1dnotUE9NR2hQM0VqZ2ZJV01lcmdrYUFzWjgxaWUxcnRITGhIaTFwT0lOdnhwLTlVZDFKaDkzVWVMMGdfdmZ1bHF3Q1o0bks5TlRxYVoxQWgyRkJERTJiOEZoOWVnazBzbzEtZzlXSTJfVWJfaTZYY2tMR3JvQkdfbUIxeGV3b1A1d3cxMzVESVdjZ0NlOENHd3Z1elhlMEh0enZWZTh1VUJZdXA2eXVaeU5DMFBiQnJfLWlqS2V0b0ViOXNzVnRHSF9IMzN1bVBhdm0xLVh1UU9JS2ZhZUFqSy03WnlMMlJXUkpLMUxtMXJkZlFwczFMdGxNOXhGcHFhWEo3aGpLeTB2MFJrdk5PUjJRZEtMMHVweTktUWJuc1J3M3g1SEtMVWx1WEFKLVdOSmtJX2d2TGd4eHV0dmt4MkNOQjhPMXdoVDJTMVpjUkNxY1VfS1hiSDdzS3RNdnR0a0xwZlBaV0dOcUtHbkYzbzR2VUxEZ2pNeXNPTmM?oc=5",
-      "source": "smartnews.com",
+      "source": "SmartNews",
       "category": "物流",
       "publishedAt": "2026-10-04T21:30:00.000Z"
     },
@@ -106,7 +124,7 @@
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aa3kxWkNaNkFlUC1tWF9SX0F5SkFfUUJiQ1lIakdhdGxwZDNITlNpeHF2Uk5LRS1ydzhZd0RBOUhoOVowN3I1Z0R1NlhHdkd3TlZsWHMzaVIzTWZ2R3Bv?oc=5",
       "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
+      "category": "道路・交通",
       "publishedAt": "2026-10-04T13:31:17.000Z"
     },
     {
@@ -121,18 +139,18 @@
     {
       "id": "ef10aa58820ac7d9",
       "title": "普通乗用車が大型トラックに追突 25歳男性が重体 氷見市の国道160号で（北日本放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03bU42QWFKbVNlSllBQVNIY256Z3NOY25ZanlMbUhkZUFWQmNmZFE5RkU0VVV0cmlJb2JKdkF3V0xoZXZWZExJRG1HbVRtMzEtWEtqcTBpNlJqR1Rqby00amZqQTBDUnVUaXIzRVhtUTRkenBtVktqSTVDTUpBYW8?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-04T11:08:00.000Z"
     },
     {
       "id": "5e93cc81486f1f94",
       "title": "氷見市で乗用車が大型トラックに追突 乗用車に乗っていた20代男性が頭を強く打ち重体（富山テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKbWx3UGNVUzRqZVpqVTM2Vmd4VW5ncV9vc1E3VWNzSGlsZmpmTWxvVjJ1cW91Tk5DZENJdFJST2t1Zy1reDJ3UXdWaVJBbWlvM1VjOWZ1ZG82djhzbEJfX1VsZHNMVUw1bTBweGhuZS03UVhKVVNnYW9uY3Zsa28?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-04T11:07:01.000Z"
     },
@@ -156,19 +174,19 @@
     },
     {
       "id": "4d0857bf6eb7ada6",
-      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント",
-      "description": "岐阜新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "title": "トレーラー展示交通安全を啓発 県トラック協会イベント - gifu-np.co.jp",
+      "description": "gifu-np.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hc1R4cjRaRjRNMnp0TUxHYWVPMGZrT21aLXd2aGhhZi1tRnJ6UkRHdzUxazY5dFZFMHdTS3dfTWlpUnpDMWJIWHExNTFBQ2F4UnlMODln?oc=5",
-      "source": "岐阜新聞デジタル",
+      "source": "gifu-np.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T20:00:00.000Z"
     },
     {
       "id": "c4a22c01a7654409",
       "title": "二重壁断熱ボックス市場、医薬品コールドチェーン需要を背景に2035年まで拡大へ",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "indexbox.ioが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVh5TmtBb3JwVEZtY2cxeUVlZUtxSUF2a0lBOVA5YUZsSldpRlNKeEJiQzd2UzZFa1lsckRRRnNLd0ZURG9tWmNhMl9zNFBBTVkxUGVrQnJhc0lMTkF1MW1CdzhnTm1ENklQRVQwTk9VTWRic1hiSmo0Y3RaVWNIcHpHQVhrYWxsOFMtX1M4Sm1sRkE4QUFGVkluOGF3M2t0X3RJbGRvWkVibDJMVGhVVkZxT1FrdTluc0hfcFliS3h4MnQxVllDTw?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-03T15:41:03.000Z"
     },
@@ -202,9 +220,9 @@
     {
       "id": "0299a4bd238f95a8",
       "title": "西宮市でトラックが自転車をはねたか 会社役員の男を逮捕 高齢女性が意識不明／兵庫県（サンテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WMlc5bjhfb0tUT01sZUpGWlZvTjBiYWhmTTJuMVNMY1pUZTQxaFlNdmZHSnBmZW9NSzhwLVlhYW42TTlJZWlGZGRzSWxHRDlKTXpMcmJfemduUGZiQklHcTBXM2lTUjY4c0RkNnRJeWQ0MnJuUnI1ZE1TNnRaWlU?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T04:46:02.000Z"
     },
@@ -220,9 +238,9 @@
     {
       "id": "a50936a02867db5a",
       "title": "軽トラックと自転車が衝突 自転車の小学生男児（9）が左手首の骨を折る大けが 山梨（YBS山梨放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWFlmQ0FuNmptNGJwNHhfYUFHQWttTHh1Y25fVWZqb1Z2Rlk2djhnUXV2ZjI1cjZMYnpXRXMxR210azRhTUd6NmZnYlVyOVhzOFpSSWpjX0R5SzNHdDNvVHE0THEtenFfbEtwQ0o3WDMyRTZhV09RRUdsRHZ4YkU?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-03T03:19:00.000Z"
     },
@@ -317,19 +335,19 @@
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
-      "id": "e0f039363c0e3c9e",
-      "title": "物流現場のDX化、AIを活用すればFAX排除は不要",
+      "id": "5d352471e0e7f3b8",
+      "title": "日本郵便、都心集配再編へ新砂の物流機能拡充",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3b0FZdy1OQXBUcEhmeGVoSmdmNlBwdWpPM0RBdkFvclNkc3M1WHVGNlhicW9zYVZsdmlNSW14dEF4ZHQ1MnZnSGR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBweVBlYWZOdnBjU08zLWlKaG5SN3IySHBiQUppV2JNMEFXd092NFhzNUR6STlNV25pZE5JUnF4WUE4WWlHLUpDTWVB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-02T20:43:56.000Z"
     },
     {
-      "id": "5d352471e0e7f3b8",
-      "title": "日本郵便、都心集配再編へ新砂の物流機能拡充",
+      "id": "e0f039363c0e3c9e",
+      "title": "物流現場のDX化、AIを活用すればFAX排除は不要",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBweVBlYWZOdnBjU08zLWlKaG5SN3IySHBiQUppV2JNMEFXd092NFhzNUR6STlNV25pZE5JUnF4WUE4WWlHLUpDTWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3b0FZdy1OQXBUcEhmeGVoSmdmNlBwdWpPM0RBdkFvclNkc3M1WHVGNlhicW9zYVZsdmlNSW14dEF4ZHQ1MnZnSGR3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-02T20:43:56.000Z"
@@ -391,9 +409,9 @@
     {
       "id": "b39abbcf0884cb95",
       "title": "一家5人を亡くした遺族が事故車両に献花 新名神6人死亡事故、判決は10月20日（三重テレビ放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WSWhUYmo5dzJLcFgwWDdoVTE0MS1WOWoxZW42bWdvaDFrUkM5YkhRcHFOeUJfMTZfaEtJb1oydmluSlVkTkVUcVZhNEV4bl9JOURXMFI4MWRTbVdaOHB5NGIxbThlOWVIQTVzUlQxdEhDcUFRR3dlenBvUzAxeEU?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T13:22:41.000Z"
     },
@@ -409,27 +427,27 @@
     {
       "id": "e867b80ff2a912d5",
       "title": "ニワトリ積んだトラック横転 倒れた荷台から“鳴き声”も 40代男性運転手も閉じ込めに 鹿児島・霧島市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xNEZFb0lBZ01FXy1IaXZKbTdCemwwYmhUdzUxYTdEai1qYURoSU1aWlQ2SG1hN0dfWktsZUh4azhLYlQyOXEtREkwTlcySXBpVlAxRUxaS05aZmkteElBLU5vRVNRM0IzTTVoSFBiczBLTEhqOWVBTFZYUTRqVHM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T10:55:29.000Z"
     },
     {
       "id": "8e1775e325854c5f",
       "title": "上武道路３人死亡事故 遺族がトラック運転手と会社を提訴（群馬テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Mm1CYmZBd3BkQkZSdlBFc3IxTHZuai05R2lTMzRTeFdQT3hjVU1RTnRwR2tLbERxOTB0ZllUenFhaE9kbEpfUmZiR3FHZVlLVDJocXBoQUVoT1NiTGpIS2NVZWRuamRjUzVzWi1BeEhnMEh6M1daMUNTY3lDMmc?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T09:52:26.000Z"
     },
     {
       "id": "e7546888e3073ff9",
       "title": "【全面通行止め10時間】霧島市国道220号で大型トラック横転 倉庫も大破（鹿児島ニュースＫＴＳ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yTFRfTVQ0VEFsbWh2aE9PdzY2RUhqRzRkdTl1MDdaTWFOQkZmcWIzazRwdnpMdmVSQnIxYkRGc0p5M2JwbVkyb2dKblFsa00xaVZ1eVV5aEhRQmlqYnRpeW95NWlhRFBxM3d6aXNzRnUxMWg4VVp6dlkyQ08zNVU?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T09:52:02.000Z"
     },
@@ -463,9 +481,9 @@
     {
       "id": "32fc0e00cab793ba",
       "title": "貨物運送業者「流通管財」が特別清算開始命令、県内企業へ事業譲渡【新潟】（UX新潟テレビ21）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mT2w1LWtveFpma3ZjbWdrTjRvS08wbk95UUpUd2dTMFFyMmVTQVo3SVlDSU5QY3hPUnY5bVdQMDh6MEFOcWoyRkprWjhabXh3SmRKRk11VjNQSDdyTTdBeFVOd3Rtei1oUWpmMlpRalhPbGpNRjE2cTBkVmRxWnM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T09:10:32.000Z"
     },
@@ -481,9 +499,9 @@
     {
       "id": "280ef32477dae67f",
       "title": "真っ黒に焦げ原形とどめず…新名神高速で6人が死亡した事故 USJ向かう途中に犠牲になった一家の遺族が車と初めて対面",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSFRYbW9BVDhrM2NWMFY0VFhXeGkzZ1hsekVHcm5Jbzk2VDA4bk5CSV9QWEwwblZTb091QVpkb2Zvdl94bHdrdGd5dUFJNWtacWk3X1dPVkszTnlLRWhzaGlKaGRJUjRSemVrczdWcmR4MzFyTkt6N1F4a2FRX1k?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "安全・事故",
       "publishedAt": "2026-10-02T09:04:37.000Z"
     },
@@ -499,9 +517,9 @@
     {
       "id": "abb15dd37340d15a",
       "title": "交通規制の発炎筒、９１００万円割高 納期調整で、首都高に指摘―検査院",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "jiji.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVGRpdHhUVE1XTDVZOGh6Z3hKWml1b3ZWdXhfQ0JPUWNFYmdJU096SlgyNEpYdGl2REtsY1U3TGxmaENJbFNXLU9DUkF6VlEwbk14VWdyQl9VbjBPMkkwS3dfRQ?oc=5",
-      "source": "時事ドットコム",
+      "source": "jiji.com",
       "category": "道路・交通",
       "publishedAt": "2026-10-02T08:15:00.000Z"
     },
@@ -542,11 +560,20 @@
       "publishedAt": "2026-10-02T07:20:17.000Z"
     },
     {
+      "id": "0387bd2363faa5e1",
+      "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-10-02T07:19:16.000Z"
+    },
+    {
       "id": "9623869b9f2239d0",
       "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」（CBCテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "news.yahoo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWc2xwd3NBd05fTXUzNnBBWERaR1ZEcUNFX1BaNmpoMG1kZXlMUFVOUDR5OFNDRm1ZZUxERldLT0ZmZmx1c1d5Rzhsc3ZwQ0lmeVBpVE1wei1pM3dOZU1qQzBDaW5scXVTZWxwQ0pNcG43bm1EV0FhTVJjTDJGMFE?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-02T07:00:34.000Z"
     },
@@ -558,15 +585,6 @@
       "source": "ITmedia",
       "category": "物流",
       "publishedAt": "2026-10-02T07:00:00.000Z"
-    },
-    {
-      "id": "0387bd2363faa5e1",
-      "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-02T06:59:00.000Z"
     },
     {
       "id": "1597a666b37b9e67",
@@ -677,22 +695,13 @@
       "publishedAt": "2026-10-02T05:05:34.000Z"
     },
     {
-      "id": "9a63bc84f317225b",
-      "title": "次世代物流改革フォーラム～CLO時代の物流戦略～",
-      "description": "日経BPイベント＆セミナーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Z1hTdi1BYTdUUk5VUVZXNGFSeURqczZSb3hkdHlhX243YW5KVEZkMTl6VmlwTHlnUGwyanhDd1lvYV9KbkxUNHJYX3cwdEJQX0toTVVUNVdRLUUyYTBJ?oc=5",
-      "source": "日経BPイベント＆セミナー",
-      "category": "物流",
-      "publishedAt": "2026-10-02T05:04:10.000Z"
-    },
-    {
-      "id": "3a36a9c042ebd0f8",
+      "id": "b549a3b89acdf356",
       "title": "消費地近接型物流施設「SOSiLA横浜港北Ⅱ」が竣工",
-      "description": "sumitomocorp.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LMUYzR19JRnUxejJoWlQ1c202SHBsdEE3ZWJCa05hSjBVWWlpMFd2bjdIQ2VoVnMybS1qcGZiVFdQQmpxZ3U1dnlLVDZZdXQtZFJmSmpweGFlekV1WkZreEQ1SXBZa3BfVTEtRDRWT05zSFRM?oc=5",
-      "source": "sumitomocorp.com",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6MEJ4NU80SlFKQkhvZmdNcEQzR0FVTGw4ZG9tcGRxTkZGaGNLNGc5MkR3Nl9Gb2ZQSjJwZVdTc3ZPSFBzOW5CMTRITS1jTThxcFFidS1IMHphUGN4MjRpTE5qUy1IX1o3Nnc?oc=5",
+      "source": "PR TIMES",
       "category": "物流",
-      "publishedAt": "2026-10-02T05:00:00.000Z"
+      "publishedAt": "2026-10-02T05:00:01.000Z"
     },
     {
       "id": "aa65f34e55053d51",
@@ -711,15 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-02T04:13:16.000Z"
-    },
-    {
-      "id": "8991a9aaa43e8f0d",
-      "title": "“トラック・物流Gメン”集中監視月間の出発式 物流取引の適正化をめざす 名古屋・中区（中京テレビＮＥＷＳ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXQXdmRHB5TkZrLURsTUloUUxDeDhDYXI3bUtmWHZCYmZic3NrUVlkS0l5eGV5bUtfZWtfTW5NYkN2aUU4SFFTRkZwRk1KeDBGV09RQl9kVnE0MXZJM1RwOGh4aE1oOElBbno4clNHRU5pdmFZQnM3QlhCSGVWSFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-02T03:27:00.000Z"
     }
   ]
 }
