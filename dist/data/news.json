@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:31:30.399Z",
+  "updatedAt": "2026-10-06T17:27:11.992Z",
   "articles": [
     {
       "id": "c2c37b358d53bd2c",
@@ -18,6 +18,15 @@
       "source": "公正取引委員会",
       "category": "物流",
       "publishedAt": "2026-10-06T13:07:24.000Z"
+    },
+    {
+      "id": "741f32f480cb5c78",
+      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41TXlDb2Fvc0tLWThMcllXSDV4akljT3F6WWVNdHgwTVpnSmtaQ0FpNGlJUWo4TmhvdlF0TDV1cER6dEwtR2t3MGZ5dWQ1dEFsQXVWSHFjQlRDVTRhSVE4?oc=5",
+      "source": "ライブドアニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T11:50:32.000Z"
     },
     {
       "id": "0bacfddc6336bdfe",
@@ -45,15 +54,6 @@
       "source": "愛媛新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T10:51:11.000Z"
-    },
-    {
-      "id": "e808a4da3d04db48",
-      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aeVVLc3Ryd2o5RVVkQ3A3aUF1ME1pRFlqUkRPMDd6Y0FCNnAtZjRqWjlEQmMyQ2ozUzZjWE5NU3RvdzNxb3hRVG5hMkEtMmI0VGc5VkxMc18tMWIxX0I1WjRldUwxU2MwUTRBdWR3?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-06T10:49:00.000Z"
     },
     {
       "id": "d7bc1c42e98c738d",
@@ -92,13 +92,13 @@
       "publishedAt": "2026-10-06T10:08:19.000Z"
     },
     {
-      "id": "72bec65642ce1c99",
+      "id": "a3b26ab977e5cd04",
       "title": "東温市の国道11号で正面衝突事故 軽トラック運転の男性が意識不明の重体【愛媛】",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBicVctUEM2cFVzcnRuaUNHa3pHZ3E0VlU3c19xRERvcDBTNVczNnotcU1XSGFfSDhBWXB2Y0JlUmRsZ0NSVmE5NHlvNnBPQVJVWnJHNGE2Y0FjdE1SdXdxcUxwdVdQcklwWEhNNGxB?oc=5",
-      "source": "Excite エキサイト",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFFHR2RqTmd6Y3ZEZl9ublBOOHlkamE4VUc0cGhJa2MzY3N5dl9uVjRBV2xmZW1sWG0zcnUtRUJtSUgwQk9iMmRPS0otNUFuNWdacnBYZ0dsVkwzb0NoZGR5RzJlYXN6aW9aZFAwS2VUTDg2akVRT2NfUEpyZFdHZkRHMDMxZEk?oc=5",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
-      "publishedAt": "2026-10-06T10:04:00.000Z"
+      "publishedAt": "2026-10-06T10:00:00.000Z"
     },
     {
       "id": "638690a45bff9398",
@@ -173,11 +173,11 @@
       "publishedAt": "2026-10-06T07:42:05.000Z"
     },
     {
-      "id": "2996d002efbc1361",
+      "id": "59758a165fa38696",
       "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
-      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yZjFEU1p4WVVFZGhtbjh4MlZoazhBdXExZThsZ3hQREtsS05XX3ZEMmxMX3lHclZpdk1RUFVQejhqdUllLTY3YVF0Y092ekU?oc=5",
-      "source": "Newscast.jp",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nWlc5TEtxMXd1YjA0alY0Z0NoeUgtSEtoaU9JNW9oR1RYUHBTbm50WmwzczlKMTBySXRPR0x4RTlrd05fSXFwQ0VTQkhMOGc?oc=5",
+      "source": "アットプレス",
       "category": "物流",
       "publishedAt": "2026-10-06T07:13:00.000Z"
     },
@@ -623,6 +623,15 @@
       "publishedAt": "2026-10-05T21:02:15.000Z"
     },
     {
+      "id": "b85bb4d7e77c1457",
+      "title": "宝HD、傘下のタカラ物流システムを中央倉庫に売却へ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kYkxOcGVFb0RQVkpGVFNZM2dhMnpHWWx5SmY1RERYdXZxTDN4TzRuREgxRkVEVTFBWWlFRWhRdnVPU2hWLVBWZzZkZw?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-10-05T21:00:04.000Z"
+    },
+    {
       "id": "e093bedb7ca50e2a",
       "title": "ＣＲＥ 物流施設で児童向け見学会を開催",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -645,6 +654,15 @@
       "title": "大和ハウス 新潟・東港でマルチ型物流施設を開発",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16d2tDajctNmxhQjBQbnE5bjhxZENOaENoR3NabU1kalRmY09xaTdQY1k1dmNJbUR4anY3VGd4dHVPVy0wc09WMFk3eGhRUURFZWs3YnA3MDQzbU0tX1hZ?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-10-05T21:00:00.000Z"
+    },
+    {
+      "id": "b832fc20db87c8ce",
+      "title": "三協、アパレル物流課題解決資料を無料公開",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTWZqTmN2V3BzS1pzemlxaGpmTHFaWjR6RUFLWHU1c3RMMHp6SDJ6MXJNTkZYazZQZ0lpdFYxcWVOeHJrTnhCVWQ3TlFoaVlNMmRsSG55SzhsYWZLb0Nz?oc=5",
       "source": "カーゴニュースオンライン",
       "category": "物流",
       "publishedAt": "2026-10-05T21:00:00.000Z"
@@ -702,24 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T14:38:13.000Z"
-    },
-    {
-      "id": "87729c39708aacb0",
-      "title": "フンイエン省でコンテナトラック2台が正面衝突し、車体からキャビンが分離するなど、甚大な損傷を受けた。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmtxdGRGVjRhOFhWWDJSbzV0WVZQY3hnRElxSGl1c19fcWZNQ1puV0JDLTRQY1JRRUszQ0hlT0UwR3dvUEVwRWJZejlUdjI5TzJ3VmpnTEV6NEpOaXdPZUo0TEFzLXdvcXFBN1JlMlhkdHRrMHltUDdaZFd3aDdHWW5yM1dCNmk2LUhwdmhHTklfakJHNFdHQ184SGpHbFo4T3gxVkF4QXFGdw?oc=5",
-      "source": "Vietnam.vn",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T14:30:31.000Z"
-    },
-    {
-      "id": "51ba457e4660c632",
-      "title": "中央道で10数台絡む事故 トラックの資材落下し後続車が衝突 男女2人けがの模様 山梨",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aSENkdzBIVG1uQVlaZzdDWTk1bE8xSzZ1S3FwYm4tdUZXT01rNkFIUjNBcldoQ0hmWmwteVdqQVg0VVVUdDJzb2g4VzY2QjhnS1RELUk4UWtHbnNJVUVMWlMzSjBfa0tpZlRnSzZ3?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T13:54:00.000Z"
     }
   ]
 }
