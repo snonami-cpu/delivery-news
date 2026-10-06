@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-06T10:29:52.030Z",
+  "updatedAt": "2026-10-06T11:28:34.377Z",
   "articles": [
+    {
+      "id": "0bacfddc6336bdfe",
+      "title": "ファミマ、おにぎりなど配送削減（時事通信）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aGkzbUlBNWhWQ2ZjRG5PeXU4cjlLdGdZWDU4WVZRVTF3R1BXUk9TczNyTXcwa2VEUS04XzlYMnpET1VWSDhfVDE1SzA5RFpYbWJvSmhiMmxBOFA3SVgyNUdHZTFXMDRsNzU4V3JUVURXZ1B6cElBLTYyRk4yRFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-06T11:00:38.000Z"
+    },
+    {
+      "id": "35729a7b290b25f5",
+      "title": "【倒産】運送業者が事業停止・自己破産申請へ セメントや石灰石などの運送を中心に手掛ける【帝国データバンク】",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRTZDQm8wRGQzX1lFQjhjQmJCTHBhZ1Z0UWludnlwRmdIVHl1Zm8tX21vT2NaazQ5eDIta0lxMjNKOUxZQVlyVUk2NkRhY0tOdmtMUzhwV2xmT2RNajFFWUt0QjIwaHpuRlNLbTYwUG9ibzFNTU45UjJmOXNrZTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-06T11:00:33.000Z"
+    },
+    {
+      "id": "24378fc66f74ce19",
+      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める（2026年10月6日掲載）｜KNB NEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVRIVWxxWGJqQnhBcmFIOW1lbGkxeWlqbF9VOHp4RVhFSnlsZmRVTkxfYXJKaFBxVmJHSEVTTnlOWlYtb0RNY0dIY3JVeXdBcmdTWEFjVDFMTnBDaVpKLUh0Q1pnTEdLVWp4XzVUbzU0SDhsMEg2T1FjbEdfX2lrU2dOT0NEREU?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T10:44:00.000Z"
+    },
+    {
+      "id": "328135e32f57fcf2",
+      "title": "基山町に大型物流施設 200～500人雇用想定 人手不足や自動化対応想定した設計に【佐賀県】",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uYy1rYUhzTDU4ZkRYNkIxMnh4SzBXQzF6QU53NDBOaGdKaVNmdGZGYWV2SS1YYnRvb3Q2aFVZTjhDXzRtYll2aUhVQnlsbHQxb0ZhczhhUVFLSlNNRXZrWU4zNFFQVFFEYl9RZnRvRDZ5RXp1bGQyVXdvUVFCSjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-06T10:34:01.000Z"
+    },
     {
       "id": "a3b26ab977e5cd04",
       "title": "東温市の国道11号で正面衝突事故 軽トラック運転の男性が意識不明の重体【愛媛】",
@@ -65,15 +101,6 @@
       "publishedAt": "2026-10-06T07:42:05.000Z"
     },
     {
-      "id": "323f5f8fd0e347a7",
-      "title": "タイガー、運送会社の人事評価・安全教育を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DRlE2UFhhN2RaaEJ1NTk2TVo2akh5NENOd2daTTMtZjRmYllObk9FYVB5OHdrVXk1VEVkajdJZDdpcklLXzlDMFlR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-06T07:40:36.000Z"
-    },
-    {
       "id": "2996d002efbc1361",
       "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
       "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -126,6 +153,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T05:44:58.000Z"
+    },
+    {
+      "id": "826a12e64ada0f5f",
+      "title": "日本通運、芝浦一丁目解体工事における岩綿吸音板の再資源化に向けた物流スキームを構築～積み替え拠点を活用した輸送調整により、560トンの岩綿吸音板の再資源化を実現 - nipponexpress-holdings.com",
+      "description": "nipponexpress-holdings.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtRG1rdGJkR3FBbUg4WEFQTU04R19xMlltNXlQLTlMR21ZMFRrRDhMd0dNOU14a0VlNktEMnc5Q0wzcGRjNW1TWEtWYXR6TkhHWUxlMFluQTlRSlNzWmh4RXBjMA?oc=5",
+      "source": "nipponexpress-holdings.com",
+      "category": "物流",
+      "publishedAt": "2026-10-06T05:15:08.000Z"
     },
     {
       "id": "e3757b1ca61fe9b4",
@@ -380,15 +416,6 @@
       "publishedAt": "2026-10-06T02:04:14.000Z"
     },
     {
-      "id": "c3e9c143eb38bda2",
-      "title": "【東名 事故】東名高速 綾瀬スマートIC ～ 海老名JCTで事故「トラックの単独、人身事故」が発生「現地の様子が明らかに」渋滞状況は？ケガ人は？…（News Quick Up）",
-      "description": "t.coが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55Y1k2UnlsTlRDcmV1SmotdTdfYzloOHdrdnMzWlBZemh1NnMtY3Y0UEZ2SFYtRzZaZzFB?oc=5",
-      "source": "t.co",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-06T01:09:47.000Z"
-    },
-    {
       "id": "a40e767e05bd436f",
       "title": "国道14号線でトラックとバイクの事故、1人死亡",
       "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -445,9 +472,9 @@
     {
       "id": "cbf71dafadfc264f",
       "title": "高速道路のインターチェンジで正面衝突事故が発生し、大型トレーラートラック2台が大破した。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2N6YjNrZ2VRZ0VOSE1RcGNkSDNYaWpjQ2RKTHg3dURrOVFEUGRXa2NRUjNSVERWY2lnLXJhUUlnenVmN2F1MTdldUEySW5TbW5PekVDY1VObWFDR0IwelRyQUtuaVJmMk9wM2M5NUd3V3BXZVJhN29XZDAyYkU1SzlwNUZOTlhFNUZPRmpFV2tCclFqX0k4bUZ3?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T23:40:11.000Z"
     },
@@ -468,15 +495,6 @@
       "source": "共同通信PRワイヤー",
       "category": "物流",
       "publishedAt": "2026-10-05T23:00:00.000Z"
-    },
-    {
-      "id": "69f7b250b22018c3",
-      "title": "コマースロボ、EC・物流CSのAI活用を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAybnh0R09kLWlteFdBb3pOc3lzMVBnWEY0NTBrMEFpTjlMNGhTd1FKMG5MNmtrUDNoR1BNSXB6N2t6UHdBdWxKd2V3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:58:29.000Z"
     },
     {
       "id": "4e2d6f1c49f1a355",
@@ -625,9 +643,9 @@
     {
       "id": "87729c39708aacb0",
       "title": "フンイエン省でコンテナトラック2台が正面衝突し、車体からキャビンが分離するなど、甚大な損傷を受けた。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmtxdGRGVjRhOFhWWDJSbzV0WVZQY3hnRElxSGl1c19fcWZNQ1puV0JDLTRQY1JRRUszQ0hlT0UwR3dvUEVwRWJZejlUdjI5TzJ3VmpnTEV6NEpOaXdPZUo0TEFzLXdvcXFBN1JlMlhkdHRrMHltUDdaZFd3aDdHWW5yM1dCNmk2LUhwdmhHTklfakJHNFdHQ184SGpHbFo4T3gxVkF4QXFGdw?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T14:30:31.000Z"
     },
@@ -702,24 +720,6 @@
       "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T12:01:00.000Z"
-    },
-    {
-      "id": "414e21f7833b19b6",
-      "title": "「死角に入ると危ない」トラックを使って交通安全教室 小学生が巻き込み事故などの危険性を学ぶ=静岡市（静岡放送（SBS））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Zng2NUI2QmdkUEs5eGJOeEE0SWlxNlllamcwNFRoUTRlRnMyQWdDdUxSNllyblNZaUV5NDNCWTBOR2hGM2ZsWWZjTVg0dFpkS0JIckh1NmFpSF9KNWFlNERCMEhlWW5ld0htN0JOWERIS01XNTBFZnlaRllCVlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T11:42:17.000Z"
-    },
-    {
-      "id": "3ccc451cddb7fb7b",
-      "title": "コールドプレスジュース世界シェアランキング",
-      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VOGJJNk1YRnA3Y2FPNzgtWE9jUFdROURvWGxaSDhTMUZiMkRpdFFkemVOZjEtSlhEeS10WGZmNklVUVZIMGFoM2hB?oc=5",
-      "source": "pando.life",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-05T11:10:53.000Z"
     }
   ]
 }
