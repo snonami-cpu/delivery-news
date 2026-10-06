@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:29:45.686Z",
+  "updatedAt": "2026-10-06T21:27:45.386Z",
   "articles": [
     {
       "id": "5ab12fadc786c23b",
@@ -191,6 +191,15 @@
       "publishedAt": "2026-10-06T07:09:39.000Z"
     },
     {
+      "id": "878cc920414a298c",
+      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
+      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
+      "source": "福井テレビ",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T06:40:04.000Z"
+    },
+    {
       "id": "47542a7f636cead9",
       "title": "菱地所物流Ｒ",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -207,15 +216,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-06T06:27:04.000Z"
-    },
-    {
-      "id": "e856354f51a09826",
-      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
-      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVGhOZkxDMXBiRy1oeWVKNkJJdzJKRzQ1UDQwZTlQSGo2MzBNVFg5MHJLclRZY2JCbEk1NEFBYzZMUWFVZHBKVjR5SjhnQzBQaklyYmMyRlFCQm5oT0JtWWNrVnVSMVFE?oc=5",
-      "source": "福井テレビ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:26:19.000Z"
     },
     {
       "id": "4b7e64f8613364ed",
@@ -614,15 +614,6 @@
       "publishedAt": "2026-10-05T21:51:05.000Z"
     },
     {
-      "id": "2d0271960da3241c",
-      "title": "三井倉庫HD、新人から「物流×IT人材」育成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MkRhUWc3bkhUZ0dVYUlLMWpqSG5malFxaVlsYTJiV2hnRWlxV1lJOEZIUmtsVmFXUlNvWEZfOE9mVzhLWkRFQU1n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:51:05.000Z"
-    },
-    {
       "id": "69d2d33bf04f3385",
       "title": "国交省 ＪＲ貨物の役割発揮に期待",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T14:30:31.000Z"
+    },
+    {
+      "id": "51ba457e4660c632",
+      "title": "中央道で10数台絡む事故 トラックの資材落下し後続車が衝突 男女2人けがの模様 山梨",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aSENkdzBIVG1uQVlaZzdDWTk1bE8xSzZ1S3FwYm4tdUZXT01rNkFIUjNBcldoQ0hmWmwteVdqQVg0VVVUdDJzb2g4VzY2QjhnS1RELUk4UWtHbnNJVUVMWlMzSjBfa0tpZlRnSzZ3?oc=5",
+      "source": "Excite エキサイト",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-05T13:54:00.000Z"
     }
   ]
 }
