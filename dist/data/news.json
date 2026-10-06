@@ -1,23 +1,41 @@
 {
-  "updatedAt": "2026-10-06T11:28:34.377Z",
+  "updatedAt": "2026-10-06T12:34:37.525Z",
   "articles": [
     {
-      "id": "0bacfddc6336bdfe",
-      "title": "ファミマ、おにぎりなど配送削減（時事通信）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aGkzbUlBNWhWQ2ZjRG5PeXU4cjlLdGdZWDU4WVZRVTF3R1BXUk9TczNyTXcwa2VEUS04XzlYMnpET1VWSDhfVDE1SzA5RFpYbWJvSmhiMmxBOFA3SVgyNUdHZTFXMDRsNzU4V3JUVURXZ1B6cElBLTYyRk4yRFE?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "952c21516a2d4778",
+      "title": "【倒産】運送業者が事業停止・自己破産申請へ セメントや石灰石などの運送を中心に手掛ける【帝国データバンク】",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50cUJ4YzBrak9RdzhJQ29reTBhb0V4aFpzclFfNjR1cXBidWxrQU1nUWNDYnpFQUcxdU9MYXo1cnF3aHFCb2pOV3A3cUpDRHRYRmNleFV5dHpGdw?oc=5",
+      "source": "TBS NEWS DIG",
       "category": "物流",
-      "publishedAt": "2026-10-06T11:00:38.000Z"
+      "publishedAt": "2026-10-06T11:00:00.000Z"
     },
     {
-      "id": "35729a7b290b25f5",
-      "title": "【倒産】運送業者が事業停止・自己破産申請へ セメントや石灰石などの運送を中心に手掛ける【帝国データバンク】",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRTZDQm8wRGQzX1lFQjhjQmJCTHBhZ1Z0UWludnlwRmdIVHl1Zm8tX21vT2NaazQ5eDIta0lxMjNKOUxZQVlyVUk2NkRhY0tOdmtMUzhwV2xmT2RNajFFWUt0QjIwaHpuRlNLbTYwUG9ibzFNTU45UjJmOXNrZTA?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "5059c803112aed9c",
+      "title": "ファミマ、中四国で冷蔵商品配送を１日２便に減 愛媛は全208店舗対象",
+      "description": "愛媛新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iT0lubzNiak8xSG1MTXNSRGNLYUNfN3phTWlkUHJBeXdWS1JCbEFvQkh6TC1UeWFVU2d6c0RLRktYWjMxODhkWnJDWlZBbUJ0bEVzejBYQURYNzR2Wk1rTg?oc=5",
+      "source": "愛媛新聞",
       "category": "物流",
-      "publishedAt": "2026-10-06T11:00:33.000Z"
+      "publishedAt": "2026-10-06T10:51:11.000Z"
+    },
+    {
+      "id": "e808a4da3d04db48",
+      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aeVVLc3Ryd2o5RVVkQ3A3aUF1ME1pRFlqUkRPMDd6Y0FCNnAtZjRqWjlEQmMyQ2ozUzZjWE5NU3RvdzNxb3hRVG5hMkEtMmI0VGc5VkxMc18tMWIxX0I1WjRldUwxU2MwUTRBdWR3?oc=5",
+      "source": "Excite エキサイト",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T10:49:00.000Z"
+    },
+    {
+      "id": "d7bc1c42e98c738d",
+      "title": "〖高速道路緊急工事情報〗常磐道 日立市内で一部通行止め予定［6日21:00-7日06:00］",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLa1lybV9FRGZuZGhjV0JRTXV5QjV6YzQzVE1TSDJCZl9IZU1EaGlIa1lONU84WTZ4MU1ETS1xYjVENXFXYXJjSWxUWU4wM2poZ0ZSQ1ZDcExGVXd6UlQw?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T10:44:15.000Z"
     },
     {
       "id": "24378fc66f74ce19",
@@ -38,13 +56,13 @@
       "publishedAt": "2026-10-06T10:34:01.000Z"
     },
     {
-      "id": "a3b26ab977e5cd04",
+      "id": "72bec65642ce1c99",
       "title": "東温市の国道11号で正面衝突事故 軽トラック運転の男性が意識不明の重体【愛媛】",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFFHR2RqTmd6Y3ZEZl9ublBOOHlkamE4VUc0cGhJa2MzY3N5dl9uVjRBV2xmZW1sWG0zcnUtRUJtSUgwQk9iMmRPS0otNUFuNWdacnBYZ0dsVkwzb0NoZGR5RzJlYXN6aW9aZFAwS2VUTDg2akVRT2NfUEpyZFdHZkRHMDMxZEk?oc=5",
-      "source": "日テレNEWS NNN",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBicVctUEM2cFVzcnRuaUNHa3pHZ3E0VlU3c19xRERvcDBTNVczNnotcU1XSGFfSDhBWXB2Y0JlUmRsZ0NSVmE5NHlvNnBPQVJVWnJHNGE2Y0FjdE1SdXdxcUxwdVdQcklwWEhNNGxB?oc=5",
+      "source": "Excite エキサイト",
       "category": "安全・事故",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
+      "publishedAt": "2026-10-06T10:04:00.000Z"
     },
     {
       "id": "638690a45bff9398",
@@ -74,6 +92,15 @@
       "publishedAt": "2026-10-06T09:00:01.000Z"
     },
     {
+      "id": "a2ad872d00f83cb3",
+      "title": "トレーラーに挟まれ乗用車が大破 信号待ちの列へトラックが突っ込む 4台玉突き事故で男女3人を搬送 北海道白老町 国道36号",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HTHhDVjA3V3FXelVMSDNzd3Q0djhaMFdELVBiX2ZicmU3Qm1BTnl3cldEYkYtSFZudVBfUHVxMTNKeU5QYlNDMWR3a1JhRDdaZ05lREZsblNCOU1hMzJRc25ld01GSk0?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T08:55:00.000Z"
+    },
+    {
       "id": "b7f52a73539f11ab",
       "title": "キューサイ、物流を4→1拠点へ集約し配送コスト最適化と出荷効率化を実現。クラダシを物流パートナーに選定",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -92,6 +119,15 @@
       "publishedAt": "2026-10-06T08:19:57.000Z"
     },
     {
+      "id": "137d21a32b56b9e2",
+      "title": "【内部文書を入手】アマゾン、配送の外部依存からの脱却を図る…米国配送需要の99.9%を自社網でカバーする極秘計画の全貌",
+      "description": "businessinsider.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFVGckJGZjRpRHdTT0JYR1NkYkl1RW5KclN3eURQTnBsM0YwSFBoM21vRkJHOFJ5VVFYSlhMdGFVYXB3Yk10a2pKZ2tWWVNMRXpKd0Z2SkgwWjRaUlc5Y2NLUFJ4cVJEVnY2N21SNnFZeU9NSVc0S1FmYl8wQ3hJR1J1dUZVZ3FtZ1BtQm1vclMxZHFJU3V6LXdGNA?oc=5",
+      "source": "businessinsider.jp",
+      "category": "物流",
+      "publishedAt": "2026-10-06T08:15:00.000Z"
+    },
+    {
       "id": "a02b35d6ffb17645",
       "title": "フーリハン・ローキー、物流業界は増収増益基調",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -99,15 +135,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-06T07:42:05.000Z"
-    },
-    {
-      "id": "2996d002efbc1361",
-      "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
-      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yZjFEU1p4WVVFZGhtbjh4MlZoazhBdXExZThsZ3hQREtsS05XX3ZEMmxMX3lHclZpdk1RUFVQejhqdUllLTY3YVF0Y092ekU?oc=5",
-      "source": "Newscast.jp",
-      "category": "物流",
-      "publishedAt": "2026-10-06T07:13:00.000Z"
     },
     {
       "id": "39c6877e6cd3a90e",
@@ -272,13 +299,13 @@
       "publishedAt": "2026-10-06T03:48:51.000Z"
     },
     {
-      "id": "483cbdd44fa91ace",
-      "title": "熊本地震で被災のフジパン工場、生産再開を断念…物流拠点として活用へ（読売新聞オンライン）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZzRDMEg3TTlvczBYZ1RveWdBTzJYdnhEM3B5NHg5bHkyc1ZncmRNZl9UOGJZMHdPbVRUNnAzMzY4MkplTnpOWmxpd29WSWV1dnVCbkJQbERqS19sMlVGQkY0aE85NDVaa2JLbDlSMmo2ZjB4Rl9IX0d6SXg3QkU?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "b402dc2d151e5ed2",
+      "title": "熊本地震で被災のフジパン工場、生産再開を断念…物流拠点として活用へ",
+      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cmhERnIxLVN1dUpQel9BYlUtLUZPTjR1QkNvZWZWYnZOWmJzSkozZl9YS3FNNFNWT21BNEZJNnR4WnNrNWJEeHNULWZ2bEpPYlNCTnRkMnlpMndWaXRJdnhhbm4?oc=5",
+      "source": "読売新聞",
       "category": "物流",
-      "publishedAt": "2026-10-06T03:32:56.000Z"
+      "publishedAt": "2026-10-06T03:32:00.000Z"
     },
     {
       "id": "c90622fc99dd08f7",
@@ -353,6 +380,15 @@
       "publishedAt": "2026-10-06T02:58:06.000Z"
     },
     {
+      "id": "1cbb56f2448944a9",
+      "title": "福岡運輸／名古屋支店の冷凍冷蔵倉庫を2倍以上に拡張、第2期工事へ地鎮祭",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KYmk0V1ZuVHE4ZFV0dEdRaTlaa0ZneURYM3dnN09jM1pQS0Z4NVd5OU5XVXhHNWM1ZHZTRWQ3eHFWM0x2MkZoajlreHZEQUM0enQ4dA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-06T02:53:43.000Z"
+    },
+    {
       "id": "697a96bd2c8cfd43",
       "title": "住友商事／横浜港北に11.2万m2の物流施設竣工、危険物倉庫も併設",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -398,11 +434,20 @@
       "publishedAt": "2026-10-06T02:30:11.000Z"
     },
     {
+      "id": "0458dd143d1b77e1",
+      "title": "改正トラック新法と運送会社の人事評価を考える無料オンラインセミナーを10月20日に開催。アスア・タイガー・TUMIXが登壇！",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QcW92TmptWVhPSnIxdlAtUEd6eVY2R2ktQnFDNXFHOWlSei1ZNWlfZE1RNnpyX3dtREdnMW5YQ3p0dDVTanR6RlU2UGp5S212MlZ3U2ZvYjhQY3Rma3hxOGQzY2pOQ2I3THc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-06T02:30:01.000Z"
+    },
+    {
       "id": "e005775e1d05fbc3",
       "title": "＜物流アップデート＞飼料輸送、安全確保へ 高所作業削減求める声 農水省連絡会議",
-      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "agrinews.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5weGwyS3FtSkRLRnFLdHdFTWs4VWE5MS1hZW5KYU5KYWItQUx1THJHZnFickpSdXozYm9jOFNHeXVpZlhwajVUWjlYLVJCZkNPWTh6MDluZw?oc=5",
-      "source": "日本農業新聞",
+      "source": "agrinews.co.jp",
       "category": "物流",
       "publishedAt": "2026-10-06T02:29:57.000Z"
     },
@@ -425,15 +470,6 @@
       "publishedAt": "2026-10-06T01:02:10.000Z"
     },
     {
-      "id": "b931ea2b6d07dfdd",
-      "title": "【運送事業者向け】「仕組み化」と「ブランド戦略」を学ぶ無料オンラインセミナーを10月15日開催",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lQ0FXbjFQYzZCdEQ1eDhyZ2pSa0plZ1oxeXp2NzhYT3VDdWI2dzdNR2pRNmJvenBsaUxjVW9mNmJhcExYZEtVVUFpdzZOcmt3aE9XNDVFeUJGN2hrOHVwWlA1YTNBU3ZYcmc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-06T01:00:03.000Z"
-    },
-    {
       "id": "ebbb446ddb686ea5",
       "title": "オプティマインド、「Japan Mobility Show Bizweek 2026」に出展",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -452,11 +488,11 @@
       "publishedAt": "2026-10-06T01:00:00.000Z"
     },
     {
-      "id": "e8261ac6bf16866b",
+      "id": "37b5be0c5712cb2c",
       "title": "トラックも対象！ 脇見・眠気を検知し警報する「ドライバーモニタリングシステム」が2031年から搭載義務化へ",
-      "description": "fullload.bestcarweb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZTI1V1hsUTVIcm9OcEtzSGVqdnVfSXl3VTdjOVFYT0dJRWpEZVNGdHM0VmEzanJadWRZRFQtTlJlMXJJXzk5WXJ5UUxUeWx3OEY5Vw?oc=5",
-      "source": "fullload.bestcarweb.jp",
+      "description": "bestcarweb.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WcjFBT3BsUnRYN1NrNWZ6UjVCeTJuXzRuU0NfdjBWQmtNN1JXM1NIbmF4d2lXdFA4MjBhZjFzU2RhcGFyQ2lhZ1NhazhXTjg?oc=5",
+      "source": "bestcarweb.jp",
       "category": "法令・行政",
       "publishedAt": "2026-10-06T01:00:00.000Z"
     },
@@ -472,9 +508,9 @@
     {
       "id": "cbf71dafadfc264f",
       "title": "高速道路のインターチェンジで正面衝突事故が発生し、大型トレーラートラック2台が大破した。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2N6YjNrZ2VRZ0VOSE1RcGNkSDNYaWpjQ2RKTHg3dURrOVFEUGRXa2NRUjNSVERWY2lnLXJhUUlnenVmN2F1MTdldUEySW5TbW5PekVDY1VObWFDR0IwelRyQUtuaVJmMk9wM2M5NUd3V3BXZVJhN29XZDAyYkU1SzlwNUZOTlhFNUZPRmpFV2tCclFqX0k4bUZ3?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T23:40:11.000Z"
     },
@@ -533,15 +569,6 @@
       "publishedAt": "2026-10-05T21:51:05.000Z"
     },
     {
-      "id": "2d0271960da3241c",
-      "title": "三井倉庫HD、新人から「物流×IT人材」育成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MkRhUWc3bkhUZ0dVYUlLMWpqSG5malFxaVlsYTJiV2hnRWlxV1lJOEZIUmtsVmFXUlNvWEZfOE9mVzhLWkRFQU1n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:51:05.000Z"
-    },
-    {
       "id": "69d2d33bf04f3385",
       "title": "国交省 ＪＲ貨物の役割発揮に期待",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -549,15 +576,6 @@
       "source": "カーゴニュースオンライン",
       "category": "法令・行政",
       "publishedAt": "2026-10-05T21:02:15.000Z"
-    },
-    {
-      "id": "b85bb4d7e77c1457",
-      "title": "宝HD、傘下のタカラ物流システムを中央倉庫に売却へ - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kYkxOcGVFb0RQVkpGVFNZM2dhMnpHWWx5SmY1RERYdXZxTDN4TzRuREgxRkVEVTFBWWlFRWhRdnVPU2hWLVBWZzZkZw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:00:04.000Z"
     },
     {
       "id": "e093bedb7ca50e2a",
@@ -643,9 +661,9 @@
     {
       "id": "87729c39708aacb0",
       "title": "フンイエン省でコンテナトラック2台が正面衝突し、車体からキャビンが分離するなど、甚大な損傷を受けた。",
-      "description": "vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmtxdGRGVjRhOFhWWDJSbzV0WVZQY3hnRElxSGl1c19fcWZNQ1puV0JDLTRQY1JRRUszQ0hlT0UwR3dvUEVwRWJZejlUdjI5TzJ3VmpnTEV6NEpOaXdPZUo0TEFzLXdvcXFBN1JlMlhkdHRrMHltUDdaZFd3aDdHWW5yM1dCNmk2LUhwdmhHTklfakJHNFdHQ184SGpHbFo4T3gxVkF4QXFGdw?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T14:30:31.000Z"
     },
@@ -686,15 +704,6 @@
       "publishedAt": "2026-10-05T13:47:00.000Z"
     },
     {
-      "id": "40652cc0855ae477",
-      "title": "【速報】山梨・大月市の中央道で12台絡む事故 2人けが",
-      "description": "KSBニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ycHZKdmtNQUxzTFAwUzJud3ZEZ1VPSEtRM09TYktvZHJUbEYxdDJ3MUxsNU9KOTRJNThwbTB0eGZ3WUJBQm1vSE9fUUtYb1ROZERzN0tR?oc=5",
-      "source": "KSBニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-05T13:07:01.000Z"
-    },
-    {
       "id": "62203ce85e786757",
       "title": "中央道・上り線 トラックや乗用車など12台の事故 勝沼ICー大月JCTが通行止め 【午後8時55分現在】",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,15 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T12:13:13.000Z"
-    },
-    {
-      "id": "f38dee771c89aeb9",
-      "title": "「死角に入ると危ない」トラックを使って交通安全教室 小学生が巻き込み事故などの危険性を学ぶ＝静岡市",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BdVRQZjhZaDI5OG5EeDBmVUVOdGZQOFlQZjlCWWhwTzQyVzdfWExEejhyLWNvcWdDbEVNTUNpLTNDdEJpQ3U1VTdWMDRNTF8xclNhQ2JnZ0ZTb3R4QVo2azE0aXI5cXZmVXlBSGN3?oc=5",
-      "source": "au Webポータル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T12:01:00.000Z"
     }
   ]
 }
