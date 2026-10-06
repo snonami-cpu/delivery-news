@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-06T09:30:50.053Z",
+  "updatedAt": "2026-10-06T10:29:52.030Z",
   "articles": [
+    {
+      "id": "a3b26ab977e5cd04",
+      "title": "東温市の国道11号で正面衝突事故 軽トラック運転の男性が意識不明の重体【愛媛】",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFFHR2RqTmd6Y3ZEZl9ublBOOHlkamE4VUc0cGhJa2MzY3N5dl9uVjRBV2xmZW1sWG0zcnUtRUJtSUgwQk9iMmRPS0otNUFuNWdacnBYZ0dsVkwzb0NoZGR5RzJlYXN6aW9aZFAwS2VUTDg2akVRT2NfUEpyZFdHZkRHMDMxZEk?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T10:00:00.000Z"
+    },
     {
       "id": "638690a45bff9398",
       "title": "コクヨ、176億円投じ滋賀に最大規模の物流拠点 新配送センター造成工事に着手（週刊大阪日日新聞）",
@@ -18,6 +27,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T09:01:49.000Z"
+    },
+    {
+      "id": "a88545b2dfa3df6e",
+      "title": "「軽トラックがグチャグチャ」大型トラックと衝突 東温の国道１１号 高齢男性が意識不明の重体【愛媛】（テレビ愛媛）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUGR1YnNVa01RXzI5TURnQnFvMThhVFdDNUN2ODBLbWJkOXFkckJLLWxZYk9KUmV5YlhWa1o0QTJrRHp6QWpIei1QVFQxQVZVNUpGS2Q0RFhESDVrUlE1Q2pTQ01USzh5S243YjZnWFpkN3FjOHdEQU5CN1VQbmM?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T09:00:01.000Z"
     },
     {
       "id": "b7f52a73539f11ab",
@@ -254,15 +272,6 @@
       "publishedAt": "2026-10-06T03:22:39.000Z"
     },
     {
-      "id": "5801feb95656a7ca",
-      "title": "NX、シンガポール物流の実務をオンライン解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ETEY5WjB5SC0wczhDNEJlMDkzUjJSS0V4RlpNN2k1NXNEWDNJb0g3cTBuZjFDLWhKSXI2TVM3Y3l5Y1oxWDN2QUFB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-06T03:21:12.000Z"
-    },
-    {
       "id": "5dbbb523a5ae354a",
       "title": "中央道でトラックから資材落下 後続の車11台が次々に衝突 上り線 勝沼IC～大月JCTで約3時間通行止め 山梨",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -360,15 +369,6 @@
       "source": "日本農業新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T02:29:57.000Z"
-    },
-    {
-      "id": "4e2d6f1c49f1a355",
-      "title": "ニチレイロジ、英国拠点増設で自動倉庫初導入",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mQjlybi1oeFIxaFZENnNIQXBWQjlHd0RCMk1sM0hTMzc0RUZzekIwdUlKMlBpRHFQRDdNMGM3Q3hiUUc2aEFCX1ZR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-06T02:23:47.000Z"
     },
     {
       "id": "e8000fbd584252ce",
@@ -479,6 +479,15 @@
       "publishedAt": "2026-10-05T21:58:29.000Z"
     },
     {
+      "id": "4e2d6f1c49f1a355",
+      "title": "ニチレイロジ、英国拠点増設で自動倉庫初導入",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mQjlybi1oeFIxaFZENnNIQXBWQjlHd0RCMk1sM0hTMzc0RUZzekIwdUlKMlBpRHFQRDdNMGM3Q3hiUUc2aEFCX1ZR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-05T21:58:29.000Z"
+    },
+    {
       "id": "b6a8cc2297246705",
       "title": "霞ヶ関キャピタル、冷凍自動倉庫検討へMOU",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -492,6 +501,15 @@
       "title": "越境ECの壁は物流、送料と輸入規制に対応急ぐ",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lU0ZJcVNwazRfUUJkaTlnRzBPekZfenRwZFhiajVYQzJSWmQxNUhiMnpzSGhTdW9fZ29kVUNPMkd5akZEM2E1LW53?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-05T21:51:05.000Z"
+    },
+    {
+      "id": "5801feb95656a7ca",
+      "title": "NX、シンガポール物流の実務をオンライン解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ETEY5WjB5SC0wczhDNEJlMDkzUjJSS0V4RlpNN2k1NXNEWDNJb0g3cTBuZjFDLWhKSXI2TVM3Y3l5Y1oxWDN2QUFB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-05T21:51:05.000Z"
@@ -623,6 +641,15 @@
       "publishedAt": "2026-10-05T13:54:00.000Z"
     },
     {
+      "id": "7c56bf0b62e9650c",
+      "title": "【中央道】勝沼IC～大月JCTの上りで通行止め解除 山梨（2026年10月5日掲載）｜YBS NEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkhac3EzZk1WR3dQUWNqel9TNUFMLTQxbW8zTl93bUFMZ0R5WlVVbjR0a25aLXpDbWJYUC1qdTJNYVByWkxnZGZLZ19JUi1JSHBXdk0xakZiTXFOUDJieGZtMXB2QlhLQk9vMEFqbVA3S2c4c2ttVWktZkRVWV9HU2VIcw?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-05T13:52:00.000Z"
+    },
+    {
       "id": "ce370fc7c3fce4b9",
       "title": "【中央道】勝沼IC〜大月JCTの上りで通行止め解除 山梨",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -639,6 +666,15 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-05T13:47:00.000Z"
+    },
+    {
+      "id": "40652cc0855ae477",
+      "title": "【速報】山梨・大月市の中央道で12台絡む事故 2人けが",
+      "description": "KSBニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ycHZKdmtNQUxzTFAwUzJud3ZEZ1VPSEtRM09TYktvZHJUbEYxdDJ3MUxsNU9KOTRJNThwbTB0eGZ3WUJBQm1vSE9fUUtYb1ROZERzN0tR?oc=5",
+      "source": "KSBニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-05T13:07:01.000Z"
     },
     {
       "id": "62203ce85e786757",
@@ -684,42 +720,6 @@
       "source": "pando.life",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-05T11:10:53.000Z"
-    },
-    {
-      "id": "97f8af42d5b08079",
-      "title": "【中央道】10数台が絡む事故の影響で勝沼IC～大月JCTの上りが通行止め 山梨（2026年10月5日掲載）｜YBS NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZWt5Z3JwdE1CdWdsTUxXWkpPMm5JTFFPSGI0cjIwYzdiWVBUem5WM3FnVC13b3Q4RFprR0g1cXRobmpaRFBQeXhHUUlSeHJaUjRoWFlCZ2JSWURKNHhDVmZEQmoxNFZJS2JELW1oNHk1T21NWktwVHpHMA?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-05T11:06:00.000Z"
-    },
-    {
-      "id": "43c8986ab76e53de",
-      "title": "【中央道】軽ワゴン車の横転事故の影響で勝沼IC〜大月JCTの上りで通行止め 山梨",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGRzdXdYLTVZbDlkV25BaGtldU4zemZoUlJMRTV4YXZ4NXl5WDJyRHVJdHNHM2VxNTkyNU9nQWtkS3ZreG5WeXYwRUFBX014V294Vk1KcWdhS0ZvUnlyZjlYZVhKTXAxUWlSVWRIcWZISlRQQm1MMXIxNDhScm1hMtIBgAFBVV95cUxQeGRzdXdYLTVZbDlkV25BaGtldU4zemZoUlJMRTV4YXZ4NXl5WDJyRHVJdHNHM2VxNTkyNU9nQWtkS3ZreG5WeXYwRUFBX014V294Vk1KcWdhS0ZvUnlyZjlYZVhKTXAxUWlSVWRIcWZISlRQQm1MMXIxNDhScm1hMg?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-05T11:06:00.000Z"
-    },
-    {
-      "id": "0c772231277474e4",
-      "title": "「この飾りがなければ即死だった」 警察官も驚愕したデコトラの巨大バンパーが起こした奇跡",
-      "description": "WEB CARTOPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwczFrMDJZbGtGYklneHh2OHgxZFZXVnJ4VEdHbU1WVlZSYTBPajNNMENHd2QzOTNDSm4yT1cyUG1rSE50SFZaXzlONXJOejlSOEpV0gFYQVVfeXFMTldSamxFUnpEM1RNQXB2WkFxaXdRSjFiOC1ua0NuaUY0Vm5OSnFGOEpINW92QnFYdEFMT2l2Vk1ya2hMa2t6d3hZaWhIVlNjUnY3dUtHalB2Qw?oc=5",
-      "source": "WEB CARTOP",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T11:00:05.000Z"
-    },
-    {
-      "id": "c00b1d03b5dd28cb",
-      "title": "「身勝手な飲酒運転で殺され…」基準値2倍のアルコール検出も過失運転致死罪で起訴に遺族の無念 北陸道で大型トラック飲酒死亡事故、6日の初公判へ 富山地裁（チューリップテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVY1NwejVIX2RTaGFJVmZ0ajl5UDlvX2tEbjVBOEVraHIzTUNjRWFsNWIzZV80dGZweDNVMXRBa3gxX2hrc0t5ZHhqaUJsTWFHelQ0N2lXaFdCY3dzcnNLQmNSQk5QNkJxYkJ0WWxJbldxM2VvMl9fWkFva0hvQVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-05T10:54:19.000Z"
     }
   ]
 }
