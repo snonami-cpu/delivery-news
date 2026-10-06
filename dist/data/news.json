@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T21:27:45.386Z",
+  "updatedAt": "2026-10-06T22:28:02.851Z",
   "articles": [
     {
-      "id": "5ab12fadc786c23b",
-      "title": "ウーバー、法人向け料理配送の米イージーケーター買収 3600億円",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2LWVxNWtoSlFROVB1QlRrektHUVo4QTFITWZHbUlSclUxZGsyRndOcGtyN1ROYnFnMkMtdkJqNkx6ZjZpeF9WQTBJLUg1OGM2V3ZXem53WnVfZ1ZpX2NFSUdDU3VONy00M3UwVw?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-06T18:37:33.000Z"
+      "id": "44cbffd7574ef534",
+      "title": "「適正原価」導入で安全を競う時代に 京都府トラック協会が取り組み",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkQxcDFtYldnektnaHBCX0NrTGRsc3d4ZTRSQzUwaFpxbU8tWlQwQkE4dFMxbmpra09jeWdvcEtSRGJyY1V2R2o0ZEZ6aHVpZlpNOWZJTHZfVlM5ZS1lUU9SRHU1NDNTcm1pM0w3Y05iNi1xNTB6VWQ2Y3VneGNTTXNMRUtDUXc?oc=5",
+      "source": "朝日新聞",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-06T22:00:00.000Z"
     },
     {
       "id": "c2c37b358d53bd2c",
@@ -173,15 +173,6 @@
       "publishedAt": "2026-10-06T07:42:05.000Z"
     },
     {
-      "id": "59758a165fa38696",
-      "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nWlc5TEtxMXd1YjA0alY0Z0NoeUgtSEtoaU9JNW9oR1RYUHBTbm50WmwzczlKMTBySXRPR0x4RTlrd05fSXFwQ0VTQkhMOGc?oc=5",
-      "source": "アットプレス",
-      "category": "物流",
-      "publishedAt": "2026-10-06T07:13:00.000Z"
-    },
-    {
       "id": "39c6877e6cd3a90e",
       "title": "レバジョブ調査／「物流2030年問題」へ危機感、7割超が将来の配送遅延に不安",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -189,15 +180,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T07:09:39.000Z"
-    },
-    {
-      "id": "878cc920414a298c",
-      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
-      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
-      "source": "福井テレビ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:40:04.000Z"
     },
     {
       "id": "47542a7f636cead9",
@@ -216,6 +198,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-06T06:27:04.000Z"
+    },
+    {
+      "id": "e856354f51a09826",
+      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
+      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVGhOZkxDMXBiRy1oeWVKNkJJdzJKRzQ1UDQwZTlQSGo2MzBNVFg5MHJLclRZY2JCbEk1NEFBYzZMUWFVZHBKVjR5SjhnQzBQaklyYmMyRlFCQm5oT0JtWWNrVnVSMVFE?oc=5",
+      "source": "福井テレビ",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T06:26:19.000Z"
     },
     {
       "id": "4b7e64f8613364ed",
@@ -506,15 +497,6 @@
       "publishedAt": "2026-10-06T02:29:57.000Z"
     },
     {
-      "id": "333de865a29b478b",
-      "title": "中央倉が続伸、宝ＨＬＤ物流子会社株の７割を取得へ",
-      "description": "株探が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdElsOGN0a01IUnFfWW5jWHV1SEQ3Tjktc2d4Y2pWS0dLYXI4SkowSXJBTmtnTVBmaGtBSmk0VHZlTmx5VHpmNWRfSEI3T0I3Tk56S2VhVjAxTWpBZC1ubw?oc=5",
-      "source": "株探",
-      "category": "物流",
-      "publishedAt": "2026-10-06T01:18:00.000Z"
-    },
-    {
       "id": "a40e767e05bd436f",
       "title": "国道14号線でトラックとバイクの事故、1人死亡",
       "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -609,6 +591,24 @@
       "title": "越境ECの壁は物流、送料と輸入規制に対応急ぐ",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lU0ZJcVNwazRfUUJkaTlnRzBPekZfenRwZFhiajVYQzJSWmQxNUhiMnpzSGhTdW9fZ29kVUNPMkd5akZEM2E1LW53?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-05T21:51:05.000Z"
+    },
+    {
+      "id": "2d0271960da3241c",
+      "title": "三井倉庫HD、新人から「物流×IT人材」育成",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MkRhUWc3bkhUZ0dVYUlLMWpqSG5malFxaVlsYTJiV2hnRWlxV1lJOEZIUmtsVmFXUlNvWEZfOE9mVzhLWkRFQU1n?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-05T21:51:05.000Z"
+    },
+    {
+      "id": "5801feb95656a7ca",
+      "title": "NX、シンガポール物流の実務をオンライン解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ETEY5WjB5SC0wczhDNEJlMDkzUjJSS0V4RlpNN2k1NXNEWDNJb0g3cTBuZjFDLWhKSXI2TVM3Y3l5Y1oxWDN2QUFB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-05T21:51:05.000Z"
