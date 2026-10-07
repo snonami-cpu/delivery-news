@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-07T04:30:47.115Z",
+  "updatedAt": "2026-10-07T05:30:02.690Z",
   "articles": [
+    {
+      "id": "01ad5bd0349c6fa4",
+      "title": "カインズ、ソニテック買収で建築資材物流を拡充",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ic1NCaEtjRl81YjlNaUZMbS11eGUzX1pXekRDQ2d4eWV2Z29QRVNsSW5FWGlqVFJFS0tNMXRkd2tOYTZzT2FLWkFB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-07T03:37:02.000Z"
+    },
+    {
+      "id": "70fd42866385d670",
+      "title": "韓国で「マンジャロ」求め日本へ渡航…価格差背景、2026年8月までに摘発5030件",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43aVBwb0E4bWg4NmtTVWtBaFpqaXhYVDJXUVRMdThrOE5IeVFzeGVxZkN1Q2VzVkk5MkY2eUl6Ni1uR29PcGFEcV9SRDlBMDk1Y0ppM3JyV3l1azdwTVhKODZtQnM2ZHpVWEHSAWpBVV95cUxON2lQcG9BOG1oODZrU1VrQWhaaml4WFQyV1FUTHU4azhOSHlRc3hlcWZDdUNlc1ZJOTJGNnlJejYtbkdvT3BhRHFfUkQ5QTA5NWNKaTNycld5dWs3cE1YSjg2bUJzNmR6VVhB?oc=5",
+      "source": "Infoseek",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-07T03:00:02.000Z"
+    },
     {
       "id": "831d24d77482c67f",
       "title": "大東建託、日本物流施設／神奈川県「寒川北IC」近くに物流センターを2027年4月竣工へ",
@@ -126,6 +144,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-06T20:21:00.000Z"
+    },
+    {
+      "id": "5ab12fadc786c23b",
+      "title": "ウーバー、法人向け料理配送の米イージーケーター買収 3600億円",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2LWVxNWtoSlFROVB1QlRrektHUVo4QTFITWZHbUlSclUxZGsyRndOcGtyN1ROYnFnMkMtdkJqNkx6ZjZpeF9WQTBJLUg1OGM2V3ZXem53WnVfZ1ZpX2NFSUdDU3VONy00M3UwVw?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-06T18:37:33.000Z"
     },
     {
       "id": "c2c37b358d53bd2c",
@@ -308,6 +335,15 @@
       "publishedAt": "2026-10-06T08:15:00.000Z"
     },
     {
+      "id": "59758a165fa38696",
+      "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nWlc5TEtxMXd1YjA0alY0Z0NoeUgtSEtoaU9JNW9oR1RYUHBTbm50WmwzczlKMTBySXRPR0x4RTlrd05fSXFwQ0VTQkhMOGc?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-10-06T07:13:00.000Z"
+    },
+    {
       "id": "39c6877e6cd3a90e",
       "title": "レバジョブ調査／「物流2030年問題」へ危機感、7割超が将来の配送遅延に不安",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -461,6 +497,15 @@
       "publishedAt": "2026-10-06T04:09:38.000Z"
     },
     {
+      "id": "51cbd131c6c47d84",
+      "title": "コクヨ 滋賀に基幹機能担う物流拠点を建設へ",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZ3NJYzhPLVlUSjZfTVdDYlU5TEJ3RENHTFJ4MGlJLW1xZXc2RDlzTjYtZUpkcHJWcDBKTDdkbHAtNFlIbmhTdlRtOWd0YWQ0QnNnYmZ1cHM5R0ZQek9Z?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-10-06T04:07:29.000Z"
+    },
+    {
       "id": "03a550b0cff01c39",
       "title": "シマント、国交省の物流生産性向上事業に採択",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -486,6 +531,15 @@
       "source": "読売新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T03:32:00.000Z"
+    },
+    {
+      "id": "c90622fc99dd08f7",
+      "title": "ファミリーマート／中国・四国地方の約1200店でおむすび・弁当などの配送を1日2便化へ",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRbjNFdDI0YWY2WXdZS1RlN0YtNjNrN01KWHgyT1VCS1BsMUc3aGdkVVhXSzFLQzlONFBKTWdGZU1YbHhNNmZEQ2dtcFRXZENoLWV2VA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-06T03:28:49.000Z"
     },
     {
       "id": "6397250bc55d9f34",
@@ -596,6 +650,15 @@
       "publishedAt": "2026-10-06T02:29:57.000Z"
     },
     {
+      "id": "e8000fbd584252ce",
+      "title": "DPワールド、TGIとナイジェリア物流で提携",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VRkdqTVFEMDJTTTA4aGNLUURubDhncFRqUE0yVW45Q2REZjlkcDBOVUxmY25MQUVKcEMxa21CR25hLVI3TDB2VkRn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-06T02:04:14.000Z"
+    },
+    {
       "id": "333de865a29b478b",
       "title": "中央倉が続伸、宝ＨＬＤ物流子会社株の７割を取得へ",
       "description": "株探が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -657,69 +720,6 @@
       "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T23:40:11.000Z"
-    },
-    {
-      "id": "598479f15b3ed4ee",
-      "title": "焦点：中国肝いりの物流情報網、忽然と姿消す 「通商上の兵器」と米が危惧（ロイター）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MGk4SktLVGh5MWd5TERuTmdORmJ6dGpVcnp1N3FDa2ZHNnZjSnBOdGFjY3dQajlVZHlyZ2FmQzY3cEdBWEVmVnVZUkpLRTVjQ2lYdFctdkxXT01ybk12dkE4aVFORFluMEJSOGNyaVMxa3ZBVUNtRlhMVnZTbFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-05T23:11:35.000Z"
-    },
-    {
-      "id": "baaf386cb34e945b",
-      "title": "ラストワンマイル協同組合 首都圏の配送ネットワークをさらに拡充",
-      "description": "共同通信PRワイヤーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zZ2xlaC1VaXZDVWUxUVBCbEVRWEVYWjU1V3BIX3NIbHY5VU5QMmlnY1VfbW9XUGx0aDZoRkhyaDNDOXVsVFo0TVhxb2dMUnhVWkp0R1k3QUhMaWc?oc=5",
-      "source": "共同通信PRワイヤー",
-      "category": "物流",
-      "publishedAt": "2026-10-05T23:00:00.000Z"
-    },
-    {
-      "id": "4e2d6f1c49f1a355",
-      "title": "ニチレイロジ、英国拠点増設で自動倉庫初導入",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mQjlybi1oeFIxaFZENnNIQXBWQjlHd0RCMk1sM0hTMzc0RUZzekIwdUlKMlBpRHFQRDdNMGM3Q3hiUUc2aEFCX1ZR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-05T21:58:29.000Z"
-    },
-    {
-      "id": "b6a8cc2297246705",
-      "title": "霞ヶ関キャピタル、冷凍自動倉庫検討へMOU",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjYjQ2a1FJR0VXbE5jR3ZqNEY3MGt6a1RjOHU2eDlSeWc3X2h0dE1CRENxWFM4d29LSWo1R0s0bjNUWHIwTXJYdVl3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-05T21:58:29.000Z"
-    },
-    {
-      "id": "2e00ef734d247ca9",
-      "title": "越境ECの壁は物流、送料と輸入規制に対応急ぐ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lU0ZJcVNwazRfUUJkaTlnRzBPekZfenRwZFhiajVYQzJSWmQxNUhiMnpzSGhTdW9fZ29kVUNPMkd5akZEM2E1LW53?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:51:05.000Z"
-    },
-    {
-      "id": "2d0271960da3241c",
-      "title": "三井倉庫HD、新人から「物流×IT人材」育成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MkRhUWc3bkhUZ0dVYUlLMWpqSG5malFxaVlsYTJiV2hnRWlxV1lJOEZIUmtsVmFXUlNvWEZfOE9mVzhLWkRFQU1n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:51:05.000Z"
-    },
-    {
-      "id": "69d2d33bf04f3385",
-      "title": "国交省 ＪＲ貨物の役割発揮に期待",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQmRCdTlxVlEtVlJCa0NJOF93YkxXVDY4ZjJJM29YVUsyaDVnVDBaT1dzR255STFyQlVVMUhZdEUyTUYwOVNONUlxNXJ0bEU1SWZoMFVTaXVPUUt2MnBn?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-05T21:02:15.000Z"
     }
   ]
 }
