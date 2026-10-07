@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-07T07:31:40.990Z",
+  "updatedAt": "2026-10-07T08:32:26.563Z",
   "articles": [
+    {
+      "id": "bbd3449037de89a0",
+      "title": "わらべや日洋HD 決算／3〜8月の物流事業は売上高63億2300万円で0.3％増加",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNlFtSlhvM0RzNjZpYldPS3J4M3FSRGxCOHhRU0Z3Y1RweEQ3SF8wLTZBVjlxQ2NCUmp1S21CYUNLcC11WFV5LVdHdWJnQ01GYS1FXw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-07T07:54:58.000Z"
+    },
+    {
+      "id": "567afefe9b25247b",
+      "title": "【物流ウィークリー 掲載】「かいしゃカジュアル面談」の取り組みが紹介されました",
+      "description": "M&Aサクシードが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ic19mM1RQb1dtOHRreGVEdy0tQjBVZHVzTFF1bWQtYUx4N2c4TnpRNEFJdjUzVUY1R1AzQ0gya1g0aUJYQnZuNHN1cGVteklVUzZXZ3RWY0ZIbUVjYlRnX0ZR?oc=5",
+      "source": "M&Aサクシード",
+      "category": "物流",
+      "publishedAt": "2026-10-07T07:45:18.000Z"
+    },
+    {
+      "id": "decc301a5b5e12e7",
+      "title": "「何ができる会社か」がひと目で伝わるコーポレートサイトに全面リニューアル｜フードテクノエンジニアリング",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52UVo4Y29abmNuWGZVOUtPVWVHeTVLUmdwVGdWMzY1TnMyRHRqMGlfVWJiWTVncVhBRGVtUVVsbDRkdGJiYUtETnhpbWVtQzZGSlJub1dFUkNqYlZPYklBTndoYWVtUWNPR2RZZjhWcDVHN3lYTkE?oc=5",
+      "source": "ニコニコニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-07T07:30:34.000Z"
+    },
     {
       "id": "9e35edd8e2fb040b",
       "title": "物流効率化に向けた中長期計画の策定・法対応をAIが支援。Hacobu、「データ分析エージェント for MOVO Berth」を機能強化。",
@@ -9,6 +36,15 @@
       "source": "株式会社Hacobu",
       "category": "物流",
       "publishedAt": "2026-10-07T06:37:16.000Z"
+    },
+    {
+      "id": "effabffd8f909a4c",
+      "title": "九州運輸局／熊本市東区のトラック運送事業者を事業停止30日間・車両使用停止20日車の行政処分",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14b2hmNVJvQVAyMy0zbDJ3MG0xU2RpM3BCdndDTXJ3d2ZadzVFdVNqbHdHYmk2RkgycldBaDh1aHhFS21PUWp5Zk0zcjktcEktU0VXMA?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T05:35:00.000Z"
     },
     {
       "id": "f4d44305dc897e72",
@@ -227,15 +263,6 @@
       "publishedAt": "2026-10-06T11:00:38.000Z"
     },
     {
-      "id": "6ca58f2a3a58d581",
-      "title": "【倒産】運送業者が事業停止・自己破産申請へ セメントや石灰石などの運送を中心に手掛ける【帝国データバンク】",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUZ1Q0bGh5dWM5Tl9OZy00THdaeFkydUVUdWk5NUhoQWxfRW4yY1B4VEp0bkNBOVZSclk3NzRuWDVVMjRHZUNLeURYbkg5WHdNaFNWR1Zqbk9zSDVTOEJTVjM3UQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-06T11:00:00.000Z"
-    },
-    {
       "id": "5059c803112aed9c",
       "title": "ファミマ、中四国で冷蔵商品配送を１日２便に減 愛媛は全208店舗対象",
       "description": "愛媛新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -270,6 +297,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-06T10:44:00.000Z"
+    },
+    {
+      "id": "e2a41aa8edd5262b",
+      "title": "ファミリーマート 配送減便でCO2・食品ロス削減（HOME広島ホームテレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KNUJncUV3bjFiSWpYREpmRVJSNmFBdDlzbll3encyNVdKVTZxV2drZG9aWkN2cHl3dDhKdkQ5SldjYWd6M1owcVVIMzNlU3hhVUxiTWpvV2IzVFRoUm9VMU5UNFd5T0xVc0xibXBQbEdwZGdRNW52a3JhSFpHUDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-06T10:12:52.000Z"
     },
     {
       "id": "95692e353211cb75",
@@ -353,15 +389,6 @@
       "publishedAt": "2026-10-06T08:55:00.000Z"
     },
     {
-      "id": "b7f52a73539f11ab",
-      "title": "キューサイ、物流を4→1拠点へ集約し配送コスト最適化と出荷効率化を実現。クラダシを物流パートナーに選定",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVHBlNHBoYndLOUxCaGhPYVdCX1RLZHBMZFpRQ1YwaFNnNkRkLTVQdnZuXzZRUHVESWo4ZUlNZzQxX25WSVhiVlptM25jSE9PSWp6WXNYU2tDVW15ZWFac1F6Nk1QZ3BLVDh4Y3F0TmxDQ1FWdmw4T0l3OHAzSjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-06T08:31:04.000Z"
-    },
-    {
       "id": "f6eda5688c815ccf",
       "title": "物流連／2026年度第1回経営効率化委員会、Mujin招きAI活用を講義",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -398,15 +425,6 @@
       "publishedAt": "2026-10-06T07:09:39.000Z"
     },
     {
-      "id": "878cc920414a298c",
-      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
-      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
-      "source": "福井テレビ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:40:04.000Z"
-    },
-    {
       "id": "47542a7f636cead9",
       "title": "菱地所物流Ｒ",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -414,6 +432,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T06:30:00.000Z"
+    },
+    {
+      "id": "e856354f51a09826",
+      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
+      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVGhOZkxDMXBiRy1oeWVKNkJJdzJKRzQ1UDQwZTlQSGo2MzBNVFg5MHJLclRZY2JCbEk1NEFBYzZMUWFVZHBKVjR5SjhnQzBQaklyYmMyRlFCQm5oT0JtWWNrVnVSMVFE?oc=5",
+      "source": "福井テレビ",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T06:26:19.000Z"
     },
     {
       "id": "4b7e64f8613364ed",
@@ -542,24 +569,6 @@
       "publishedAt": "2026-10-06T04:09:38.000Z"
     },
     {
-      "id": "51cbd131c6c47d84",
-      "title": "コクヨ 滋賀に基幹機能担う物流拠点を建設へ",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZ3NJYzhPLVlUSjZfTVdDYlU5TEJ3RENHTFJ4MGlJLW1xZXc2RDlzTjYtZUpkcHJWcDBKTDdkbHAtNFlIbmhTdlRtOWd0YWQ0QnNnYmZ1cHM5R0ZQek9Z?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:07:29.000Z"
-    },
-    {
-      "id": "03a550b0cff01c39",
-      "title": "シマント、国交省の物流生産性向上事業に採択",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CdkozLTA0N0hUSFAzeGhVcUt4ZnY4Ul91bkVwNzBjR3o3NFNlNjNyYk1tMDhBZE82VXpQUmxnQzFrekpndHdqZTZB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-06T03:48:51.000Z"
-    },
-    {
       "id": "b402dc2d151e5ed2",
       "title": "熊本地震で被災のフジパン工場、生産再開を断念…物流拠点として活用へ",
       "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -686,24 +695,6 @@
       "publishedAt": "2026-10-06T02:29:57.000Z"
     },
     {
-      "id": "e8000fbd584252ce",
-      "title": "DPワールド、TGIとナイジェリア物流で提携",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VRkdqTVFEMDJTTTA4aGNLUURubDhncFRqUE0yVW45Q2REZjlkcDBOVUxmY25MQUVKcEMxa21CR25hLVI3TDB2VkRn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-06T02:04:14.000Z"
-    },
-    {
-      "id": "333de865a29b478b",
-      "title": "中央倉が続伸、宝ＨＬＤ物流子会社株の７割を取得へ",
-      "description": "株探が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdElsOGN0a01IUnFfWW5jWHV1SEQ3Tjktc2d4Y2pWS0dLYXI4SkowSXJBTmtnTVBmaGtBSmk0VHZlTmx5VHpmNWRfSEI3T0I3Tk56S2VhVjAxTWpBZC1ubw?oc=5",
-      "source": "株探",
-      "category": "物流",
-      "publishedAt": "2026-10-06T01:18:00.000Z"
-    },
-    {
       "id": "a40e767e05bd436f",
       "title": "国道14号線でトラックとバイクの事故、1人死亡",
       "description": "Laodong.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-10-06T01:00:03.000Z"
+    },
+    {
+      "id": "e8261ac6bf16866b",
+      "title": "トラックも対象！ 脇見・眠気を検知し警報する「ドライバーモニタリングシステム」が2031年から搭載義務化へ",
+      "description": "https://fullload.bestcarweb.jp/が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZTI1V1hsUTVIcm9OcEtzSGVqdnVfSXl3VTdjOVFYT0dJRWpEZVNGdHM0VmEzanJadWRZRFQtTlJlMXJJXzk5WXJ5UUxUeWx3OEY5Vw?oc=5",
+      "source": "https://fullload.bestcarweb.jp/",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-06T01:00:00.000Z"
     }
   ]
 }
