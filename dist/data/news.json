@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-07T13:32:22.259Z",
+  "updatedAt": "2026-10-07T14:30:59.733Z",
   "articles": [
+    {
+      "id": "e190a38e1a5cf5c5",
+      "title": "ニッスイ子会社でシステム障害、入出荷できず 不正アクセス原因か",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wSVRIN05nMWRVZmRpUmItZnhWWklWalAzdVNTaE1wdDhRZ0syRW5taVZiME96X0xLLVlmNzBSSExyeENoQ1RoRHJudkhJSnl4aU9Ib1VTbXg0Z3FrMGF0c2hvcTg4UGs?oc=5",
+      "source": "朝日新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-07T13:22:04.000Z"
+    },
     {
       "id": "335699497b36e0cd",
       "title": "ニッスイグループの低温物流企業でシステム障害 商品の入出荷停止",
@@ -20,13 +29,13 @@
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
     {
-      "id": "0838980e7c48a61e",
+      "id": "15ac4a3cd5dfb24a",
       "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNHRLN0ViZkREbzdnajIyTkxUOEFVczZyUkk5d0xKRXcyS2RSSTFoOHRuaG5mU3VnU1RnQWFETVA3d1lMX3VxZ05tcGs0MkFiVXU2bldHQmhqY1N4dWd1ZlVrVzRsbFJOdldxRTJUa9IBdEFVX3lxTFBaMWp6cXFNbFcyRG5sUlhlWnp1MWJHb0Y2ZEwyRGpHV2cyaG53S014UE0tMHlWU2tnaTRlQnJ1My1yQlk5TThjZGFmaXF0TkZGdkh5VWxLQ242NHRwTWpGVWJ4Q2kzbTlqQWRuN1BLOGVsS1Jn?oc=5",
-      "source": "Infoseek",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmJjZW1XT3NYQV9jR1ZZZTdhRkNXLVV2elRmeExZbHhpcTdNd2h4QnBRUFg5M0swbXVfQXRwZFdERW1UZnEyVWVpaHFXeTBOajdoX056VWJtMGxEYnZua2o0Z19scXBQc0JJdGdUWXF2Y1VPQnM1VDZqUHdNeGRreFJRTUxuTG9vTy14aTFBbGo0dnPSAZMBQVVfeXFMT2JiY2VtV09zWEFfY0dWWWU3YUZDVy1VdnpUZnhMWWx4aXE3TXdoeEJwUVBYOTNLMG11X0F0cGRXREVtVGZxMlVlaWhxV3kwTmo3aF9OelVibTBsRGJ2bmtqNGdfbHFwUHNCSXRnVFlxdmNVT0JzNVQ2alB3TXhka3hSUU1Mbkxvb08teGkxQWxqNHZz?oc=5",
+      "source": "ｄメニューニュース",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T12:45:08.000Z"
+      "publishedAt": "2026-10-07T12:45:00.000Z"
     },
     {
       "id": "b213a84ac71f5ab8",
@@ -47,6 +56,15 @@
       "publishedAt": "2026-10-07T12:02:33.000Z"
     },
     {
+      "id": "68c58a5feb9dd74d",
+      "title": "新名神6人死亡事故 広島市の運送会社が過去に労基法違反疑い",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVHlEZ0Vxb0FWTVFDdXQwMmRQUm9lc2dhckV2WTNrVTJzSkljeW4weWpVbnVfX0pyRVlmYzhza0tIUEN0T1pCbTJrSHBiYk5LbjNMYUIyX2I3VFh3SmIw?oc=5",
+      "source": "NHKニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T11:18:04.000Z"
+    },
+    {
       "id": "43261849ee8ff9a5",
       "title": "２０２４年問題の物流業界を監視 トラック・物流Ｇメン出発式 荷主の違反行為を調査〈仙台市〉（仙台放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -63,15 +81,6 @@
       "source": "ITmedia",
       "category": "物流",
       "publishedAt": "2026-10-07T10:00:00.000Z"
-    },
-    {
-      "id": "929e2bfd76af1041",
-      "title": "ミニバイクの女性、軽トラックに追突され死亡 高砂の県道、片側1車線の直線道路|交通事故",
-      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rSjFzRDA0QjhQY1piTG5zWDdJQkRJLUJiWGNzeXN3bE5zRzI1MklTS3FLeWZCbjFrQVl3bVJHNWdIYjJmakNla0hxZmJoaDBEVGU5b1VaQ3RSV3dudlFrU0xMZkhfWDg0aUJjQm5KWC1jZUdEVkUxeUhyMDU?oc=5",
-      "source": "神戸新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-07T09:38:38.000Z"
     },
     {
       "id": "81eb828b16dbb895",
@@ -119,8 +128,17 @@
       "publishedAt": "2026-10-07T09:02:37.000Z"
     },
     {
+      "id": "f4f14cf28e35fe60",
+      "title": "公正取引委員会、中小企業庁／トラック運送業「歩引きやリベート含む減額」課題、適正取引ガイドライン策定も視野",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zN0ZfNTViZk55LWV6SE45UXNJUE1RbUd0QVZXazRVR0JyZTM2X0xrY1pzM0FxVWxMNjQ2eGNTcjAwd1cwQUFqcFBHZDUyX0dlNXktXw?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T08:03:00.000Z"
+    },
+    {
       "id": "bbd3449037de89a0",
-      "title": "わらべや日洋HD 決算／3〜8月の物流事業は売上高63億2300万円で0.3％増加",
+      "title": "わらべや日洋HD 決算／3～8月の物流事業は売上高63億2300万円で0.3％増加",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNlFtSlhvM0RzNjZpYldPS3J4M3FSRGxCOHhRU0Z3Y1RweEQ3SF8wLTZBVjlxQ2NCUmp1S21CYUNLcC11WFV5LVdHdWJnQ01GYS1FXw?oc=5",
       "source": "物流ニュースのLNEWS",
@@ -135,6 +153,15 @@
       "source": "M&Aサクシード",
       "category": "物流",
       "publishedAt": "2026-10-07T07:45:18.000Z"
+    },
+    {
+      "id": "0365e7ed3a064d69",
+      "title": "スマホアプリで貨物軽自動車運送事業者の安全管理業務を支援する「e-TranSpot」の機能を拡充 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wM2t0bnFRaHBIb2pmWXdaVnNaR29MTHBtd3RUU1U3b1hlRjlMSndqcWFmTTEzS3l3cnVzcnVBQTQ2V01ydVpNVHEtTQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-10-07T07:32:44.000Z"
     },
     {
       "id": "decc301a5b5e12e7",
@@ -245,15 +272,6 @@
       "publishedAt": "2026-10-07T03:41:00.000Z"
     },
     {
-      "id": "01ad5bd0349c6fa4",
-      "title": "カインズ、ソニテック買収で建築資材物流を拡充",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ic1NCaEtjRl81YjlNaUZMbS11eGUzX1pXekRDQ2d4eWV2Z29QRVNsSW5FWGlqVFJFS0tNMXRkd2tOYTZzT2FLWkFB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T03:37:02.000Z"
-    },
-    {
       "id": "0cbc815cbae7417e",
       "title": "ラピュタロボティクス／ロジスティード東日本の営業所に自在型自動倉庫導入へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -344,15 +362,6 @@
       "publishedAt": "2026-10-06T23:40:06.000Z"
     },
     {
-      "id": "788415a2845e2f72",
-      "title": "ロジアスジャパン、物流設備と海外動向の情報拡充",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtV2dObDR4a0xOaWViN1R2Ykplakt1UFB1NnRMdWkxMXBENjFCbXRDNlNJWnhVMnY2ajBYdWpUMDZaZW5tbnBoWVZB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-06T23:40:06.000Z"
-    },
-    {
       "id": "1135ec710dd6ee91",
       "title": "スズキ、大阪に純正補修部品の物流拠点",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -387,15 +396,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-06T20:21:00.000Z"
-    },
-    {
-      "id": "e005775e1d05fbc3",
-      "title": "＜物流アップデート＞飼料輸送、安全確保へ 高所作業削減求める声 農水省連絡会議",
-      "description": "日本農業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5weGwyS3FtSkRLRnFLdHdFTWs4VWE5MS1hZW5KYU5KYWItQUx1THJHZnFickpSdXozYm9jOFNHeXVpZlhwajVUWjlYLVJCZkNPWTh6MDluZw?oc=5",
-      "source": "日本農業新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-06T19:25:05.000Z"
     },
     {
       "id": "5ab12fadc786c23b",
