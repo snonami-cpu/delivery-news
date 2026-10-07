@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-07T16:32:28.197Z",
+  "updatedAt": "2026-10-07T17:31:03.140Z",
   "articles": [
+    {
+      "id": "a7f5265498007f49",
+      "title": "豊富小で千葉県トラック協会船橋支部による交通安全教室 トラックを使った実演も",
+      "description": "myfuna.netが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzV1hjdi1oaGl5WF9zdXdIZEdoYkpfRTJBRDl1NFEtaFdGRGoyZ0d0MkN3ZWo2TUR0V3FNQ1l1OS1zZEpzc2lrYmY1dF96TEVaV04xd1Vn?oc=5",
+      "source": "myfuna.net",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T16:02:07.000Z"
+    },
     {
       "id": "672ebee9d1c8d35e",
       "title": "食品大手ニッスイ 物流子会社が不正アクセスによりシステム障害 入出荷作業できず（TBS NEWS DIG Powered by JNN）",
@@ -326,6 +335,15 @@
       "publishedAt": "2026-10-07T02:37:27.000Z"
     },
     {
+      "id": "b9745044cd7fa363",
+      "title": "サントリーロジスティクス／オプティマインドの自動配車システム「Loogia」を順次導入",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nZ2xSdVVfbVdWRmVfVG9SWU1WLWJEYUZSc3pVaUxMcDd0QTBPOTBYU3BTR2NFa3o0VHc5QUJoT1JtaFlOaEpWUWN3Z3planRFWk5aeA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-07T01:58:37.000Z"
+    },
+    {
       "id": "f060da2cbfb0663b",
       "title": "船井総研SC、運送・物流会社向け「10億企業化部会」",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -351,15 +369,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-07T00:29:48.000Z"
-    },
-    {
-      "id": "483459b8d8eb6e0e",
-      "title": "愛知県、手荷物当日配送と無人ロッカーを実証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41YlkyZnZVXzBTeXN1TFZDY2p1VW5USGZGeFFLbW5wdWN5V0xLcDVfRzJNa0Z1NjJvS3hqSmFCSnR5TkN5X2xaZVV3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T00:29:00.000Z"
     },
     {
       "id": "8e465b1bb1fd0042",
@@ -450,15 +459,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-06T11:00:38.000Z"
-    },
-    {
-      "id": "48218f3f262c08cf",
-      "title": "【倒産】運送業者が事業停止・自己破産申請へ セメントや石灰石などの運送を中心に手掛ける【帝国データバンク】",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZHBrbzlRekpsNW93dmJvX00zLUZDZEotSmVPMFR5d25helhQeFdacDFEYTFXbzQ3RDMzdU5DOG51NVpsQmh3UlpRcTJQY2NvV2ItRVRvajNwbzBBM2VHQ29aUQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-06T11:00:00.000Z"
     },
     {
       "id": "5059c803112aed9c",
@@ -641,15 +641,6 @@
       "publishedAt": "2026-10-06T06:50:34.000Z"
     },
     {
-      "id": "878cc920414a298c",
-      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
-      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
-      "source": "福井テレビ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:40:04.000Z"
-    },
-    {
       "id": "47542a7f636cead9",
       "title": "菱地所物流Ｒ",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,6 +702,15 @@
       "source": "ダイキン工業株式会社",
       "category": "物流",
       "publishedAt": "2026-10-06T05:03:13.000Z"
+    },
+    {
+      "id": "142f98d5ed15f772",
+      "title": "佐川グローバルロジ／愛知県大府市に1.8万m2の営業所開設へ、製造業の物流ニーズで",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DRkc0OHBFWTdncEsxSUlJLTV3bGVTVHZGa3lCTm5iRlpYdURaWlN1VVFmMmFydUdtODNESzVvN0c5R2RBZWd0elY0TUNyOEw3Yl9ySg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-06T04:59:11.000Z"
     },
     {
       "id": "28066482db386aa3",
