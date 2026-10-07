@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-07T00:39:50.634Z",
+  "updatedAt": "2026-10-07T01:29:32.527Z",
   "articles": [
+    {
+      "id": "b213a84ac71f5ab8",
+      "title": "連載 世界物流のフロンティアを歩く 第8回：AIが変える物流オペレーション",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYWFWZk5XWklfT1AtMXFvSW1XTHVSWWJzdC1PUkJLS0JfYjRQVUFhM3NHekpWeXRJT0ZqVEtZWnVHYTRFVDVKWlZtQk13QXV6dFFodA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-07T01:19:18.000Z"
+    },
     {
       "id": "3cc6ce4b5f23de5a",
       "title": "熊本県、運送会社の事業継続へ最大300万円",
@@ -18,6 +27,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-07T00:29:00.000Z"
+    },
+    {
+      "id": "845a72a3068b0615",
+      "title": "【910円の謎】なぜトラック運送業だけ「特定最低賃金」が残ったのか？ なぜ労組は賃上げに直結しない改定を求めるのか",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFCN01ZaEpkQkNHTjlScnNHblc3aHIwaFVGSEhGRTh2cmJGMXlqTDlvMlk4MFpPY3h2aWhJTVBpRFJLZE13SGJvdTIxc0REVHZtaXdrVnRJcXhGZ0EzekZlZnUzTW1IbmE0eF9UTGdxUFhMdFdQN2h5YXNvVDBVcnVOcXBJMjNq?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T00:13:27.000Z"
     },
     {
       "id": "8e465b1bb1fd0042",
@@ -254,6 +272,15 @@
       "publishedAt": "2026-10-06T08:15:00.000Z"
     },
     {
+      "id": "59758a165fa38696",
+      "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nWlc5TEtxMXd1YjA0alY0Z0NoeUgtSEtoaU9JNW9oR1RYUHBTbm50WmwzczlKMTBySXRPR0x4RTlrd05fSXFwQ0VTQkhMOGc?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-10-06T07:13:00.000Z"
+    },
+    {
       "id": "39c6877e6cd3a90e",
       "title": "レバジョブ調査／「物流2030年問題」へ危機感、7割超が将来の配送遅延に不安",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -353,15 +380,6 @@
       "publishedAt": "2026-10-06T04:47:00.000Z"
     },
     {
-      "id": "197c38a2dc39d74c",
-      "title": "越境EC事業者と協議会開催へ 片山財務相「国際物流に大きな難題」",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRlFhTkZnU2xSa2EwQkh0N0N2dU1zcWRSMTY0ZzVxMkcweTdyNU9WTU44dnNEaFVFNTV2U183ZUdBMXFuNTlqOGNKRXFTWDNnNkQ4Wld3VlU3TU1hbXBJZkNZelcxSC02N1ZKUA?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:35:24.000Z"
-    },
-    {
       "id": "cb44c0679feb2ab4",
       "title": "中央倉庫が大幅続伸､宝HDの物流子会社買収を買い材料視",
       "description": "四季報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -416,15 +434,6 @@
       "publishedAt": "2026-10-06T04:09:38.000Z"
     },
     {
-      "id": "51cbd131c6c47d84",
-      "title": "コクヨ 滋賀に基幹機能担う物流拠点を建設へ",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZ3NJYzhPLVlUSjZfTVdDYlU5TEJ3RENHTFJ4MGlJLW1xZXc2RDlzTjYtZUpkcHJWcDBKTDdkbHAtNFlIbmhTdlRtOWd0YWQ0QnNnYmZ1cHM5R0ZQek9Z?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:07:29.000Z"
-    },
-    {
       "id": "03a550b0cff01c39",
       "title": "シマント、国交省の物流生産性向上事業に採択",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -470,6 +479,15 @@
       "publishedAt": "2026-10-06T03:25:00.000Z"
     },
     {
+      "id": "5dbbb523a5ae354a",
+      "title": "中央道でトラックから資材落下 後続の車11台が次々に衝突 上り線 勝沼IC～大月JCTで約3時間通行止め 山梨",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zV2c5dFF2c0k5eUxSamlkTVM0T19qWW0yOHluM1dqd0NWT0tMTUE4cXhhQlVWVFJ1UUhXeXA0MkRST01lNW4zdmtkdk5fbGJ4TDlMdGY5SlQyMVhRTjJZZGljWlFTUFZhQ2N1c1RR?oc=5",
+      "source": "Excite エキサイト",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T03:19:00.000Z"
+    },
+    {
       "id": "e8f1ef6c35054d01",
       "title": "中央道でトラックから資材落下 後続の車11台が次々に衝突 上り線 勝沼IC〜大月JCTで約3時間通行止め 山梨",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -488,20 +506,11 @@
       "publishedAt": "2026-10-06T03:08:44.000Z"
     },
     {
-      "id": "ce9197c5390fa459",
-      "title": "中央道でトラックから資材落下 後続の車11台が次々に衝突 上り線 勝沼IC～大月JCTで約3時間通行止め 山梨",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZ2JmWEJtbV9CRUNEUWJ3UTlVQVE5djVNY1djZHRTb2lCbHM3SVBkcS1FWXRCamhrVlZMME5ST0FJdEpvMGJrRVZTNl9GT1VFeEdwdUc0SlVSVUdBZlp4VndPRQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T03:00:00.000Z"
-    },
-    {
-      "id": "2aec1a44b9c69a6d",
-      "title": "ファミマ、おむすび・弁当の配送を1日2便化 中国・四国地方（Impress Watch）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaMlp2dUdmQ3lvRHI4T0NQZFZZQVQwc0tUcFZRSlFJZGF0QThBMUlOUElVclFnZGYtdjF3UV9Pd1dkS0NoN3lrN1lPZGdpOE41LW9RSGJJdUxoWlAwUDVPNE1wak1kSEtkak9VSHJuRE12REhSNTFGT2xsV2Z6ZUk?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "a7538f9badc4e658",
+      "title": "ファミマ、おむすび・弁当の配送を1日2便化 中国・四国地方",
+      "description": "Impress Watchが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ReEk1WEt4YTZqM3I2T3FqemNnZGNaQmQ0Tmd4ZG81dnlQNWJBNjQ2bHFzVk5HN0V4aHRtS0dfNVk2cFJqajJ6OTJQd3JXdGt2c1lHVEZVRExiTlVvZlhqaUxfWEc?oc=5",
+      "source": "Impress Watch",
       "category": "物流",
       "publishedAt": "2026-10-06T02:58:13.000Z"
     },
@@ -668,15 +677,6 @@
       "publishedAt": "2026-10-05T21:51:05.000Z"
     },
     {
-      "id": "2d0271960da3241c",
-      "title": "三井倉庫HD、新人から「物流×IT人材」育成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MkRhUWc3bkhUZ0dVYUlLMWpqSG5malFxaVlsYTJiV2hnRWlxV1lJOEZIUmtsVmFXUlNvWEZfOE9mVzhLWkRFQU1n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:51:05.000Z"
-    },
-    {
       "id": "69d2d33bf04f3385",
       "title": "国交省 ＪＲ貨物の役割発揮に期待",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -704,15 +704,6 @@
       "publishedAt": "2026-10-05T21:00:00.000Z"
     },
     {
-      "id": "eb1a70a4acb8e77b",
-      "title": "大和ハウス 新潟・東港でマルチ型物流施設を開発",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16d2tDajctNmxhQjBQbnE5bjhxZENOaENoR3NabU1kalRmY09xaTdQY1k1dmNJbUR4anY3VGd4dHVPVy0wc09WMFk3eGhRUURFZWs3YnA3MDQzbU0tX1hZ?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-05T21:00:00.000Z"
-    },
-    {
       "id": "edc260ad5b76b8d7",
       "title": "静岡市駿河区・中島小で交通安全教室 トラックの内輪差や死角、理解",
       "description": "静岡新聞DIGITALが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "静岡新聞DIGITAL",
       "category": "安全・事故",
       "publishedAt": "2026-10-05T21:00:00.000Z"
+    },
+    {
+      "id": "dcd7c2d9605441a2",
+      "title": "年収1000万円の運送ドリーム、夢破れたトラック運転手はタクシーへ",
+      "description": "日経BOOKプラスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZnp4SUpKaGtRRkNLd29leGZJWGJlNk9wc25FOTdWUy0xeWNlQXZOUkdnanI0N0FVOEZMRExjQm9qc2hiUWlrcnY4YnNHTXBtVGRwRTJzMGhqVjZoLVFnSlNMa2FSeVBQVW5zUw?oc=5",
+      "source": "日経BOOKプラス",
+      "category": "物流",
+      "publishedAt": "2026-10-05T20:00:00.000Z"
     }
   ]
 }
