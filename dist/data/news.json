@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:31:03.140Z",
+  "updatedAt": "2026-10-07T18:33:39.656Z",
   "articles": [
     {
       "id": "a7f5265498007f49",
@@ -29,15 +29,6 @@
       "publishedAt": "2026-10-07T13:22:04.000Z"
     },
     {
-      "id": "300447e9e4245db6",
-      "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "下野新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N3p4SGZVX05OcEdBNHZpNXJULXI4N3F1X1N0Y1JSeTVRMEJ0bWVfb2xoRUZpWUViS3hzMEMxNXQ0UTNfNWo2WHFJYjVXTDVKZ1B0VHpfaW40NDQ?oc=5",
-      "source": "下野新聞社",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T12:50:34.000Z"
-    },
-    {
       "id": "335699497b36e0cd",
       "title": "ニッスイグループの低温物流企業でシステム障害 商品の入出荷停止",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -52,6 +43,15 @@
       "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNbUkteGVRdkU4VGFCSU9LanVibnRpM3BlM2FjdWRnWmh1UDdMOS05QzN2cGgzV3BKaVlMMTR3QnlWNXMxT1Zfbm4xQQ?oc=5",
       "source": "47NEWS",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-07T12:45:08.000Z"
+    },
+    {
+      "id": "b46aff3ee0f20226",
+      "title": "ニッスイ子会社、システム障害で入出荷影響",
+      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVGoxcV81UlZtc09BemxQbmZMVUpFUnJITmk1YWpKRGFjaHA3YWFXNC1uMXgtdTRBNmM0WGwxbU1XR3Y4MWhwYlJkenhfWlh6cDFvZkprR2o?oc=5",
+      "source": "京都新聞デジタル",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
@@ -90,6 +90,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-07T10:42:02.000Z"
+    },
+    {
+      "id": "88f819d669d4b970",
+      "title": "違法残業疑い、運送会社を書類送検 新名神6人死亡事故の立ち入り調査で発覚",
+      "description": "産経ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YR3ltQmw4OUJnXzc4dUVEYmhnNzFRbkZXVFlMczljdmcyZ2JDcTQzbklHOHhFc0lUYVNqUFNvR2R6MW1fRTdFWWdQbUFxc1hDcjZGWXBpeHcxT1dmQzhiRm9QOVdZYmZWZ2VDTWM0UnRaaTZXMkE?oc=5",
+      "source": "産経ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T10:05:05.000Z"
     },
     {
       "id": "ecd17084ce858ee1",
@@ -219,7 +228,7 @@
     },
     {
       "id": "f1b1b5fc3d7c2098",
-      "title": "【速報】京都縦貫道の京丹波みずほー京丹波わちの上下線で通行止め 「貨物車が横転」通報（京都新聞）",
+      "title": "京都縦貫道の京丹波みずほー京丹波わちの上下線で一時通行止め 「貨物車が横転」通報（京都新聞）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZ2I3TFlZQWhLRDdrSVJRaW40Qjh0b1AtQWxZYUdndUMwSTZ2WGF0Q0ZIdVNqSnozVjJtZDcwN1Vrd3Mxc1lTYkhzS0hwSFlYUkUwYV80dUFXeDJlcVVLdzFlSGk5YUp2a0ZlVUJETGVCejZ5alRBd2lQNGN1M0E?oc=5",
       "source": "Yahoo!ニュース",
@@ -344,15 +353,6 @@
       "publishedAt": "2026-10-07T01:58:37.000Z"
     },
     {
-      "id": "f060da2cbfb0663b",
-      "title": "船井総研SC、運送・物流会社向け「10億企業化部会」",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hTldPa3dyZnFtUUVOVjN6akNuNl8yYzRJblNfSDlUT2c5VzZLN2RscVFYUnRlTjhTZkxCVDlzWkJTbEg3UTh6UTdn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T01:30:33.000Z"
-    },
-    {
       "id": "894e0f166d9b5659",
       "title": "「国際物流総合展2026」出展レポートを公開",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -416,10 +416,10 @@
       "publishedAt": "2026-10-06T23:38:24.000Z"
     },
     {
-      "id": "542a1454f146267b",
+      "id": "14b2457af50cd51a",
       "title": "「適正原価」導入で安全を競う時代に 京都府トラック協会が取り組み",
       "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqM2E0QmhWeFYwbXZlb1YzVVNpMnkyWUpHd0I0eUJ4blRfWnBBRThDUU1fVXdnV0pHQ21IT3FYQXBlMUMta2lhbWQ2WWdtV1lqMEJDbjhsQ1dZS2lsc2UzLWVzaDJ2MkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuOTBmaC1GbEJiMTRnTi16VzBVWVVJNk5taERwUUs0cDZ1RVYyanNFTzJZcVRwdktOZ3NNSDJwY3plN3NlUjA1bG1RNm1MSHBNdVFDazNsaWdraWE0RTJsQXd3UUdjTk1SUEh3?oc=5",
       "source": "朝日新聞",
       "category": "法令・行政",
       "publishedAt": "2026-10-06T22:00:00.000Z"
@@ -452,6 +452,15 @@
       "publishedAt": "2026-10-06T13:07:24.000Z"
     },
     {
+      "id": "741f32f480cb5c78",
+      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41TXlDb2Fvc0tLWThMcllXSDV4akljT3F6WWVNdHgwTVpnSmtaQ0FpNGlJUWo4TmhvdlF0TDV1cER6dEwtR2t3MGZ5dWQ1dEFsQXVWSHFjQlRDVTRhSVE4?oc=5",
+      "source": "ライブドアニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-06T11:50:32.000Z"
+    },
+    {
       "id": "0bacfddc6336bdfe",
       "title": "ファミマ、おにぎりなど配送削減（時事通信）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -468,15 +477,6 @@
       "source": "愛媛新聞",
       "category": "物流",
       "publishedAt": "2026-10-06T10:51:11.000Z"
-    },
-    {
-      "id": "e808a4da3d04db48",
-      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aeVVLc3Ryd2o5RVVkQ3A3aUF1ME1pRFlqUkRPMDd6Y0FCNnAtZjRqWjlEQmMyQ2ozUzZjWE5NU3RvdzNxb3hRVG5hMkEtMmI0VGc5VkxMc18tMWIxX0I1WjRldUwxU2MwUTRBdWR3?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-06T10:49:00.000Z"
     },
     {
       "id": "66db3cf9d4551ab5",
@@ -641,6 +641,15 @@
       "publishedAt": "2026-10-06T06:50:34.000Z"
     },
     {
+      "id": "878cc920414a298c",
+      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
+      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
+      "source": "福井テレビ",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-06T06:40:04.000Z"
+    },
+    {
       "id": "47542a7f636cead9",
       "title": "菱地所物流Ｒ",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -711,15 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T04:59:11.000Z"
-    },
-    {
-      "id": "28066482db386aa3",
-      "title": "ラストワンマイル協同組合／板橋センター10月開設、首都圏の配送網を強化",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KZWRBZXlEM0kyR2R2eXgtT3VLT0Zya19CVUFLTmFPeGVTanVnT0tzRHNGdlc5MTZ0LWtaNW5iNVBkMWxWLU9qdFZMZUxMNGhRZVJ5OA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:49:09.000Z"
     }
   ]
 }
