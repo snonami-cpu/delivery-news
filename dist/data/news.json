@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:33:39.656Z",
+  "updatedAt": "2026-10-07T19:29:15.124Z",
   "articles": [
     {
       "id": "a7f5265498007f49",
@@ -47,13 +47,13 @@
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
     {
-      "id": "b46aff3ee0f20226",
+      "id": "15ac4a3cd5dfb24a",
       "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "京都新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVGoxcV81UlZtc09BemxQbmZMVUpFUnJITmk1YWpKRGFjaHA3YWFXNC1uMXgtdTRBNmM0WGwxbU1XR3Y4MWhwYlJkenhfWlh6cDFvZkprR2o?oc=5",
-      "source": "京都新聞デジタル",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmJjZW1XT3NYQV9jR1ZZZTdhRkNXLVV2elRmeExZbHhpcTdNd2h4QnBRUFg5M0swbXVfQXRwZFdERW1UZnEyVWVpaHFXeTBOajdoX056VWJtMGxEYnZua2o0Z19scXBQc0JJdGdUWXF2Y1VPQnM1VDZqUHdNeGRreFJRTUxuTG9vTy14aTFBbGo0dnPSAZMBQVVfeXFMT2JiY2VtV09zWEFfY0dWWWU3YUZDVy1VdnpUZnhMWWx4aXE3TXdoeEJwUVBYOTNLMG11X0F0cGRXREVtVGZxMlVlaWhxV3kwTmo3aF9OelVibTBsRGJ2bmtqNGdfbHFwUHNCSXRnVFlxdmNVT0JzNVQ2alB3TXhka3hSUU1Mbkxvb08teGkxQWxqNHZz?oc=5",
+      "source": "ｄメニューニュース",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T12:45:08.000Z"
+      "publishedAt": "2026-10-07T12:45:00.000Z"
     },
     {
       "id": "b213a84ac71f5ab8",
@@ -236,15 +236,6 @@
       "publishedAt": "2026-10-07T07:03:16.000Z"
     },
     {
-      "id": "1ed825639c5ba944",
-      "title": "JMU／スエズマックスタンカー「SONIC」引き渡し、MOONSTONE MARINE向け",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RTlNOUy1ma21GR0JSMDYtVHBrbU9tMFhRZGJ0WXNxVExuRC1LekRISUUyVnl3UDBrVmdXWjEzLXhNNW9KRC1RRzlQcmZvRDBEczB0bg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-07T06:44:42.000Z"
-    },
-    {
       "id": "9e35edd8e2fb040b",
       "title": "物流効率化に向けた中長期計画の策定・法対応をAIが支援。Hacobu、「データ分析エージェント for MOVO Berth」を機能強化。",
       "description": "株式会社Hacobuが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -353,6 +344,15 @@
       "publishedAt": "2026-10-07T01:58:37.000Z"
     },
     {
+      "id": "f060da2cbfb0663b",
+      "title": "船井総研SC、運送・物流会社向け「10億企業化部会」",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hTldPa3dyZnFtUUVOVjN6akNuNl8yYzRJblNfSDlUT2c5VzZLN2RscVFYUnRlTjhTZkxCVDlzWkJTbEg3UTh6UTdn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-07T01:30:33.000Z"
+    },
+    {
       "id": "894e0f166d9b5659",
       "title": "「国際物流総合展2026」出展レポートを公開",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -416,10 +416,10 @@
       "publishedAt": "2026-10-06T23:38:24.000Z"
     },
     {
-      "id": "14b2457af50cd51a",
+      "id": "542a1454f146267b",
       "title": "「適正原価」導入で安全を競う時代に 京都府トラック協会が取り組み",
       "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuOTBmaC1GbEJiMTRnTi16VzBVWVVJNk5taERwUUs0cDZ1RVYyanNFTzJZcVRwdktOZ3NNSDJwY3plN3NlUjA1bG1RNm1MSHBNdVFDazNsaWdraWE0RTJsQXd3UUdjTk1SUEh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqM2E0QmhWeFYwbXZlb1YzVVNpMnkyWUpHd0I0eUJ4blRfWnBBRThDUU1fVXdnV0pHQ21IT3FYQXBlMUMta2lhbWQ2WWdtV1lqMEJDbjhsQ1dZS2lsc2UzLWVzaDJ2MkU?oc=5",
       "source": "朝日新聞",
       "category": "法令・行政",
       "publishedAt": "2026-10-06T22:00:00.000Z"
@@ -641,15 +641,6 @@
       "publishedAt": "2026-10-06T06:50:34.000Z"
     },
     {
-      "id": "878cc920414a298c",
-      "title": "北陸道・今庄トンネル内で車両火災 今庄IC－敦賀ICが通行止めに 下り線のみ解除 運転手は自力で脱出し無事",
-      "description": "福井テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQX05STm92M0VjODlfNnJyQVhhWjlwNlJZLVJuMjRQSkp5WTZVZjFFZDRVUzhxMkVsV2xTSGlhdGhTcENaVHVYNEFhOXl0WVktRXU5bC1IQjJtQ3NRZHdLa3FQUndrRmtWczNKdzJjSVZhbjg2WkFyOXB3ZGpacFRTbzRuZzN4andkX2xtdVFJZVI3RF9kMUdINzRrUF9hR00wYjZLRGVmUmU1TmNMV01GYUZEdGEyaW5JdEJBb2Y0LXAyNWt2LU1TcVBZSE81WUl3S3Y1THFjcUtONXRBbHBxNW4zVXdmU1JqNVdRMVJYcC1Ec3B2Ym1lY0xQekhVdkFMNzV1SGxWUHpKcFZyQ3JDR0J2bVZzU0g0T3ZVZzVjcUVDb0VId2gzdXREZ0ZnX2FoMFRzTWdGRzhrYS02NG9VbWYwZVVaWjNjaGFIUUZkYkFpUElwM2xEZTFKYw?oc=5",
-      "source": "福井テレビ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:40:04.000Z"
-    },
-    {
       "id": "47542a7f636cead9",
       "title": "菱地所物流Ｒ",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T04:59:11.000Z"
+    },
+    {
+      "id": "28066482db386aa3",
+      "title": "ラストワンマイル協同組合／板橋センター10月開設、首都圏の配送網を強化",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KZWRBZXlEM0kyR2R2eXgtT3VLT0Zya19CVUFLTmFPeGVTanVnT0tzRHNGdlc5MTZ0LWtaNW5iNVBkMWxWLU9qdFZMZUxMNGhRZVJ5OA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-06T04:49:09.000Z"
     }
   ]
 }
