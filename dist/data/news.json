@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-07T14:30:59.733Z",
+  "updatedAt": "2026-10-07T15:39:42.638Z",
   "articles": [
+    {
+      "id": "672ebee9d1c8d35e",
+      "title": "食品大手ニッスイ 物流子会社が不正アクセスによりシステム障害 入出荷作業できず（TBS NEWS DIG Powered by JNN）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GQ3JyOXRZcjRyblZFMW8xUXU0NTRUWDVENXFVYTBrLWNqbnpUXzZ5MXVUd1NUZUl4N3doNGNUc3F0ekIxSFJKeG5leUxHMzlSS21rX2FTb0FkTU5pUWVuUlhhTjVGd08tVldDUEdOSVFBWDQyUzhkU2twTmJnTjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T14:33:23.000Z"
+    },
     {
       "id": "e190a38e1a5cf5c5",
       "title": "ニッスイ子会社でシステム障害、入出荷できず 不正アクセス原因か",
@@ -9,6 +18,15 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-07T13:22:04.000Z"
+    },
+    {
+      "id": "300447e9e4245db6",
+      "title": "ニッスイ子会社、システム障害で入出荷影響",
+      "description": "下野新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N3p4SGZVX05OcEdBNHZpNXJULXI4N3F1X1N0Y1JSeTVRMEJ0bWVfb2xoRUZpWUViS3hzMEMxNXQ0UTNfNWo2WHFJYjVXTDVKZ1B0VHpfaW40NDQ?oc=5",
+      "source": "下野新聞社",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-07T12:50:34.000Z"
     },
     {
       "id": "335699497b36e0cd",
@@ -27,15 +45,6 @@
       "source": "47NEWS",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-07T12:45:08.000Z"
-    },
-    {
-      "id": "15ac4a3cd5dfb24a",
-      "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmJjZW1XT3NYQV9jR1ZZZTdhRkNXLVV2elRmeExZbHhpcTdNd2h4QnBRUFg5M0swbXVfQXRwZFdERW1UZnEyVWVpaHFXeTBOajdoX056VWJtMGxEYnZua2o0Z19scXBQc0JJdGdUWXF2Y1VPQnM1VDZqUHdNeGRreFJRTUxuTG9vTy14aTFBbGo0dnPSAZMBQVVfeXFMT2JiY2VtV09zWEFfY0dWWWU3YUZDVy1VdnpUZnhMWWx4aXE3TXdoeEJwUVBYOTNLMG11X0F0cGRXREVtVGZxMlVlaWhxV3kwTmo3aF9OelVibTBsRGJ2bmtqNGdfbHFwUHNCSXRnVFlxdmNVT0JzNVQ2alB3TXhka3hSUU1Mbkxvb08teGkxQWxqNHZz?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T12:45:00.000Z"
     },
     {
       "id": "b213a84ac71f5ab8",
@@ -74,6 +83,15 @@
       "publishedAt": "2026-10-07T10:42:02.000Z"
     },
     {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-07T10:29:46.000Z"
+    },
+    {
       "id": "ecd17084ce858ee1",
       "title": "コクヨが滋賀に自社最大規模の物流拠点、投資額176億円 設計・施工は鹿島で29年2月竣工：ロジスティクス",
       "description": "ITmediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -81,6 +99,15 @@
       "source": "ITmedia",
       "category": "物流",
       "publishedAt": "2026-10-07T10:00:00.000Z"
+    },
+    {
+      "id": "6e6148dfeee80271",
+      "title": "ミニバイクの女性、軽トラックに追突され死亡 高砂の県道、片側1車線の直線道路|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50LTdzTFdZbFdBbFhuMUVPWnc2bXJNVXMxUjV1Q1lNb3FNRUdpMVJBZmFoTk9IM0ZuN3laRjM3UHphN19CZUVMOTJ6MmJ0NHlZbWhseV91QXltZFVPTXFCQkpqUG51ZWEzeUFCOWppTHozTWhNaGxzcUpUaw?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T09:38:38.000Z"
     },
     {
       "id": "81eb828b16dbb895",
@@ -126,6 +153,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-07T09:02:37.000Z"
+    },
+    {
+      "id": "4e5ba9136c888102",
+      "title": "新名神６人死亡の被告ら違法残業か 運送会社社長を書類送検―広島中央労基署",
+      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94M0RiVnA2ZU1tZ2F6dnRGR2l4WVFNN0VPV0pkbmQ3U1JHLWRmOUxVRUdudE5yb0JwN3prcUNmUFBhbmc3T0NZWmZWVG5YYmxyUmZtZXRkYWVWWXkzZHVwOTBoYw?oc=5",
+      "source": "時事ドットコム",
+      "category": "物流",
+      "publishedAt": "2026-10-07T08:35:00.000Z"
     },
     {
       "id": "f4f14cf28e35fe60",
@@ -326,15 +362,6 @@
       "publishedAt": "2026-10-07T00:29:48.000Z"
     },
     {
-      "id": "483459b8d8eb6e0e",
-      "title": "愛知県、手荷物当日配送と無人ロッカーを実証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41YlkyZnZVXzBTeXN1TFZDY2p1VW5USGZGeFFLbW5wdWN5V0xLcDVfRzJNa0Z1NjJvS3hqSmFCSnR5TkN5X2xaZVV3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T00:29:00.000Z"
-    },
-    {
       "id": "8e465b1bb1fd0042",
       "title": "高速道路はどれくらいの強風・大雨で通行止めになる？",
       "description": "Motor Fanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -398,15 +425,6 @@
       "publishedAt": "2026-10-06T20:21:00.000Z"
     },
     {
-      "id": "5ab12fadc786c23b",
-      "title": "ウーバー、法人向け料理配送の米イージーケーター買収 3600億円",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2LWVxNWtoSlFROVB1QlRrektHUVo4QTFITWZHbUlSclUxZGsyRndOcGtyN1ROYnFnMkMtdkJqNkx6ZjZpeF9WQTBJLUg1OGM2V3ZXem53WnVfZ1ZpX2NFSUdDU3VONy00M3UwVw?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-06T18:37:33.000Z"
-    },
-    {
       "id": "c2c37b358d53bd2c",
       "title": "ダナン：鉄鋼を積んだトラックが横転し、衝突事故で道路を塞いだ。",
       "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -461,10 +479,10 @@
       "publishedAt": "2026-10-06T10:49:00.000Z"
     },
     {
-      "id": "66db3cf9d4551ab5",
+      "id": "d7bc1c42e98c738d",
       "title": "〖高速道路緊急工事情報〗常磐道 日立市内で一部通行止め予定［6日21:00-7日06:00］",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nODBvckxiU2JfaXZHbklEQkVxbVhZRVlXdGxpQTRpLWlFVFZvcXU1RTB4TFVjMnZjU1NNR0ZFdWpFVmxEdkpfbFFOcFVGRFRHVGpueHFUYTRjMkJ0amJzOENPMXU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLa1lybV9FRGZuZGhjV0JRTXV5QjV6YzQzVE1TSDJCZl9IZU1EaGlIa1lONU84WTZ4MU1ETS1xYjVENXFXYXJjSWxUWU4wM2poZ0ZSQ1ZDcExGVXd6UlQw?oc=5",
       "source": "千葉テレビ放送株式会社",
       "category": "道路・交通",
       "publishedAt": "2026-10-06T10:44:15.000Z"
@@ -702,24 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T04:49:09.000Z"
-    },
-    {
-      "id": "0873b28a8afe2740",
-      "title": "センコー／浜松市の物流施設屋根で太陽光発電、余剰電力を市内で活用",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSk1VaUNFVVNQTWtVd2hSVlBKRGtDNmpqLWFIM3Q3OUtLaVYwRk5yT1FUZ1AwTXhTQms2RVJ6bHBQS05qOWNJU2JMN3hYS19Za3B6eg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:47:00.000Z"
-    },
-    {
-      "id": "cb44c0679feb2ab4",
-      "title": "中央倉庫が大幅続伸､宝HDの物流子会社買収を買い材料視",
-      "description": "四季報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zNHloRjFrMmJjcXh1dzJyMFZ2Mm1uLXRnMmowckxSMjk2Y3ZCem9SV2NKaUo0UUQ2X0JOeUEyQktpUndrVXJIR0RvM21pdF9JMG9SUkZaZw?oc=5",
-      "source": "四季報オンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-06T04:31:39.000Z"
     }
   ]
 }
