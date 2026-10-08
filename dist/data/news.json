@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:33:33.952Z",
+  "updatedAt": "2026-10-08T17:29:37.251Z",
   "articles": [
     {
       "id": "2d50f4b6ab1dc1ae",
@@ -225,15 +225,6 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T04:12:34.000Z"
-    },
-    {
-      "id": "3a5af7f38551e8e5",
-      "title": "軽トラックが自転車と衝突、女性が意識不明 兵庫・姫路の国道交差点（神戸新聞NEXT）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FT3doSXRRZHo4all6c2N2OXp1NWhHUkY3UXBjX20zczdOY0NVLURxSmcxd0xqb2FyalBZNThnZE1tRmlWbl9ZZ3dXaUlSeDg4X1oyRkhwS1hBV0FjTy1XQjVjaU1pRUFlazJSRkQxbVE1ZEN3MnNSNVp5Qm5ialE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T04:10:10.000Z"
     },
     {
       "id": "6edcaba16a2ae334",
@@ -720,6 +711,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-07T10:42:02.000Z"
+    },
+    {
+      "id": "38e7780d28097ccc",
+      "title": "ダラットでトラックが濁流に流される、3人救助 過去には同じ場所で死亡事故 - https://access-online.net/",
+      "description": "https://access-online.net/が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRDQ4YVFPR1RVeFlRbmNjaDNxQ1RVRGZtQTd0YXk3QVZuMXg5eWE1TXFXeHFraHFwUmlzY0JHcmxMblR1NWFIUE40cDIwVVdEUU1pYWVpeXFaUUZyUjNxUw?oc=5",
+      "source": "https://access-online.net/",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T10:41:01.000Z"
     }
   ]
 }
