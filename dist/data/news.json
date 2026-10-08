@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:30:06.705Z",
+  "updatedAt": "2026-10-08T05:29:32.354Z",
   "articles": [
     {
       "id": "0fdc293e4df3cbc9",
@@ -9,6 +9,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T04:17:18.000Z"
+    },
+    {
+      "id": "549b66cefc2def77",
+      "title": "ニッスイ子会社の入出荷の停止 小売りや外食など約1200社分に",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqTnFrLTZyb0dreVM4V2tDM1BiajJBTDcwNWRpMnZGZ2d6QXdhRkxVc0xWNUtJSW1GWDVoSU9BNzgxYlBPcXRoaHpyUEtyODdZN2w1OHRMZkh6R1VNNmg3RFVGTnprSU0?oc=5",
+      "source": "朝日新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T04:12:34.000Z"
     },
     {
       "id": "12839cfaae51b635",
@@ -29,6 +38,15 @@
       "publishedAt": "2026-10-08T03:57:00.000Z"
     },
     {
+      "id": "122a280e84b3dde4",
+      "title": "大型トラック絡む死亡事故受け ドライバーに安全運転呼びかけ",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DR0NjenBJSm9aRmhhdW1XSFlSN19DU2VJTHRzRHFZNkNzNDQ0bXFEMUZSenNnYUFrbnluX0ZtQTZHTDh0d3pUaUhPY2NYTlYxWldTTzRhRmUwcjdGaktB?oc=5",
+      "source": "NHKニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-08T03:42:02.000Z"
+    },
+    {
       "id": "2e10eb641473d366",
       "title": "【10/14(水)vs福岡】『エムロジテックPresents～物流の【困った】を《よかった》へ～おかげさまで創立5周年記念マッチ』開催のお知らせ",
       "description": "サガン鳥栖が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -36,15 +54,6 @@
       "source": "サガン鳥栖",
       "category": "物流",
       "publishedAt": "2026-10-08T03:03:19.000Z"
-    },
-    {
-      "id": "8dcd013bc4569b0b",
-      "title": "ブレーキの部品に摩耗した痕跡、「フェード現象」が事故を誘発か…トラックが市バスに衝突・乗客１０人負傷（読売新聞オンライン）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSThaZk9LN3ZycXFXZWNWQlAyTFNvb3F1Tmk4X3hBc0pDS2VrbTlJOEVvaEdPTGZ2Z0VUVEhMZS1qYVdFTHplY0VPQ01EUmZRdmkxVV82Y2VrbjJtTy0zSTRLOEszNUxQbG5ycFhialU0eEh3U2p4eFZsbzBxV28?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T02:59:07.000Z"
     },
     {
       "id": "272027ffa5e6c111",
@@ -299,13 +308,13 @@
       "publishedAt": "2026-10-07T21:00:00.000Z"
     },
     {
-      "id": "e54664188a0fee4b",
+      "id": "f889cb0588ec8965",
       "title": "ニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcE5FQzBiNUZlRnJsWmdxLWUxdGw2YkgxU1NOTGtMMmk2X1AxbFhVdERlQThNNDY4RzlfWDc2amV1WGxSQ3F3SXVCRVBYRThxWEF2Rjl3dHpKQW5ZMFlEZjU2ai00OXBBUXZDdFdfY2tzb3pINjVYb0ZkQmpUV0E?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQYXdBYVljbEdRSXFQRGpqZm5NR05Cam1ZY2F3RjQ0Yk5ZUnM0V3dXNE5HZHVfUFBKUWZnRjEyXzZuall4OUQ3R0pLRmhWcFlvT1dTa1l3dw?oc=5",
+      "source": "TBS NEWS DIG",
       "category": "物流",
-      "publishedAt": "2026-10-07T19:26:56.000Z"
+      "publishedAt": "2026-10-07T19:29:21.000Z"
     },
     {
       "id": "a89934ae2eca2ba9",
@@ -371,11 +380,11 @@
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
     {
-      "id": "300447e9e4245db6",
+      "id": "fb9e78d13a78d7e6",
       "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "下野新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N3p4SGZVX05OcEdBNHZpNXJULXI4N3F1X1N0Y1JSeTVRMEJ0bWVfb2xoRUZpWUViS3hzMEMxNXQ0UTNfNWo2WHFJYjVXTDVKZ1B0VHpfaW40NDQ?oc=5",
-      "source": "下野新聞社",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaMWp6cXFNbFcyRG5sUlhlWnp1MWJHb0Y2ZEwyRGpHV2cyaG53S014UE0tMHlWU2tnaTRlQnJ1My1yQlk5TThjZGFmaXF0TkZGdkh5VWxLQ242NHRwTWpGVWJ4Q2kzbTlqQWRuN1BLOGVsS1Jn0gF0QVVfeXFMUFoxanpxcU1sVzJEbmxSWGVaenUxYkdvRjZkTDJEakdXZzJobndLTXhQTS0weVZTa2dpNGVCcnUzLXJCWTlNOGNkYWZpcXRORkZ2SHlVbEtDbjY0dHBNakZVYnhDaTNtOWpBZG43UEs4ZWxLUmc?oc=5",
+      "source": "Infoseek",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
@@ -632,6 +641,15 @@
       "publishedAt": "2026-10-06T23:40:06.000Z"
     },
     {
+      "id": "14b2457af50cd51a",
+      "title": "「適正原価」導入で安全を競う時代に 京都府トラック協会が取り組み",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuOTBmaC1GbEJiMTRnTi16VzBVWVVJNk5taERwUUs0cDZ1RVYyanNFTzJZcVRwdktOZ3NNSDJwY3plN3NlUjA1bG1RNm1MSHBNdVFDazNsaWdraWE0RTJsQXd3UUdjTk1SUEh3?oc=5",
+      "source": "朝日新聞",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-06T22:00:00.000Z"
+    },
+    {
       "id": "a8ac66ccfd949007",
       "title": "【910円の謎】なぜトラック運送業だけ「特定最低賃金」が残ったのか？ なぜ労組は賃上げに直結しない改定を求めるのか",
       "description": "carview!が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-06T10:49:00.000Z"
-    },
-    {
-      "id": "66db3cf9d4551ab5",
-      "title": "〖高速道路緊急工事情報〗常磐道 日立市内で一部通行止め予定［6日21:00-7日06:00］",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nODBvckxiU2JfaXZHbklEQkVxbVhZRVlXdGxpQTRpLWlFVFZvcXU1RTB4TFVjMnZjU1NNR0ZFdWpFVmxEdkpfbFFOcFVGRFRHVGpueHFUYTRjMkJ0amJzOENPMXU?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T10:44:15.000Z"
-    },
-    {
-      "id": "24378fc66f74ce19",
-      "title": "北陸自動車道２人死亡事故 トラック運転の男 起訴内容認める（2026年10月6日掲載）｜KNB NEWS NNN",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVRIVWxxWGJqQnhBcmFIOW1lbGkxeWlqbF9VOHp4RVhFSnlsZmRVTkxfYXJKaFBxVmJHSEVTTnlOWlYtb0RNY0dIY3JVeXdBcmdTWEFjVDFMTnBDaVpKLUh0Q1pnTEdLVWp4XzVUbzU0SDhsMEg2T1FjbEdfX2lrU2dOT0NEREU?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-06T10:44:00.000Z"
     }
   ]
 }
