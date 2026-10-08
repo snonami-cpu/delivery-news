@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:30:07.502Z",
+  "updatedAt": "2026-10-08T12:37:09.789Z",
   "articles": [
     {
       "id": "06aab41c38e02003",
@@ -8,7 +8,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LV0lKQW83Slp5R0VBWjVzMGZ6MU80U05nSWJidWhqX29vc1dqVDBid2lpVUpfSmh1cElUWHhRYURRLWVPNlJseWNvNV9GZU03bEVhaEhoajc4a0J5di14eGJXMVVlcVJHUzBzVQ?oc=5",
       "source": "日本経済新聞",
       "category": "物流",
-      "publishedAt": "2026-10-08T09:32:42.000Z"
+      "publishedAt": "2026-10-08T12:15:36.000Z"
     },
     {
       "id": "5837af42e8a23c35",
@@ -29,6 +29,15 @@
       "publishedAt": "2026-10-08T08:31:00.000Z"
     },
     {
+      "id": "e6e85df1f7dfabbe",
+      "title": "不正アクセスで物流障害 ニッスイ子会社の出荷停止",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oWU5wT0xMQ21xaGo1SXJDemNpZFo2Q1F2TWdTbGtqSFg1YURUUXljM1pSdC1YWkJHbE5wVmhzWVRWdXFPSXhfQ0hQaWUzVVZYNk9NY1dZcTJ4TS05MTdadHVMME5KdF9QeVVqVlF3?oc=5",
+      "source": "au Webポータル",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T08:06:00.000Z"
+    },
+    {
       "id": "d70074ac9b32a9cc",
       "title": "セイノースーパーエクスプレス／熊本県菊池市にセンター開所、半導体関連の物流ニーズで",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -47,13 +56,13 @@
       "publishedAt": "2026-10-08T06:40:48.000Z"
     },
     {
-      "id": "3bacebc6620c2f4e",
-      "title": "インドのコールドチェーン物流市場、2032年に529.6億米ドルへ―15.56％の高成長を見込む",
-      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12a3JwNVF5TWZtNXg2VVh3QnRNc0ROU2VQMkJqSEdmLWdrMkNFUmFyN2NXT0U3Y29TNzZ1NF92Ykwtay1BVE96Z3VmeWxuNEhmclY5TVNlZ3pjYkFwRTFydS1oZkFjZ0RyWlZtcnQwSm1GbHo3SWEyRzFwWQ?oc=5",
-      "source": "ニコニコニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T06:03:26.000Z"
+      "id": "cdcea51287ad61b7",
+      "title": "CBRE／静岡県浜松市で1.4万m2のマルチテナント型物流施設のテナントリーシングを開始",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ieUl6dC04dWhLTkR6SFVpT2JDRHB0UGRfamRfbUx3UjJnSUVsMjZ6czNPZy02MkgzUGdKcnVyajEwa3YyVXAzN1FiVGhqOElNb2VjZw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-08T06:07:50.000Z"
     },
     {
       "id": "7af52cf85ff57111",
@@ -92,6 +101,15 @@
       "publishedAt": "2026-10-08T05:42:50.000Z"
     },
     {
+      "id": "e71d5fc8c67d0d7a",
+      "title": "インドのコールドチェーン物流市場、2032年に529.6億米ドルへ―15.56％の高成長を見込む",
+      "description": "ドリームニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DT0tCemtmNXhZSUlaQkJmMXlwYnBLUGgzX0RfV2VqLUxLUGNjUDlwN05ZTTRsQnQyOVVPUS1rMGdGMi1vbFEtVm5XTl9XTHVoSzAw?oc=5",
+      "source": "ドリームニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T05:30:00.000Z"
+    },
+    {
       "id": "f097f682a3df9692",
       "title": "インドのコールドチェーン物流市場、2032年に529.6億米ドルへ-15.56％の高成長を見込む (2026年10月8日掲載)",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -119,13 +137,22 @@
       "publishedAt": "2026-10-08T05:19:00.000Z"
     },
     {
-      "id": "58da12f622755d2c",
-      "title": "【名豊道路】知立バイパス 豊明市内で車両火災 一部通行止め（8日14:00現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wOENqemJMc1hpX2VhSnZnV2VhV1FSTUQ0ekppZWxoWHBOUkFvc0gtc3Q5Vm9BQkJKTFhpamNVZHp3RVZGV1hZQTRBTFdEVW9LSWQ4SHFFNGN1UTRtdU1r?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-08T05:01:30.000Z"
+      "id": "17506a3ce4b8421a",
+      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
+      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
+      "source": "まぐまぐ",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T05:17:09.000Z"
+    },
+    {
+      "id": "1a7477a22177d0a9",
+      "title": "ロジスティード、CLO時代の物流改革着手点を指南",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdlFZTW1lQ3U0SG43UGE0bGhVMmkwS25mZ1N4UVVqR3FwYVN2OTF1aDJITTFRNXI5bXVpZ0ZHdk9jR1pzbUYtMllB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T05:15:31.000Z"
     },
     {
       "id": "0fdc293e4df3cbc9",
@@ -198,6 +225,24 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-08T02:30:54.000Z"
+    },
+    {
+      "id": "9a40618a8c557f78",
+      "title": "【コクヨサプライロジスティクス】2026年度「物流×産学官連携プロジェクト」始動",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbmxGamVXS0JEZUFpaWFlbkJocFVrRVVXOTExV1RwQmdxR3pTQnIxYTNWbkJZR1daOVhjeFRfcjR2WGRSVnBuTTB1aHMxN3dsQWhPNE5paW5QWnh3NmJkRVNvTmptQ2xtaXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-08T02:30:01.000Z"
+    },
+    {
+      "id": "a31392e51dcd47a3",
+      "title": "TDG、10月より物流業界向けセミナーの配信形式にオンデマンド配信を追加",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2alB1c2pONjFXQlFJVThUeHFaa0gxSjFvV0dtZGE5QTVWcVlRM0NCU2Ewci1adWtVSVIzM2o0V3J3V2lVQjhORUt5TGtTZFZMWmhQU3Q5YTd4RXc5MXU1VUh5VXowS3FfX0E?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-08T02:30:01.000Z"
     },
     {
       "id": "93f32c41d2860f3f",
@@ -297,15 +342,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T00:02:36.000Z"
-    },
-    {
-      "id": "f6125319d7960763",
-      "title": "独政府、中国コスコの物流企業買収を阻止 安保上の懸念で",
-      "description": "Reutersが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcUpiMndDTVVSc3IzdHNCeEt2VGJoSFp1bWZIdVp6M2cyOHk5dkxLV2ZDZm5mRGtDNVdITnhPU2dnQ0pCS1dSMzdBQUNPNUUycWxHN3RtamZzMWQ1WU44OFltd3Zvem4tSExmM1FmaHV4N013RS1RZ0NGdw?oc=5",
-      "source": "Reuters",
-      "category": "物流",
-      "publishedAt": "2026-10-07T23:47:43.000Z"
     },
     {
       "id": "74d03e85520b4838",
@@ -453,7 +489,7 @@
     },
     {
       "id": "12839cfaae51b635",
-      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独",
+      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独：時事ドットコム",
       "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdXEyczBwc3gzcDFvUVoza2JMZFAzVWx4SUwxX1M1YXZvUE9RSkZDamtSaUFhTHlKYlZDUEFDNjk1WjNBcjNEV3FyX3ZHcHhfYkpKV3E3b0FiN1RrSzdNMmI5cw?oc=5",
       "source": "時事ドットコム",
@@ -522,6 +558,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-07T14:33:23.000Z"
+    },
+    {
+      "id": "c78503b5367a7543",
+      "title": "軽トラックの荷台から工具盗み、リサイクル店に売却した容疑 30歳の男逮捕 豊岡署|事件・事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wODA1elVHZG5WVHJ4a3AxVThnc21SckpXUjdJSHZqa0ZYcGhPY0o5RFY4a3BuWm5HeXdobGhoaGY2WUhNcnZYTXJlcmhKUEZkUVdDSnN3RnpENXBQOXY0ck9hODQ1M0FDRGlF?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T13:30:00.000Z"
     },
     {
       "id": "e190a38e1a5cf5c5",
@@ -675,51 +720,6 @@
       "source": "トラックニュース",
       "category": "法令・行政",
       "publishedAt": "2026-10-07T09:10:00.000Z"
-    },
-    {
-      "id": "4e5ba9136c888102",
-      "title": "新名神６人死亡の被告ら違法残業か 運送会社社長を書類送検―広島中央労基署",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94M0RiVnA2ZU1tZ2F6dnRGR2l4WVFNN0VPV0pkbmQ3U1JHLWRmOUxVRUdudE5yb0JwN3prcUNmUFBhbmc3T0NZWmZWVG5YYmxyUmZtZXRkYWVWWXkzZHVwOTBoYw?oc=5",
-      "source": "時事ドットコム",
-      "category": "物流",
-      "publishedAt": "2026-10-07T08:35:00.000Z"
-    },
-    {
-      "id": "f4f14cf28e35fe60",
-      "title": "公正取引委員会、中小企業庁／トラック運送業「歩引きやリベート含む減額」課題、適正取引ガイドライン策定も視野",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zN0ZfNTViZk55LWV6SE45UXNJUE1RbUd0QVZXazRVR0JyZTM2X0xrY1pzM0FxVWxMNjQ2eGNTcjAwd1cwQUFqcFBHZDUyX0dlNXktXw?oc=5",
-      "source": "トラックニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T08:03:00.000Z"
-    },
-    {
-      "id": "bbd3449037de89a0",
-      "title": "わらべや日洋HD 決算／3～8月の物流事業は売上高63億2300万円で0.3％増加",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNlFtSlhvM0RzNjZpYldPS3J4M3FSRGxCOHhRU0Z3Y1RweEQ3SF8wLTZBVjlxQ2NCUmp1S21CYUNLcC11WFV5LVdHdWJnQ01GYS1FXw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-07T07:54:58.000Z"
-    },
-    {
-      "id": "567afefe9b25247b",
-      "title": "【物流ウィークリー 掲載】「かいしゃカジュアル面談」の取り組みが紹介されました",
-      "description": "M&Aサクシードが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ic19mM1RQb1dtOHRreGVEdy0tQjBVZHVzTFF1bWQtYUx4N2c4TnpRNEFJdjUzVUY1R1AzQ0gya1g0aUJYQnZuNHN1cGVteklVUzZXZ3RWY0ZIbUVjYlRnX0ZR?oc=5",
-      "source": "M&Aサクシード",
-      "category": "物流",
-      "publishedAt": "2026-10-07T07:45:18.000Z"
-    },
-    {
-      "id": "708c1f9f72a21814",
-      "title": "最大で130時間超 従業員に違法な時間外労働をさせていたか 運送会社と会社社長（50）を労基法違反で書類送検 従業員には新名神で6人死亡の事故起こした被告（55）も 広島（RCC中国放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UGlDYWZzVExEdVNPUUlrenkwVklpamFUd1JIbVhyVjJ0UHR4TVQ0VWotMlZxckdDUkxwMU53Sl9zWDh0NUgyUEh2c3Fha2htZk9TZE1LRWJwSDR4cnBfejVNcnM5aXVRWUxLZGMxQXpNUllkc0dvUTJkN2VWYlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T07:44:13.000Z"
     }
   ]
 }
