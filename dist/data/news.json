@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-08T17:29:37.251Z",
+  "updatedAt": "2026-10-08T18:33:28.806Z",
   "articles": [
+    {
+      "id": "cbe5f38f9b661337",
+      "title": "コールドチェーン輸送市場の主要10社まとめ",
+      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nTjQyQ2JhQWV2Z2p5a2VtY1JtemUzN3g5VzZmbUw3OWlKNFE2RmVTQjUzNHhjbUJ2bC0wa2xRaml2VU9UbVZGYVFn?oc=5",
+      "source": "pando.life",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T15:41:57.000Z"
+    },
     {
       "id": "2d50f4b6ab1dc1ae",
       "title": "トラック新法に基づく「適正原価」制度、日本新聞協会などが段階的導入を国交相に要望",
@@ -72,15 +81,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T08:31:00.000Z"
-    },
-    {
-      "id": "e6e85df1f7dfabbe",
-      "title": "不正アクセスで物流障害 ニッスイ子会社の出荷停止",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oWU5wT0xMQ21xaGo1SXJDemNpZFo2Q1F2TWdTbGtqSFg1YURUUXljM1pSdC1YWkJHbE5wVmhzWVRWdXFPSXhfQ0hQaWUzVVZYNk9NY1dZcTJ4TS05MTdadHVMME5KdF9QeVVqVlF3?oc=5",
-      "source": "au Webポータル",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T08:06:00.000Z"
     },
     {
       "id": "d70074ac9b32a9cc",
@@ -189,15 +189,6 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-08T05:19:00.000Z"
-    },
-    {
-      "id": "1a7477a22177d0a9",
-      "title": "ロジスティード、CLO時代の物流改革着手点を指南",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdlFZTW1lQ3U0SG43UGE0bGhVMmkwS25mZ1N4UVVqR3FwYVN2OTF1aDJITTFRNXI5bXVpZ0ZHdk9jR1pzbUYtMllB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-08T05:15:31.000Z"
     },
     {
       "id": "7e9b66a2c778c30e",
@@ -357,6 +348,15 @@
       "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NckJfTW1xbGw3VHFQTlJuS3ROQ0FXeDVycGZydWxUSjNVb1c1NmZ4bDg1QlhBcU82TU1qQm02SjRjek52OHRQLU1TNFhXZ3NMUG5oX2NjNHNTSWVQY193?oc=5",
+      "source": "ライブドアニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T00:30:33.000Z"
+    },
+    {
+      "id": "0c474da9bb98f01f",
+      "title": "【画像】ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcXNUUGJpdTVkX3R3YjBuU0FTQnBKLVEzaG1FU2ZSN0pfMzFrNWVJa1VaQ1NqWDlMc01MV1VTWmxKYXJnTktMSWdBVDVMQmxBT282WlR4elJka3NIdHZ3R1NIbWY3OEVCTG10Sm95SzVnOHRWVmkwdnpMaDM?oc=5",
       "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T00:30:33.000Z"
