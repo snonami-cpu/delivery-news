@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T15:32:18.981Z",
+  "updatedAt": "2026-10-08T16:33:33.952Z",
   "articles": [
     {
       "id": "2d50f4b6ab1dc1ae",
@@ -9,6 +9,15 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-08T15:20:00.000Z"
+    },
+    {
+      "id": "c0b2af4582d116a4",
+      "title": "強さの秘訣は調達から物流まで担う「MMD」 ゼンショーは「食のファストリ」",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlZCbUJ5ei0wUkVna05LOXJDRERTX3psOXlLVVhaeG9KcjBIVDVXOGFIRlJnTVRlUGFhYzVvdkFOcDZaNWJuM0YzbmoyMGNXa1JoUkpHN2JackhxY2tsa3ZSRDM?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-10-08T15:00:00.000Z"
     },
     {
       "id": "e671ffa4e59c38e7",
@@ -180,15 +189,6 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-08T05:19:00.000Z"
-    },
-    {
-      "id": "69009143f086f3a4",
-      "title": "日新、アジア向け食品輸出の物流力を提案",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ya0RQWkxRRXVkaWQ2dnVDb0lNTy1BaWpoYndzZm9RajF4NWN3cjZtTllvUFpYelVzN2RmWHNrOFhTWlR4OFNQY3hR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-08T05:15:37.000Z"
     },
     {
       "id": "1a7477a22177d0a9",
@@ -366,15 +366,6 @@
       "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NckJfTW1xbGw3VHFQTlJuS3ROQ0FXeDVycGZydWxUSjNVb1c1NmZ4bDg1QlhBcU82TU1qQm02SjRjek52OHRQLU1TNFhXZ3NMUG5oX2NjNHNTSWVQY193?oc=5",
-      "source": "ライブドアニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T00:30:33.000Z"
-    },
-    {
-      "id": "0c474da9bb98f01f",
-      "title": "【画像】ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcXNUUGJpdTVkX3R3YjBuU0FTQnBKLVEzaG1FU2ZSN0pfMzFrNWVJa1VaQ1NqWDlMc01MV1VTWmxKYXJnTktMSWdBVDVMQmxBT282WlR4elJka3NIdHZ3R1NIbWY3OEVCTG10Sm95SzVnOHRWVmkwdnpMaDM?oc=5",
       "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T00:30:33.000Z"
@@ -578,15 +569,6 @@
       "publishedAt": "2026-10-07T20:35:00.000Z"
     },
     {
-      "id": "64b2ec662c2f6722",
-      "title": "自前の物流 成長の原点 ６府県稼働 自動化も：地域ニュース",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRFUxUjh2bU90WW51T0JLbXhnM3k2QjlGYUJhdGJ5UEtobG1oWXJVU2JBWmxaaUhvV3pHYnB2ZHMyRzZSZFlqbnQ0UEpvcnVIbVh3QUlGUXhQN1RZeXhXd2NuSE1DeDBCUTRDYWtZbGE?oc=5",
-      "source": "読売新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-07T20:00:00.000Z"
-    },
-    {
       "id": "f889cb0588ec8965",
       "title": "ニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +702,24 @@
       "source": "NHKニュース",
       "category": "物流",
       "publishedAt": "2026-10-07T11:18:04.000Z"
+    },
+    {
+      "id": "c26bcfc569907b3c",
+      "title": "建物の解体作業現場で重機が倒れ…トラック下敷きに /秋田・横手市（秋田朝日放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMXNkbGY5SkszdE5nbmg4Sk52RzJNcnQtTjNETWxYcVRvZFoycUFTYTlNYUhaWno4dHR2NnBmeG1nSTlIcFBTWkFHQVIxajlHTnhTQjVLdEhVY0N4UG4xTXhnWngxVnd0YjRwSHFoakhDOGpZQ2hqcElOYmZIOUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T10:45:02.000Z"
+    },
+    {
+      "id": "43261849ee8ff9a5",
+      "title": "２０２４年問題の物流業界を監視 トラック・物流Ｇメン出発式 荷主の違反行為を調査〈仙台市〉（仙台放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVF8xRjk4LWctMDRNYjcxb1JMMi1yMGhZLUp6MWlWSDdZTE9LNExVemtpaURWNmRzZm5Ba3lPdGhBOEF0Qms5MGtiNGY3VmY1eU8yYWwwOE9wZXBBOG9HVm1EdWdJakNzS2hEajFyTzRVcXQwSHZIeTNvMXBza3c?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T10:42:02.000Z"
     }
   ]
 }
