@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-07T23:25:24.116Z",
+  "updatedAt": "2026-10-08T00:38:39.955Z",
   "articles": [
+    {
+      "id": "621167a541fe2518",
+      "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
+      "description": "みんかぶが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RUGZZaldBVS1aN2hYZjJ6U0pOa0ctRVZIcGhwbW42bFY3QzRwbjkwQzlfaXdmYWpOb2VKQXU0ZEhJTG5xclBmYg?oc=5",
+      "source": "みんかぶ",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T00:30:33.000Z"
+    },
+    {
+      "id": "4355c64d05bfdaf2",
+      "title": "ニッスイ 子会社・日水物流でシステム障害、商品の入出荷停止―委託先 IDCFクラウド データセンターへの不正アクセスが原因か|セキュリティニュースのセキュリティ対策Lab",
+      "description": "合同会社ロケットボーイズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3JYSWdtZFBmNUxlM0ZaYWtYNXRiUWsyb2UxMjRqU25tZjYwQk5yZ19LazJVRGhwTjdCb1NVcnk5c2JqZV9oV0F6UFBFdjgyY1dwSlVKd3RZT0xTTFR2dG5UVEd2cEpZSGFVOGFMalZwTlF3R0RXYkFqLTZXMVNmdFlmWWJzQ0x5ZGlKRDNxaFBOV29sQzBVUFhZNWk?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "category": "物流",
+      "publishedAt": "2026-10-07T23:09:46.000Z"
+    },
     {
       "id": "d76bb5928500199f",
       "title": "運賃を上げただけでは、ドライバーは増えない——EC事業者にできる本当の物流支援",
@@ -9,6 +27,15 @@
       "source": "コマースピック",
       "category": "法令・行政",
       "publishedAt": "2026-10-07T23:00:00.000Z"
+    },
+    {
+      "id": "4f57296faf732319",
+      "title": "ニッスイ子会社で入出荷停止 IDCFクラウド影響か 委託先データセンターに不正アクセス",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMdWEtd19DSE0xM0hoWHE4SV9fMEczNVYtV0xnUDVBMTdSeDBsSEFSU3VnNUFneXRoeTRfVFBZdWpIVU9vVGgyUGJKTGw1S3k0RnNXdVh3NE5EaTlVQms2Y2NMOXlqRFBoajIyTExqMWhiTDlJMTlkeUdLd3XSAXxBVV95cUxQTHVhLXdfQ0hNMTNIaFhxOElfXzBHMzVWLVdMZ1A1QTE3UngwbEhBUlN1ZzVBZ3l0aHk0X1RQWXVqSFVPb1RoMlBiSkxsNUt5NEZzV3VYdzRORGk5VUJrNmNjTDl5akRQaGoyMkxMajFoYkw5STE5ZHlHS3d1?oc=5",
+      "source": "Infoseek",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-07T22:50:08.000Z"
     },
     {
       "id": "f1ea842435fb823e",
@@ -74,13 +101,13 @@
       "publishedAt": "2026-10-07T19:42:05.000Z"
     },
     {
-      "id": "a7f5265498007f49",
-      "title": "豊富小で千葉県トラック協会船橋支部による交通安全教室 トラックを使った実演も",
-      "description": "Myfunaねっとが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzV1hjdi1oaGl5WF9zdXdIZEdoYkpfRTJBRDl1NFEtaFdGRGoyZ0d0MkN3ZWo2TUR0V3FNQ1l1OS1zZEpzc2lrYmY1dF96TEVaV04xd1Vn?oc=5",
-      "source": "Myfunaねっと",
+      "id": "a89934ae2eca2ba9",
+      "title": "トラックドライバー「気が付いたら怒鳴っていた」 短気は事故リスクにも",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUlZSRjRJTVZQeVA3WnVabVF0LS1lZk1QYldtZWJFMmVuMmhuX2xva0kybTZnZ05FazVsMk9QQ0dJMkZoRWMtTms1R01ndw?oc=5",
+      "source": "物流ウィークリー",
       "category": "安全・事故",
-      "publishedAt": "2026-10-07T16:02:07.000Z"
+      "publishedAt": "2026-10-07T16:19:24.000Z"
     },
     {
       "id": "672ebee9d1c8d35e",
@@ -144,6 +171,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-07T12:02:33.000Z"
+    },
+    {
+      "id": "c26bcfc569907b3c",
+      "title": "建物の解体作業現場で重機が倒れ…トラック下敷きに /秋田・横手市（秋田朝日放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMXNkbGY5SkszdE5nbmg4Sk52RzJNcnQtTjNETWxYcVRvZFoycUFTYTlNYUhaWno4dHR2NnBmeG1nSTlIcFBTWkFHQVIxajlHTnhTQjVLdEhVY0N4UG4xTXhnWngxVnd0YjRwSHFoakhDOGpZQ2hqcElOYmZIOUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-07T10:45:02.000Z"
     },
     {
       "id": "43261849ee8ff9a5",
@@ -668,6 +704,15 @@
       "publishedAt": "2026-10-06T07:40:36.000Z"
     },
     {
+      "id": "59758a165fa38696",
+      "title": "自動小包配送端末市場：構成要素、機能、導入形態、用途別―2026年～2032年の世界市場予測",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nWlc5TEtxMXd1YjA0alY0Z0NoeUgtSEtoaU9JNW9oR1RYUHBTbm50WmwzczlKMTBySXRPR0x4RTlrd05fSXFwQ0VTQkhMOGc?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-10-06T07:13:00.000Z"
+    },
+    {
       "id": "39c6877e6cd3a90e",
       "title": "レバジョブ調査／「物流2030年問題」へ危機感、7割超が将来の配送遅延に不安",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -675,51 +720,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-06T07:09:39.000Z"
-    },
-    {
-      "id": "ffde0358f2bfc613",
-      "title": "西湘バイパス上下線を通行止め、台風27号の高波で 気象状況で拡大も",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tTC01OW1WOXJIQ0lBVnRhMDhDN0dvVEozY0Z4dnFQMjVvLUI1RllhUV9wYkxsTjdhbU44aFoxUUdPUlNCNnY5YXp5YUdMX01HeTN5dnFZQ2xlQW40NjlNcXBpY00?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-06T06:50:34.000Z"
-    },
-    {
-      "id": "47542a7f636cead9",
-      "title": "菱地所物流Ｒ",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUzJhdjdGeV9CV3lCdmJ1ZktOVlhHOFlhbHhNQjNRYllHaFAtYXJ3eFBpT3Z5cktIR3hwTkIzOERzUEVnWDdlSkNJSXBjRkhiR3A2TDY0aTNQNzZtUEttdnJXNlFfSWRObDNkTTMwaFZkSHVsYnNUOWZYWDJ3NVJWa0swWDFGZ3ozb1VlM3dYQi1QX1UwbUtkRGlRVHhpbFVmMkowRTVZZXd4WDRmWG1RV21PbE43dlY5cDlwZXdoakQ2MDJhbmh3OVJIdmQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-06T06:30:00.000Z"
-    },
-    {
-      "id": "971a20d2d321bb32",
-      "title": "「物流2030年問題」への危機感高まる、7割超が将来の配送遅延に不安",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Jbmc1SjdETDQtNWtIYlY2Wk0zRzlENEsyaEpQV2dPRTM3dzB1MDE5OUd5S3h6RGFROXhlYk5PUUx6ZHk0NUZmUEJmS0hfd0R0dzhqd0pCNGZhTUtCcVRHc1J0YS15bnNwQnc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-06T06:00:01.000Z"
-    },
-    {
-      "id": "4b7e64f8613364ed",
-      "title": "JR貨物、ダイキン工業など6社／鉄道による長距離ラウンドマッチング輸送を開始",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6ZGprRmk0Q1U1MUpVcVg0S0lJOGFuY1BzcFhIcDFNbFIwaDEycUFCWWhtSE4yNEFXWnp5UFdBR0Z3S0o5ZDNEbTl2aU1IZWNlQmU0SA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-06T05:59:25.000Z"
-    },
-    {
-      "id": "b7404f97e5dc7551",
-      "title": "適正取引どこ吹く風 「無料でご奉仕」も、あるわあるわ理不尽",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xN3hlN1lsMG9CQ2pjeVByeklDRkVzTXd1SDVyRm9UWDVaT1VyYmRMNktmb040WFpqQzFReUVuQ3JGOG9iUHFHMG1paEI5Zw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-06T05:46:54.000Z"
     }
   ]
 }
