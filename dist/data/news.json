@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:31:49.312Z",
+  "updatedAt": "2026-10-08T11:30:07.502Z",
   "articles": [
     {
       "id": "06aab41c38e02003",
@@ -29,22 +29,13 @@
       "publishedAt": "2026-10-08T08:31:00.000Z"
     },
     {
-      "id": "e6e85df1f7dfabbe",
-      "title": "不正アクセスで物流障害 ニッスイ子会社の出荷停止",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oWU5wT0xMQ21xaGo1SXJDemNpZFo2Q1F2TWdTbGtqSFg1YURUUXljM1pSdC1YWkJHbE5wVmhzWVRWdXFPSXhfQ0hQaWUzVVZYNk9NY1dZcTJ4TS05MTdadHVMME5KdF9QeVVqVlF3?oc=5",
-      "source": "au Webポータル",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T08:06:00.000Z"
-    },
-    {
       "id": "d70074ac9b32a9cc",
       "title": "セイノースーパーエクスプレス／熊本県菊池市にセンター開所、半導体関連の物流ニーズで",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ydWxvU196cWI5RU1pVVR1b3pJaUhqMWhIZ2hBcXpmTHNfSWFyMFRNOTFRNDBRS2V5NmRNNXJiTFlzeTZkLU55aEp2UFFtUjE5eXgybg?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-10-08T07:11:31.000Z"
+      "publishedAt": "2026-10-08T07:12:50.000Z"
     },
     {
       "id": "6785e1f77963cc0f",
@@ -108,6 +99,15 @@
       "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T05:30:00.000Z"
+    },
+    {
+      "id": "7d47c77e6f29dc4a",
+      "title": "APTと両備システムズ／千葉県習志野市の研究拠点「ココラボ」公開、物流最適化を推進",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xZmlrZGpETkJLUktnU0RTaXdaY0phVWtLSGE1Wm11RVd0NDVBbXEzUHBiT2cxTXcxVldWNFFUWmVCdWZNOEpNV3V4ZkcyVmpyLXZTSA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-08T05:20:30.000Z"
     },
     {
       "id": "9ad2c7990e957bea",
@@ -198,15 +198,6 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-08T02:30:54.000Z"
-    },
-    {
-      "id": "a31392e51dcd47a3",
-      "title": "TDG、10月より物流業界向けセミナーの配信形式にオンデマンド配信を追加",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2alB1c2pONjFXQlFJVThUeHFaa0gxSjFvV0dtZGE5QTVWcVlRM0NCU2Ewci1adWtVSVIzM2o0V3J3V2lVQjhORUt5TGtTZFZMWmhQU3Q5YTd4RXc5MXU1VUh5VXowS3FfX0E?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-08T02:30:01.000Z"
     },
     {
       "id": "93f32c41d2860f3f",
@@ -367,7 +358,7 @@
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hNDdUakFYUWM0UzVsYXJ6UVRlOHVxaUtVUmlueGU3ckhfU1ZjMXN3a2I0dlA2NjhUZ1JSbDM3UU05eWtOd2JXdHNMc2FxM1NfVlNhY3EtaWpXeFdfYVk4ekJKSnd0Zko1RUtMSzJ4b1lVVGZmVFlnU2FZLWgxMU0?oc=5",
       "source": "Yahoo!ニュース",
-      "category": "物流",
+      "category": "安全・事故",
       "publishedAt": "2026-10-07T22:45:01.000Z"
     },
     {
@@ -462,7 +453,7 @@
     },
     {
       "id": "12839cfaae51b635",
-      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独：時事ドットコム",
+      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独",
       "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdXEyczBwc3gzcDFvUVoza2JMZFAzVWx4SUwxX1M1YXZvUE9RSkZDamtSaUFhTHlKYlZDUEFDNjk1WjNBcjNEV3FyX3ZHcHhfYkpKV3E3b0FiN1RrSzdNMmI5cw?oc=5",
       "source": "時事ドットコム",
@@ -623,6 +614,15 @@
       "publishedAt": "2026-10-07T10:41:01.000Z"
     },
     {
+      "id": "bc0478909dcf00d9",
+      "title": "「シート掛けに課金」の発想も 高まる平ボディートラックの価値",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10LWhqd3RYWDJxMDlfTXdIYlpkeXRSYTJEbGpuaHA0QjF4VDZZM1VVVVlvcXlKMWpnODc5cjZZcURsb1ViNnh5N25QdG4ydw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-07T10:03:45.000Z"
+    },
+    {
       "id": "ecd17084ce858ee1",
       "title": "コクヨが滋賀に自社最大規模の物流拠点、投資額176億円 設計・施工は鹿島で29年2月竣工：ロジスティクス",
       "description": "ITmediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -713,13 +713,13 @@
       "publishedAt": "2026-10-07T07:45:18.000Z"
     },
     {
-      "id": "decc301a5b5e12e7",
-      "title": "「何ができる会社か」がひと目で伝わるコーポレートサイトに全面リニューアル｜フードテクノエンジニアリング",
-      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52UVo4Y29abmNuWGZVOUtPVWVHeTVLUmdwVGdWMzY1TnMyRHRqMGlfVWJiWTVncVhBRGVtUVVsbDRkdGJiYUtETnhpbWVtQzZGSlJub1dFUkNqYlZPYklBTndoYWVtUWNPR2RZZjhWcDVHN3lYTkE?oc=5",
-      "source": "ニコニコニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T07:30:34.000Z"
+      "id": "708c1f9f72a21814",
+      "title": "最大で130時間超 従業員に違法な時間外労働をさせていたか 運送会社と会社社長（50）を労基法違反で書類送検 従業員には新名神で6人死亡の事故起こした被告（55）も 広島（RCC中国放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UGlDYWZzVExEdVNPUUlrenkwVklpamFUd1JIbVhyVjJ0UHR4TVQ0VWotMlZxckdDUkxwMU53Sl9zWDh0NUgyUEh2c3Fha2htZk9TZE1LRWJwSDR4cnBfejVNcnM5aXVRWUxLZGMxQXpNUllkc0dvUTJkN2VWYlU?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-07T07:44:13.000Z"
     }
   ]
 }
