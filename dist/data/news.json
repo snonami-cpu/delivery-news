@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-08T19:29:57.485Z",
+  "updatedAt": "2026-10-08T20:31:46.623Z",
   "articles": [
+    {
+      "id": "d7ba276faaa4e4b4",
+      "title": "埼玉県北本市、ヤマト運輸や佐川急便と物流効率化 共同配送や自動ロボ",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGbWxVZFV1ZjRqc0lkSV9mMlZ5R2pyUldvUjZUSHhUMGpEeDNoMXp0RzdSSzhlWEJlQ2twS3I0TWtiUGY5dHdXb2FIUk8wdzVnRUt4TVdWUTUzQ3RVS21XRERxYnpPUnpzTmdkag?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:00:00.000Z"
+    },
+    {
+      "id": "988fc165a0012558",
+      "title": "ソフトバンク子会社へサイバー攻撃の波紋、物流や身近なサービスにも",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUW5FUmVOTjhxcjQyalNkS1JqZDkyZHJObHR6bXZodlZqcmdydzduQm1fWjkwNm9RVHlfLWV0bEVCRWd4d2xUZFhVWE5lcjkwbTVYaXBVZ1ZUVlhUOThabGNBckEydWtqZU9ndC1pek5TTjVnSGR5RG95VVhQeV9URjM5MlI3aGNqWmtIVmdXNXExOXc?oc=5",
+      "source": "朝日新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:00:00.000Z"
+    },
     {
       "id": "9d8f324640cccfa1",
       "title": "海上物流の課題、日本もハブ港を目指し国内協調を 手塚広一郎氏",
@@ -27,6 +45,15 @@
       "source": "日経ビジネス電子版",
       "category": "物流",
       "publishedAt": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "f12129ddee6961e4",
+      "title": "【速報】「車が逆走している」山陽道で軽乗用車が逆走か 下り方面・赤穂IC－備前ICを通行止めに【8日午後11時半現在】",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZ3dLcU1hOWJnTk5DQkpXSWtKejB4U3FIT2paczFUeVllUkphd3VUQ21ubk9xRXJRTjI5NGx3eE1rM0Z2Qm0xRXlXSmpZZFBMMDltbjd2TUVMNWJL0gFiQVVfeXFMTUJ0X2RRT2lWbThocUYzYzNFeWpNaFc0N1pRSXFEM1RpS2RhSFNhQmNsSTdkNzN3ak1nYjBMbURQUW5TZGhtZUpfMlBLcjdNT3MxalVwdjN5M01qcUJYUmFEYkE?oc=5",
+      "source": "Infoseek",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-08T14:22:00.000Z"
     },
     {
       "id": "e671ffa4e59c38e7",
@@ -90,6 +117,15 @@
       "source": "au Webポータル",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T08:06:00.000Z"
+    },
+    {
+      "id": "0ba57de0c7564ce9",
+      "title": "6人死亡の新名神事故 元トラック運転手の女は違法な時間外労働か…元勤務先社長が書類送検 月100時間超の残業をする従業員も",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WODFKUU53cTlLTlBHWUt6Rkw5VVdqUUxKT2Z3eXBtRXpaLUJudUF6d1VmOU1fOG51V1BBZEdNUkpqS0lUU0s3b2JkWlQ3WHo5UmZuNUxnTzdacFN6Z0hKWndTSGw0dUhRT0tKbHVGaw?oc=5",
+      "source": "Excite エキサイト",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-08T07:58:50.000Z"
     },
     {
       "id": "d70074ac9b32a9cc",
@@ -198,6 +234,15 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-08T05:19:00.000Z"
+    },
+    {
+      "id": "17506a3ce4b8421a",
+      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
+      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
+      "source": "まぐまぐ",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T05:17:09.000Z"
     },
     {
       "id": "73c79853a649d615",
@@ -675,51 +720,6 @@
       "source": "47NEWS",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-07T12:45:08.000Z"
-    },
-    {
-      "id": "fb9e78d13a78d7e6",
-      "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaMWp6cXFNbFcyRG5sUlhlWnp1MWJHb0Y2ZEwyRGpHV2cyaG53S014UE0tMHlWU2tnaTRlQnJ1My1yQlk5TThjZGFmaXF0TkZGdkh5VWxLQ242NHRwTWpGVWJ4Q2kzbTlqQWRuN1BLOGVsS1Jn0gF0QVVfeXFMUFoxanpxcU1sVzJEbmxSWGVaenUxYkdvRjZkTDJEakdXZzJobndLTXhQTS0weVZTa2dpNGVCcnUzLXJCWTlNOGNkYWZpcXRORkZ2SHlVbEtDbjY0dHBNakZVYnhDaTNtOWpBZG43UEs4ZWxLUmc?oc=5",
-      "source": "Infoseek",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T12:45:08.000Z"
-    },
-    {
-      "id": "b213a84ac71f5ab8",
-      "title": "連載 世界物流のフロンティアを歩く 第8回：AIが変える物流オペレーション",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYWFWZk5XWklfT1AtMXFvSW1XTHVSWWJzdC1PUkJLS0JfYjRQVUFhM3NHekpWeXRJT0ZqVEtZWnVHYTRFVDVKWlZtQk13QXV6dFFodA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-07T12:16:50.000Z"
-    },
-    {
-      "id": "d2312b21a70bbac5",
-      "title": "軽トラックと大型トラックが衝突 東温市で交通重体事故【愛媛】（eat愛媛朝日テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QWHRLYUZOdHVGSG5JZVBQT2lLRFpuckFES2lqNDBJWGh2ZDhOSVhDZVNnaE9KOTVJaXpLTHROVW1EUjVjcWliLXFkTm1ZclQyeVJ3dEwzWnhWVjFfcnUyMnhaYVAwMGctdUtlaHItTHFKU25ubmkwVFE3VW95RFU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-07T12:02:33.000Z"
-    },
-    {
-      "id": "c26bcfc569907b3c",
-      "title": "建物の解体作業現場で重機が倒れ…トラック下敷きに /秋田・横手市（秋田朝日放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMXNkbGY5SkszdE5nbmg4Sk52RzJNcnQtTjNETWxYcVRvZFoycUFTYTlNYUhaWno4dHR2NnBmeG1nSTlIcFBTWkFHQVIxajlHTnhTQjVLdEhVY0N4UG4xTXhnWngxVnd0YjRwSHFoakhDOGpZQ2hqcElOYmZIOUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-07T10:45:02.000Z"
-    },
-    {
-      "id": "43261849ee8ff9a5",
-      "title": "２０２４年問題の物流業界を監視 トラック・物流Ｇメン出発式 荷主の違反行為を調査〈仙台市〉（仙台放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVF8xRjk4LWctMDRNYjcxb1JMMi1yMGhZLUp6MWlWSDdZTE9LNExVemtpaURWNmRzZm5Ba3lPdGhBOEF0Qms5MGtiNGY3VmY1eU8yYWwwOE9wZXBBOG9HVm1EdWdJakNzS2hEajFyTzRVcXQwSHZIeTNvMXBza3c?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T10:42:02.000Z"
     }
   ]
 }
