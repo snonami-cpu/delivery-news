@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-08T03:29:48.444Z",
+  "updatedAt": "2026-10-08T04:30:06.705Z",
   "articles": [
+    {
+      "id": "0fdc293e4df3cbc9",
+      "title": "即時配送競争広がる、Lalamoveが本州全域へ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LdDNibXVLUUhwRVE0N0RBMmRDaThITlh5RlY3ZVNWYXdZX3JsS0lVekJqVUUwTGNPNF8wRGZGSVRHNmhtX2h6WTZn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T04:17:18.000Z"
+    },
+    {
+      "id": "12839cfaae51b635",
+      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独：時事ドットコム",
+      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdXEyczBwc3gzcDFvUVoza2JMZFAzVWx4SUwxX1M1YXZvUE9RSkZDamtSaUFhTHlKYlZDUEFDNjk1WjNBcjNEV3FyX3ZHcHhfYkpKV3E3b0FiN1RrSzdNMmI5cw?oc=5",
+      "source": "時事ドットコム",
+      "category": "物流",
+      "publishedAt": "2026-10-08T03:58:00.000Z"
+    },
+    {
+      "id": "6edcaba16a2ae334",
+      "title": "茨城県トラック協会／茨城運輸支局・公正取引委員会による「取適法とトラック適正化二法」説明会開催",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBncXZ1emt1elB1cDNLeWVYOWVhSTJpRVlKbWlfa3ZMSGxvZEtIeURKQ0NPSFdtUjE5aVl0UHF0ajBVUE5JTU5lSWJsRFJDUHZTeVF1UA?oc=5",
+      "source": "トラックニュース",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-08T03:57:00.000Z"
+    },
     {
       "id": "2e10eb641473d366",
       "title": "【10/14(水)vs福岡】『エムロジテックPresents～物流の【困った】を《よかった》へ～おかげさまで創立5周年記念マッチ』開催のお知らせ",
@@ -27,6 +54,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T02:54:38.000Z"
+    },
+    {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-08T02:43:14.000Z"
     },
     {
       "id": "cb361a5302583133",
@@ -56,13 +92,13 @@
       "publishedAt": "2026-10-08T02:14:45.000Z"
     },
     {
-      "id": "b824274e996ab35d",
-      "title": "配送サービスのLalamove、全国的な配送需要の拡大を受け、ついにお届け先エリアを本州全域へ拡大！即時配送インフラの体制を強固に構築",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UMWxFdEQ0M0Fqd0dtdENqTU9wdnJKZDVPTElOaHFoaGVEZjNaUXU1OG9ObHFSQll2MlNGRGpwZlI2RFl1NWJtMHFNWFVNUnpyNmZlQzQweENBcUhkUVFheGJ5TzFLUUVIR1E?oc=5",
-      "source": "PR TIMES",
+      "id": "f060da2cbfb0663b",
+      "title": "船井総研SC、運送・物流会社向け「10億企業化部会」",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hTldPa3dyZnFtUUVOVjN6akNuNl8yYzRJblNfSDlUT2c5VzZLN2RscVFYUnRlTjhTZkxCVDlzWkJTbEg3UTh6UTdn?oc=5",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-08T02:00:02.000Z"
+      "publishedAt": "2026-10-08T02:11:05.000Z"
     },
     {
       "id": "e094a48cee7f67af",
@@ -72,15 +108,6 @@
       "source": "https://fullload.bestcarweb.jp/",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T01:00:00.000Z"
-    },
-    {
-      "id": "b90525b864086c2f",
-      "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生 (2026年10月8日掲載)",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fV2FaNXJWV3ZzamlJSHZEczhsc0JHd2FiWVZCbVZDQ0RDUWNleks2RkFwakl5b013MHB1dFl2NWhUaUZudmZiclNMaWY4MFhnLU1JSjlhU2tTMmF5OHc?oc=5",
-      "source": "ライブドアニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T00:30:33.000Z"
     },
     {
       "id": "13e640eaa50f843e",
@@ -99,6 +126,51 @@
       "source": "秋田魁新報電子版",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T00:30:00.000Z"
+    },
+    {
+      "id": "8512f1664c9348ce",
+      "title": "ニッスイ傘下の日水物流でシステム障害、入出荷がストップ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyNVBVTWF4WnhjYllTYXBONnZWckktLVd4dmlWWlMzbkdJcnZYeF9Jc3lzeVQtRkVVUjY2OXEyVUtTbVhfMmROcUtGRQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-10-08T00:14:16.000Z"
+    },
+    {
+      "id": "5e7eb6b82832f36a",
+      "title": "ハコベル、共同輸配送を追加し小口需要に対応",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBadDJleVhla2NHZkRSLXRQYWVWeTJJOHJxZGFxRXdrZ2xJR2pCb3ZBMnIwcU03RXpDUHEzY2FwR0xoLVhhUlVPcG9n?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T00:02:36.000Z"
+    },
+    {
+      "id": "d0137634b3e09c15",
+      "title": "物流連、Mujinの自動化事例から物流改革を学ぶ",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RUEFhYmh2VUdndVZjY0xaZW55Tm5mdncwemJ6YlUtYkV5NVo3clNMc01ic1hlVDJSVDNrTmFValVKRzdxS09DSUln?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T00:02:36.000Z"
+    },
+    {
+      "id": "0fd4fe00ae2bb12f",
+      "title": "レバレジーズ、75.9％が将来の配送遅延に不安",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JTmpUZ2k4eVp3Uml2YXJ0VTctQ1VVV2QzRzFGN3ZZdU1OYW41bkszZU14X2xRRTJyVHBrZG1lU0p6YzJGWWh4anpR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T00:02:36.000Z"
+    },
+    {
+      "id": "f6125319d7960763",
+      "title": "独政府、中国コスコの物流企業買収を阻止 安保上の懸念で",
+      "description": "Reutersが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcUpiMndDTVVSc3IzdHNCeEt2VGJoSFp1bWZIdVp6M2cyOHk5dkxLV2ZDZm5mRGtDNVdITnhPU2dnQ0pCS1dSMzdBQUNPNUUycWxHN3RtamZzMWQ1WU44OFltd3Zvem4tSExmM1FmaHV4N013RS1RZ0NGdw?oc=5",
+      "source": "Reuters",
+      "category": "物流",
+      "publishedAt": "2026-10-07T23:47:43.000Z"
     },
     {
       "id": "74d03e85520b4838",
@@ -146,13 +218,13 @@
       "publishedAt": "2026-10-07T22:15:09.000Z"
     },
     {
-      "id": "7bed4c6ca484e752",
-      "title": "青森りんご、鉄道と自動運転で長距離物流を再設計",
+      "id": "483459b8d8eb6e0e",
+      "title": "愛知県、手荷物当日配送と無人ロッカーを実証",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tZjB5SUVmaHFvWkhhZl9nWDBNWUhZWVZZNnloRzQxT29MV25CQzVSdEJjcjlpb3gyTVREbmdfMW5YalZwNVVrcUxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41YlkyZnZVXzBTeXN1TFZDY2p1VW5USGZGeFFLbW5wdWN5V0xLcDVfRzJNa0Z1NjJvS3hqSmFCSnR5TkN5X2xaZVV3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-07T21:41:21.000Z"
+      "publishedAt": "2026-10-07T21:55:05.000Z"
     },
     {
       "id": "f1ea842435fb823e",
@@ -161,7 +233,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTSURLY2xTUmFNa19MWlRReWVucExwX2dwT01rM0NOcWI2YkZINXE5SnFkbklBODJsazk4OHZ3ZUxyMzhXU0N2cHhn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-07T21:33:45.000Z"
+      "publishedAt": "2026-10-07T21:41:22.000Z"
     },
     {
       "id": "c0c64be84b739a81",
@@ -170,7 +242,25 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DOHQwTUladHFkblpKbXZheW9rV3JyZWl1dWJWMDNYNjdTbXRYNG4xTUVuZ1dBaEJxNDNlaFljX2dDWHNiR3FwVDhR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-07T21:33:45.000Z"
+      "publishedAt": "2026-10-07T21:41:22.000Z"
+    },
+    {
+      "id": "3cc6ce4b5f23de5a",
+      "title": "熊本県、運送会社の事業継続へ最大300万円",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUMzZ4a3dWekU4Tkw4enk3ck9Kb05WMG96VDFFVGxNU3pwUldDbFBDU1NwWFR3N0lEQlpzdGxocTRpRjZBWmRDdFhB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-07T21:41:21.000Z"
+    },
+    {
+      "id": "7bed4c6ca484e752",
+      "title": "青森りんご、鉄道と自動運転で長距離物流を再設計",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tZjB5SUVmaHFvWkhhZl9nWDBNWUhZWVZZNnloRzQxT29MV25CQzVSdEJjcjlpb3gyTVREbmdfMW5YalZwNVVrcUxR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-07T21:41:21.000Z"
     },
     {
       "id": "1dec15cd66ddfdc2",
@@ -209,15 +299,6 @@
       "publishedAt": "2026-10-07T21:00:00.000Z"
     },
     {
-      "id": "12839cfaae51b635",
-      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdXEyczBwc3gzcDFvUVoza2JMZFAzVWx4SUwxX1M1YXZvUE9RSkZDamtSaUFhTHlKYlZDUEFDNjk1WjNBcjNEV3FyX3ZHcHhfYkpKV3E3b0FiN1RrSzdNMmI5cw?oc=5",
-      "source": "時事ドットコム",
-      "category": "物流",
-      "publishedAt": "2026-10-07T20:35:00.000Z"
-    },
-    {
       "id": "e54664188a0fee4b",
       "title": "ニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -236,6 +317,15 @@
       "publishedAt": "2026-10-07T16:19:24.000Z"
     },
     {
+      "id": "dba325a6aa0e5142",
+      "title": "サイバー攻撃の被害相次ぐ ソフトバンク子会社「IDCフロンティア」や食品大手ニッスイグループの「日水物流」",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VRWJodGNjX2hvcFlsYnhhUHdMeEhxUFpEaDZFVXdSTkQ5RE90VmVjQzRwWVVFZ0FGLVFObWE4cEt1X1ZXOUVub29Qd1ZlT0NFWk43UDFuT1lkLTA2N2x0UmF2bE1Yb1ZZd0tiN25rRWlrWGdBdENlTGJkazA?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "物流",
+      "publishedAt": "2026-10-07T16:04:00.000Z"
+    },
+    {
       "id": "a7f5265498007f49",
       "title": "豊富小で千葉県トラック協会船橋支部による交通安全教室 トラックを使った実演も",
       "description": "Myfunaねっとが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -243,15 +333,6 @@
       "source": "Myfunaねっと",
       "category": "安全・事故",
       "publishedAt": "2026-10-07T16:02:07.000Z"
-    },
-    {
-      "id": "ba7b76ba1e3b023c",
-      "title": "2026年10月8日／新規許認可運送事業者",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMVlU2N3pBdVlSM0kwOFczUkZyYnVFa3c0eFFCMWN3cFNraTIyUmplRWo3THJ0ME8tcERsQ000Y3ZkRWdhem9pTjhkX25zbWlfTkdGTjJfdGI?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-07T15:05:48.000Z"
     },
     {
       "id": "672ebee9d1c8d35e",
@@ -290,11 +371,11 @@
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
     {
-      "id": "fb9e78d13a78d7e6",
+      "id": "300447e9e4245db6",
       "title": "ニッスイ子会社、システム障害で入出荷影響",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaMWp6cXFNbFcyRG5sUlhlWnp1MWJHb0Y2ZEwyRGpHV2cyaG53S014UE0tMHlWU2tnaTRlQnJ1My1yQlk5TThjZGFmaXF0TkZGdkh5VWxLQ242NHRwTWpGVWJ4Q2kzbTlqQWRuN1BLOGVsS1Jn0gF0QVVfeXFMUFoxanpxcU1sVzJEbmxSWGVaenUxYkdvRjZkTDJEakdXZzJobndLTXhQTS0weVZTa2dpNGVCcnUzLXJCWTlNOGNkYWZpcXRORkZ2SHlVbEtDbjY0dHBNakZVYnhDaTNtOWpBZG43UEs4ZWxLUmc?oc=5",
-      "source": "Infoseek",
+      "description": "下野新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90N3p4SGZVX05OcEdBNHZpNXJULXI4N3F1X1N0Y1JSeTVRMEJ0bWVfb2xoRUZpWUViS3hzMEMxNXQ0UTNfNWo2WHFJYjVXTDVKZ1B0VHpfaW40NDQ?oc=5",
+      "source": "下野新聞社",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-07T12:45:08.000Z"
     },
@@ -398,24 +479,6 @@
       "publishedAt": "2026-10-07T09:10:00.000Z"
     },
     {
-      "id": "5e7eb6b82832f36a",
-      "title": "ハコベル、共同輸配送を追加し小口需要に対応",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBadDJleVhla2NHZkRSLXRQYWVWeTJJOHJxZGFxRXdrZ2xJR2pCb3ZBMnIwcU03RXpDUHEzY2FwR0xoLVhhUlVPcG9n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T09:03:26.000Z"
-    },
-    {
-      "id": "d0137634b3e09c15",
-      "title": "物流連、Mujinの自動化事例から物流改革を学ぶ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RUEFhYmh2VUdndVZjY0xaZW55Tm5mdncwemJ6YlUtYkV5NVo3clNMc01ic1hlVDJSVDNrTmFValVKRzdxS09DSUln?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T09:02:37.000Z"
-    },
-    {
       "id": "4e5ba9136c888102",
       "title": "新名神６人死亡の被告ら違法残業か 運送会社社長を書類送検―広島中央労基署",
       "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -423,15 +486,6 @@
       "source": "時事ドットコム",
       "category": "物流",
       "publishedAt": "2026-10-07T08:35:00.000Z"
-    },
-    {
-      "id": "f4f14cf28e35fe60",
-      "title": "公正取引委員会、中小企業庁／トラック運送業「歩引きやリベート含む減額」課題、適正取引ガイドライン策定も視野",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zN0ZfNTViZk55LWV6SE45UXNJUE1RbUd0QVZXazRVR0JyZTM2X0xrY1pzM0FxVWxMNjQ2eGNTcjAwd1cwQUFqcFBHZDUyX0dlNXktXw?oc=5",
-      "source": "トラックニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T08:03:00.000Z"
     },
     {
       "id": "bbd3449037de89a0",
@@ -524,15 +578,6 @@
       "publishedAt": "2026-10-07T04:00:01.000Z"
     },
     {
-      "id": "d2ad2e994bd5eb0c",
-      "title": "公正取引委員会、中小企業庁／来春「トラック運送」など16業種の取引適正化に向けた具体的な対応方針示す",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYVYwUkhMaUwzRlltOHB4bkRjOUZJUGRTaHhUN25kM2RXUGpTM04yMTJCX0lJam5mZG1xbXU4OEw1emFOSThlSzdDNGRvU1pJNUhWMA?oc=5",
-      "source": "トラックニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T03:44:00.000Z"
-    },
-    {
       "id": "9ed8786c7254005f",
       "title": "信号待ちのトラックに追突 軽自動車の助手席に乗っていた女性(95)が重体のほか2人重軽傷（KSB瀬戸内海放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -558,33 +603,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-07T02:37:27.000Z"
-    },
-    {
-      "id": "894e0f166d9b5659",
-      "title": "「国際物流総合展2026」出展レポートを公開",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvcm9QSmZneXhOSXoyemtmVXNYQkk5ZmFPWFk5Vjl0M2ZWU2JkOUFSdjhtamp1NUdTcVZrcDVHZFI2aU1ZZWdqT0swTm5XQ3RjREpxb1JLS0MtTGtiNUdod2tKZThuQTc5alE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-07T01:00:02.000Z"
-    },
-    {
-      "id": "3cc6ce4b5f23de5a",
-      "title": "熊本県、運送会社の事業継続へ最大300万円",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUMzZ4a3dWekU4Tkw4enk3ck9Kb05WMG96VDFFVGxNU3pwUldDbFBDU1NwWFR3N0lEQlpzdGxocTRpRjZBWmRDdFhB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T00:29:48.000Z"
-    },
-    {
-      "id": "483459b8d8eb6e0e",
-      "title": "愛知県、手荷物当日配送と無人ロッカーを実証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41YlkyZnZVXzBTeXN1TFZDY2p1VW5USGZGeFFLbW5wdWN5V0xLcDVfRzJNa0Z1NjJvS3hqSmFCSnR5TkN5X2xaZVV3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T00:29:00.000Z"
     },
     {
       "id": "8e465b1bb1fd0042",
@@ -614,15 +632,6 @@
       "publishedAt": "2026-10-06T23:40:06.000Z"
     },
     {
-      "id": "542a1454f146267b",
-      "title": "「適正原価」導入で安全を競う時代に 京都府トラック協会が取り組み",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqM2E0QmhWeFYwbXZlb1YzVVNpMnkyWUpHd0I0eUJ4blRfWnBBRThDUU1fVXdnV0pHQ21IT3FYQXBlMUMta2lhbWQ2WWdtV1lqMEJDbjhsQ1dZS2lsc2UzLWVzaDJ2MkU?oc=5",
-      "source": "朝日新聞",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-06T22:00:00.000Z"
-    },
-    {
       "id": "a8ac66ccfd949007",
       "title": "【910円の謎】なぜトラック運送業だけ「特定最低賃金」が残ったのか？ なぜ労組は賃上げに直結しない改定を求めるのか",
       "description": "carview!が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -630,6 +639,15 @@
       "source": "carview!",
       "category": "物流",
       "publishedAt": "2026-10-06T20:21:00.000Z"
+    },
+    {
+      "id": "60cdb87c46b2168e",
+      "title": "始動、物流DX",
+      "description": "日経クロステック（xTECH）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZE5qbXdKTWRCWGRCaUY4X0twcnViMG1zOXhvMlhiOTZYRmpUdVpEX1laQ1pNS28zbERNTzl0aGMyWDRyUm9CM3A4NENvTTBSY0l3MDM2UVdzSEt4VXMzSmlfZ25aVjRFT3pXMGp4WDNkaXppU3JXaTlMY183SkpWdmlsdHdVVjFGUmZ5NVVyb0NNNmFUa0V5WHgxejBCcUZEWUNjR0MzM00zZFFuRnBtOGxaTy15NWhRa3dFTXdFczRNY3lPUkN3?oc=5",
+      "source": "日経クロステック（xTECH）",
+      "category": "物流",
+      "publishedAt": "2026-10-06T20:08:48.000Z"
     },
     {
       "id": "e005775e1d05fbc3",
@@ -648,15 +666,6 @@
       "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-06T14:11:54.000Z"
-    },
-    {
-      "id": "b72ee5216464e896",
-      "title": "物流特殊指定をやさしく解説！ | 公正取引委員会",
-      "description": "公正取引委員会が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kYVo3ZXlmZWZ0R2FpVXhHZ2pSbW9JSHRnTFlNUFJVT1VqWDBpVlg5Tk9FTlB6ZTl0Z2tZZ0hqdkR6U0MzcFM5X0g0RGEtUWNrNWEyYnhVYw?oc=5",
-      "source": "公正取引委員会",
-      "category": "物流",
-      "publishedAt": "2026-10-06T13:07:24.000Z"
     },
     {
       "id": "0bacfddc6336bdfe",
@@ -711,15 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-10-06T10:44:00.000Z"
-    },
-    {
-      "id": "e2a41aa8edd5262b",
-      "title": "ファミリーマート 配送減便でCO2・食品ロス削減（HOME広島ホームテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KNUJncUV3bjFiSWpYREpmRVJSNmFBdDlzbll3encyNVdKVTZxV2drZG9aWkN2cHl3dDhKdkQ5SldjYWd6M1owcVVIMzNlU3hhVUxiTWpvV2IzVFRoUm9VMU5UNFd5T0xVc0xibXBQbEdwZGdRNW52a3JhSFpHUDg?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-06T10:12:52.000Z"
     }
   ]
 }
