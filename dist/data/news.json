@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:37:09.789Z",
+  "updatedAt": "2026-10-08T13:33:55.170Z",
   "articles": [
     {
       "id": "06aab41c38e02003",
@@ -8,7 +8,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LV0lKQW83Slp5R0VBWjVzMGZ6MU80U05nSWJidWhqX29vc1dqVDBid2lpVUpfSmh1cElUWHhRYURRLWVPNlJseWNvNV9GZU03bEVhaEhoajc4a0J5di14eGJXMVVlcVJHUzBzVQ?oc=5",
       "source": "日本経済新聞",
       "category": "物流",
-      "publishedAt": "2026-10-08T12:15:36.000Z"
+      "publishedAt": "2026-10-08T09:32:42.000Z"
     },
     {
       "id": "5837af42e8a23c35",
@@ -21,7 +21,7 @@
     },
     {
       "id": "c8386e3614583751",
-      "title": "軽トラックと乗用車が出合い頭にぶつかる事故 松本市の市道交差点 軽トラック運転の高齢男性死亡 軽トラック側に一時停止の標識【長野】（テレビ信州）",
+      "title": "軽トラックと乗用車が出合い頭にぶつかる事故 松本市の市道交差点 軽トラック運転の84歳男性死亡 軽トラック側に一時停止の標識【長野】（テレビ信州）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zS3MwbDFuVHN6R0ZDQlZFUUxXQXc0NXB2d0NOMXBuY2E4d0pua0RqaDJVNnp3NmF5c2E0NUlpN1dGOWJIZ2VQNGRHcGdkb3pDZmphSU5LcWFRZjd0eGlCZEExNTI5OFkyWmZwbmNBcTdlaWRFUW1oUXZCbmUtcFk?oc=5",
       "source": "Yahoo!ニュース",
@@ -45,6 +45,24 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-08T07:12:50.000Z"
+    },
+    {
+      "id": "ecb6771ef2c894aa",
+      "title": "T2／自動運転トラックと次世代燃料の掛け合わせで物流の脱炭素化、経産省の実証事業に参画",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Nb1ZCV1NORjdZRWU4X2FlUEphbFJJREM0UmNEZ2hjb0Z2cEN1RF96em1xTXE2NW5qbWxOdVF1Wm9WcXV2QjljN3FyeG1nakMzQlBBQQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-08T07:10:54.000Z"
+    },
+    {
+      "id": "7dd7d0aa236fc9d5",
+      "title": "メドログ、メルボルン港に統合物流ハブ新設",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CSTRRWlB6V2lselJvcVFab1YyWi1na3NiWUNxWUhnVXhJcFBGWTVRUmFJQWJiM3JBdVRySTExUWgzRXhUYkFFdHFn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T06:59:48.000Z"
     },
     {
       "id": "6785e1f77963cc0f",
@@ -137,22 +155,13 @@
       "publishedAt": "2026-10-08T05:19:00.000Z"
     },
     {
-      "id": "17506a3ce4b8421a",
-      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
-      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
-      "source": "まぐまぐ",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T05:17:09.000Z"
-    },
-    {
-      "id": "1a7477a22177d0a9",
-      "title": "ロジスティード、CLO時代の物流改革着手点を指南",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdlFZTW1lQ3U0SG43UGE0bGhVMmkwS25mZ1N4UVVqR3FwYVN2OTF1aDJITTFRNXI5bXVpZ0ZHdk9jR1pzbUYtMllB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-08T05:15:31.000Z"
+      "id": "7e9b66a2c778c30e",
+      "title": "【国道23号】名四バイパス 大府市内でトラック火災 一部通行止め解除（8日13:30現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kalZOSkVPaUhBYUhVdDdBRGJXeURhc1BZd3FqT2ItN3JtSTRKNEF3b0d4MVVjWnFhUmZ5R05iaGNjSTJ3OV9NbHpoZFRyWVZlazlrLTFSTUJrR1FNTUlV?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-08T05:07:40.000Z"
     },
     {
       "id": "0fdc293e4df3cbc9",
@@ -189,6 +198,15 @@
       "source": "神戸新聞",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T03:56:46.000Z"
+    },
+    {
+      "id": "5c6fc1177132f4d7",
+      "title": "APT、ITと現場制御をつなぐ次世代物流網を公開",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4YTFud0piSktKSlYzeGYtamRhM05EeGU5V0hjU2dGYkl1cFF2UXEzb01GamNOZ1piMEdsV0l2dWNZMUtMMGZIOVFn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T03:50:30.000Z"
     },
     {
       "id": "122a280e84b3dde4",
@@ -281,6 +299,15 @@
       "publishedAt": "2026-10-08T02:11:05.000Z"
     },
     {
+      "id": "348231e142bc5727",
+      "title": "【1300年前の物流に迫る】新潟市で土居内遺跡展を開催中",
+      "description": "にいがた経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuZXVFdHhacHBpYTlHRW1rd3JTYm4tdG1LOG50aUxrOERqOVJkZml4Ui1COVpkSWZoX202WWNYOXlrSlhS?oc=5",
+      "source": "にいがた経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T01:07:20.000Z"
+    },
+    {
       "id": "e094a48cee7f67af",
       "title": "目撃ドキュン!! トラックドライバーが道路で出遭ったヤバい奴",
       "description": "https://fullload.bestcarweb.jp/が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -294,6 +321,15 @@
       "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NckJfTW1xbGw3VHFQTlJuS3ROQ0FXeDVycGZydWxUSjNVb1c1NmZ4bDg1QlhBcU82TU1qQm02SjRjek52OHRQLU1TNFhXZ3NMUG5oX2NjNHNTSWVQY193?oc=5",
+      "source": "ライブドアニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T00:30:33.000Z"
+    },
+    {
+      "id": "0c474da9bb98f01f",
+      "title": "【画像】ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcXNUUGJpdTVkX3R3YjBuU0FTQnBKLVEzaG1FU2ZSN0pfMzFrNWVJa1VaQ1NqWDlMc01MV1VTWmxKYXJnTktMSWdBVDVMQmxBT282WlR4elJka3NIdHZ3R1NIbWY3OEVCTG10Sm95SzVnOHRWVmkwdnpMaDM?oc=5",
       "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T00:30:33.000Z"
@@ -659,15 +695,6 @@
       "publishedAt": "2026-10-07T10:41:01.000Z"
     },
     {
-      "id": "bc0478909dcf00d9",
-      "title": "「シート掛けに課金」の発想も 高まる平ボディートラックの価値",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10LWhqd3RYWDJxMDlfTXdIYlpkeXRSYTJEbGpuaHA0QjF4VDZZM1VVVVlvcXlKMWpnODc5cjZZcURsb1ViNnh5N25QdG4ydw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-07T10:03:45.000Z"
-    },
-    {
       "id": "ecd17084ce858ee1",
       "title": "コクヨが滋賀に自社最大規模の物流拠点、投資額176億円 設計・施工は鹿島で29年2月竣工：ロジスティクス",
       "description": "ITmediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "神戸新聞",
       "category": "安全・事故",
       "publishedAt": "2026-10-07T09:38:38.000Z"
-    },
-    {
-      "id": "964e498d2efce1b4",
-      "title": "阪急阪神不動産の物流施設「ロジスタ」 シリーズ初の冷凍冷蔵物流施設となる「ロジスタ鳴尾浜」の新築工事に着手しました 2028年10月末竣工予定",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1faHFzaEgta1B5a1RjOThVYlFGeC0zNVZoaXFNWFQ2OE1zZXJKekJLZkEzUVpaa2kxWEVidV8tRWVNaTRmeWwzRjRJc3B0aklCUW1NWlB0X0k5QWFvS25jbHA5MXRrV0ExM1E?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-07T09:30:01.000Z"
-    },
-    {
-      "id": "81eb828b16dbb895",
-      "title": "国道14D号線を大型トラックの通行止めに：企業はベトナム・ラオス間の輸送ルートの混乱を懸念。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOElsa0ZJa1dKdzEyTksxNjRzNkRZQ2w4b0tzV1lSQ0FDb0J3SjVBUElnSEtkQ01WM3g3SEg5NzlPRmlPUW9CR2hRb21CVl9xcjlCSVpWeHVUQ2l3eWR5TDV0eEg1TUJKR0UxcUo5ektVQ2NQZGxOWXRPc3g0Z2RXX196RnlyUEhtR1JkWHN1MWlHLTVhcS1Ub1hYZEhRcWNlZ013X2plSQ?oc=5",
-      "source": "Vietnam.vn",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-07T09:15:08.000Z"
-    },
-    {
-      "id": "a67c93e45b8ce0a7",
-      "title": "国土交通省、公正取引委員会／集中監視月間で合同荷主パトロール「物流の未来を支える活動」に",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyckZIWHJOZ0FhOGw4VHhFTkVQYUVYLThfUGVJZHhwdGh6M3RtZDR6eDRPR29FTUdNNlMyQkUtRDgwWUY1Ykc3MnpRY1gzSXA1Z1lRSg?oc=5",
-      "source": "トラックニュース",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-07T09:10:00.000Z"
     }
   ]
 }
