@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-08T23:28:07.241Z",
+  "updatedAt": "2026-10-09T00:41:43.524Z",
   "articles": [
+    {
+      "id": "5071be3e587c84e7",
+      "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX3dOWjh2RFlpdXJfa1YyU2RKQ0l2UWZ0MVplZHc0MzM2RXhfRmFqOXJmb1Vhb3IyTU4zZ1J5WkxUOW1udlhzaHBjOHR3VFBnS0dwNmJRWXZ4V1hFa0psQk52c183VzR4ZzNjdWpDbDN3eVFjcVE2QXB5cw?oc=5",
+      "source": "ニコニコニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-09T00:12:47.000Z"
+    },
     {
       "id": "892e7da27b2bfc93",
       "title": "神戸市バスに追突の事故 「フェード現象」原因か 大型トラック運転手「ブレーキが利かなくなった」",
@@ -146,6 +155,15 @@
       "publishedAt": "2026-10-08T15:00:00.000Z"
     },
     {
+      "id": "50dad24d07348531",
+      "title": "タイヤ破裂、男性死亡 苫小牧の運送会社",
+      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbDc5UlVwT05FZ05rZHJGVEIwRTNJV0Y4UzNWWkFUcmVYb2RzLXB1aFloWnppdGpFbTF3Mi02LUpma0JURHFhb0xaY0xvMERFRWhTS2pOM0VuQQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "category": "物流",
+      "publishedAt": "2026-10-08T14:46:13.000Z"
+    },
+    {
       "id": "f749c940a514e3c2",
       "title": "【速報】「車が逆走している」山陽道で軽乗用車が逆走か 下り方面・赤穂IC－備前ICを通行止めに【8日午後11時半現在】",
       "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -162,6 +180,15 @@
       "source": "pando.life",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T13:39:42.000Z"
+    },
+    {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-08T12:56:54.000Z"
     },
     {
       "id": "6c11242bed214f0d",
@@ -324,15 +351,6 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-08T05:19:00.000Z"
-    },
-    {
-      "id": "17506a3ce4b8421a",
-      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
-      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
-      "source": "まぐまぐ",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T05:17:09.000Z"
     },
     {
       "id": "73c79853a649d615",
@@ -702,24 +720,6 @@
       "source": "時事ドットコム",
       "category": "物流",
       "publishedAt": "2026-10-07T20:35:00.000Z"
-    },
-    {
-      "id": "64b2ec662c2f6722",
-      "title": "自前の物流 成長の原点 ６府県稼働 自動化も：地域ニュース",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRFUxUjh2bU90WW51T0JLbXhnM3k2QjlGYUJhdGJ5UEtobG1oWXJVU2JBWmxaaUhvV3pHYnB2ZHMyRzZSZFlqbnQ0UEpvcnVIbVh3QUlGUXhQN1RZeXhXd2NuSE1DeDBCUTRDYWtZbGE?oc=5",
-      "source": "読売新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-07T20:00:00.000Z"
-    },
-    {
-      "id": "f889cb0588ec8965",
-      "title": "ニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQYXdBYVljbEdRSXFQRGpqZm5NR05Cam1ZY2F3RjQ0Yk5ZUnM0V3dXNE5HZHVfUFBKUWZnRjEyXzZuall4OUQ3R0pLRmhWcFlvT1dTa1l3dw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-07T19:29:21.000Z"
     }
   ]
 }
