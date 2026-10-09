@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-09T15:30:06.723Z",
+  "updatedAt": "2026-10-09T17:27:40.781Z",
   "articles": [
+    {
+      "id": "fd27c10b909f282c",
+      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
+      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
+      "source": "建設通信新聞Digital",
+      "category": "物流",
+      "publishedAt": "2026-10-09T16:02:09.000Z"
+    },
+    {
+      "id": "2ee3b5f0fa267336",
+      "title": "10月12日から、カウジー・ニンビン高速道路の最高速度制限は時速100キロとなる。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFVmeFJjRHA1NkpYcDI0TE41aUNNQ19jNzhtN3VFbjFXc0tBei1fT1ZZelNXcV9Xdlc1LWlFc09MMGszOWpLczRBc3ZhSDZvV3laS3BqUmE1UWYtSUZhdDlIejZiRWJLRzBZU0N3LUQtakMzMUdqTnJLNmtZUDhHdmxreDc1Z3ZNZGNpY043UFVfZ25l?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T15:35:35.000Z"
+    },
+    {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T13:22:21.000Z"
+    },
     {
       "id": "107d5d88f92f8d28",
       "title": "中国の物流情報網「LOGINK」失速、米国は「通商上の兵器」と危惧も―海外メディア",
@@ -9,15 +36,6 @@
       "source": "ｄメニューニュース",
       "category": "物流",
       "publishedAt": "2026-10-09T13:00:00.000Z"
-    },
-    {
-      "id": "fd27c10b909f282c",
-      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
-      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
-      "source": "建設通信新聞Digital",
-      "category": "物流",
-      "publishedAt": "2026-10-09T12:56:53.000Z"
     },
     {
       "id": "40cad5038586e28d",
@@ -90,15 +108,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-09T08:57:01.000Z"
-    },
-    {
-      "id": "59cc5d9470682f63",
-      "title": "道路の気象影響リスク予測・天気予報",
-      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
-      "source": "tenki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T08:32:29.000Z"
     },
     {
       "id": "a8971e5d6b2bef2f",
@@ -632,6 +641,15 @@
       "publishedAt": "2026-10-08T20:57:54.000Z"
     },
     {
+      "id": "3b000dc657af8dd6",
+      "title": "DHL、ベイクルーズ物流を自動倉庫で省人化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RVlQ0eUFpR1hNaWVkZEhsaXRIVnpYWkQ1bFl2TkJNUVpVMEQwdkFlZ1pHM1BfaHJuSmp0X1NkLUVCQm9IUHdUX2xn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:57:54.000Z"
+    },
+    {
       "id": "7dd7d0aa236fc9d5",
       "title": "メドログ、メルボルン港に統合物流ハブ新設",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -655,6 +673,15 @@
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGbWxVZFV1ZjRqc0lkSV9mMlZ5R2pyUldvUjZUSHhUMGpEeDNoMXp0RzdSSzhlWEJlQ2twS3I0TWtiUGY5dHdXb2FIUk8wdzVnRUt4TVdWUTUzQ3RVS21XRERxYnpPUnpzTmdkag?oc=5",
       "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:00:00.000Z"
+    },
+    {
+      "id": "4fcd4f4d9b80dac4",
+      "title": "ソフトバンク子会社へサイバー攻撃の波紋、物流や身近なサービスにも [不正アクセス]",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DeEM5akhmVS1BMFNYdGxHLVNlaXlpeEdQNl8zWWZ4cFdEZE1zekk0WGJnTjhDcTN6Rkd2eWpVdW9lUllRUEp3LVVtT3lOQzBxTzMtaExWLTZxMDFfRnAyc2VFbTZzVG8?oc=5",
+      "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T20:00:00.000Z"
     },
@@ -693,33 +720,6 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-08T15:20:00.000Z"
-    },
-    {
-      "id": "c0b2af4582d116a4",
-      "title": "強さの秘訣は調達から物流まで担う「MMD」 ゼンショーは「食のファストリ」",
-      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlZCbUJ5ei0wUkVna05LOXJDRERTX3psOXlLVVhaeG9KcjBIVDVXOGFIRlJnTVRlUGFhYzVvdkFOcDZaNWJuM0YzbmoyMGNXa1JoUkpHN2JackhxY2tsa3ZSRDM?oc=5",
-      "source": "日経ビジネス電子版",
-      "category": "物流",
-      "publishedAt": "2026-10-08T15:00:00.000Z"
-    },
-    {
-      "id": "50dad24d07348531",
-      "title": "タイヤ破裂、男性死亡 苫小牧の運送会社",
-      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbDc5UlVwT05FZ05rZHJGVEIwRTNJV0Y4UzNWWkFUcmVYb2RzLXB1aFloWnppdGpFbTF3Mi02LUpma0JURHFhb0xaY0xvMERFRWhTS2pOM0VuQQ?oc=5",
-      "source": "北海道新聞デジタル",
-      "category": "物流",
-      "publishedAt": "2026-10-08T14:46:13.000Z"
-    },
-    {
-      "id": "e671ffa4e59c38e7",
-      "title": "印象的なグローバルバイオ医薬品クーリエ市場規模は、2026年から2033年にかけてCAG",
-      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6YlBvN1J3dlBtenJtOFdUM3BidlRDc1lzR2NCa1AtYzlmVlJ5emFxT1lYcG1qYkR3RXdsemt4Y3EtVFlWQWlkMjZn?oc=5",
-      "source": "pando.life",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T13:39:42.000Z"
     }
   ]
 }
