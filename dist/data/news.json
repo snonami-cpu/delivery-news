@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-09T02:27:57.787Z",
+  "updatedAt": "2026-10-09T03:30:11.003Z",
   "articles": [
+    {
+      "id": "1670617c998581d2",
+      "title": "トラックが神戸市バスに衝突した事故 ブレーキに焼けた痕 「フェード現象」原因か",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SkUwN2dMLTAyd0QtWFBwSXVNQnBOSVlTZ2lDdEduTjU5dmttdlFkT0tWNjNsRUhkWWhxOEpQQkdiMWpWbUNGUXk5V3ZYOVZ4ZDlSZ19pVDl3Y0IyN0FxdVhOeERPOE5NdlgyX2FR?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T03:04:00.000Z"
+    },
+    {
+      "id": "bc7d99d5c5681c5e",
+      "title": "「トラックが横転」沖縄自動車道で通行止め 中城パーキングエリア付近の那覇向け（午前11時10分現在）",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81bENxb05YMERYYUsxcEJtWVRwVERqcmM5dUFyaUFzNWVJVXNMVXQzM081X2xkTmR5S21fVEk5bnFHa2ZfVm1xak00TQ?oc=5",
+      "source": "47NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T02:44:00.000Z"
+    },
+    {
+      "id": "5f7004e1ff01ee18",
+      "title": "DHLサプライチェーンジャパン／ベイクルーズ向け物流拠点に自動倉庫を導入",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LR1hnRm5BMjFLaXBaWlVJNmJlREV5dm1GaHJDOHlhV1EtWVNQUW9KY0taaXd6UWxyY2dpdElxRm9YWUhjSXBXN3l4cWl5aU9sSDB0RA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-09T02:31:16.000Z"
+    },
     {
       "id": "003089046b89a85e",
       "title": "アセンド代表・日下瑞貴、「製造業AI物流カンファレンス 2026 in 広島」に登壇",
@@ -45,15 +72,6 @@
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T00:12:47.000Z"
-    },
-    {
-      "id": "892e7da27b2bfc93",
-      "title": "神戸市バスに追突の事故 「フェード現象」原因か 大型トラック運転手「ブレーキが利かなくなった」",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10bkhHQVBPcXg3U1NNanVldG5wbDBzQ2xJWXVUWkU5Wlg3dU1yMmhRd3NnanhZcy0xZ3AxZnlRMnBmYXU4OUNhTW56NUNRakw3Q1VIY2RQLUFzYUJHdnFTZ0E2aHRJQ29BUEh0QmhvSGhINzQ?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T22:47:00.000Z"
     },
     {
       "id": "ef53a870a0dba77f",
@@ -101,19 +119,19 @@
       "publishedAt": "2026-10-08T20:57:54.000Z"
     },
     {
-      "id": "69009143f086f3a4",
-      "title": "日新、アジア向け食品輸出の物流力を提案",
+      "id": "8b13e4684f59c03d",
+      "title": "産直ECの配送品質を数値で診断、WAQMIEL",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ya0RQWkxRRXVkaWQ2dnVDb0lNTy1BaWpoYndzZm9RajF4NWN3cjZtTllvUFpYelVzN2RmWHNrOFhTWlR4OFNQY3hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dzdEYVMyZWFSaXlqdmdrR05HWWRNVFA2ZEduNGRTRXh3Y0lUdUZLa2tXalhlNENYWW15bTFVbDY1ZndoX0dVZy13?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T20:57:54.000Z"
     },
     {
-      "id": "8b13e4684f59c03d",
-      "title": "産直ECの配送品質を数値で診断、WAQMIEL",
+      "id": "69009143f086f3a4",
+      "title": "日新、アジア向け食品輸出の物流力を提案",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dzdEYVMyZWFSaXlqdmdrR05HWWRNVFA2ZEduNGRTRXh3Y0lUdUZLa2tXalhlNENYWW15bTFVbDY1ZndoX0dVZy13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ya0RQWkxRRXVkaWQ2dnVDb0lNTy1BaWpoYndzZm9RajF4NWN3cjZtTllvUFpYelVzN2RmWHNrOFhTWlR4OFNQY3hR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T20:57:54.000Z"
@@ -143,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CSTRRWlB6V2lselJvcVFab1YyWi1na3NiWUNxWUhnVXhJcFBGWTVRUmFJQWJiM3JBdVRySTExUWgzRXhUYkFFdHFn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-08T20:48:45.000Z"
+      "publishedAt": "2026-10-08T20:57:53.000Z"
     },
     {
       "id": "e22ecd62fb8c0bc7",
@@ -252,15 +270,6 @@
       "source": "カナロコ",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T12:50:00.000Z"
-    },
-    {
-      "id": "0387bd2363faa5e1",
-      "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-08T10:54:00.000Z"
     },
     {
       "id": "06aab41c38e02003",
@@ -414,6 +423,15 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-08T05:19:00.000Z"
+    },
+    {
+      "id": "17506a3ce4b8421a",
+      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
+      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
+      "source": "まぐまぐ",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T05:17:09.000Z"
     },
     {
       "id": "73c79853a649d615",
@@ -702,24 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-07T21:41:21.000Z"
-    },
-    {
-      "id": "1dec15cd66ddfdc2",
-      "title": "奈良県／中央市場再整備ＢＴ／大和ハウス工業グループに",
-      "description": "日刊建設工業新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ncTRIWnZJdVVHYy13OFdSVFA2YkZfS3pzcUZKcjN4bHdxYk4yTUpzd3psdTFvaHhOREtBbEJnT2dhQkxVSzh3?oc=5",
-      "source": "日刊建設工業新聞",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-07T21:05:16.000Z"
-    },
-    {
-      "id": "ff40df4c01a3d499",
-      "title": "【圏央道】相模原IC本線でトラック3台衝突事故 外回りランプ迂回規制は5時間ぶり解除（8日05:30現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00MXdaV0JQNnFCWjUtQmZzYnl1bzNzbm9tUkFlSFRjRzhjTW1sb0NZeFd3M3pLeDB4M21HMDFlTGhTYk13XzhxVDI1NE02c1RURlRuUGFBdHZBTVREZjRJ?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-07T21:04:51.000Z"
     }
   ]
 }
