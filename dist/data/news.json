@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:27:40.781Z",
+  "updatedAt": "2026-10-09T18:31:36.743Z",
   "articles": [
     {
       "id": "fd27c10b909f282c",
@@ -261,15 +261,6 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T05:51:00.000Z"
-    },
-    {
-      "id": "ab1276ec32db5d0a",
-      "title": "佐賀・鳥栖市の一般貨物自動車運送業者が破産手続き開始決定",
-      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJoV2QxelFKOUJOanRKOHVZT2s0NDVWSkxuS2JEZVZ3TlpzZzJRUUxhNldMbkJaU2JEdzRjVTBZSzhhV3pEa3JTdFNsRVFiY1FwZzNR?oc=5",
-      "source": "西日本新聞me",
-      "category": "物流",
-      "publishedAt": "2026-10-09T05:43:00.000Z"
     },
     {
       "id": "d9af9bb70dac93a4",
@@ -686,15 +677,6 @@
       "publishedAt": "2026-10-08T20:00:00.000Z"
     },
     {
-      "id": "fe5dd0d562a1363b",
-      "title": "設計事務所の決算、倉庫・物流を筆頭に全用途好調 業務別では改修が急伸",
-      "description": "日経クロステック（xTECH）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qWk9pQW0tU3JWcGRfMkc2WG9uTG5PblY3eGdfTGtoSHRxZ0dNM0JqTk5aeGpBZGZub0ZaakJyRkdiZko5TXk4VDQ4c0IyYzJjYU9EOEJCM2JOWlVVSlpOcXhLbWV5OHdtMUV5Rw?oc=5",
-      "source": "日経クロステック（xTECH）",
-      "category": "物流",
-      "publishedAt": "2026-10-08T20:00:00.000Z"
-    },
-    {
       "id": "9d8f324640cccfa1",
       "title": "海上物流の課題、日本もハブ港を目指し国内協調を 手塚広一郎氏",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +702,24 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-08T15:20:00.000Z"
+    },
+    {
+      "id": "c0b2af4582d116a4",
+      "title": "強さの秘訣は調達から物流まで担う「MMD」 ゼンショーは「食のファストリ」",
+      "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMlZCbUJ5ei0wUkVna05LOXJDRERTX3psOXlLVVhaeG9KcjBIVDVXOGFIRlJnTVRlUGFhYzVvdkFOcDZaNWJuM0YzbmoyMGNXa1JoUkpHN2JackhxY2tsa3ZSRDM?oc=5",
+      "source": "日経ビジネス電子版",
+      "category": "物流",
+      "publishedAt": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "50dad24d07348531",
+      "title": "タイヤ破裂、男性死亡 苫小牧の運送会社",
+      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbDc5UlVwT05FZ05rZHJGVEIwRTNJV0Y4UzNWWkFUcmVYb2RzLXB1aFloWnppdGpFbTF3Mi02LUpma0JURHFhb0xaY0xvMERFRWhTS2pOM0VuQQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "category": "物流",
+      "publishedAt": "2026-10-08T14:46:13.000Z"
     }
   ]
 }
