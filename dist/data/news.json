@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:28:50.468Z",
+  "updatedAt": "2026-10-09T20:28:03.030Z",
   "articles": [
     {
       "id": "fd27c10b909f282c",
@@ -261,6 +261,15 @@
       "source": "トラックニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T05:51:00.000Z"
+    },
+    {
+      "id": "ab1276ec32db5d0a",
+      "title": "佐賀・鳥栖市の一般貨物自動車運送業者が破産手続き開始決定",
+      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJoV2QxelFKOUJOanRKOHVZT2s0NDVWSkxuS2JEZVZ3TlpzZzJRUUxhNldMbkJaU2JEdzRjVTBZSzhhV3pEa3JTdFNsRVFiY1FwZzNR?oc=5",
+      "source": "西日本新聞me",
+      "category": "物流",
+      "publishedAt": "2026-10-09T05:43:00.000Z"
     },
     {
       "id": "d9af9bb70dac93a4",
@@ -552,7 +561,7 @@
     },
     {
       "id": "78e914455ae1b7ba",
-      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉（北海道ニュースUHB）",
+      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRDQxM2J3Mi14Q1NZUS1tN1dWVUptV0o4T0tHRHVnMmxHS09ZWm5SSnltaWM3UzJ2QlBzSWJsOG95eW1FaHVramg3VkgzaXBCdHo4YWFOU2tUbTZqOGVCYUpFOV9NejNOUVBaeTFtUDJZUUJXTDZCWnQ1czRod2M?oc=5",
       "source": "Yahoo!ニュース",
@@ -711,15 +720,6 @@
       "source": "日経ビジネス電子版",
       "category": "物流",
       "publishedAt": "2026-10-08T15:00:00.000Z"
-    },
-    {
-      "id": "50dad24d07348531",
-      "title": "タイヤ破裂、男性死亡 苫小牧の運送会社",
-      "description": "北海道新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbDc5UlVwT05FZ05rZHJGVEIwRTNJV0Y4UzNWWkFUcmVYb2RzLXB1aFloWnppdGpFbTF3Mi02LUpma0JURHFhb0xaY0xvMERFRWhTS2pOM0VuQQ?oc=5",
-      "source": "北海道新聞デジタル",
-      "category": "物流",
-      "publishedAt": "2026-10-08T14:46:13.000Z"
     }
   ]
 }
