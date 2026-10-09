@@ -1,14 +1,77 @@
 {
-  "updatedAt": "2026-10-09T09:31:29.229Z",
+  "updatedAt": "2026-10-09T10:31:25.795Z",
   "articles": [
     {
-      "id": "ca6e4d392ae85e12",
+      "id": "fd27c10b909f282c",
+      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
+      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
+      "source": "建設通信新聞Digital",
+      "category": "物流",
+      "publishedAt": "2026-10-09T09:55:34.000Z"
+    },
+    {
+      "id": "4fcd4f4d9b80dac4",
+      "title": "ソフトバンク子会社へサイバー攻撃の波紋、物流や身近なサービスにも [不正アクセス]",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DeEM5akhmVS1BMFNYdGxHLVNlaXlpeEdQNl8zWWZ4cFdEZE1zekk0WGJnTjhDcTN6Rkd2eWpVdW9lUllRUEp3LVVtT3lOQzBxTzMtaExWLTZxMDFfRnAyc2VFbTZzVG8?oc=5",
+      "source": "朝日新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-09T09:47:47.000Z"
+    },
+    {
+      "id": "0ff4530f8d0b47b8",
+      "title": "「通行止めにしない」目指す 日本初の最新工法で改修工事 北陸自動車道・曽々木トンネル（敦賀市） 専門家も興味津々 トンネルの壁と防護壁の隙間で作業",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oenhQQ05BMGxtTE15ZWdyaEpUQVZkZHFwdUZCS3FOUmJlcHlHcS00LWdQZ2Uzel9EUHdwTXBfdEx0cTBZZ1phTXdlRjJFalVtRzFtWV9iSW5XcDU2NEo1WFlZOXR0VVljbHBXMzloRWd5cEJyQW9MemVXMNIBgAFBVV95cUxNQTd3VTVXTmhxVGNKZU5zUl93VTdXMUFTd1J6M3hPTWxPY0phVXRDVUJTVTBzWXA2bVRneGo5NjdSQ0w1Y1d4N2Rib1VFWEw2czRnN2xyQVRCVmFFdFQ1NWFmUHdwVzNfS1lGWEZhbkR3ZC1FWG1ndTl3REV6c0J3LQ?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T09:42:00.000Z"
+    },
+    {
+      "id": "4de6e0ece621ef5c",
+      "title": "九州道のトンネルで車4台が絡む事故 八代ICー人吉IC上り線で通行止め 下り線は解除（熊本ニュース KAB ONLINE）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3emI2cU5mZ25RR1JjeHN6aTIwNTVDXzItUkgyWDZNdDlvbHQ2WWVEVDRJOVlaU1BaX0tiLXM2dkZRRlBPSUExOWlfbDdNeVAtWnhIN2pjTFF2QU9oWVRHc2N2UThmOUFaZkRpVVp2TWRSNmdYekhSbnF5b3NqY2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T09:26:24.000Z"
+    },
+    {
+      "id": "0fe5147efa051b6f",
+      "title": "特定技能「物流倉庫」開始前に採用戦略解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92d1NQX201dVdnY25XM0pVWkNDNVZ1eXBvR3B2Vnd3SmlOZmktbjlWbFFta1dXUDRNblRLdm90b21kRkltZ0J5Ylln?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-09T09:13:19.000Z"
+    },
+    {
+      "id": "a8971e5d6b2bef2f",
       "title": "高砂の女性死亡事故 追突した軽トラック運転の男容疑で逮捕 兵庫",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sTnktb2lkVi1WR1loblVHSi1Od3NNRUtGZG1qcHhHMjZHaXhWRi1GbU43QjFJNjV2NFRsR1dObUFnbGRpd3p3NXVDdDFSV3hGWkxCM3dNS01WanljbTYzTWFaWVpCTGI5TzMyckx0cWVQXzQ?oc=5",
-      "source": "Excite エキサイト",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kX3pNUFM0dS1uY28wU3U0S2xGR0tPZzVlc1BxemlPcGtSQTV2azNOZ3NmVE5vUFQyeUw4T0NvcTBpNnFTNFl0OWEwTEVMLVVneXpSNTRwc2RZU3l2NVZ0bW5TZmhGM0tMWjJVRGhKendMamhHeDNuMF9hYTfSAXxBVV95cUxNZF96TVBTNHUtbmNvMFN1NEtsRkdLT2c1ZXNQcXppT3BrUkE1dmszTmdzZlROb1BUMnlMOE9Db3EwaTZxUzRZdDlhMExFTC1VZ3l6UjU0cHNkWVN5djVWdG1uU2ZoRjNLTFoyVURoSnp3TGpoR3gzbjBfYWE3?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-09T08:47:00.000Z"
+      "publishedAt": "2026-10-09T08:25:00.000Z"
+    },
+    {
+      "id": "0387bd2363faa5e1",
+      "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-10-09T08:16:00.000Z"
+    },
+    {
+      "id": "cda63e930b44cd1f",
+      "title": "【4日間限定】きものの“宝探し”へ！MKグループ平塚物流センターを特別開放",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92QkJqVEdza3hib01XcHd1RDJESVc0NDl3ZjJkZmp2S1UwSmpzNVcxWmdXWDhoTnpQTUh1M1hEM0RPUWlRMFJKM3FhcEM1bGV6RHRVVzJIbHl1SzBSRzA3RHk1X0RBTW5qNXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-09T08:10:01.000Z"
     },
     {
       "id": "ace2f47ca1b94cc7",
@@ -47,33 +110,6 @@
       "publishedAt": "2026-10-09T07:26:44.000Z"
     },
     {
-      "id": "fd27c10b909f282c",
-      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
-      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
-      "source": "建設通信新聞Digital",
-      "category": "物流",
-      "publishedAt": "2026-10-09T06:56:29.000Z"
-    },
-    {
-      "id": "fe5c9a9a5286523b",
-      "title": "CRE、佐賀県鳥栖市に大型物流施設完成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UV21keDJCWnBvMExNYU03ZE1JOExQbURlYzFTVExhd3ROd3dXZ2F4U0pPOGc5LWhGd1VabzUwY0hfWW5pOXllNlJR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T06:53:02.000Z"
-    },
-    {
-      "id": "538c13d40c41ca71",
-      "title": "佐賀県鳥栖市で物流施設「ロジスクエア鳥栖Ⅱ」竣工 多様な物流ニーズに対応する機能性・汎用性を兼ねる",
-      "description": "AMP[アンプ]が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxbTBHY1dpQkdvSXphdkVzb2ZnTENvX1JCNjZKc1ZjQnkwQVlibUNBbkc0SDAwMXVydFh0ZzVMNmszT0RuOHlZUjloZ3ZlNlB6SHdOdW8xcXNpLVZxelRKbDU5MA?oc=5",
-      "source": "AMP[アンプ]",
-      "category": "物流",
-      "publishedAt": "2026-10-09T06:49:14.000Z"
-    },
-    {
       "id": "ca8ac74fb7dfbb96",
       "title": "関通HD／中国のスマート物流企業STORINと提携、「動くショールーム」戦略を展開",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -81,6 +117,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T06:37:20.000Z"
+    },
+    {
+      "id": "2c6b07e1a96732dc",
+      "title": "東京建物、習志野市の物流施設に2.8MWのメガソーラー - ニュース - メガソーラービジネス plus",
+      "description": "日経BPが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3eG95eEdHTTdKMU5NZlJKa0xFWXB2SkRKRlo5LTVacHBwN3lpOVJXMG1NWkFsY3BDX1o3RlB3YmQwbkNVeTJyZGFKZmdxbzVFUjJoaFJMNFlSaVZXYUphb2J1YVp1VDhEcjZuT2xqbUpLckw0?oc=5",
+      "source": "日経BP",
+      "category": "物流",
+      "publishedAt": "2026-10-09T06:18:00.000Z"
     },
     {
       "id": "d9bf96159530b029",
@@ -147,12 +192,12 @@
     },
     {
       "id": "98da1f5fd1145228",
-      "title": "CRE／佐賀県鳥栖市に3.7万m2の物流施設竣工、準工業地域でJR貨物駅も至近",
+      "title": "CRE、福岡地所／佐賀県鳥栖市に3.7万m2の物流施設竣工、準工業地域でJR貨物駅も至近",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuQkpRM25aWDVCdGlDc2RYY1BZVHNpTGl1cnI4LVVSYXVIR3NmbVl1VjBVUnB5cl9TNFdJNkJra09yWU1HV1NyZnpIVG1uOFc0SlkxVA?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-10-09T04:01:45.000Z"
+      "publishedAt": "2026-10-09T04:44:25.000Z"
     },
     {
       "id": "98c81c9e4ed8f29a",
@@ -342,6 +387,15 @@
       "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-10-09T01:46:00.000Z"
+    },
+    {
+      "id": "1e88b2b65d841307",
+      "title": "トラックのタイヤ交換中に破裂し巻き込まれたか「バン」という破裂音、50代男性作業員が死亡 北海道苫小牧市の運送会社",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RWEVBY3pFWkl3aWNvUlM4eko0aEgxbVBKYmkyd0RQaHpfWDlOLXEwb0xndFRvT2dndEVPSjEzWDFEVF9aOHFxMkR5YmJWNC1xeDQ3Ti16TQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "物流",
+      "publishedAt": "2026-10-09T01:30:00.000Z"
     },
     {
       "id": "9e417c2d1161bcfe",
@@ -542,15 +596,6 @@
       "publishedAt": "2026-10-08T20:00:00.000Z"
     },
     {
-      "id": "4fcd4f4d9b80dac4",
-      "title": "ソフトバンク子会社へサイバー攻撃の波紋、物流や身近なサービスにも",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DeEM5akhmVS1BMFNYdGxHLVNlaXlpeEdQNl8zWWZ4cFdEZE1zekk0WGJnTjhDcTN6Rkd2eWpVdW9lUllRUEp3LVVtT3lOQzBxTzMtaExWLTZxMDFfRnAyc2VFbTZzVG8?oc=5",
-      "source": "朝日新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-08T20:00:00.000Z"
-    },
-    {
       "id": "fe5dd0d562a1363b",
       "title": "設計事務所の決算、倉庫・物流を筆頭に全用途好調 業務別では改修が急伸",
       "description": "日経クロステック（xTECH）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -675,51 +720,6 @@
       "source": "au Webポータル",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T08:06:00.000Z"
-    },
-    {
-      "id": "0ba57de0c7564ce9",
-      "title": "6人死亡の新名神事故 元トラック運転手の女は違法な時間外労働か…元勤務先社長が書類送検 月100時間超の残業をする従業員も",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WODFKUU53cTlLTlBHWUt6Rkw5VVdqUUxKT2Z3eXBtRXpaLUJudUF6d1VmOU1fOG51V1BBZEdNUkpqS0lUU0s3b2JkWlQ3WHo5UmZuNUxnTzdacFN6Z0hKWndTSGw0dUhRT0tKbHVGaw?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T07:58:50.000Z"
-    },
-    {
-      "id": "d70074ac9b32a9cc",
-      "title": "セイノースーパーエクスプレス／熊本県菊池市にセンター開所、半導体関連の物流ニーズで",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ydWxvU196cWI5RU1pVVR1b3pJaUhqMWhIZ2hBcXpmTHNfSWFyMFRNOTFRNDBRS2V5NmRNNXJiTFlzeTZkLU55aEp2UFFtUjE5eXgybg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-08T07:12:50.000Z"
-    },
-    {
-      "id": "ecb6771ef2c894aa",
-      "title": "T2／自動運転トラックと次世代燃料の掛け合わせで物流の脱炭素化、経産省の実証事業に参画",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Nb1ZCV1NORjdZRWU4X2FlUEphbFJJREM0UmNEZ2hjb0Z2cEN1RF96em1xTXE2NW5qbWxOdVF1Wm9WcXV2QjljN3FyeG1nakMzQlBBQQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-08T07:10:54.000Z"
-    },
-    {
-      "id": "6785e1f77963cc0f",
-      "title": "ニッスイ／日水物流のシステム障害で入出荷停止、不正アクセスが原因か",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGdDJzYXktdGN5LWdnbTFYMG1BYXU5UUM3cnRrY3kxbHo4bTJpdXFBXy1GUENVV2laQXlyOUg2YkNFYjBXQXlhWGcwTHQ1OERIS25lSg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-08T06:40:48.000Z"
-    },
-    {
-      "id": "cdcea51287ad61b7",
-      "title": "CBRE／静岡県浜松市で1.4万m2のマルチテナント型物流施設のテナントリーシングを開始",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ieUl6dC04dWhLTkR6SFVpT2JDRHB0UGRfamRfbUx3UjJnSUVsMjZ6czNPZy02MkgzUGdKcnVyajEwa3YyVXAzN1FiVGhqOElNb2VjZw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-08T06:07:50.000Z"
     }
   ]
 }
