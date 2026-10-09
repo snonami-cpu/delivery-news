@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-09T01:30:59.907Z",
+  "updatedAt": "2026-10-09T02:27:57.787Z",
   "articles": [
+    {
+      "id": "003089046b89a85e",
+      "title": "アセンド代表・日下瑞貴、「製造業AI物流カンファレンス 2026 in 広島」に登壇",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOWFvbWg5WlRaYWdHd3JDR2ZpWGNGOFRCd19Bd1NDWHRZTlVRSEhQem9XQmt4dXRadFNoakxZVmV6S2o2U3lTNldhV3R0VVJ2VnFheER3c2JMM0kxaHQ0Wmp1b21xajNrYWc?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-09T01:58:52.000Z"
+    },
+    {
+      "id": "9e417c2d1161bcfe",
+      "title": "トラックと乗用車の交通事故か 重体の人がいる模様=静岡・島田市",
+      "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tVFFJRFJnczJVUDdjMTdJeXVRdUp2TGd0YW5XeWlCemU2Sm1oVlFKYjJmQXpUQTBkX0RTV0pjRUtZMHJxUHBHdE96M1BhNE5qekFIdjBDSFRQa1hDLV8wUw?oc=5",
+      "source": "アットエス",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T01:30:00.000Z"
+    },
+    {
+      "id": "cfef586d7ff09bd0",
+      "title": "トラックと乗用車の交通事故か 重体の人がいる模様=静岡・島田市（静岡放送（SBS））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fT25aUi15Qjd5Vnh3MTJrWFR6VVE3WEcweGxGcTlHMDd3b3BoUThITFJjTmN4XzJsU2NxOGkxb0pVSk56eG9SVUxiU2hHMC1PQnB5U3NsUFVLUW1yZ1ByX1FXZnlSUnFmSUtIVzYxT3F6Y2E5VVFhYV9hR3g3bVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T01:28:12.000Z"
+    },
     {
       "id": "16869a11d2c2f849",
       "title": "「異音がして火が⋯」東名高速上り線で大型トラック炎上 中央分離帯も燃え一時車線規制=静岡・長泉町",
@@ -27,6 +54,15 @@
       "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T22:47:00.000Z"
+    },
+    {
+      "id": "ef53a870a0dba77f",
+      "title": "中国で2万5000台走る「無人配送車」、日本で実証実験開始【駐在員が見た中国】",
+      "description": "36Kr Japanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFByaFc1U01yVHdDUFNRNHZiRFptbDRfUjB4bnJZQlJSUHIxZDg0NkVVMXVfSXA2eTRvYkVZ?oc=5",
+      "source": "36Kr Japan",
+      "category": "物流",
+      "publishedAt": "2026-10-08T22:35:05.000Z"
     },
     {
       "id": "78e914455ae1b7ba",
@@ -87,6 +123,15 @@
       "title": "ロジスティード、CLO時代の物流改革着手点を指南",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdlFZTW1lQ3U0SG43UGE0bGhVMmkwS25mZ1N4UVVqR3FwYVN2OTF1aDJITTFRNXI5bXVpZ0ZHdk9jR1pzbUYtMllB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:57:54.000Z"
+    },
+    {
+      "id": "5c6fc1177132f4d7",
+      "title": "APT、ITと現場制御をつなぐ次世代物流網を公開",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4YTFud0piSktKSlYzeGYtamRhM05EeGU5V0hjU2dGYkl1cFF2UXEzb01GamNOZ1piMEdsV0l2dWNZMUtMMGZIOVFn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T20:57:54.000Z"
@@ -461,15 +506,6 @@
       "publishedAt": "2026-10-08T02:14:45.000Z"
     },
     {
-      "id": "a4ea3cff6bcc1cf8",
-      "title": "日本郵政グループ 東京・新砂の大型物流施設取得、総合物流強化",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWDYySEVHYXF0dkctVW91dHZoYlBlYTVLTUlNbVNlY2ZYTmV0TkpBMUR3MjFFM1JsOWVMTEFTU0llNjRmWHlkLWRodlFDYTVHVXlqdmhUWklZYWdsZ0k4?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-08T02:14:45.000Z"
-    },
-    {
       "id": "f060da2cbfb0663b",
       "title": "船井総研SC、運送・物流会社向け「10億企業化部会」",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -587,15 +623,6 @@
       "publishedAt": "2026-10-07T23:00:00.000Z"
     },
     {
-      "id": "fb646ed91eabb48b",
-      "title": "ニッスイ子会社で入出荷停止 IDCFクラウド影響か 委託先データセンターに不正アクセス（ITmedia NEWS）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tLXJIM0hEVDVFT1F5d0xMRGU3V2N0M2NTd1djMnVJSmhDYWh5MXlseHpJV0dvRGNmTDVpckxURjM4QmhEbkJiUEJuUGgyT2E2UUZLTllLcHdlRi0tNVhHUTB0bUN3WW1fT0x6cHZiNEo0eC04UnVMQ2VXVXl5ZGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-07T22:50:08.000Z"
-    },
-    {
       "id": "4f57296faf732319",
       "title": "ニッスイ子会社で入出荷停止 IDCFクラウド影響か 委託先データセンターに不正アクセス",
       "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "千葉テレビ放送株式会社",
       "category": "安全・事故",
       "publishedAt": "2026-10-07T21:04:51.000Z"
-    },
-    {
-      "id": "15d7acf4bfc21c61",
-      "title": "年10億円生むパナソニック物流改革、「首都圏再編」の全貌を仕掛け人に聞く",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWnZBMFBKZENPcWpBbWJNbWRNcEwtdHlSVGNTYjhaazJZRXdONVdlUDFSRHctNGdMQnFiVXRqYjVNbzRPTHltRndNZ3dhQV9tR0JUS1RGZU5wMi1NaXY4ZnZUM3poNEYtTDFoNXFiVQ?oc=5",
-      "source": "MONOist",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:00:00.000Z"
-    },
-    {
-      "id": "c7a8ca61f3d1f10b",
-      "title": "シマント 代表幹事務める協議会が共同輸配送推進",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nRFh4YUlBYTdJSG1vTHZvcXpQVmQza1NvMVhDV0IyZXhnb3RrWTBDdjV4M3VKRjFKdkNZbkdSaENiWlNHNnRlXzdRRjZackRUV2RoU1kxZ0p2aU16VnZV?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:00:00.000Z"
-    },
-    {
-      "id": "12839cfaae51b635",
-      "title": "中国企業の物流会社買収阻止 供給網の混乱懸念―独：時事ドットコム",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sdXEyczBwc3gzcDFvUVoza2JMZFAzVWx4SUwxX1M1YXZvUE9RSkZDamtSaUFhTHlKYlZDUEFDNjk1WjNBcjNEV3FyX3ZHcHhfYkpKV3E3b0FiN1RrSzdNMmI5cw?oc=5",
-      "source": "時事ドットコム",
-      "category": "物流",
-      "publishedAt": "2026-10-07T20:35:00.000Z"
     }
   ]
 }
