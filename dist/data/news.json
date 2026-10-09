@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-09T06:36:29.603Z",
+  "updatedAt": "2026-10-09T07:32:03.732Z",
   "articles": [
+    {
+      "id": "49081ee0bb83023f",
+      "title": "ニッスイ／日水物流のシステム障害第2報、一部入出荷を9日から再開",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nREVnQjlUNFFoRVgxQ1poZ0dRbXdQc1lTUGZpNGU4RUtsdlpvaVlQMVh1SW5GWTRrdnRWV1VaeVZqcXlrVWhBVjREbmNSSGJucU9MWQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-09T07:26:44.000Z"
+    },
+    {
+      "id": "544cc4ac550ce346",
+      "title": "沖縄自動車道でトラック横転、資材散乱 沖縄南―西原間で5キロ渋滞（午後3時15分）（沖縄タイムス）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pcVEzRVdsWndCcnJBVW5NTTFTelFNdTlISXlTOVFSTXBlVU1QTVBPaUlDeVkySENxMERWQ3p5dDUwQk80MEs3MjNtRFVxa05DR0FDUjVUQTIxUjJDTVUxdDhSWV9mMThDNTZXank4OWF0dzFDa3VqU3BYcnNia2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T07:01:25.000Z"
+    },
+    {
+      "id": "fd27c10b909f282c",
+      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
+      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
+      "source": "建設通信新聞Digital",
+      "category": "物流",
+      "publishedAt": "2026-10-09T06:56:29.000Z"
+    },
+    {
+      "id": "ca8ac74fb7dfbb96",
+      "title": "関通HD／中国のスマート物流企業STORINと提携、「動くショールーム」戦略を展開",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6XzJYS3VjNC1lZjJwdlU5VkJ0UWZzS2ExR25Udm5yeUEySXp6M1dMT0lRQS1VYWhNbFFEOElOandVWGUycmlEYmhvWnB1Y1FUcDR5Xw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-09T06:37:20.000Z"
+    },
+    {
+      "id": "a7d52557d1d7e629",
+      "title": "【入出荷がストップ】ニッスイ傘下の日水物流でシステム障害、現時点では復旧時期未定。委託先データセンターへのランサムウェア攻撃で低温物流の現場が止まる",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeW1PclhISlA3Z2xrNkdfeE5MYTJodTdHWUNkdXR6NFFhZnFvSlo2WUJhS3VNMU5sUHJrYzdlU0VrQjAwVDM1bkhwTjlpalp0RkozeGNZWnd2RHQ3czNJ?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-09T06:00:00.000Z"
+    },
     {
       "id": "d9af9bb70dac93a4",
       "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
@@ -20,22 +65,13 @@
       "publishedAt": "2026-10-09T05:36:23.000Z"
     },
     {
-      "id": "e7059d3cc698c657",
-      "title": "「けががある事故で車が動かない」トラックと乗用車が衝突 トラックを運転していた男性が容態急変し、意識不明の重体＝静岡・島田市",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13QWJ6QnhodEZudVc0aWg2UllwNlJkLVFQTE85YlhsVXg0a3dvQTlLajJfN1Nfd3VsV21TT25mZWdudFZaVEtkbkxoVmx0SmE4MUZ1d2kyLV9ELVJuWm9ERmVzc3RNN1lxLTRNS3ln?oc=5",
-      "source": "Excite エキサイト",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T05:25:20.000Z"
-    },
-    {
-      "id": "ee68f6256269a421",
-      "title": "アセンド代表・日下瑞貴、「製造業AI物流カンファレンス 2026 in 広島」に登壇",
-      "description": "時事ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91Rmk5NHZpalNOeDRRcVdpNThUeUJ5ZkRfSGZnckMzd1dxa2daamZmZFlJa0FBVERfZzBYazdFNDFXLUY5MGVYNHVQZk5EMHJMTjBOQ0xfWkIxbnl4LUZ0Q3Vxd3E3SWc2bENz?oc=5",
-      "source": "時事ドットコム",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-09T04:16:00.000Z"
+      "id": "e25bd815dac38a4f",
+      "title": "TDG、10月より物流業界向けセミナーの配信形式にオンデマンド配信を追加 - www.tv-tokyo.co.jp",
+      "description": "www.tv-tokyo.co.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JUk1hVHJ3TTVnVHJPSng2Qjh1UDhldUNPTF9LWnhPQ1BlY09TZzhxblZoVHpUM3c3LU5lWUo5amU5bVhTSEdOZkRCZGUwVmRqY2xLQzZOaEdnamxCbFI2ZW9ieU9IQ0Q2LXRmbmVR?oc=5",
+      "source": "www.tv-tokyo.co.jp",
+      "category": "物流",
+      "publishedAt": "2026-10-09T05:02:00.000Z"
     },
     {
       "id": "98da1f5fd1145228",
@@ -164,13 +200,22 @@
       "publishedAt": "2026-10-09T02:31:16.000Z"
     },
     {
-      "id": "ea5e274ac953c7c6",
+      "id": "1f13c08ebe6c6271",
       "title": "トラックのタイヤが運送会社で破裂 50代男性従業員が死亡 交換のため1人で運搬中に「バンッ」と破裂音 北海道・苫小牧市",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1RVEwc1BDMnAyYnJHRFFtWEE4RUtXckJMZV9CVHBRODVoSjk4TDRTMUM4bFRWMEw1NUpCM09xdGk1dzVjdDBwYjZPbXI2QQ?oc=5",
-      "source": "FNNプライムオンライン",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55WmFPOHlWWlNBU0FEc3pWeVhPWnB2ZUFwcUJaMDc5T01qTC1rYXVOMGw5M0ZkSEFHNjV3THhrN19vMXpEOFdkOHV3WnkwQnZWaWNNZUZOWVpEZnhMX0lodl9ZV0wwS3dadTVuR3RoTkkybWw4NlItX3VmRk5vOG8?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-09T02:23:00.000Z"
+      "publishedAt": "2026-10-09T02:29:18.000Z"
+    },
+    {
+      "id": "003089046b89a85e",
+      "title": "アセンド代表・日下瑞貴、「製造業AI物流カンファレンス 2026 in 広島」に登壇",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOWFvbWg5WlRaYWdHd3JDR2ZpWGNGOFRCd19Bd1NDWHRZTlVRSEhQem9XQmt4dXRadFNoakxZVmV6S2o2U3lTNldhV3R0VVJ2VnFheER3c2JMM0kxaHQ0Wmp1b21xajNrYWc?oc=5",
+      "source": "PR TIMES",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-09T01:58:52.000Z"
     },
     {
       "id": "9e417c2d1161bcfe",
@@ -191,6 +236,15 @@
       "publishedAt": "2026-10-09T01:28:12.000Z"
     },
     {
+      "id": "f9748a539a8d1d9c",
+      "title": "関通ホールディングス、中国スマート物流のSTORINと戦略的業務提携を締結",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbGpoRmMxYmhKYWxMbnNRYXV2OXlKR1IwNTFwY0hyNl84SHRfNTEzamZiZVE0OEJ2bGlMT0U1aGxIWGl1S2dMdTBsOTNUbllmMzhWNjRwUk1FcWRET1BLNzdzel8tcDRxcFE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-09T01:00:01.000Z"
+    },
+    {
       "id": "16869a11d2c2f849",
       "title": "「異音がして火が⋯」東名高速上り線で大型トラック炎上 中央分離帯も燃え一時車線規制=静岡・長泉町",
       "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -198,15 +252,6 @@
       "source": "アットエス",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T00:50:00.000Z"
-    },
-    {
-      "id": "506e56663b6dcde7",
-      "title": "海運・物流企業に求められる変革とM&Aの実行力（後編）",
-      "description": "PwCが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGltbjdpdXNkWHc2S3F5X1B4V045X2M2ZnN0a0tRUnNHUFNCLS05UU05aWVnVFFhWHlNS0c4XzNoaWw3eWMzdGJIUzhvdGlHbEJ5eTBBcHl5WVNTUXB2bndnVV8tdzA4a2pCaTJ4UHRMaEFDZWxzUlJoR00tcDlRUE52c2VVdw?oc=5",
-      "source": "PwC",
-      "category": "物流",
-      "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
       "id": "5071be3e587c84e7",
@@ -234,15 +279,6 @@
       "source": "36Kr Japan",
       "category": "物流",
       "publishedAt": "2026-10-08T22:49:05.000Z"
-    },
-    {
-      "id": "d3960f73dec70665",
-      "title": "【千葉3人死亡事故】燃える友人を前に何もできない19歳運転手…トラックと乗用車の事故が壮絶すぎた【かなえ先生の解説】 Dell Stock (PpZtP2Cj7Z)",
-      "description": "Unisba Mediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ScXZ1VmlucThnUm9lc1VLcGRWekd1Nlh0NExCQ0ZfcUFPNGdlS2RGd1I3YWoyNU0zR1psaTEyVVRaZDRwRVNrYWRjZTFJejd4ZndpUjFwNC1VYldEWGRmNFdySHd0dw?oc=5",
-      "source": "Unisba Media",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T22:35:49.000Z"
     },
     {
       "id": "78e914455ae1b7ba",
@@ -443,22 +479,22 @@
       "publishedAt": "2026-10-08T08:50:25.000Z"
     },
     {
-      "id": "c8386e3614583751",
-      "title": "軽トラックと乗用車が出合い頭にぶつかる事故 松本市の市道交差点 軽トラック運転の84歳男性死亡 軽トラック側に一時停止の標識【長野】（テレビ信州）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zS3MwbDFuVHN6R0ZDQlZFUUxXQXc0NXB2d0NOMXBuY2E4d0pua0RqaDJVNnp3NmF5c2E0NUlpN1dGOWJIZ2VQNGRHcGdkb3pDZmphSU5LcWFRZjd0eGlCZEExNTI5OFkyWmZwbmNBcTdlaWRFUW1oUXZCbmUtcFk?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "a5c22d3229e62506",
+      "title": "軽トラックと乗用車が出合い頭にぶつかる事故 松本市の市道交差点 軽トラック運転の84歳男性死亡 軽トラック側に一時停止の標識【長野】（2026年10月8日掲載）｜テレビ信州NEWS NNN",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzZTVlQ2NXdfZjM0UldRWWhoS0dabXdObC1sOVZLVVZIN3ZHbi1ET3Vwamh4NzBNSmhvWjBTSUNIVUpWbnVTMGkzZnlzVEJOUlpDeEpaWUkxRXRwWnFzenU3U295Nl9RSy0tUUhJbEpJZjE1V3pQMk4zTE51WDYyNF9Ndm5CV0E?oc=5",
+      "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T08:31:00.000Z"
     },
     {
-      "id": "dbaa249a8cc55e85",
-      "title": "物流会社がトラックの運転シミュレーターを導入 事故率は前年同時期と比べて26.8%減少 業界の人手不足解消にも【岡山】",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iZUVlRkRWRXVFbkNVWUsxX2RJNnhwWkhSSXRhY25qYldjQmt6dllNa3JoR2VkZl9WZWJKcmlvdFVzbHRQZjFCUHFPcDZyclVnWDRXbW9PS0RPSGlfYWs4?oc=5",
-      "source": "TBS NEWS DIG",
+      "id": "7ad12a940c715041",
+      "title": "軽トラックと乗用車が出合い頭にぶつかる事故 松本市の市道交差点 軽トラック運転の84歳男性死亡 軽トラック側に一時停止の標識【長野】 (2026年10月8日掲載)",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vY2VoVU5XdVY2QW44X0ZNc0YzZ25SMXNDekdaZFphWU15SF9HRGJwME1qTmxpRHBWZ3FqcDFnUW9WM2VwSkhfNlVhcWQ2V3hnZTdRYmkwd0dfQW9MelE?oc=5",
+      "source": "ライブドアニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-08T08:30:00.000Z"
+      "publishedAt": "2026-10-08T08:31:00.000Z"
     },
     {
       "id": "e6e85df1f7dfabbe",
@@ -578,15 +614,6 @@
       "publishedAt": "2026-10-08T05:19:00.000Z"
     },
     {
-      "id": "17506a3ce4b8421a",
-      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
-      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
-      "source": "まぐまぐ",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T05:17:09.000Z"
-    },
-    {
       "id": "73c79853a649d615",
       "title": "ニッスイが年初来安値､物流子会社でのシステム障害の影響懸念",
       "description": "四季報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -693,33 +720,6 @@
       "source": "にいがた経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T01:07:20.000Z"
-    },
-    {
-      "id": "e094a48cee7f67af",
-      "title": "目撃ドキュン!! トラックドライバーが道路で出遭ったヤバい奴",
-      "description": "https://fullload.bestcarweb.jp/が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtbTdUNVV1WmJtRkhWbnNBSXdyU2xRdWNqS1VDbmo2bHdNNjBndW5WWURMeXQ4Z0FHRGVkYmVLQTRDNkIxVHlDdnpPS1lhMFlucHMxMnUzYw?oc=5",
-      "source": "https://fullload.bestcarweb.jp/",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T01:00:00.000Z"
-    },
-    {
-      "id": "13e640eaa50f843e",
-      "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NckJfTW1xbGw3VHFQTlJuS3ROQ0FXeDVycGZydWxUSjNVb1c1NmZ4bDg1QlhBcU82TU1qQm02SjRjek52OHRQLU1TNFhXZ3NMUG5oX2NjNHNTSWVQY193?oc=5",
-      "source": "ライブドアニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T00:30:33.000Z"
-    },
-    {
-      "id": "35d485e0269310fb",
-      "title": "トラックの周辺で遊ばない、横断歩道の正しい渡り方など学ぶ おがちこども園で交通安全教室",
-      "description": "秋田魁新報電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYU2wwcUxmMHd0TWpEVnZvQzVtYzR1dGUwMHBJQUhhaW12dGd0eUhBczFXRldHSFRVTUllZ0Nsd3pNWWttSzlCS01xeU5ScXpuZWU1ZXk2RUVIODRnRDA2empB?oc=5",
-      "source": "秋田魁新報電子版",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T00:30:00.000Z"
     }
   ]
 }
