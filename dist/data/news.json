@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-09T03:30:11.003Z",
+  "updatedAt": "2026-10-09T04:30:57.022Z",
   "articles": [
+    {
+      "id": "98da1f5fd1145228",
+      "title": "CRE／佐賀県鳥栖市に3.7万m2の物流施設竣工、準工業地域でJR貨物駅も至近",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuQkpRM25aWDVCdGlDc2RYY1BZVHNpTGl1cnI4LVVSYXVIR3NmbVl1VjBVUnB5cl9TNFdJNkJra09yWU1HV1NyZnpIVG1uOFc0SlkxVA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-09T04:01:45.000Z"
+    },
+    {
+      "id": "b7ab421f77e8c06b",
+      "title": "ニッスイ低温物流子会社、一部入出荷を再開 情報漏洩は確認されず",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTm5oR25yLUpHaU1fNUxKZmZhZ3A2UUExSnNVbVU5dm5NN3ExZkw5TUUxSkpVNlNQa21yNjFyZld5TWpWeHlXaFBYMTc5a3NSaVMwQkR4dmIwbFAySDUtWE5wYzBrZ0YtS1JRaA?oc=5",
+      "source": "日本経済新聞",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-09T03:38:10.000Z"
+    },
+    {
+      "id": "1e5ed46e6ad82884",
+      "title": "トラックが神戸市バスに衝突した事故 ブレーキに焼けた痕見つかる 「フェード現象」原因か／兵庫県（サンテレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSTE2VDJsYmNyb3JhOVV1cXdKbkp0UllYN1gtVXdfcFJzeGE3N01vNUFOYzl0WXpTVVgwZ001ZzFRejItRlY4SnhZRGx1WTlwTGwxSHFpbjBYMUtxVUNIRDhramdqQ3Jvb19fYkF2ejFvNDExNWFRNTl5S2NtdUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T03:13:32.000Z"
+    },
+    {
+      "id": "4b36e49b06a1cdf2",
+      "title": "【速報】沖縄自動車道でトラックが横転 中城パーキングエリア付近 最大4キロ渋滞",
+      "description": "琉球新報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSWlJVUV6cGVvbFBHSU44OWVrLU13XzFoUXpSa3R4WGJxakFwSkthY3o2Y2pQMkpGU19NWmxad05EeGRSU3laTnJDMFUxckdJUTVGSjkzT0NpdWs?oc=5",
+      "source": "琉球新報デジタル",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T03:07:41.000Z"
+    },
     {
       "id": "1670617c998581d2",
       "title": "トラックが神戸市バスに衝突した事故 ブレーキに焼けた痕 「フェード現象」原因か",
@@ -9,6 +45,15 @@
       "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-10-09T03:04:00.000Z"
+    },
+    {
+      "id": "cf11467e8d201a5f",
+      "title": "第600回 高速道路でトラックとの事故を防ぐために",
+      "description": "TOKYO FMが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBbzRSWmRKOWlzSGZmZDFQQTJ6WFV2ZklFOXNNYmhKelRaTXBrQU53djY5WW03MTl4RDdDUl9QOEpDZlBvT0F4anctbG82NkdwTUw4bg?oc=5",
+      "source": "TOKYO FM",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T03:00:36.000Z"
     },
     {
       "id": "bc7d99d5c5681c5e",
@@ -65,6 +110,24 @@
       "publishedAt": "2026-10-09T00:50:00.000Z"
     },
     {
+      "id": "506e56663b6dcde7",
+      "title": "海運・物流企業に求められる変革とM&Aの実行力（後編）",
+      "description": "PwCが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGltbjdpdXNkWHc2S3F5X1B4V045X2M2ZnN0a0tRUnNHUFNCLS05UU05aWVnVFFhWHlNS0c4XzNoaWw3eWMzdGJIUzhvdGlHbEJ5eTBBcHl5WVNTUXB2bndnVV8tdzA4a2pCaTJ4UHRMaEFDZWxzUlJoR00tcDlRUE52c2VVdw?oc=5",
+      "source": "PwC",
+      "category": "物流",
+      "publishedAt": "2026-10-09T00:45:37.000Z"
+    },
+    {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T00:16:30.000Z"
+    },
+    {
       "id": "5071be3e587c84e7",
       "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -80,7 +143,7 @@
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFByaFc1U01yVHdDUFNRNHZiRFptbDRfUjB4bnJZQlJSUHIxZDg0NkVVMXVfSXA2eTRvYkVZ?oc=5",
       "source": "36Kr Japan",
       "category": "物流",
-      "publishedAt": "2026-10-08T22:35:05.000Z"
+      "publishedAt": "2026-10-08T22:49:05.000Z"
     },
     {
       "id": "78e914455ae1b7ba",
@@ -245,15 +308,6 @@
       "publishedAt": "2026-10-08T14:46:13.000Z"
     },
     {
-      "id": "f749c940a514e3c2",
-      "title": "【速報】「車が逆走している」山陽道で軽乗用車が逆走か 下り方面・赤穂IC－備前ICを通行止めに【8日午後11時半現在】",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0temlwNzk1a0ZDMGpDQmgxYXkwZXlpZEZUQmVYVmRkY3N5RFhiV1Zsd2tlUk1KVjR3ZktDTnVvMngtblRnN2U1bFhaRm5pMmxtQlc5c1Iyck92OW5BbkEwOWV0RXp1MnhUT0I2T1pR?oc=5",
-      "source": "au Webポータル",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-08T14:38:00.000Z"
-    },
-    {
       "id": "e671ffa4e59c38e7",
       "title": "印象的なグローバルバイオ医薬品クーリエ市場規模は、2026年から2033年にかけてCAG",
       "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -381,7 +435,7 @@
     },
     {
       "id": "2d33d7bfc9f48ca8",
-      "title": "阪神電鉄・阪急阪神不動産／兵庫県西宮市に「ロジスタ」シリーズ初の冷凍冷蔵物流施設着工",
+      "title": "阪神電鉄、阪急阪神不動産／兵庫県西宮市に「ロジスタ」シリーズ初の冷凍冷蔵物流施設着工",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zQUFLemtRQ3FSaWpUbHpxSUd3bGw5a1hqcEJ5b2FZOWxNc0h6N3NHcGNsUTFSVV91R0tlWV9ERi03ZDA5R2lYelMzOUlMak5FYmtMaA?oc=5",
       "source": "物流ニュースのLNEWS",
@@ -425,15 +479,6 @@
       "publishedAt": "2026-10-08T05:19:00.000Z"
     },
     {
-      "id": "17506a3ce4b8421a",
-      "title": "ニッスイ—反落、グループ企業におけるシステム障害の発生を発表",
-      "description": "まぐまぐが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWW91aXNSZXdnYnczeXN6M00wNUJONXo1QUxCZ2Z5bWoyY1RoMDBGRWJLazg0TWpUREFySHFxc2xBSF9qdHVOcGNUTW5vdDlKc2fSAVJBVV95cUxQV1lvdWlzUmV3Z2J3M3lzejNNMDVCTjV6NUFMQmdmeW1qMmNUaDAwRkViS2s4NE1qVERBckhxcXNsQUhfanR1TnBjVE1ub3Q5SnNn?oc=5",
-      "source": "まぐまぐ",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-08T05:17:09.000Z"
-    },
-    {
       "id": "73c79853a649d615",
       "title": "ニッスイが年初来安値､物流子会社でのシステム障害の影響懸念",
       "description": "四季報オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -470,15 +515,6 @@
       "publishedAt": "2026-10-08T03:56:46.000Z"
     },
     {
-      "id": "122a280e84b3dde4",
-      "title": "大型トラック絡む死亡事故受け ドライバーに安全運転呼びかけ",
-      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DR0NjenBJSm9aRmhhdW1XSFlSN19DU2VJTHRzRHFZNkNzNDQ0bXFEMUZSenNnYUFrbnluX0ZtQTZHTDh0d3pUaUhPY2NYTlYxWldTTzRhRmUwcjdGaktB?oc=5",
-      "source": "NHKニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-08T03:42:02.000Z"
-    },
-    {
       "id": "2e10eb641473d366",
       "title": "【10/14(水)vs福岡】『エムロジテックPresents～物流の【困った】を《よかった》へ～おかげさまで創立5周年記念マッチ』開催のお知らせ",
       "description": "サガン鳥栖が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -488,13 +524,13 @@
       "publishedAt": "2026-10-08T03:03:19.000Z"
     },
     {
-      "id": "272027ffa5e6c111",
-      "title": "6人死亡の新名神事故 元トラック運転手の女は違法な時間外労働か…元勤務先社長が書類送検 月100時間超の残業をする従業員も（静岡朝日テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80XzFteTBENDFzM2tXRjVUaUR5dTBFcEZla3MyZnVicWRvZm1KZXlQUHJTbnRlcG9BSUVGMkIwVjJZU3l5Qm03VUtGSGFEVEtYeXU1aTdiV0V5WTNsSGVmU1JkN25fakc4QnN6ZzVfMURUOTQ3ZkxpS0ppZXljQ3c?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "74f8e57506dc63f0",
+      "title": "6人死亡の新名神事故 元トラック運転手の女は違法な時間外労働か…元勤務先社長が書類送検 月100時間超の残業をする従業員も（LOOK）",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfMWlOWHZCVjBlTFlIN0JWejBFX2pUYUV2RU5iRUNLR0EzNzByNHdoaktuRVlKMXpnUldTUmdDdkdZSkx4a2dPYTFfV09vS1ozb2VqNlJmQmtyU09RdUlBTjFXbW0zSUpHZmVKWWRkMA?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-08T02:54:38.000Z"
+      "publishedAt": "2026-10-08T02:54:00.000Z"
     },
     {
       "id": "cb6e27fbdf0321ec",
@@ -555,6 +591,15 @@
       "title": "ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NckJfTW1xbGw3VHFQTlJuS3ROQ0FXeDVycGZydWxUSjNVb1c1NmZ4bDg1QlhBcU82TU1qQm02SjRjek52OHRQLU1TNFhXZ3NMUG5oX2NjNHNTSWVQY193?oc=5",
+      "source": "ライブドアニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-08T00:30:33.000Z"
+    },
+    {
+      "id": "0c474da9bb98f01f",
+      "title": "【画像】ニッスイは４日ぶり反落し年初来安値更新、低温物流子会社でシステム障害発生",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcXNUUGJpdTVkX3R3YjBuU0FTQnBKLVEzaG1FU2ZSN0pfMzFrNWVJa1VaQ1NqWDlMc01MV1VTWmxKYXJnTktMSWdBVDVMQmxBT282WlR4elJka3NIdHZ3R1NIbWY3OEVCTG10Sm95SzVnOHRWVmkwdnpMaDM?oc=5",
       "source": "ライブドアニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-08T00:30:33.000Z"
@@ -675,51 +720,6 @@
       "source": "Vietnam.vn",
       "category": "安全・事故",
       "publishedAt": "2026-10-07T22:15:09.000Z"
-    },
-    {
-      "id": "483459b8d8eb6e0e",
-      "title": "愛知県、手荷物当日配送と無人ロッカーを実証",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41YlkyZnZVXzBTeXN1TFZDY2p1VW5USGZGeFFLbW5wdWN5V0xLcDVfRzJNa0Z1NjJvS3hqSmFCSnR5TkN5X2xaZVV3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:55:05.000Z"
-    },
-    {
-      "id": "f1ea842435fb823e",
-      "title": "ホルムズ・紅海リスク、物流連が強靱化策共有",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTSURLY2xTUmFNa19MWlRReWVucExwX2dwT01rM0NOcWI2YkZINXE5SnFkbklBODJsazk4OHZ3ZUxyMzhXU0N2cHhn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:41:22.000Z"
-    },
-    {
-      "id": "c0c64be84b739a81",
-      "title": "フェデックス、物流データを融資審査へ活用",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DOHQwTUladHFkblpKbXZheW9rV3JyZWl1dWJWMDNYNjdTbXRYNG4xTUVuZ1dBaEJxNDNlaFljX2dDWHNiR3FwVDhR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:41:22.000Z"
-    },
-    {
-      "id": "3cc6ce4b5f23de5a",
-      "title": "熊本県、運送会社の事業継続へ最大300万円",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUMzZ4a3dWekU4Tkw4enk3ck9Kb05WMG96VDFFVGxNU3pwUldDbFBDU1NwWFR3N0lEQlpzdGxocTRpRjZBWmRDdFhB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:41:21.000Z"
-    },
-    {
-      "id": "7bed4c6ca484e752",
-      "title": "青森りんご、鉄道と自動運転で長距離物流を再設計",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tZjB5SUVmaHFvWkhhZl9nWDBNWUhZWVZZNnloRzQxT29MV25CQzVSdEJjcjlpb3gyTVREbmdfMW5YalZwNVVrcUxR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-07T21:41:21.000Z"
     }
   ]
 }
