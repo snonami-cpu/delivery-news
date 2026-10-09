@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-09T12:34:07.087Z",
+  "updatedAt": "2026-10-09T13:33:04.330Z",
   "articles": [
+    {
+      "id": "fd27c10b909f282c",
+      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
+      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
+      "source": "建設通信新聞Digital",
+      "category": "物流",
+      "publishedAt": "2026-10-09T12:56:53.000Z"
+    },
+    {
+      "id": "cf0d431ca7c950e5",
+      "title": "10月10日は「世界メンタルヘルスデー」運送会社の「健康経営」／兵庫県（サンテレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0welNmVG9iOTlxcVVjdHQ0aU4zbG1yeHVNS2JEWjc0dlp3el9ieG1USkF2YTV6TnNTbkZmR2FvUjh2X2diTGNxaHNOYUdIN0dlWUFDUjFKY1lJRlczRWVreklDZlFBZjFBbHAxNmJMdW5Hak1wR192ejM0TFNoNmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-09T12:44:29.000Z"
+    },
+    {
+      "id": "30d83d98098b9737",
+      "title": "東京圏の物流不動産賃貸市場 - 2027年の展望とテナント企業が注意すべき拠点戦略",
+      "description": "JLLが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPcDhfM1dacXdueGZQVE9IT3c2b3JWRERUR3VtakJxRkFDUTFGbkxzTG5selZXeUlIOUdDd0k0TWU0UGlreUY3bWlTbExFLWU4bGx4SE5lZlJsOHJsM0RBWGFJVlNZQThQbVdSNi12eWVVSUUwSFU1bkdHaw?oc=5",
+      "source": "JLL",
+      "category": "物流",
+      "publishedAt": "2026-10-09T11:06:44.000Z"
+    },
     {
       "id": "961508f147e852e1",
       "title": "物流連、陸海空の物流企業集め合同説明会",
@@ -9,15 +36,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-09T10:30:54.000Z"
-    },
-    {
-      "id": "fd27c10b909f282c",
-      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
-      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
-      "source": "建設通信新聞Digital",
-      "category": "物流",
-      "publishedAt": "2026-10-09T09:55:34.000Z"
     },
     {
       "id": "461cede149ad5284",
@@ -74,6 +92,15 @@
       "publishedAt": "2026-10-09T08:16:00.000Z"
     },
     {
+      "id": "b8ba6ae1b7d23bec",
+      "title": "フェデックス調査／半導体企業の35％がアジア太平洋で事業拡大を計画、物流の継続性重視も",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZNEFzS2owZ1FoYWZiR2ZDU1RlZHlielVILS15SHZTS1V3MmgtRERMSXBhWUFLcjlRZE1ISGt4SHZYbERWVVJZSWg0b2w1bWR4dmNFbg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-09T08:11:52.000Z"
+    },
+    {
       "id": "cda63e930b44cd1f",
       "title": "【4日間限定】きものの“宝探し”へ！MKグループ平塚物流センターを特別開放",
       "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -110,11 +137,11 @@
       "publishedAt": "2026-10-09T07:46:14.000Z"
     },
     {
-      "id": "4c67cb28bfa5a60b",
-      "title": "【相次ぐサイバー攻撃】ローソンやブックオフで大量情報漏えい 物流障害で冷凍食品が品薄になる恐れも",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFpwdk5sdzRqcHQzNktNeV9Vbm4wd2JISE1uNTZHdFZQTTJIWDEzWDRyc0VFb2R4cXRRRDJzSnpVR2MxRkhxamFvZHNfRUY2NlhCZXQ1ekJITUp1bU5leW5tbXFLNjVEV0JDYlhyZmlYT3RxZWNOaGViaXg1S19BYWhiYUFlZkU?oc=5",
-      "source": "日テレNEWS NNN",
+      "id": "456aa86b6955ff8a",
+      "title": "【相次ぐサイバー攻撃】ローソンやブックオフで大量情報漏えい 物流障害で冷凍食品が品薄になる恐れも（読売テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HaG1FRUpkeUo3UndzS3JHQnQxNWN2WDJ0Ml9wckhJRm9GQXlIUGFTZWtFcVpOMUhFRjBlRThWaGg2TlZHbHFuQXNlZFMyRzVmRTdrLW1pVVljQndycVhHWTJKZnVIdVdDWnpUUWVNNllzYV9TXzYzZ0hHenpCYjg?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-09T07:43:00.000Z"
     },
@@ -128,13 +155,13 @@
       "publishedAt": "2026-10-09T07:26:44.000Z"
     },
     {
-      "id": "4911570431f45370",
-      "title": "日本商工会議所／物流コストを価格転嫁できた企業は40.5％で足踏み状態（2026年早期景気観測調査）",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tN0ZuWm5jazVSZVhxX0dKbnAwdXVLbDRweXg1NGlrWUhfSXRQRXBaVjV4VWRyenVTRHNiMlltUmhVSXVvd1RFMGc0SXdfWkNFakkzOA?oc=5",
-      "source": "トラックニュース",
+      "id": "a49edeee14e4135f",
+      "title": "物流配送の効率化を推進、食品ロス・CO2排出量を削減 中国・四国地方の約1,200店で - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBObjNmWGFQNG5oRDduV3kzMHc5bzJlRUNOSVFJWVAzaUYyRHp1RzJrNHRuZzdXbU9jTUotX0tqRGlMVnU3YmRmaTBxOA?oc=5",
+      "source": "LOGI-BIZ online",
       "category": "物流",
-      "publishedAt": "2026-10-09T07:24:00.000Z"
+      "publishedAt": "2026-10-09T07:23:28.000Z"
     },
     {
       "id": "19f991ab01eea747",
@@ -161,7 +188,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6XzJYS3VjNC1lZjJwdlU5VkJ0UWZzS2ExR25Udm5yeUEySXp6M1dMT0lRQS1VYWhNbFFEOElOandVWGUycmlEYmhvWnB1Y1FUcDR5Xw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-10-09T06:37:20.000Z"
+      "publishedAt": "2026-10-09T06:41:35.000Z"
     },
     {
       "id": "2c6b07e1a96732dc",
@@ -209,6 +236,15 @@
       "publishedAt": "2026-10-09T05:51:00.000Z"
     },
     {
+      "id": "ab1276ec32db5d0a",
+      "title": "佐賀・鳥栖市の一般貨物自動車運送業者が破産手続き開始決定",
+      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJoV2QxelFKOUJOanRKOHVZT2s0NDVWSkxuS2JEZVZ3TlpzZzJRUUxhNldMbkJaU2JEdzRjVTBZSzhhV3pEa3JTdFNsRVFiY1FwZzNR?oc=5",
+      "source": "西日本新聞me",
+      "category": "物流",
+      "publishedAt": "2026-10-09T05:43:00.000Z"
+    },
+    {
       "id": "d9af9bb70dac93a4",
       "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -252,15 +288,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T04:44:25.000Z"
-    },
-    {
-      "id": "6e4481c1f9e7a0f4",
-      "title": "ESR中東進出、物流・データ基盤に100億ドル超",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xRl9rWnhub1RRUERnOG5CYm9WQXhlWThObUNCNlJ4SUNGQU5iLWhtaHdFUDFpY3gzQVYzRnBUSDRPRjd5OE1DWS1R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T04:38:12.000Z"
     },
     {
       "id": "98c81c9e4ed8f29a",
@@ -434,15 +461,6 @@
       "publishedAt": "2026-10-09T01:30:00.000Z"
     },
     {
-      "id": "9e417c2d1161bcfe",
-      "title": "トラックと乗用車の交通事故か 重体の人がいる模様=静岡・島田市",
-      "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tVFFJRFJnczJVUDdjMTdJeXVRdUp2TGd0YW5XeWlCemU2Sm1oVlFKYjJmQXpUQTBkX0RTV0pjRUtZMHJxUHBHdE96M1BhNE5qekFIdjBDSFRQa1hDLV8wUw?oc=5",
-      "source": "アットエス",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T01:30:00.000Z"
-    },
-    {
       "id": "cfef586d7ff09bd0",
       "title": "「けががある事故で車が動かない」トラックと乗用車が正面衝突 トラック運転の会社員男性が事故直後は意識あるも容態急変し、重体=静岡・島田市（静岡放送（SBS））",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -461,15 +479,6 @@
       "publishedAt": "2026-10-09T01:24:00.000Z"
     },
     {
-      "id": "f9748a539a8d1d9c",
-      "title": "関通ホールディングス、中国スマート物流のSTORINと戦略的業務提携を締結",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbGpoRmMxYmhKYWxMbnNRYXV2OXlKR1IwNTFwY0hyNl84SHRfNTEzamZiZVE0OEJ2bGlMT0U1aGxIWGl1S2dMdTBsOTNUbllmMzhWNjRwUk1FcWRET1BLNzdzel8tcDRxcFE?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-09T01:00:01.000Z"
-    },
-    {
       "id": "16869a11d2c2f849",
       "title": "「異音がして火が⋯」東名高速上り線で大型トラック炎上 中央分離帯も燃え一時車線規制=静岡・長泉町",
       "description": "アットエスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -477,6 +486,15 @@
       "source": "アットエス",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T00:50:00.000Z"
+    },
+    {
+      "id": "506e56663b6dcde7",
+      "title": "海運・物流企業に求められる変革とM&Aの実行力（後編）",
+      "description": "PwCが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGltbjdpdXNkWHc2S3F5X1B4V045X2M2ZnN0a0tRUnNHUFNCLS05UU05aWVnVFFhWHlNS0c4XzNoaWw3eWMzdGJIUzhvdGlHbEJ5eTBBcHl5WVNTUXB2bndnVV8tdzA4a2pCaTJ4UHRMaEFDZWxzUlJoR00tcDlRUE52c2VVdw?oc=5",
+      "source": "PwC",
+      "category": "物流",
+      "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
       "id": "5071be3e587c84e7",
@@ -702,24 +720,6 @@
       "source": "カナロコ",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T12:50:00.000Z"
-    },
-    {
-      "id": "06aab41c38e02003",
-      "title": "ソフトバンク系にランサム攻撃、障害続く ニッスイ子会社は配送停止",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LV0lKQW83Slp5R0VBWjVzMGZ6MU80U05nSWJidWhqX29vc1dqVDBid2lpVUpfSmh1cElUWHhRYURRLWVPNlJseWNvNV9GZU03bEVhaEhoajc4a0J5di14eGJXMVVlcVJHUzBzVQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-08T09:32:42.000Z"
-    },
-    {
-      "id": "5837af42e8a23c35",
-      "title": "日野コンピューターシステム、熊本地震の交通復旧支援 大型トラックの走行データを提供",
-      "description": "電波タイムズが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxMmZrWml5bGNyNnJCM3haRlJtdGxjOGNMOUtmZmd3cUFPdU1mOEZvdlNWM0JfRXZvSW9iV3VDX0xBMXRpei1iOGxsQTd4SURQVG0yMkJ0LWlVcjZ6TmJr?oc=5",
-      "source": "電波タイムズ",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-08T08:50:25.000Z"
     }
   ]
 }
