@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:28:54.497Z",
+  "updatedAt": "2026-10-09T22:29:17.411Z",
   "articles": [
     {
       "id": "fd27c10b909f282c",
@@ -8,7 +8,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
       "source": "建設通信新聞Digital",
       "category": "物流",
-      "publishedAt": "2026-10-09T21:07:19.000Z"
+      "publishedAt": "2026-10-09T22:03:36.000Z"
     },
     {
       "id": "961508f147e852e1",
@@ -281,15 +281,6 @@
       "publishedAt": "2026-10-09T05:51:00.000Z"
     },
     {
-      "id": "ab1276ec32db5d0a",
-      "title": "佐賀・鳥栖市の一般貨物自動車運送業者が破産手続き開始決定",
-      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJoV2QxelFKOUJOanRKOHVZT2s0NDVWSkxuS2JEZVZ3TlpzZzJRUUxhNldMbkJaU2JEdzRjVTBZSzhhV3pEa3JTdFNsRVFiY1FwZzNR?oc=5",
-      "source": "西日本新聞me",
-      "category": "物流",
-      "publishedAt": "2026-10-09T05:43:00.000Z"
-    },
-    {
       "id": "d9af9bb70dac93a4",
       "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -533,10 +524,10 @@
       "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
-      "id": "e43b6ff47670e9b2",
+      "id": "5071be3e587c84e7",
       "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdGpqa3kyZ3d3dzdCa3ZSOWxMNGZ1ZWR6T2JqSnJHUnVuMFBZWUZGREdpQkNsU0JjcGxnd0NXYkY4emNVODBCT0Nzbl9BeVcwSFctc1JHeDh4THotNzRya2FzZzRrQjF2Umh0TW4tdHROQUNzZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX3dOWjh2RFlpdXJfa1YyU2RKQ0l2UWZ0MVplZHc0MzM2RXhfRmFqOXJmb1Vhb3IyTU4zZ1J5WkxUOW1udlhzaHBjOHR3VFBnS0dwNmJRWXZ4V1hFa0psQk52c183VzR4ZzNjdWpDbDN3eVFjcVE2QXB5cw?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T00:12:47.000Z"
@@ -570,12 +561,21 @@
     },
     {
       "id": "78e914455ae1b7ba",
-      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉",
+      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉（北海道ニュースUHB）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRDQxM2J3Mi14Q1NZUS1tN1dWVUptV0o4T0tHRHVnMmxHS09ZWm5SSnltaWM3UzJ2QlBzSWJsOG95eW1FaHVramg3VkgzaXBCdHo4YWFOU2tUbTZqOGVCYUpFOV9NejNOUVBaeTFtUDJZUUJXTDZCWnQ1czRod2M?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-08T22:26:01.000Z"
+    },
+    {
+      "id": "8581883c46a64d9d",
+      "title": "【国道140号】皆野寄居バイパス 寄居トンネル内でトラック事故 4時間強ぶり通行止め解除（8日21:15現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CbjluWVFfckJjV1V6N2FPVGlGQzRUYUhHWERNdUt6U0VvMEo3VHlqMHdENWhmcHVIMEYwRG56NjNXSHB4NzhwODA1cHZNTU1qWFlMYWg0UnNUcFpkd1hv?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-08T21:41:24.000Z"
     },
     {
       "id": "31b78fa9db3d34f8",
