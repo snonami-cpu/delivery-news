@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-10T03:29:08.876Z",
+  "updatedAt": "2026-10-10T04:29:06.594Z",
   "articles": [
+    {
+      "id": "8fd4b30c4d00f8c0",
+      "title": "【速報】トラックとバイクの衝突事故 バイクを運転していた男性が死亡、身元の確認を急ぐ 大阪市生野区",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0dFBGM2NhVld3NUxZa1psUnZiUzVPOERJWTJSVmdndXk2bS1NcFBER3VSZU0wRlR3SGN5b0dJV2o1RnU4NGtaRXd5NWw3TkdvMVhVb0lEV0ktNFZDVndtdWpTYzZlV3Rad1U1bF9n?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-10T04:19:00.000Z"
+    },
+    {
+      "id": "fd27c10b909f282c",
+      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
+      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
+      "source": "建設通信新聞Digital",
+      "category": "物流",
+      "publishedAt": "2026-10-10T04:06:08.000Z"
+    },
+    {
+      "id": "b902fc07ab3c4c94",
+      "title": "高速でトラックが“真横に吹っ飛ぶ”衝撃の瞬間… NEXCOが生々しい事故動画公開、一体なぜ？ スタッフの悲鳴も",
+      "description": "carview!が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEs4LUhLU1FpOGhhWTJTTnFHX3VjcURLMm1IVUZVRTJXZS1JNjFEQ3RQcW1oRW0tdzN2dVM0TzIyR2FNNFlIQnJDYUp6R2ZMbVpJVXNnYWxjajBuN1o1bzBqT2txckx3Vkw0MHREQzhMVEpNUC1VSHNuU1FZM1hmOFhZQ09kNjE1?oc=5",
+      "source": "carview!",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-10T03:12:00.000Z"
+    },
     {
       "id": "db0d63fb695048b6",
       "title": "瀬戸内で食品容器循環、生興運送が物流を構築",
@@ -9,6 +36,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-10T02:48:45.000Z"
+    },
+    {
+      "id": "59cc5d9470682f63",
+      "title": "道路の気象影響リスク予測・天気予報",
+      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
+      "source": "tenki.jp",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-10T02:45:27.000Z"
     },
     {
       "id": "6e4481c1f9e7a0f4",
@@ -20,15 +56,6 @@
       "publishedAt": "2026-10-10T02:12:58.000Z"
     },
     {
-      "id": "fd27c10b909f282c",
-      "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
-      "description": "建設通信新聞Digitalが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5",
-      "source": "建設通信新聞Digital",
-      "category": "物流",
-      "publishedAt": "2026-10-10T01:09:07.000Z"
-    },
-    {
       "id": "06dfb289c509ede9",
       "title": "ウォルマート、次世代FCで西海岸配送を高速化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -36,6 +63,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-10T00:58:47.000Z"
+    },
+    {
+      "id": "498b84e9ef565024",
+      "title": "10月10日は「世界メンタルヘルスデー」運送会社の「健康経営」",
+      "description": "サンテレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Rm5ObU5LRjRZOHJTY2RuV09yOVBpVEg3OFR2dHpxcGs1eTI5RWFkTUpKSGdTN295TzRDZ2w5LWpuSzZaSzl2NE5KeDEwemJyU0VpUmt6X1c0SWJxSWtCTm9FZlRiWGc0?oc=5",
+      "source": "サンテレビ",
+      "category": "物流",
+      "publishedAt": "2026-10-09T23:34:00.000Z"
     },
     {
       "id": "d7fa15f0abcf138a",
@@ -252,15 +288,6 @@
       "source": "LOGI-BIZ online",
       "category": "物流",
       "publishedAt": "2026-10-09T07:23:28.000Z"
-    },
-    {
-      "id": "19f991ab01eea747",
-      "title": "「２０３０年問題」、７割が配送遅延に不安",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zelBMZUdkeEljcEVZVTNpNTQyZEVTTWVxcFJINDZkX3BWZTNMekZ3SWIxVDVWd0ZiYkF0czZkVUh4cVZXLTlUZE85OW8xSFhTRDZHVmh3aWtIMVBzM1lZ?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "id": "da671590864c1b2f",
@@ -533,10 +560,10 @@
       "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
-      "id": "5071be3e587c84e7",
+      "id": "e43b6ff47670e9b2",
       "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX3dOWjh2RFlpdXJfa1YyU2RKQ0l2UWZ0MVplZHc0MzM2RXhfRmFqOXJmb1Vhb3IyTU4zZ1J5WkxUOW1udlhzaHBjOHR3VFBnS0dwNmJRWXZ4V1hFa0psQk52c183VzR4ZzNjdWpDbDN3eVFjcVE2QXB5cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdGpqa3kyZ3d3dzdCa3ZSOWxMNGZ1ZWR6T2JqSnJHUnVuMFBZWUZGREdpQkNsU0JjcGxnd0NXYkY4emNVODBCT0Nzbl9BeVcwSFctc1JHeDh4THotNzRya2FzZzRrQjF2Umh0TW4tdHROQUNzZ1E?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T00:12:47.000Z"
@@ -693,33 +720,6 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T20:00:00.000Z"
-    },
-    {
-      "id": "f26d9bd7df669f7f",
-      "title": "ハコベル、CLOの意思決定や法対応実務を支援する「CLOダッシュボード」を提供開始！",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nMDRwWGh1YkhfSHdQQTg2TUZBUEQ1SlZOdDl5N0QyeEFGODZ4dVRMY3ZxT1B5ZTE2ZFc5ODBSYWdMSm5DYnVRdFN6VzhtTU9mT3o5a3JnbWxVMjQ?oc=5",
-      "source": "朝日新聞",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-08T19:31:55.000Z"
-    },
-    {
-      "id": "9d8f324640cccfa1",
-      "title": "海上物流の課題、日本もハブ港を目指し国内協調を 手塚広一郎氏",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MaHRVMll0ZkRWYUtiZHlMOXNrb1N5UEJQWnJ5b2hZbFJocUVTRGwzbjMxNjZoZUJReVB0QmJPc19OeFBjWERieDNSWVhYbjd3VDdIZ2FuUjNVV1Q3UnItak9KS19QeURIazNWOQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-08T17:00:00.000Z"
-    },
-    {
-      "id": "fd3d176f2a9ecd80",
-      "title": "JICAとジェトロがセミナーで調査報告、ウクライナ物流で周辺国の役割高まる",
-      "description": "ジェトロ（日本貿易振興機構）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VTURWU1N1eEtHOF83Vy1BWjJtWjc5dDJrb3JuSVNVVkhfanFrMkY3V2QzTkFUWEg1dUwwNWh5NzlLY3E2ZEtKM1R6STNBX0tBWFBQU0R4X0g3NlVNWmhVOTVBek01c0tXRkZRaWlR?oc=5",
-      "source": "ジェトロ（日本貿易振興機構）",
-      "category": "物流",
-      "publishedAt": "2026-10-08T15:34:59.000Z"
     }
   ]
 }
