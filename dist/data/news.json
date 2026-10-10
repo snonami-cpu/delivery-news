@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-10-10T04:29:06.594Z",
+  "updatedAt": "2026-10-10T05:27:50.080Z",
   "articles": [
     {
-      "id": "8fd4b30c4d00f8c0",
+      "id": "e96302968ff2812d",
+      "title": "沖縄自動車道の大渋滞、最長19キロ 日中から夜まで続く【10月9日】",
+      "description": "沖縄タイムス社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnYUlaMUlHcndKWFgtR3RraXNJU2oxTXlURVFTU01jQ2Vhbl9xdjJ0eGUwUk5DNklmQzRwZ3hUOTFIS2N1ZHdFd2ZRcUgySXZnRWdPdUpsR1EyUnpTVWc?oc=5",
+      "source": "沖縄タイムス社",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-10T04:53:00.000Z"
+    },
+    {
+      "id": "a360cb29fbe7c158",
       "title": "【速報】トラックとバイクの衝突事故 バイクを運転していた男性が死亡、身元の確認を急ぐ 大阪市生野区",
-      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0dFBGM2NhVld3NUxZa1psUnZiUzVPOERJWTJSVmdndXk2bS1NcFBER3VSZU0wRlR3SGN5b0dJV2o1RnU4NGtaRXd5NWw3TkdvMVhVb0lEV0ktNFZDVndtdWpTYzZlV3Rad1U1bF9n?oc=5",
-      "source": "au Webポータル",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VanQyMEFzdkNKX0JHM0xIa1BzT2V3ZzAtVEtvbkRScU9mUlFQMnpnc2tKcUFsUkh2MC0tem5UM0QzVHY2RTdlMGw2YV9Md1JHdExzS3Rpdk1SM3MtdU1MQjJma2VDcGs2NVY5enpB?oc=5",
+      "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-10T04:19:00.000Z"
     },
@@ -126,15 +135,6 @@
       "source": "VIETJOベトナムニュース",
       "category": "物流",
       "publishedAt": "2026-10-09T20:55:00.000Z"
-    },
-    {
-      "id": "e96302968ff2812d",
-      "title": "トラック横転 大渋滞 中城PA周辺 沖縄道 最長19キロ",
-      "description": "沖縄タイムス社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnYUlaMUlHcndKWFgtR3RraXNJU2oxTXlURVFTU01jQ2Vhbl9xdjJ0eGUwUk5DNklmQzRwZ3hUOTFIS2N1ZHdFd2ZRcUgySXZnRWdPdUpsR1EyUnpTVWc?oc=5",
-      "source": "沖縄タイムス社",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T18:57:00.000Z"
     },
     {
       "id": "2ee3b5f0fa267336",
@@ -560,10 +560,10 @@
       "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
-      "id": "e43b6ff47670e9b2",
+      "id": "5071be3e587c84e7",
       "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdGpqa3kyZ3d3dzdCa3ZSOWxMNGZ1ZWR6T2JqSnJHUnVuMFBZWUZGREdpQkNsU0JjcGxnd0NXYkY4emNVODBCT0Nzbl9BeVcwSFctc1JHeDh4THotNzRya2FzZzRrQjF2Umh0TW4tdHROQUNzZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX3dOWjh2RFlpdXJfa1YyU2RKQ0l2UWZ0MVplZHc0MzM2RXhfRmFqOXJmb1Vhb3IyTU4zZ1J5WkxUOW1udlhzaHBjOHR3VFBnS0dwNmJRWXZ4V1hFa0psQk52c183VzR4ZzNjdWpDbDN3eVFjcVE2QXB5cw?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T00:12:47.000Z"
