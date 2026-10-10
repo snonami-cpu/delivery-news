@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T02:28:54.590Z",
+  "updatedAt": "2026-10-10T03:29:08.876Z",
   "articles": [
+    {
+      "id": "db0d63fb695048b6",
+      "title": "瀬戸内で食品容器循環、生興運送が物流を構築",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Da3ZXYktjc0VYd2daRy1uTGdsWjhvZ3ppTXpzLTY2UkJ5VFJEc0VzRTdPcEFFOGFvUkY3WmNEeVFELUI4RnNTWm1R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-10T02:48:45.000Z"
+    },
+    {
+      "id": "6e4481c1f9e7a0f4",
+      "title": "ESR中東進出、物流・データ基盤に100億ドル超",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xRl9rWnhub1RRUERnOG5CYm9WQXhlWThObUNCNlJ4SUNGQU5iLWhtaHdFUDFpY3gzQVYzRnBUSDRPRjd5OE1DWS1R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-10T02:12:58.000Z"
+    },
     {
       "id": "fd27c10b909f282c",
       "title": "阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で",
@@ -9,6 +27,15 @@
       "source": "建設通信新聞Digital",
       "category": "物流",
       "publishedAt": "2026-10-10T01:09:07.000Z"
+    },
+    {
+      "id": "06dfb289c509ede9",
+      "title": "ウォルマート、次世代FCで西海岸配送を高速化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04UFc0T2VKTlFwQmRLYzJYUUlDYWRrODRRQ0ZTa1RIemttM2tiNEZaV2d2ZjVxWUJDTVVOOGRhVjhEV2tLbkpUWXFR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-10T00:58:47.000Z"
     },
     {
       "id": "d7fa15f0abcf138a",
@@ -29,13 +56,13 @@
       "publishedAt": "2026-10-09T22:50:00.000Z"
     },
     {
-      "id": "99d3620c51ed2961",
-      "title": "ヤマト運輸、ザービン空港で高度物流ハブ構築へ 地場と基本合意［日系］",
-      "description": "VIETJOベトナムニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbm9jQnlQSy1RVnRpejdkQ0Q3U0hjTWRzLUcyUVVJQk1vQ3gtWVNka2JPdjFhXzRuR2FGekI5bE9FOVJ6NWZSWFlvX2t2bnQ0YWJiZFZTSkFYNzYwWFY3aF9oaw?oc=5",
-      "source": "VIETJOベトナムニュース",
+      "id": "fe5c9a9a5286523b",
+      "title": "CRE、佐賀県鳥栖市に大型物流施設完成",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UV21keDJCWnBvMExNYU03ZE1JOExQbURlYzFTVExhd3ROd3dXZ2F4U0pPOGc5LWhGd1VabzUwY0hfWW5pOXllNlJR?oc=5",
+      "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-09T20:55:00.000Z"
+      "publishedAt": "2026-10-09T20:57:32.000Z"
     },
     {
       "id": "961508f147e852e1",
@@ -44,7 +71,25 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMcng4bGNqWTZESWlwWFA3ZURPckt0c05uMlNFQk1PZHRDVjlKNlRZMkg1MnJxbm55dkMtMmVBZ0p2akdjQVJiM3RR?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-09T20:48:45.000Z"
+      "publishedAt": "2026-10-09T20:57:18.000Z"
+    },
+    {
+      "id": "d9af9bb70dac93a4",
+      "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nTFlMbzA5elYwWENnbFZYR09odDlQbHN0U3FpUHZldEFtN1dOTjdjRm1MbjRvRVpRQkxyU3dDLVM4NG9wSHJ2UjJn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-09T20:57:18.000Z"
+    },
+    {
+      "id": "99d3620c51ed2961",
+      "title": "ヤマト運輸、ザービン空港で高度物流ハブ構築へ 地場と基本合意［日系］",
+      "description": "VIETJOベトナムニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIbm9jQnlQSy1RVnRpejdkQ0Q3U0hjTWRzLUcyUVVJQk1vQ3gtWVNka2JPdjFhXzRuR2FGekI5bE9FOVJ6NWZSWFlvX2t2bnQ0YWJiZFZTSkFYNzYwWFY3aF9oaw?oc=5",
+      "source": "VIETJOベトナムニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-09T20:55:00.000Z"
     },
     {
       "id": "e96302968ff2812d",
@@ -63,6 +108,15 @@
       "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T15:35:35.000Z"
+    },
+    {
+      "id": "107d5d88f92f8d28",
+      "title": "中国の物流情報網「LOGINK」失速、米国は「通商上の兵器」と危惧も―海外メディア",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXNaRHMzbGFVaFhiN1J1Y0xOOHZZRVc3eWxfZVpCNkp3ZTJhNWx2blNvY05SeEdSVFFpQUlNazllTFUxN1lPYkpEeG82RDBhWG8xYzNXekcwMU5rS0hETjNpVWdJUEdfcEluQWNRamJkZ1BkV3dsTTRHYUFGZlZMWEJlYllJYlJUVDQ00gGLAUFVX3lxTFAxc1pEczNsYVVoWGI3UnVjTE44dllFVzd5bF9lWkI2SndlMmE1bHZuU29jTlJ4R1JUUWlBSU1rOWVMVTE3WU9iSkR4bzZEMGFYbzFjM1d6RzAxTmtLSEROM2lVZ0lQR19wSW5BY1FqYmRnUGRXd2xNNEdhQUZmVkxYQmViWUliUlRUNDQ?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-09T13:00:00.000Z"
     },
     {
       "id": "40cad5038586e28d",
@@ -137,15 +191,6 @@
       "publishedAt": "2026-10-09T08:25:00.000Z"
     },
     {
-      "id": "06dfb289c509ede9",
-      "title": "ウォルマート、次世代FCで西海岸配送を高速化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04UFc0T2VKTlFwQmRLYzJYUUlDYWRrODRRQ0ZTa1RIemttM2tiNEZaV2d2ZjVxWUJDTVVOOGRhVjhEV2tLbkpUWXFR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T08:16:32.000Z"
-    },
-    {
       "id": "b8ba6ae1b7d23bec",
       "title": "フェデックス調査／半導体企業の35％がアジア太平洋で事業拡大を計画、物流の継続性重視も",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -153,6 +198,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T08:11:52.000Z"
+    },
+    {
+      "id": "cda63e930b44cd1f",
+      "title": "【4日間限定】きものの“宝探し”へ！MKグループ平塚物流センターを特別開放",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92QkJqVEdza3hib01XcHd1RDJESVc0NDl3ZjJkZmp2S1UwSmpzNVcxWmdXWDhoTnpQTUh1M1hEM0RPUWlRMFJKM3FhcEM1bGV6RHRVVzJIbHl1SzBSRzA3RHk1X0RBTW5qNXc?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-09T08:10:01.000Z"
     },
     {
       "id": "ace2f47ca1b94cc7",
@@ -191,15 +245,6 @@
       "publishedAt": "2026-10-09T07:26:44.000Z"
     },
     {
-      "id": "4911570431f45370",
-      "title": "日本商工会議所／物流コストを価格転嫁できた企業は40.5％で足踏み状態（2026年早期景気観測調査）",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tN0ZuWm5jazVSZVhxX0dKbnAwdXVLbDRweXg1NGlrWUhfSXRQRXBaVjV4VWRyenVTRHNiMlltUmhVSXVvd1RFMGc0SXdfWkNFakkzOA?oc=5",
-      "source": "トラックニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-09T07:24:00.000Z"
-    },
-    {
       "id": "a49edeee14e4135f",
       "title": "物流配送の効率化を推進、食品ロス・CO2排出量を削減 中国・四国地方の約1,200店で - LOGI-BIZ online",
       "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -218,15 +263,6 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "id": "8421b3b55b87f88f",
-      "title": "ビール物流子会社４社 「飲酒運転撲滅キャンペーン」を共同実施",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUXp4enpQRW53eDRXdDlPRFZyUFRTdEp1RTJTZUpoTTNGeWdoT29HTTg4XzdBRGZHQkhlbzJpS19HaTRJNmpaSmFraG1aeXhlU2k2bG1nXzFTblB4TDhB?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "id": "da671590864c1b2f",
       "title": "首都高でトラック衝突 運転手2人ケガ 埼玉・戸田市（日テレNEWS NNN）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -234,15 +270,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-09T06:54:00.000Z"
-    },
-    {
-      "id": "fe5c9a9a5286523b",
-      "title": "CRE、佐賀県鳥栖市に大型物流施設完成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UV21keDJCWnBvMExNYU03ZE1JOExQbURlYzFTVExhd3ROd3dXZ2F4U0pPOGc5LWhGd1VabzUwY0hfWW5pOXllNlJR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T06:53:02.000Z"
     },
     {
       "id": "ca8ac74fb7dfbb96",
@@ -299,24 +326,6 @@
       "publishedAt": "2026-10-09T05:43:00.000Z"
     },
     {
-      "id": "d9af9bb70dac93a4",
-      "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nTFlMbzA5elYwWENnbFZYR09odDlQbHN0U3FpUHZldEFtN1dOTjdjRm1MbjRvRVpRQkxyU3dDLVM4NG9wSHJ2UjJn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T05:36:24.000Z"
-    },
-    {
-      "id": "db0d63fb695048b6",
-      "title": "瀬戸内で食品容器循環、生興運送が物流を構築",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Da3ZXYktjc0VYd2daRy1uTGdsWjhvZ3ppTXpzLTY2UkJ5VFJEc0VzRTdPcEFFOGFvUkY3WmNEeVFELUI4RnNTWm1R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T05:36:23.000Z"
-    },
-    {
       "id": "26f6fa351c0d673b",
       "title": "不正アクセス受けたニッスイの物流会社 全拠点で一部業務再開",
       "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -342,15 +351,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T04:44:25.000Z"
-    },
-    {
-      "id": "6e4481c1f9e7a0f4",
-      "title": "ESR中東進出、物流・データ基盤に100億ドル超",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xRl9rWnhub1RRUERnOG5CYm9WQXhlWThObUNCNlJ4SUNGQU5iLWhtaHdFUDFpY3gzQVYzRnBUSDRPRjd5OE1DWS1R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T04:38:12.000Z"
     },
     {
       "id": "98c81c9e4ed8f29a",
@@ -389,22 +389,13 @@
       "publishedAt": "2026-10-09T03:21:22.000Z"
     },
     {
-      "id": "06ed4ca432654407",
+      "id": "4b36e49b06a1cdf2",
       "title": "【速報】沖縄自動車道でトラックが横転 中城パーキングエリア付近 最大4キロ渋滞",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUJCb2hyUVp5d2JEcXpmUVQ2b19vZXRoX0E3VnFBVW1ZX2dzelI2Z2E2VVRWekFhaW9SV1p5OGRadzhOZGFOZE84dXh6eW1ORGpWMWpGd2JXZEtoR3ZTRENXVHV3aFlMUVFaVldHUXM4ZnJxcDVONGlScnlkSVdxXzI3bGJyd9IBhgFBVV95cUxNZUJCb2hyUVp5d2JEcXpmUVQ2b19vZXRoX0E3VnFBVW1ZX2dzelI2Z2E2VVRWekFhaW9SV1p5OGRadzhOZGFOZE84dXh6eW1ORGpWMWpGd2JXZEtoR3ZTRENXVHV3aFlMUVFaVldHUXM4ZnJxcDVONGlScnlkSVdxXzI3bGJydw?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T03:07:00.000Z"
-    },
-    {
-      "id": "d5e4631ad3c180e4",
-      "title": "DPワールド、印ナバシェバで物流拠点を倍増",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnTUZUV1FlcVJydkRjbzUzbXRsdUdHX2Y1bXk0NGJTN2ZHNXh5ZXN0bm1fZ3RTdHdzTkFDSUhzNlAySnBZX1hlVllR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-09T03:05:11.000Z"
+      "description": "琉球新報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSWlJVUV6cGVvbFBHSU44OWVrLU13XzFoUXpSa3R4WGJxakFwSkthY3o2Y2pQMkpGU19NWmxad05EeGRSU3laTnJDMFUxckdJUTVGSjkzT0NpdWs?oc=5",
+      "source": "琉球新報デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T03:07:41.000Z"
     },
     {
       "id": "cf11467e8d201a5f",
@@ -468,6 +459,15 @@
       "source": "ｄメニューニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T02:44:00.000Z"
+    },
+    {
+      "id": "7c8a7dad74d69125",
+      "title": "物流施設「ロジスクエア鳥栖Ⅱ」竣工",
+      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ejJpbk1yTC1HVzBjZWVHQk1iMmFxeGdSNzRsS1dKdVdIaFN6TlBRRFVJMEpRbnFvM21ES3p6VmdGVC14aTh6U1pQcndWQU9rNTlqdzhSNU9rQmdpakFhQk4zXzlQTjNscUE?oc=5",
+      "source": "PR TIMES",
+      "category": "物流",
+      "publishedAt": "2026-10-09T02:30:02.000Z"
     },
     {
       "id": "ea5e274ac953c7c6",
@@ -570,7 +570,7 @@
     },
     {
       "id": "78e914455ae1b7ba",
-      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉（北海道ニュースUHB）",
+      "title": "【作業事故】大型車のタイヤ交換中\"破裂音\"が…男性作業員が死亡_駆けつけると倒れていた_病院搬送も死亡確認_警察が詳しい状況調べる〈北海道 苫小牧市〉",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRDQxM2J3Mi14Q1NZUS1tN1dWVUptV0o4T0tHRHVnMmxHS09ZWm5SSnltaWM3UzJ2QlBzSWJsOG95eW1FaHVramg3VkgzaXBCdHo4YWFOU2tUbTZqOGVCYUpFOV9NejNOUVBaeTFtUDJZUUJXTDZCWnQ1czRod2M?oc=5",
       "source": "Yahoo!ニュース",
@@ -623,6 +623,15 @@
       "publishedAt": "2026-10-08T20:57:54.000Z"
     },
     {
+      "id": "8b13e4684f59c03d",
+      "title": "産直ECの配送品質を数値で診断、WAQMIEL",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dzdEYVMyZWFSaXlqdmdrR05HWWRNVFA2ZEduNGRTRXh3Y0lUdUZLa2tXalhlNENYWW15bTFVbDY1ZndoX0dVZy13?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-08T20:57:54.000Z"
+    },
+    {
       "id": "69009143f086f3a4",
       "title": "日新、アジア向け食品輸出の物流力を提案",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -636,24 +645,6 @@
       "title": "ロジスティード、CLO時代の物流改革着手点を指南",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zdlFZTW1lQ3U0SG43UGE0bGhVMmkwS25mZ1N4UVVqR3FwYVN2OTF1aDJITTFRNXI5bXVpZ0ZHdk9jR1pzbUYtMllB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-08T20:57:54.000Z"
-    },
-    {
-      "id": "8b13e4684f59c03d",
-      "title": "産直ECの配送品質を数値で診断、WAQMIEL",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54dzdEYVMyZWFSaXlqdmdrR05HWWRNVFA2ZEduNGRTRXh3Y0lUdUZLa2tXalhlNENYWW15bTFVbDY1ZndoX0dVZy13?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-08T20:57:54.000Z"
-    },
-    {
-      "id": "3b000dc657af8dd6",
-      "title": "DHL、ベイクルーズ物流を自動倉庫で省人化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RVlQ0eUFpR1hNaWVkZEhsaXRIVnpYWkQ1bFl2TkJNUVpVMEQwdkFlZ1pHM1BfaHJuSmp0X1NkLUVCQm9IUHdUX2xn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-08T20:57:54.000Z"
@@ -720,6 +711,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T17:00:00.000Z"
+    },
+    {
+      "id": "fd3d176f2a9ecd80",
+      "title": "JICAとジェトロがセミナーで調査報告、ウクライナ物流で周辺国の役割高まる",
+      "description": "ジェトロ（日本貿易振興機構）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VTURWU1N1eEtHOF83Vy1BWjJtWjc5dDJrb3JuSVNVVkhfanFrMkY3V2QzTkFUWEg1dUwwNWh5NzlLY3E2ZEtKM1R6STNBX0tBWFBQU0R4X0g3NlVNWmhVOTVBek01c0tXRkZRaWlR?oc=5",
+      "source": "ジェトロ（日本貿易振興機構）",
+      "category": "物流",
+      "publishedAt": "2026-10-08T15:34:59.000Z"
     }
   ]
 }
