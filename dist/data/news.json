@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T23:27:25.637Z",
+  "updatedAt": "2026-10-10T00:40:03.857Z",
   "articles": [
     {
       "id": "d7fa15f0abcf138a",
@@ -38,6 +38,15 @@
       "publishedAt": "2026-10-09T20:48:45.000Z"
     },
     {
+      "id": "e96302968ff2812d",
+      "title": "トラック横転 大渋滞 中城PA周辺 沖縄道 最長19キロ",
+      "description": "沖縄タイムス社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnYUlaMUlHcndKWFgtR3RraXNJU2oxTXlURVFTU01jQ2Vhbl9xdjJ0eGUwUk5DNklmQzRwZ3hUOTFIS2N1ZHdFd2ZRcUgySXZnRWdPdUpsR1EyUnpTVWc?oc=5",
+      "source": "沖縄タイムス社",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T18:57:00.000Z"
+    },
+    {
       "id": "2ee3b5f0fa267336",
       "title": "10月12日から、カウジー・ニンビン高速道路の最高速度制限は時速100キロとなる。",
       "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -45,15 +54,6 @@
       "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T15:35:35.000Z"
-    },
-    {
-      "id": "59cc5d9470682f63",
-      "title": "道路の気象影響リスク予測・天気予報",
-      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
-      "source": "tenki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T13:22:21.000Z"
     },
     {
       "id": "107d5d88f92f8d28",
@@ -299,15 +299,6 @@
       "publishedAt": "2026-10-09T05:51:00.000Z"
     },
     {
-      "id": "ab1276ec32db5d0a",
-      "title": "佐賀・鳥栖市の一般貨物自動車運送業者が破産手続き開始決定",
-      "description": "西日本新聞meが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJoV2QxelFKOUJOanRKOHVZT2s0NDVWSkxuS2JEZVZ3TlpzZzJRUUxhNldMbkJaU2JEdzRjVTBZSzhhV3pEa3JTdFNsRVFiY1FwZzNR?oc=5",
-      "source": "西日本新聞me",
-      "category": "物流",
-      "publishedAt": "2026-10-09T05:43:00.000Z"
-    },
-    {
       "id": "d9af9bb70dac93a4",
       "title": "ホワイト物流、運輸・郵便5社加わり3631社に",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -380,15 +371,6 @@
       "publishedAt": "2026-10-09T03:38:10.000Z"
     },
     {
-      "id": "09b9206ecc46aeef",
-      "title": "「トラックが横転」沖縄自動車道で通行止め 中城パーキングエリア付近の那覇向け（午前11時10分現在） (沖縄タイムス)",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjhpRlhYaXlXVVJSdVhyVGMyTEU0ZHlLSThhM0NCWk9QSWtYNjFOOGZWOTlkaFpwUGs2SUpwYlNJLTlqdzVsVHNwMGZDWERzaDlTbVlwUzZDcXdwd3doa3RQd0JJbUZ6X3pMN2dkaC1kQ2FCLXAyb1NWMVlLd0RsQ25nOEloeHg2U0U3YVdB?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T03:21:31.000Z"
-    },
-    {
       "id": "40a023d4397a7c34",
       "title": "【速報】沖縄自動車道でトラックが横転 中城パーキングエリア付近 最大4キロ渋滞（琉球新報）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -398,13 +380,13 @@
       "publishedAt": "2026-10-09T03:21:22.000Z"
     },
     {
-      "id": "4b36e49b06a1cdf2",
+      "id": "06ed4ca432654407",
       "title": "【速報】沖縄自動車道でトラックが横転 中城パーキングエリア付近 最大4キロ渋滞",
-      "description": "琉球新報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSWlJVUV6cGVvbFBHSU44OWVrLU13XzFoUXpSa3R4WGJxakFwSkthY3o2Y2pQMkpGU19NWmxad05EeGRSU3laTnJDMFUxckdJUTVGSjkzT0NpdWs?oc=5",
-      "source": "琉球新報デジタル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T03:07:41.000Z"
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUJCb2hyUVp5d2JEcXpmUVQ2b19vZXRoX0E3VnFBVW1ZX2dzelI2Z2E2VVRWekFhaW9SV1p5OGRadzhOZGFOZE84dXh6eW1ORGpWMWpGd2JXZEtoR3ZTRENXVHV3aFlMUVFaVldHUXM4ZnJxcDVONGlScnlkSVdxXzI3bGJyd9IBhgFBVV95cUxNZUJCb2hyUVp5d2JEcXpmUVQ2b19vZXRoX0E3VnFBVW1ZX2dzelI2Z2E2VVRWekFhaW9SV1p5OGRadzhOZGFOZE84dXh6eW1ORGpWMWpGd2JXZEtoR3ZTRENXVHV3aFlMUVFaVldHUXM4ZnJxcDVONGlScnlkSVdxXzI3bGJydw?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T03:07:00.000Z"
     },
     {
       "id": "d5e4631ad3c180e4",
@@ -560,10 +542,10 @@
       "publishedAt": "2026-10-09T00:45:37.000Z"
     },
     {
-      "id": "5071be3e587c84e7",
+      "id": "e43b6ff47670e9b2",
       "title": "SAKIGAKE JAPAN、インドネシアのタコ加工現場で、水産コールドチェーン第2回調査を完了",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX3dOWjh2RFlpdXJfa1YyU2RKQ0l2UWZ0MVplZHc0MzM2RXhfRmFqOXJmb1Vhb3IyTU4zZ1J5WkxUOW1udlhzaHBjOHR3VFBnS0dwNmJRWXZ4V1hFa0psQk52c183VzR4ZzNjdWpDbDN3eVFjcVE2QXB5cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdGpqa3kyZ3d3dzdCa3ZSOWxMNGZ1ZWR6T2JqSnJHUnVuMFBZWUZGREdpQkNsU0JjcGxnd0NXYkY4emNVODBCT0Nzbl9BeVcwSFctc1JHeDh4THotNzRya2FzZzRrQjF2Umh0TW4tdHROQUNzZ1E?oc=5",
       "source": "ニコニコニュース",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T00:12:47.000Z"
@@ -720,6 +702,24 @@
       "source": "朝日新聞",
       "category": "物流",
       "publishedAt": "2026-10-08T20:00:00.000Z"
+    },
+    {
+      "id": "9d8f324640cccfa1",
+      "title": "海上物流の課題、日本もハブ港を目指し国内協調を 手塚広一郎氏",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MaHRVMll0ZkRWYUtiZHlMOXNrb1N5UEJQWnJ5b2hZbFJocUVTRGwzbjMxNjZoZUJReVB0QmJPc19OeFBjWERieDNSWVhYbjd3VDdIZ2FuUjNVV1Q3UnItak9KS19QeURIazNWOQ?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-08T17:00:00.000Z"
+    },
+    {
+      "id": "fd3d176f2a9ecd80",
+      "title": "JICAとジェトロがセミナーで調査報告、ウクライナ物流で周辺国の役割高まる",
+      "description": "ジェトロ（日本貿易振興機構）が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VTURWU1N1eEtHOF83Vy1BWjJtWjc5dDJrb3JuSVNVVkhfanFrMkY3V2QzTkFUWEg1dUwwNWh5NzlLY3E2ZEtKM1R6STNBX0tBWFBQU0R4X0g3NlVNWmhVOTVBek01c0tXRkZRaWlR?oc=5",
+      "source": "ジェトロ（日本貿易振興機構）",
+      "category": "物流",
+      "publishedAt": "2026-10-08T15:34:59.000Z"
     }
   ]
 }
