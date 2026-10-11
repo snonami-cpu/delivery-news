@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:53:41.403Z",
+  "updatedAt": "2026-10-11T22:53:58.869Z",
   "articles": [
     {
       "id": "9c93c51af60b73df",
@@ -27,15 +27,6 @@
       "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-11T11:13:00.000Z"
-    },
-    {
-      "id": "59cc5d9470682f63",
-      "title": "道路の気象影響リスク予測・天気予報",
-      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
-      "source": "tenki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-11T10:15:38.000Z"
     },
     {
       "id": "9e5e778a753bf596",
@@ -164,15 +155,6 @@
       "publishedAt": "2026-10-10T14:55:37.000Z"
     },
     {
-      "id": "e032ba625c46665c",
-      "title": "【速報】「事故に気付かなかった」トラックとバイクが衝突し男性死亡 ひき逃げ容疑でトラック運転手を逮捕 大阪市生野区",
-      "description": "UQライフが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTE5hUjdqYVhHSmhnZDc0MllYUVl4bXBmQmVNd0VsV1FKUTNXcmZoQVM0X2tMOXE4X19NcE5KQ25ZV2NPSi1BX1NXejktSksyZzZZTEFkZFRGUmFrWFNMV3ludk1lU0ZRTll6NE9hOElFQWp5Q3Nua0txbjlpdU9CZw?oc=5",
-      "source": "UQライフ",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-10T14:52:00.000Z"
-    },
-    {
       "id": "769b4d75a293de28",
       "title": "「事故に気付かなかった」トラックとバイクが衝突し男性死亡 ひき逃げ容疑でトラック運転手を逮捕 大阪市生野区",
       "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -180,6 +162,15 @@
       "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-10T14:52:00.000Z"
+    },
+    {
+      "id": "ad126795b23e225e",
+      "title": "【速報】「事故に気付かなかった」トラックとバイクが衝突し男性死亡 ひき逃げ容疑でトラック運転手を逮捕 大阪市生野区",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0FUQUQxUHFET2pGU3V3aVFVYzVrUV92Nk9KZkVaV19uV0hhb09tT1JvcEdiTFFsLTNCNEg2YTJoR3RyZ0xHbHFKUkRjaTd3S3VPejZPRlFCMmNnRWx0LUhQUUNFVG9Cdi1NYnp0SHRGb2dCS2E5TG1LQzNUYzFqNDJaUzl3Rms?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-10T14:51:01.000Z"
     },
     {
       "id": "4fe7277070d83bd3",
@@ -234,15 +225,6 @@
       "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-10-10T10:15:00.000Z"
-    },
-    {
-      "id": "a1da7a7824410125",
-      "title": "【事故】圏央道 入間IC付近で事故が発生",
-      "description": "Howl.Linkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5xc1pMSTRmZ3NKTmVBZGtwR3BzNUwyVndPekNTejJhSFBRZmtrUVlUQjlRNkxrM0R2RVNn?oc=5",
-      "source": "Howl.Link",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-10T09:49:17.000Z"
     },
     {
       "id": "cc945ab89692872f",
@@ -398,6 +380,15 @@
       "publishedAt": "2026-10-09T20:55:00.000Z"
     },
     {
+      "id": "ff48ffc493bc51ef",
+      "title": "アセンド代表・日下瑞貴、「製造業AI物流カンファレンス 2026 in 広島」に登壇",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02VDIzdHZkSXF2ak9iRm1GRnNUMnlZMm9FWnRjdUt1c1hOSEZsR1ZmdExpcmxtYlNVenJ5NkxkQjVmYkljeHg0NXR5bHFsNXl5MGJzdURZMURWTmhZRFF4YmppQjhKX3VEWVVhejIxZzZ1QQ?oc=5",
+      "source": "Infoseek",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-09T15:10:02.000Z"
+    },
+    {
       "id": "107d5d88f92f8d28",
       "title": "中国の物流情報網「LOGINK」失速、米国は「通商上の兵器」と危惧も―海外メディア",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -423,6 +414,15 @@
       "source": "JLL",
       "category": "物流",
       "publishedAt": "2026-10-09T11:06:44.000Z"
+    },
+    {
+      "id": "b8c68a26e433203e",
+      "title": "沖縄自動車道でトラック横転、資材散乱 沖縄南―西原間で5キロ渋滞（午後3時15分）",
+      "description": "沖縄タイムス社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lclhsdXJkeXdNczQ1aFNFWkRsRVRUTTJmc2JRQmhWQnhhenEzODlwTjlYQWRJbG9WdFBUb0xmSUZadFprOHN5Y2RDeWlLdWhncDVxM0R1bjIwcFhpb2c?oc=5",
+      "source": "沖縄タイムス社",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T10:50:00.000Z"
     },
     {
       "id": "461cede149ad5284",
@@ -452,15 +452,6 @@
       "publishedAt": "2026-10-09T09:13:19.000Z"
     },
     {
-      "id": "4d6afc15394098f2",
-      "title": "静岡県島田市の市道 トラックと車が正面衝突する事故で男性重体 どちらかが車線をはみ出したか （テレビ静岡NEWS）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91ek5rMUY1TktWWEpBUmhHYVgxYW50Y3k4TVQ2TUpneFk4R1RIMnhBYktVYmNBTHZoV2F6aGFBTUJud3JQXy1zY3NfZkxmOXBuZ2JiWVoxYUpYUy1YdlFOTkgwdXVmYTVLWlpMY1RDamo5Si1GeGNvMnhhU0NhVms?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T08:57:01.000Z"
-    },
-    {
       "id": "b8ba6ae1b7d23bec",
       "title": "フェデックス調査／半導体企業の35％がアジア太平洋で事業拡大を計画、物流の継続性重視も",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -468,15 +459,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T08:11:52.000Z"
-    },
-    {
-      "id": "cda63e930b44cd1f",
-      "title": "【4日間限定】きものの“宝探し”へ！MKグループ平塚物流センターを特別開放",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92QkJqVEdza3hib01XcHd1RDJESVc0NDl3ZjJkZmp2S1UwSmpzNVcxWmdXWDhoTnpQTUh1M1hEM0RPUWlRMFJKM3FhcEM1bGV6RHRVVzJIbHl1SzBSRzA3RHk1X0RBTW5qNXc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-09T08:10:01.000Z"
     },
     {
       "id": "ace2f47ca1b94cc7",
@@ -569,6 +551,15 @@
       "publishedAt": "2026-10-09T06:18:00.000Z"
     },
     {
+      "id": "dc9ab6b0b66b8a72",
+      "title": "静岡県島田市の市道 トラックと車が正面衝突する事故で男性重体 どちらかが車線をはみ出したか",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16blRWV3N5QVRhdS11VGdlVzFtTENSS1hoM3ZFWGw4R3hGcW1ad2J5azVSNFhVNlM3QWZCSDVuVlEyOHFUYTl1QmRURnU1UQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-09T06:10:00.000Z"
+    },
+    {
       "id": "a7d52557d1d7e629",
       "title": "【入出荷がストップ】ニッスイ傘下の日水物流でシステム障害、現時点では復旧時期未定。委託先データセンターへのランサムウェア攻撃で低温物流の現場が止まる",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -576,6 +567,15 @@
       "source": "千葉テレビ放送株式会社",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-09T06:00:00.000Z"
+    },
+    {
+      "id": "dc7e0dc7d7a72281",
+      "title": "圏央道／11月9日～12月1日、坂東IC～下総ICを順次夜間通行止め",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52WUppcGNER1hmMXJJRm0tQXBQZWNxVVBHMDdRb2dtLUJ2eGxIdzQzblA3ZklDdlh5WXZqUHRiUkJZUU5lNkVBdlZ0VnI3alI0cGtmTQ?oc=5",
+      "source": "トラックニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T05:51:00.000Z"
     },
     {
       "id": "26f6fa351c0d673b",
@@ -623,6 +623,15 @@
       "publishedAt": "2026-10-09T03:50:42.000Z"
     },
     {
+      "id": "8fbcf2f9d053883f",
+      "title": "【倒産】中長距離の貨物輸送会社が破産開始決定 下請け中心で利幅薄く燃料高騰の価格転嫁も進まず 負債総額は約1.4億円【帝国データバンク】（RKB毎日放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVR1Q4Q255VklqQm01QUd1NW12SkxoN1A1cmxibzNuREtJTnNKUlZWQmI2VDNLVGE3eTBOMjgxa3ladVJ1VFkwR2trUGVfUUJaaGZ5OS16cUFxLXhMRjQ1NkxTZGM0OTVyTG9tdHVtQmFDR0djSzMyT1ZqZnpyTEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-09T03:40:25.000Z"
+    },
+    {
       "id": "b7ab421f77e8c06b",
       "title": "ニッスイ低温物流子会社、一部入出荷を再開 情報漏洩は確認されず",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -639,15 +648,6 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-09T03:21:22.000Z"
-    },
-    {
-      "id": "1e5ed46e6ad82884",
-      "title": "トラックが神戸市バスに衝突した事故 ブレーキに焼けた痕見つかる 「フェード現象」原因か／兵庫県（サンテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSTE2VDJsYmNyb3JhOVV1cXdKbkp0UllYN1gtVXdfcFJzeGE3N01vNUFOYzl0WXpTVVgwZ001ZzFRejItRlY4SnhZRGx1WTlwTGwxSHFpbjBYMUtxVUNIRDhramdqQ3Jvb19fYkF2ejFvNDExNWFRNTl5S2NtdUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T03:13:32.000Z"
     },
     {
       "id": "cf11467e8d201a5f",
@@ -695,15 +695,6 @@
       "publishedAt": "2026-10-09T02:48:05.000Z"
     },
     {
-      "id": "bc7d99d5c5681c5e",
-      "title": "沖縄自動車道でトラック横転、資材散乱 沖縄南―西原間で5キロ渋滞（午後3時15分）",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81bENxb05YMERYYUsxcEJtWVRwVERqcmM5dUFyaUFzNWVJVXNMVXQzM081X2xkTmR5S21fVEk5bnFHa2ZfVm1xak00TQ?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-09T02:44:00.000Z"
-    },
-    {
       "id": "fcaf80c58ee1943f",
       "title": "「トラックが横転」沖縄自動車道で通行止め 中城パーキングエリア付近の那覇向け（午前11時10分現在）",
       "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +711,15 @@
       "source": "PR TIMES",
       "category": "物流",
       "publishedAt": "2026-10-09T02:30:02.000Z"
+    },
+    {
+      "id": "a37a7c1783549f17",
+      "title": "いすゞ、物流拠点を東京・町田に移転 １３日稼働 首都圏の配送網統合",
+      "description": "カナロコが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnSGc1eUFRRlAtUHVuanBwWHNfa0lLYWRzRnRpVkN1M2wyOWl6OC1Hd0w5T0JWWjlYWU1SX3FjaUc1X29tYjcyRDE0LW1uOTN1NEZYNTM5VjNDZGhXcWZMRlg2d2M3LVZH?oc=5",
+      "source": "カナロコ",
+      "category": "物流",
+      "publishedAt": "2026-10-09T02:30:00.000Z"
     }
   ]
 }
