@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T21:42:48.390Z",
+  "updatedAt": "2026-10-11T01:00:12.667Z",
   "articles": [
     {
-      "id": "0387bd2363faa5e1",
-      "title": "【倒産】運送業者が自己破産申請へ 個人宅配便や冷蔵食品などを扱う 同業との競争激しく…「コトブキ運輸」",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiRi14RjRYaUhpY3dITi1iQlJKSU9WcTZ3WmlzcWlISWJiVEljMllRUmgtQW1mQllvWGVlc0lacGJVTnNFSHFEcFVHY2dfM1RVbTFQNDFwWlBJTVZuWWpr?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-10-10T15:18:00.000Z"
+      "id": "0a42084b87bcaba5",
+      "title": "低温物流市場シェア上位メーカー",
+      "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqUkEwSklselFqS29rdFE2OExIaWJyWWlyWXBST2ZDWUJEbG5TSGZha2xELVdHOWs5WjVlbS00RVFQbVlEUGd1Mnhn?oc=5",
+      "source": "pando.life",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-11T00:10:54.000Z"
     },
     {
       "id": "e10e36d93ac52435",
@@ -74,11 +74,11 @@
       "publishedAt": "2026-10-10T10:33:00.000Z"
     },
     {
-      "id": "3b3b1b90d1809850",
+      "id": "407f7688af1ea091",
       "title": "東広島市でトラックが歩行者をはねる事故 70代女性が死亡",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pb2tiX3ZxUXljNXBmUzhfZHJ3M2xTNkdWTFBHdXcteGlfay1xS2tDd3lHaC1Xd3FmdWdtcTNvV2tuVEc5MTlpVTZ3R3JmemxGWHZHRkx4d3RocWY5SWJmeUFhWm1KNE9HWHBfbF9nOS1KaVBIM0daeDRhbzZ3UQ?oc=5",
-      "source": "Excite エキサイト",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSFNkQVI3LXJrSnRHS3RtQTZjclRkNTRTZXRPc1BieVZtdVBrWXlONS1lT1FCUDJ3a1JJMGhxcVBXUW1OS2tFUEdvTGN4X19JS2hHY0Z1b1RnSEwyLVlxa0NaVUt1SzlUeFQ0cDB3?oc=5",
+      "source": "au Webポータル",
       "category": "安全・事故",
       "publishedAt": "2026-10-10T10:24:00.000Z"
     },
@@ -209,15 +209,6 @@
       "publishedAt": "2026-10-10T02:49:07.000Z"
     },
     {
-      "id": "59cc5d9470682f63",
-      "title": "道路の気象影響リスク予測・天気予報",
-      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
-      "source": "tenki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-10T02:45:27.000Z"
-    },
-    {
       "id": "6e4481c1f9e7a0f4",
       "title": "ESR中東進出、物流・データ基盤に100億ドル超",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -288,6 +279,15 @@
       "source": "VIETJOベトナムニュース",
       "category": "物流",
       "publishedAt": "2026-10-09T20:55:00.000Z"
+    },
+    {
+      "id": "2ee3b5f0fa267336",
+      "title": "10月12日から、カウジー・ニンビン高速道路の最高速度制限は時速100キロとなる。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFVmeFJjRHA1NkpYcDI0TE41aUNNQ19jNzhtN3VFbjFXc0tBei1fT1ZZelNXcV9Xdlc1LWlFc09MMGszOWpLczRBc3ZhSDZvV3laS3BqUmE1UWYtSUZhdDlIejZiRWJLRzBZU0N3LUQtakMzMUdqTnJLNmtZUDhHdmxreDc1Z3ZNZGNpY043UFVfZ25l?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-09T15:35:35.000Z"
     },
     {
       "id": "107d5d88f92f8d28",
@@ -432,6 +432,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-09T07:26:44.000Z"
+    },
+    {
+      "id": "4911570431f45370",
+      "title": "日本商工会議所／物流コストを価格転嫁できた企業は40.5％で足踏み状態（2026年早期景気観測調査）",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tN0ZuWm5jazVSZVhxX0dKbnAwdXVLbDRweXg1NGlrWUhfSXRQRXBaVjV4VWRyenVTRHNiMlltUmhVSXVvd1RFMGc0SXdfWkNFakkzOA?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-09T07:24:00.000Z"
     },
     {
       "id": "a49edeee14e4135f",
@@ -711,15 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-09T01:28:12.000Z"
-    },
-    {
-      "id": "4545c03aebb6a155",
-      "title": "トラックと乗用車の交通事故か 重体の人がいる模様＝静岡・島田市",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tcWNCRmptWmxZQVdjNDBvM3BBUi1mc3Q0aG41cGUxNlhLNXNSZ1paZTdCcFNndVhLS180eGJYbE5RQS1JVDREWWU4UEZQYzdyUE0xa3N5czZCUjNYVDhYVHRQWXB2M2VBaHRHb2x4ZVc5NkE2aU1sLWJ2TWQ2d9IBdEFVX3lxTE9LX3JmVTJBc0d3aVRUX0wxVFRZSmwtRldoOTlka1B1TzItbFlXaEhXRF9aT1NJSW1oeTFCc3piU0N3Q01FN0xmUzc1Sk1iRzhQRDNwM2VHVUs0RU0zNVhLVmh3d2ZlUFUtNEthMF9vbDJaNjB6?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-09T01:24:00.000Z"
     }
   ]
 }
