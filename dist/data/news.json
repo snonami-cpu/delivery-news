@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-15T13:24:51.332Z",
+  "updatedAt": "2026-10-15T18:17:16.863Z",
   "articles": [
+    {
+      "id": "5faeed28561dd12f",
+      "title": "第747回物流川柳 2026年10月15日号｜物流川柳",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTVFlhNms5RlpsMmVpbG1wZXgza0xBNFpldFFRYjJLN2RYVXQxM0tkX0QxYkFiM1lhUkRYZWVWYTlhd0dNQXRnSHdPdmZmQ2tUN01wbVA2aw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-15T13:13:17.000Z"
+    },
     {
       "id": "3a8527820919692f",
       "title": "危険物倉庫備えた物流センター完成 中谷興運が１９日から稼働、自社初",
@@ -38,6 +47,15 @@
       "publishedAt": "2026-10-15T11:00:50.000Z"
     },
     {
+      "id": "43505a10d5ae11de",
+      "title": "巨大地震と物流 安否確認に代替ルート…平時にこそ備えを｜物流ニュース",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tX09WbzIwOVN1dllFWUUyWmhORTNWWVBiTHFWMEg3RWtsbEdlNGllNm5LOFVWLWhCc0pmMVN2cDZkSjV2WlFTUXFMeWY2Zw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-15T10:19:56.000Z"
+    },
+    {
       "id": "f930c32e314c015b",
       "title": "牛乳宅配網を活用、社食配送の効率化進める",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -45,15 +63,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-15T10:14:33.000Z"
-    },
-    {
-      "id": "43505a10d5ae11de",
-      "title": "巨大地震と物流 安否確認に代替ルート…平時にこそ備えを｜物流ニュース",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tX09WbzIwOVN1dllFWUUyWmhORTNWWVBiTHFWMEg3RWtsbEdlNGllNm5LOFVWLWhCc0pmMVN2cDZkSjV2WlFTUXFMeWY2Zw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-15T10:05:01.000Z"
     },
     {
       "id": "eb90408d360559a6",
@@ -110,6 +119,15 @@
       "publishedAt": "2026-10-15T08:00:00.000Z"
     },
     {
+      "id": "dc4dcf661fb4d3be",
+      "title": "市道交差点でトラックと衝突、自転車の高齢女性が重体 運転の47歳の男逮捕 神戸・長田|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xb3ZHNEhpTTU4QjJLUV9Pc0FHYzZUVWJNYWN1aDZwcHJWZEV2VGxPdkYxcFNGN2xFZFpjYTEzZzVVaEJNTl9Nc2sxQmhtZUtqZUJzUmg2aEFsYkVTa2pTcmZJbmFnLUZXdUc1ZXRVNF9vVVNoNGk0T25Iaw?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-15T07:58:57.000Z"
+    },
+    {
       "id": "7e7248c2abd84155",
       "title": "「トラックの日」交通安全宣言",
       "description": "愛知県公式Webサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -117,6 +135,15 @@
       "source": "愛知県公式Webサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-15T07:42:32.000Z"
+    },
+    {
+      "id": "8d9ed4e4a5d2a89e",
+      "title": "工場内物流市場―2026年～2032年の世界市場予測",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QaDFOczcyTkFqMm9xU0Zmc3RvcWpGY1U4SDRSdUFwa3FMdEl4WUVTc2tNeDRwdnFhM1dmWDE1NzhRd1Z4S2d2RERBaGJpNDg?oc=5",
+      "source": "アットプレス",
+      "category": "物流",
+      "publishedAt": "2026-10-15T07:25:00.000Z"
     },
     {
       "id": "eacbb0d578965399",
@@ -200,15 +227,6 @@
       "publishedAt": "2026-10-15T05:19:46.000Z"
     },
     {
-      "id": "5faeed28561dd12f",
-      "title": "第747回物流川柳 2026年10月15日号｜物流川柳",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTVFlhNms5RlpsMmVpbG1wZXgza0xBNFpldFFRYjJLN2RYVXQxM0tkX0QxYkFiM1lhUkRYZWVWYTlhd0dNQXRnSHdPdmZmQ2tUN01wbVA2aw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-15T05:13:16.000Z"
-    },
-    {
       "id": "28b4920b73c18a7f",
       "title": "10月20日から、カウジエ～カオボ高速道路の高速車線を違反した車両には罰則が科せられる。",
       "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -225,15 +243,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-15T04:21:23.000Z"
-    },
-    {
-      "id": "59cc5d9470682f63",
-      "title": "道路の気象影響リスク予測・天気予報",
-      "description": "tenki.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBvNjFWcHJTbnpPRGlQNFZ6azUxTTBCc0hlQ0VkU0J5eVF0UWIzb1M2M3o4c2pId3ZQYmc?oc=5",
-      "source": "tenki.jp",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-15T03:57:30.000Z"
     },
     {
       "id": "4a90cdc71263bda7",
@@ -443,6 +452,15 @@
       "publishedAt": "2026-10-14T14:09:58.000Z"
     },
     {
+      "id": "7c3f0865abaff4a7",
+      "title": "のと里山海道でトラックとワゴン車が衝突、1人死亡 石川県志賀町、一時通行止め",
+      "description": "中日新聞Webが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94QVdDd0UxZWNYa3R2anM1S3BFYWFmcjZqQTE5QjdiNWpiYnRYSzNlaElGY0JibUN4REJsWm53enBaRS1uRDdneWFjekZwb3drQnlZOA?oc=5",
+      "source": "中日新聞Web",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-14T12:40:00.000Z"
+    },
+    {
       "id": "9884d09a11cc4bc4",
       "title": "周防大島町で軽トラックとバイクが衝突 33歳男性が死亡（ＫＲＹ山口放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -614,6 +632,15 @@
       "publishedAt": "2026-10-14T07:48:01.000Z"
     },
     {
+      "id": "afea8b03e3f07770",
+      "title": "陸上貨物運送事業労働災害防止協会／「陸上貨物運送事業年末・年始労働災害防止強調運動」12月1日から開催",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OWDNZMjNOSDFJZXJpTUEybm4xdlBiRUpDejN1QmZQWjRUZDhiVlpKb3B0TjhhS0hhOGxYRlFDRTN4aVlTQ1lYTFY5ZlVHbU1VMW9idg?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-14T07:38:00.000Z"
+    },
+    {
       "id": "8ca13ba831166ff4",
       "title": "国土交通省／トラック事業者向け「物流効率化法に基づく中長期計画の記載例」公開",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -668,15 +695,6 @@
       "publishedAt": "2026-10-14T06:51:40.000Z"
     },
     {
-      "id": "34a15c838231ce82",
-      "title": "ヤマトとベトナムのマスターライズ、ザービン国際空港で高度物流ハブ構築へ連携 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Dd0ZkTlR5M3lldmlhN0hZQ2dwRHVBVlZqd0wyS1pUclJXUDh5LWpmdFJ4WjNfY3dqUlFMXzdBSHVjUHNsd3dNQlNQUQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-10-14T06:43:28.000Z"
-    },
-    {
       "id": "129796253d8a65bf",
       "title": "物流・運輸業の35.4％が「定着率低い」と回答",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "アットプレス",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-14T06:16:00.000Z"
-    },
-    {
-      "id": "f1c313c3b5634f25",
-      "title": "コクヨ／最新鋭の物流拠点「東北IDC」を仙台市に開所、11月から本格稼働",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zb0sxaE5HcVNqY3lKZkpmWm1aVEpfWGhxVktxem5WY08zd1FYV2N0RzBvQzc0VzRNWlhHdzJpbjgzdWp3alo2bTVRWjJaWm1EVEtnWA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-14T05:36:25.000Z"
-    },
-    {
-      "id": "73ad2c4b44692c5a",
-      "title": "ワクチン保管機器市場：機器の種類、技術、温度範囲、容量、動力源、エンドユーザー、用途、流通チャネル別―2026年～2032年の世界市場予測",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MeWFSUXlfMHFSSGxLMHlxcnZHcmhncUFrbm1SNkc0a01lbUpzdDBSaU1PdWNVQ29DU3hRMXN5d0U1cTlZOVcxci1Kb2Nmc2M?oc=5",
-      "source": "アットプレス",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-14T05:12:00.000Z"
     }
   ]
 }
