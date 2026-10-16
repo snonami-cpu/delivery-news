@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:16:00.288Z",
+  "updatedAt": "2026-10-16T00:26:23.098Z",
   "articles": [
     {
       "id": "ae809785f59abbf0",
@@ -17,6 +17,15 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBQX0lqUXVKeXdncThySjlEY2xjNEl4LVg1eEpLRjJZbUhiSVF1Y1dUN01hMlNJMUJnWmJ6Zy1rb293OEZnbTRraVhn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
+      "publishedAt": "2026-10-15T19:52:30.000Z"
+    },
+    {
+      "id": "ee21549acb9ea445",
+      "title": "物流DX未来会議、国交省奈良氏が適正原価を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaUFBpYW1lMHo0TUJFb0d4eFdZV2ZkVEM1WlBRMldBNWxySWdGTXNndmpYYUphalRKVm5oS2JrdDVybjRaMjNjSkVn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "法令・行政",
       "publishedAt": "2026-10-15T19:52:30.000Z"
     },
     {
@@ -62,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zelNsT3A4Q21LNmswRUpob1ZyZWhMaHFrdWFEVWZiMzhjOFl4MzBpNzhEeUM5ZVpWd0hZSkxMaWpldWQweGFQb0x2UXAyVlB3cFE?oc=5",
       "source": "山陽新聞",
       "category": "物流",
-      "publishedAt": "2026-10-15T12:04:00.000Z"
+      "publishedAt": "2026-10-15T12:05:43.000Z"
     },
     {
       "id": "7bbebc6a76b5e9e1",
@@ -87,6 +96,24 @@
       "title": "積載量クリアでも違反!? トラック事故を招く“軸重の偏り”の恐ろしさ",
       "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TM3lneGhxNDZUc0pZYlA0dnlYWU9kN25XTFZ4TnJEX0s5S0pGWGFMWG90MjU1Z3NtRGlKU1gyWE5OeG1veGdhaDI4a2FTeElsQThxbWhDTW55NlBWX0JZ?oc=5",
+      "source": "ライブドアニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-15T11:00:50.000Z"
+    },
+    {
+      "id": "24e33743c970fc5f",
+      "title": "【画像】積載量クリアでも違反!? トラック事故を招く“軸重の偏り”の恐ろしさ 1/6",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rQlhJSjh1VHREUXFsc1RsdWZ2blVMSENMTVVhei0tRWEzcW5URDBKMUJPV2NseWkza1U0M1paUFdvUDFvd1dMMm0yaEpXZk01WktQVGhvSlZ6THN4X3pzVHRLYmFkS1hHc09RMG03ek1hZmczR0N3bTJfVFI?oc=5",
+      "source": "ライブドアニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-15T11:00:50.000Z"
+    },
+    {
+      "id": "35d57c21bdc8260f",
+      "title": "【画像】積載量クリアでも違反!? トラック事故を招く“軸重の偏り”の恐ろしさ 3/6",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ObU1obmMtbUpNdGxFX2hidU9zeWktTHdBd2Z3clNrTnl2a3poakpsd0RsaWpmV3oyVi1IR0w2N1FxUGJzUm5lQmJ1aF92dlhvai1ZVVpTaVpTWTFQckNlNGxyemhDekMtdzYwTTVkYkxaYkdPY2pXX1QzTk0?oc=5",
       "source": "ライブドアニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-15T11:00:50.000Z"
@@ -290,15 +317,6 @@
       "publishedAt": "2026-10-15T02:55:28.000Z"
     },
     {
-      "id": "ee21549acb9ea445",
-      "title": "物流DX未来会議、国交省奈良氏が適正原価を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaUFBpYW1lMHo0TUJFb0d4eFdZV2ZkVEM1WlBRMldBNWxySWdGTXNndmpYYUphalRKVm5oS2JrdDVybjRaMjNjSkVn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-15T02:00:03.000Z"
-    },
-    {
       "id": "b09d6cab16ceea32",
       "title": "軽油数千リットルを運送会社から横領か 当時営業所長だった男 業務上横領の疑いで逮捕 岩手県",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -315,6 +333,15 @@
       "source": "PR TIMES",
       "category": "法令・行政",
       "publishedAt": "2026-10-15T01:30:02.000Z"
+    },
+    {
+      "id": "02332958f8206c78",
+      "title": "物流ロボ・自動運転市場、46年に2336億ドル",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNSDZpTjF2aU9rQzllTE5hX3NvSGs1bGhFY0FlMXR2M1d3ZGJ5bGlaXzloNFVvVDNNV2FUU1I3WkJFdjZNcU9BZThB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-15T00:48:34.000Z"
     },
     {
       "id": "55225c0c6e94f737",
@@ -398,6 +425,15 @@
       "publishedAt": "2026-10-14T21:00:00.000Z"
     },
     {
+      "id": "cbd53fd4b6aa774a",
+      "title": "関通ＨＤ 中国系物流ソリューション企業と業務提携",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FNmNEVFgxRUYxSHR0bTRfTGphRnJycXpzd1VwblBNaDRMR0FJVXhQa2dCSmFqVTdpVTQ4U3hWdlNBdEx0TDFPQ0kyRmZ4SElyNzZmSVNXdGRBbl9hbVQw?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-10-14T21:00:00.000Z"
+    },
+    {
       "id": "f50d82cb56cd402a",
       "title": "ひと スピード感を持って課題解決へ 国土交通省 大臣官房審議官 奈良和美 氏",
       "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -468,6 +504,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-14T14:09:58.000Z"
+    },
+    {
+      "id": "7c3f0865abaff4a7",
+      "title": "のと里山海道でトラックとワゴン車が衝突、1人死亡 石川県志賀町、一時通行止め",
+      "description": "中日新聞Webが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94QVdDd0UxZWNYa3R2anM1S3BFYWFmcjZqQTE5QjdiNWpiYnRYSzNlaElGY0JibUN4REJsWm53enBaRS1uRDdneWFjekZwb3drQnlZOA?oc=5",
+      "source": "中日新聞Web",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-14T12:40:00.000Z"
     },
     {
       "id": "9884d09a11cc4bc4",
@@ -668,58 +713,13 @@
       "publishedAt": "2026-10-14T07:22:02.000Z"
     },
     {
-      "id": "e0fda105a8e9a359",
-      "title": "物流大手「ＥＳＲ」が九州道鳥栖ジャンクション近くに大型物流施設…２５０人以上の新規雇用を見込む",
-      "description": "読売新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05REE1ai1mQlctMUY0UlRfaXFPcUNVWVhMTTNLRV9fZFhOU1BadGpfVDFyQWtGVzBWbWh1SlZ6UkxmOTd5Ukt3bFJKS0llbE94dHg4Wk5RajFkakE3R0tmcVBseHk0dlFjRFdpYm8wWl9Vdw?oc=5",
-      "source": "読売新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-14T07:06:00.000Z"
-    },
-    {
-      "id": "13bfe7c655b483f2",
-      "title": "物流連 業界合同説明会を11月から開催",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OaEstXzFLR0ZLZ2RzRG1vZ1RtS3ZXLXJFMWVOcklKNGhxQjRfNFZBMVFtNHVoVkNveTBWNUNhd1BuVnNNQlk0OEdRaUpkRzNmYzdGWC1mb0t3bVl4SGJr?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "id": "5211dd6f63f3dae7",
-      "title": "ＤＨＬサプライ ベイクルーズの物流拠点に自動倉庫を導入",
-      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNjRPNnpRS2pwLTRvSXhQaHlfRG5fcjJscEUzdXpPVXZYb2NmZnBpUFBQWHJLaXh2cXYtTE5sc1VLQ2ttbEhuU2xiaXV3dV9XbTJ0N2w3NVh1b1JSNTFr?oc=5",
-      "source": "カーゴニュースオンライン",
-      "category": "物流",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "id": "f5dc036c33e13f4d",
-      "title": "エニキャリ／徳島県で新聞販売店網を活用した店舗向け配送サービスを実証",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XOEROSnZyLTM2NnMxdkl0R1ROeFlGTFAzS2VnV09WYjJXRVdDMlVWMHU4c04xNUpXOVVrVHhqcXFab0tJV3JReW1hWEhaRzRwUmNJVw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-14T06:51:40.000Z"
-    },
-    {
-      "id": "129796253d8a65bf",
-      "title": "物流・運輸業の35.4％が「定着率低い」と回答",
+      "id": "8cff87c0d53f54f5",
+      "title": "日成ビルド工業、物流倉庫向けシステム建築を拡充",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84ZzBHMzVxTGhwTDFiMzA3NG9ZejRFeVRZb3NMWkhPQnZjTWtUQnhyUVpJQlNfenlKbmhtS1dHQTJfUlZ4dTVLNUtR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxZ0JSSXA0aWNva2lqMFNfdE80Z0xhbE1TR1FBZU9ZaTh3NkE1YjFaenhoUmVZRFhoSHVCa0VoMDhoM0tLcHpaY2R3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-14T06:43:23.000Z"
-    },
-    {
-      "id": "cbde962c1620ce12",
-      "title": "TechSuite、倉庫・物流施設のAI検索を調査",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52bUFqZnJlWW5mQllHVHpxYjJ3b3B1dC11c213c19nM3dIajdyS2RwYVVraGpXTnl6WGtHdlVVV3lWay1SMU5lQXN3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-14T06:25:40.000Z"
+      "publishedAt": "2026-10-14T07:15:38.000Z"
     }
   ]
 }
