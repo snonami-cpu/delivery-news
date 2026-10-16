@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-16T16:37:46.313Z",
+  "updatedAt": "2026-10-16T19:56:51.285Z",
   "articles": [
+    {
+      "id": "6400a637d4464d14",
+      "title": "書評『冷蔵庫 「冷やす箱」が起こした物流革命』ニコラ・トゥイリー著",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1X2ctcUpBMkMxdUhjWjJLSEw1SjBhQmJXSkVnNTZqLWV3OWJWeDNZVXV1RDhXS3Mtay0yLXU1YzNMOXc5Rjg2bGl3NEp1UnFTQ21UQUNsVnRWazhneUlkWjJheFRRSnRzTjlpNw?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-16T17:00:00.000Z"
+    },
+    {
+      "id": "37381ba78f1335ae",
+      "title": "温度監視デバイス市場2035年までの見通し：コールドチェーンと産業デジタル化が成長を牽引 - ニュースと統計",
+      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGJ4WF9wLWlFUlNGMXlacVhRQV8wTE9xQ29KWUFfZEJtZ050YWpGNldNN0NvOE1KNEVlcEp1cm0xRGdkOUdxTDdXcGFWckllUHhTa0JqNHlwSWNta1RyNk4wQXViXzNGUndKYVhrcjFPaUFaNzNTUjN0dS1PODRmMnhiaE5VWnB0d05xNXNUMmhLcC1keDdzZ1ZBeVNFNXlNMVBrZTRZaWk4YTRseTlYV1NPcnhfampKekhLbms0b3JQd3NLZGlnQTRKTW4xQThfWUU0OQ?oc=5",
+      "source": "IndexBox",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-16T16:21:03.000Z"
+    },
     {
       "id": "5752f09671da6ea3",
       "title": "Shippio、日本郵船らと27年国際物流を展望",
@@ -54,15 +72,6 @@
       "source": "Excite エキサイト",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T10:56:00.000Z"
-    },
-    {
-      "id": "b2290ac8ed26e2a8",
-      "title": "走行中の大型トラック車輪脱落事故を防ぐ 宮城県トラック協会が冬用タイヤ交換時期に向け研修会（仙台放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VdWhGZURGdVYycHVGMjNkRU5lN3h5NXhmamNwMmhuUERTYzJ1SVhJSFdTUkpXdC15UU5zUWJ0YmUxOXcxckNGZzM1ZXMwMUY5TEZ4MHBuU1JQcE82QXU0V2NTT3BtY0xWZ2Nvclg2WTI0cUg4NmVyTUM4RnBqX3c?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T10:29:01.000Z"
     },
     {
       "id": "b5af7dda57b57bb3",
@@ -191,6 +200,15 @@
       "publishedAt": "2026-10-16T08:37:30.000Z"
     },
     {
+      "id": "45cf4b473718b860",
+      "title": "アクアラインでトラックなど4台絡む事故 5人けが 上りの通行止め続く(2026年10月1日) Stephon Castle (GH1yGi68ZN)",
+      "description": "Unisba Mediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVlCVFB6OFlRdkRLSzRDelYwWnpEbHpWN3hqYkcxdFY0U2xQZ1NCc2trZWVQdXdBS1hfZzlqRGxnOE9teEFtczlaWl9SZEVsb2lrb1FHb21CbWk1a0huYUJLcTVMaGZRdEFwZk1iYjBBWmc4RUc5elJ4ME9EbHR2a2F3?oc=5",
+      "source": "Unisba Media",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-16T08:33:30.000Z"
+    },
+    {
       "id": "432f366d8589b112",
       "title": "東計電算、フィジカルAI軸に物流DXセミナー",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -290,15 +308,6 @@
       "publishedAt": "2026-10-16T06:52:07.000Z"
     },
     {
-      "id": "d080c8ea3d13427f",
-      "title": "シーネット、国際物流総合展2026の反響を受け、フォローアップ特別企画セミナー「物流DX まるわかりDAY」を10月20日に開催",
-      "description": "PR TIMESが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LaEcwZHRPSlI2aFhiVEY1Z1RCSjJZVTl2Tk9SdmtsNmlBam56RGo5ZktNWDdGYW5ZY2p3M2haVy1jNTFTZFI1VnN0dUg5UGdRSS1wcG5GVlE4d1A1Z2wtVHpUaF9tVjh2RXc?oc=5",
-      "source": "PR TIMES",
-      "category": "物流",
-      "publishedAt": "2026-10-16T06:27:37.000Z"
-    },
-    {
       "id": "58aa81b5f43440d3",
       "title": "展示会備品、保管・配送の一元管理は3割弱",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -321,6 +330,15 @@
       "title": "日本ストライカー／横浜市に大型医療機器の物流センター開設、事業拡大で国内6拠点目",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nY2JualhqWm5ERnA4aDBKcG11aDgwVU5uWjYyUmJUZHNoak9Va3EzVDRfTkdpRkNOdGhQajR6dzBJOWpUMGp0Qi1vTVRSYjAxbTdVVA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-16T05:51:54.000Z"
+    },
+    {
+      "id": "f3326fe19e69423f",
+      "title": "ネスレ日本、明治／関東～関西間で海上輸送、ラウンド輸送を開始",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rRkc0Yy12U3NIY0tRYmxnWWxoc01uak96dHFpMWRIV01pQXI4WWN1N3hrMHMwLVpueU00Mk5RTWlDSzRhUFlJSmJhcHVSaGU2TUMxUg?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-16T05:51:54.000Z"
@@ -450,6 +468,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T02:59:01.000Z"
+    },
+    {
+      "id": "e5120b07df27a407",
+      "title": "神戸市灘区のトラック追突事故 土砂過積載が「フェード現象」引き起こしたか",
+      "description": "サンテレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTmNXUHJRaG43SE9OZHJ2MEdYZXVaUXlPYkQtYkhmM19Tc0Jocjh3ZmlOeU9BdFlKVXpIREJGZ1FHTWx2VVFqVmczUlNXaXRzbDJmemdUVlJqYm5tc0ROZmJXbmVkeEVx?oc=5",
+      "source": "サンテレビ",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-16T02:52:00.000Z"
     },
     {
       "id": "6b1f4af21f4c00ae",
@@ -693,33 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-15T19:58:13.000Z"
-    },
-    {
-      "id": "b177cb40e6bd6342",
-      "title": "HERE、物流の配車・配送最適化を支援",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rRmR5V3RtVDlpM2E0ZmFjbXlCVk5PZjVUTGduSUdINndVMEFwRWZCV2RzdnE3dlFGam1CRFl3NlJEZ3VZT0hraHpB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-15T19:58:13.000Z"
-    },
-    {
-      "id": "081c37a1592baec2",
-      "title": "2026年10月15日／新規許認可運送事業者",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdTRYY2ZoOU0xSUZpNWQzaVoyb0FxS3pDQ3ZqcXM4am9lM05xYmJqcGdNbUtuZEk0U1o1dTgyczB0YTFMSk1veGYyTW5uMGx2bTh2a2xQaWo?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-15T13:23:30.000Z"
-    },
-    {
-      "id": "5faeed28561dd12f",
-      "title": "第747回物流川柳 2026年10月15日号｜物流川柳",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTVFlhNms5RlpsMmVpbG1wZXgza0xBNFpldFFRYjJLN2RYVXQxM0tkX0QxYkFiM1lhUkRYZWVWYTlhd0dNQXRnSHdPdmZmQ2tUN01wbVA2aw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-15T13:15:36.000Z"
     }
   ]
 }
