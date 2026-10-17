@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-17T11:36:26.993Z",
+  "updatedAt": "2026-10-17T15:32:49.911Z",
   "articles": [
+    {
+      "id": "c6a4fc97e158313e",
+      "title": "大型トラックが停止中の軽乗用車に追突、1人死亡 福島市の東北道下り線",
+      "description": "産経ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwNVhfaHF5MW02UHJwNy0xXzVHdmJXUk95elRwc3FEcVZwd2dxOTRQV0NySDF6b3V1dDV2M05GNE44TjNydzk1dEpYSUl4UGtpMW5zYV9zRGM0cEJIOENsTXNZWnhaSHJieDBFM20yUzQ5eDFEakE?oc=5",
+      "source": "産経ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T09:23:35.000Z"
+    },
     {
       "id": "86c558da4160f6f9",
       "title": "東北道で大型トラックが軽乗用車に衝突 女性1人死亡、男女3人ケガ 一部区間が約10時間通行止めに 福島市",
@@ -38,6 +47,24 @@
       "publishedAt": "2026-10-17T07:20:23.000Z"
     },
     {
+      "id": "2fc27fef08a3b1b1",
+      "title": "「仕事失うかも」「暴言」「今がチャンス」 今どきの荷主と運送会社の関係は",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pU0prZ1JxS09ZMHNxbWVuNU5lQkVYdHpSN1lNZmRwTGlQSDB2Q3NqakczaFFBUGJWSlFwMFpJTzZQTGc1eG42UnFSV0FkUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-17T06:32:40.000Z"
+    },
+    {
+      "id": "87253b2d8160b0f1",
+      "title": "自転車の男性がトラックにはねられ重傷 運転の会社員を容疑で逮捕 神戸市中央区の交差点|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CUDJPUjdKWU9BeHZENFBmYVdEQXRNWFlGVFJ6enU0Y3VuVUNFZDJqb2Robzh6LUF5SGVzdFduWi1Wdl96R1hmNTlXZjAwVVUtNXVTcWpvcXVFMS1tdnBpZ3B3dGpvVGlvWUJtVkNqVFlvMXIzRmVLaEVJOA?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T03:54:00.000Z"
+    },
+    {
       "id": "6c8ba29f3579fe56",
       "title": "【東北道/東北中央道】福島市内でトラック衝突死亡事故 通行止めは10時間ぶりすべて解除〈17日12:45現在〉",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -54,6 +81,24 @@
       "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-17T03:30:00.000Z"
+    },
+    {
+      "id": "fd660dfca69ea75f",
+      "title": "東北道で大型トラックが軽乗用車に追突 軽乗用車側の4人が死傷 福島飯坂IC〜桑折JCTが約10時間通行止め",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUFg5Z0Vud1BIRXZ6YmcxN3YzY1c3WjZhd19yUjdXSHV3SWd1a1cyUGlNdEJxUFV4NF8ycUpxVEd2YUpoV2RxQkZjT3dFVmxabFpuZUlMejNrRE5jdG1zLTlseVBONkVpSEtuTnFXLU4tQWJHc1ZIWWwteE9PQ28?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-17T03:06:00.000Z"
+    },
+    {
+      "id": "b1bc57ec91718bca",
+      "title": "トラックが軽乗用車に追突 1人死亡 1人意識不明 福島・東北道",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YMjJrVElUN0RfUUR3R01NTHA1a1Z0azRCclAxd2c5LWtZekoxQXZSWnktTkFyQlBHR1dvSzA3bS1QVmNiVXNSZzJTSTRjckdRRGFMbTdMcWJ1X3FHMEpUWHo1aXJGYTRWM0hmMmQxSVNPdw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T03:05:05.000Z"
     },
     {
       "id": "44f1afab71877745",
@@ -675,51 +720,6 @@
       "source": "Infoseek",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T05:20:00.000Z"
-    },
-    {
-      "id": "b72f7c35cfc32ba9",
-      "title": "決算:郵船、陸運など物流事業の経常益600億円超に 買収などで",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNjFWSC02dldLYTlDSmtMTjVNcnJLTDBVRXBpSUx3aXBCOEw4dWtQblFOd2xhYjY3Qm04Y0pnTnFodXA4Z1ZQeWY2SmNGSWY5SHRheUJfdHRKOWcyX0tud0phTmZwZU1CV0Rheg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-16T05:00:00.000Z"
-    },
-    {
-      "id": "18f6980257f7f06a",
-      "title": "国交省／改正物流効率化法11月1日施行へ、トラック中継輸送を支援",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1V0xRMnBRMHBPYk1IRVVnMTc1V2hycjFXb25rTnZXVXo5YkhHS2NFQUpIcHpYdmptcElRUElwMEh5ZEt6T3dGNUxkamtQdERsbnJjSQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-16T04:56:42.000Z"
-    },
-    {
-      "id": "7dab82c8b68e9f40",
-      "title": "チュオンチン通りの交通規制により渋滞緩和へ｜60秒ニュース、2026年10月16日午前",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamtTWGxNQUZBZ213UVA1M2pnRGFUT09vQ2VzVHVnM2gxemxxbTQ5YzZqblktS1I4T3ppc0p0N0RHVGZ5X2hfY2FvNFRmUmZzcHNmd3U0MnRxSW5TamVQM19FMzlZeFJfVTNDX01LZ3ROdkRnMUlCdE9vZFprU0IzLVZFNW12OFAzWjVGY1RtbWJhUGl5RlkyQm1yYlRJbUhZNEs4ODlJNVdER2wyYk5v?oc=5",
-      "source": "Vietnam.vn",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-16T04:39:36.000Z"
-    },
-    {
-      "id": "83b79cf79bab3520",
-      "title": "ANAHD、ANA／本社を八重洲へ移転、2030年春めど",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xXzVkQTljdDRmTzUtZ3ZOdUZCMEI4bmZXdzYxOGV5bVpxT3lFLTdQcVNJbFFCMzNuQmlTQnBmR0V2bHJHMGVqalF1RjlEem9vU0VQMQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-16T04:36:36.000Z"
-    },
-    {
-      "id": "92dfca909c27fdb9",
-      "title": "神戸市灘区のトラック追突事故 土砂過積載が「フェード現象」引き起こしたか／兵庫県（サンテレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Tk1VZWVEbW9OX3d6RDBrblJEX0xGWmxvOF9ya3ZWZHFlTDFOY1g2R0NHdWZyT3FlSHRCM3RsNU50dW1tOHRDelVBMWJzRUp5T3piZGhNZ2hkemNKN0ZKMm9NdFRQUlVhZFAwWHY1RklCS01ycEJQTUVXdS1JaGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T03:33:47.000Z"
     }
   ]
 }
