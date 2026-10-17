@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-17T18:29:27.654Z",
+  "updatedAt": "2026-10-17T21:27:11.644Z",
   "articles": [
+    {
+      "id": "f0b3debc61c15547",
+      "title": "スロバキア東部、ウクライナ物流の新拠点に ポーランド経由を補完",
+      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01TkRrbkJGMURXMWgwMmVsX1V0bFppem0tcEJsa1MxSFljdEFNUGxZNGlWS0daWVhpVlJUZVNURjFERmZqb08xMFJxMGFnN1FrRUt4OUZMSllFWE9jaXgyTi1EY19EOHc1T19nYg?oc=5",
+      "source": "日本経済新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-17T20:00:00.000Z"
+    },
     {
       "id": "5aa473f761028df0",
       "title": "新東名・岡崎東IC―新城IC間の上り線が事故で通行止め 「鹿と車がぶつかり、トラックが追突した」と110番",
@@ -18,15 +27,6 @@
       "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-10-17T14:35:28.000Z"
-    },
-    {
-      "id": "fc12fa54167e6bb8",
-      "title": "ミートゥアン-カントー高速道路を横断するヴォー・ヴァン・キエット高架橋の橋桁を警備するため、夜通し作業を行った。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXM4TDVXV2RXbFp4NjVBX1hUeUIyYkNIX2k3WXVtUlR6YXJpUDRweXZhak1XMmZIWGdtT2plTDdrMHBlbnZqZU9yRnFoVzd2dWJOcDYxR0FiakE4b2tQUU05UUtvZXVrSlhiQldUaG9XUzJFaGlsbUJGOGZWTi1HVWJTSHlVUUlXN1k5cEFUVmtTb0dIUHpFbUJwNFhFZy1T?oc=5",
-      "source": "Vietnam.vn",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-17T12:09:58.000Z"
     },
     {
       "id": "c6a4fc97e158313e",
@@ -81,6 +81,15 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-17T06:32:40.000Z"
+    },
+    {
+      "id": "87253b2d8160b0f1",
+      "title": "自転車の男性がトラックにはねられ重傷 運転の会社員を容疑で逮捕 神戸市中央区の交差点|交通事故",
+      "description": "神戸新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CUDJPUjdKWU9BeHZENFBmYVdEQXRNWFlGVFJ6enU0Y3VuVUNFZDJqb2Robzh6LUF5SGVzdFduWi1Wdl96R1hmNTlXZjAwVVUtNXVTcWpvcXVFMS1tdnBpZ3B3dGpvVGlvWUJtVkNqVFlvMXIzRmVLaEVJOA?oc=5",
+      "source": "神戸新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T03:54:00.000Z"
     },
     {
       "id": "6c8ba29f3579fe56",
@@ -189,6 +198,15 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-17T01:42:01.000Z"
+    },
+    {
+      "id": "55c3813e951e5c93",
+      "title": "上信越道上り線閼伽流山トンネルで事故 77歳男性運転の軽トラックが側壁に衝突し横転 搬送先の病院で男性の死亡確認【長野・佐久市】",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzlNLVN0VHFPZmJFMVVnX0w2cFUxcHNmUlgxTWJoUWExT2FBd19vLXRWV2ZrMXM1UkN6N3RfN2dja2pqTlNaYmdZakkwSXpKbTExVWVhb2FwLTYxbDZGZ1V5VUk1ekR0RWVKeUtBejllQTZXYmJiMGhDLUd4aG5uVk9UNVhWSU0?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T01:06:00.000Z"
     },
     {
       "id": "84a5e50ee08607f5",
@@ -308,6 +326,15 @@
       "publishedAt": "2026-10-16T22:25:56.000Z"
     },
     {
+      "id": "64a18dc1322accb8",
+      "title": "大黒天物産が総社のユニチカ跡地取得 食品・加工物流センター増強へ",
+      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiUkx1RDl6OERXaFJGTEdfc2pGRmQxZ1lRXzhWSVUwUUJ0bnJGNFI0SWh5ZUY0RE0zcVBhRFVzRTl0YjlTTjY4NjlDLUZuYkJRM1E?oc=5",
+      "source": "山陽新聞",
+      "category": "物流",
+      "publishedAt": "2026-10-16T22:00:00.000Z"
+    },
+    {
       "id": "8f7ee129e0f6f76f",
       "title": "ギオン、大阪・高槻に大型食品物流拠点を開設",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -407,10 +434,10 @@
       "publishedAt": "2026-10-16T11:00:34.000Z"
     },
     {
-      "id": "323e3c77e1682726",
+      "id": "1ce8c29e24b8550e",
       "title": "【倒産】創業40年の貨物運送会社が破産開始決定 負債総額は約1億2000万円【東京商工リサーチ】",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eWJRTnNtOHQ4LVkxcWFRTUNqUVZvSDJPeHk2Q2E3QWFoVW4xb0p4Wm9yTXp1cG9mcGdja1N3Nlp1SHVWQkpOdVZ3RDNXem1qeVN5c0djOEt4aUxyU1pBTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05WVBGUm9TdDg3U3hacEdTeWVSeDFiLWpaWmZOYnNlYk5idVItRVpRbXA0a2ZhZWp1TXRtaVNzV3U4Q1NmTHVIZjFpajJITFpiZURpTWgtMWstZGNMQ2VyYmZuaExtdDg?oc=5",
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-16T11:00:00.000Z"
@@ -426,7 +453,7 @@
     },
     {
       "id": "82e56ffd20ef17df",
-      "title": "東富士五湖道路 路面の下に1mほどの空洞か 一部区間を通行止めにして調査へ 山梨（2026年10月16日掲載）",
+      "title": "東富士五湖道路 路面の下に1mほどの空洞か 一部区間を通行止めにして調査へ 山梨",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JeExybjhpZ3dOQVpoWGRSZFlILUhoSHlCMy1rc2l3cU1mWmpXX2hoOFJMM3VVTU9CMmtXd0xZazJwbjNMa1owUTVKYmxoeVZJQlZoaF85cWhNZnhVU1FucjZOa3RsUzFOQTRabi1QeXY3djN0UWRkNmlKUFBkUFU?oc=5",
       "source": "日テレNEWS NNN",
@@ -450,15 +477,6 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T10:10:00.000Z"
-    },
-    {
-      "id": "6fea7febafd7a5b2",
-      "title": "物流施設やモビリティハブで自動運転車両の受け入れ実証を開始へ - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXSWZ4RnhYeThuWHJuM2t2MmJuNUJNTk8yZjZONkkzMWJ2c1h4QlAxWEJJUko2d1BGVG5LSHcxdHhORGdpUTRmUzVGOA?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-10-16T09:49:33.000Z"
     },
     {
       "id": "fa1d97c637e7b80f",
@@ -569,13 +587,13 @@
       "publishedAt": "2026-10-16T08:41:00.000Z"
     },
     {
-      "id": "45cf4b473718b860",
-      "title": "アクアラインでトラックなど4台絡む事故 5人けが 上りの通行止め続く(2026年10月1日) Stephon Castle (GH1yGi68ZN)",
-      "description": "Unisba Mediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVlCVFB6OFlRdkRLSzRDelYwWnpEbHpWN3hqYkcxdFY0U2xQZ1NCc2trZWVQdXdBS1hfZzlqRGxnOE9teEFtczlaWl9SZEVsb2lrb1FHb21CbWk1a0huYUJLcTVMaGZRdEFwZk1iYjBBWmc4RUc5elJ4ME9EbHR2a2F3?oc=5",
-      "source": "Unisba Media",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T08:33:30.000Z"
+      "id": "432f366d8589b112",
+      "title": "東計電算、フィジカルAI軸に物流DXセミナー",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iZXNKLUxwdzhkbzBtZVZXcDZqand0a0kwZ1NXNHJGeExGOF9fWG1XdFUzSGpKTTNhSWpiTkVkVEg2dDlMV1pQMkF3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-16T08:31:21.000Z"
     },
     {
       "id": "540221b7f9dcea7d",
@@ -605,15 +623,6 @@
       "publishedAt": "2026-10-16T07:52:19.000Z"
     },
     {
-      "id": "3397c045226887ce",
-      "title": "葛城市磐城認定こども園給食調理・配送等業務委託公募型プロポーザルの実施について",
-      "description": "葛城市が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T0dPT0NJV0ZHU3ZDVmg0VE8zWllFS09nUVpieHA0NjZyTS1NdjZRc0tHMmRmcUdUVmVDaVZRRy1RZ1ZvdWZQNW1OcTFkZ3hnRTRucGdiVDJJcFJjdEFYQ29PazZQWmdWRS14NmpveF91TTc2U1E?oc=5",
-      "source": "葛城市",
-      "category": "物流",
-      "publishedAt": "2026-10-16T07:49:40.000Z"
-    },
-    {
       "id": "e70137e98c95ace8",
       "title": "10/28（水）「次世代物流改革フォーラム」開催 物流が経営を左右する",
       "description": "日経ビジネス電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -621,24 +630,6 @@
       "source": "日経ビジネス電子版",
       "category": "物流",
       "publishedAt": "2026-10-16T07:30:00.000Z"
-    },
-    {
-      "id": "046b9b9724f30599",
-      "title": "プロロジス、福島・郡山で4.1万㎡のヤマト専用物流施設が竣工 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HX2tyMEViM04weTBNRkpXODE3bF9xMlFtWnZIaXpRYWhuNE1NblhlemNfdHJKbmFZSzZnSDhyVkRmZWo1ZGJtWXgwOA?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-10-16T07:27:13.000Z"
-    },
-    {
-      "id": "d9d34f00fae6ab39",
-      "title": "加勢／子会社の加勢デリバリーサービス全株式譲渡で日本物流ファンドと基本合意",
-      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XcUQwZjBQVXVmaGhOcEFBWTdyWmw2OGtNOUxKZWtJNkpieHZLbHZOWFdDb2x1OHpoNVlKdjV1ZHpuNjlnc0IyMy1rMmltQVJKZnJ2YQ?oc=5",
-      "source": "トラックニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-16T07:00:00.000Z"
     },
     {
       "id": "6f830c69b5a86e11",
@@ -677,15 +668,6 @@
       "publishedAt": "2026-10-16T05:51:54.000Z"
     },
     {
-      "id": "8816626f487c5bf3",
-      "title": "加勢、宅配子会社を日本物流ファンドに譲渡へ",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54bmEzNTZlMURoQmRUbDduTV9RS0t5N21uQTRBb2Myek5MLVh6S2tacWl5NFdIU01OS2ZyVVhvUmU5LXRYX2ZwRjhR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-16T05:46:55.000Z"
-    },
-    {
       "id": "755e4111f253986b",
       "title": "圏央道で発生した「玉突き事故」瞬間を投稿 「車間距離不足」NEXCOが警鐘（くるまのニュース）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +702,24 @@
       "source": "物流ニュースのLNEWS",
       "category": "法令・行政",
       "publishedAt": "2026-10-16T04:56:42.000Z"
+    },
+    {
+      "id": "7dab82c8b68e9f40",
+      "title": "チュオンチン通りの交通規制により渋滞緩和へ｜60秒ニュース、2026年10月16日午前",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamtTWGxNQUZBZ213UVA1M2pnRGFUT09vQ2VzVHVnM2gxemxxbTQ5YzZqblktS1I4T3ppc0p0N0RHVGZ5X2hfY2FvNFRmUmZzcHNmd3U0MnRxSW5TamVQM19FMzlZeFJfVTNDX01LZ3ROdkRnMUlCdE9vZFprU0IzLVZFNW12OFAzWjVGY1RtbWJhUGl5RlkyQm1yYlRJbUhZNEs4ODlJNVdER2wyYk5v?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-16T04:39:36.000Z"
+    },
+    {
+      "id": "83b79cf79bab3520",
+      "title": "ANAHD、ANA／本社を八重洲へ移転、2030年春めど",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xXzVkQTljdDRmTzUtZ3ZOdUZCMEI4bmZXdzYxOGV5bVpxT3lFLTdQcVNJbFFCMzNuQmlTQnBmR0V2bHJHMGVqalF1RjlEem9vU0VQMQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-16T04:36:36.000Z"
     }
   ]
 }
