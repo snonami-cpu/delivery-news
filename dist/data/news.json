@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:00:44.015Z",
+  "updatedAt": "2026-10-18T17:22:00.202Z",
   "articles": [
     {
       "id": "6e8457986259a467",
@@ -137,13 +137,13 @@
       "publishedAt": "2026-10-18T01:34:01.000Z"
     },
     {
-      "id": "18f032ef29cbc9d2",
-      "title": "【事故】首都高中央環状線 五反田付近で事故が発生",
-      "description": "Howl.linkが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBnYkF5cXV0X2pNb2FwV2NRaHg0cWlCQnVGNUNHbi1ZZjctM2o5aVpGT2RoemxWRkJzalUw?oc=5",
-      "source": "Howl.link",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-18T01:22:24.000Z"
+      "id": "bb9fb5269ef96861",
+      "title": "廃業の呼び水に？ 運送「事業許可更新制」のハレーション懸念",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUcWJOWWNlUkFHRDhKbGgzcmprWVlMMDRadjdzdlpjbmM1aXk2UFg2ZE9weVlma1FNWWc2Q3ZYYkJ0eTVEby04SXl4a2daUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-18T01:03:41.000Z"
     },
     {
       "id": "aa225272b477eff5",
@@ -216,6 +216,15 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-17T20:00:00.000Z"
+    },
+    {
+      "id": "0d7ba37a0183f1bf",
+      "title": "【衝撃】東京湾アクアラインでバイクと大型トラックが衝突…運転男性が死亡 上り線は通行止め、解除のめど立たず Truist Leaderboard (HPdmukfNPr)",
+      "description": "Unisba Mediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1pXT0Nvdi05S0pwTnh3dXN1OW5oejUxSldJWTd5RjAwLWVaRW9hMk9mOUhEQTNQZ1J6WVlNbjNTcmlJVFVIUGhya2lCTHhOd2pJRTlPQThaTHJ4MTVRb3o0M3YtZ0JnQThaTFo2T19mSTJzVVJmMk44SVRYTDcxdm9n?oc=5",
+      "source": "Unisba Media",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-17T17:06:19.000Z"
     },
     {
       "id": "9b0f8ecf2d0b53e2",
@@ -331,7 +340,7 @@
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YMjJrVElUN0RfUUR3R01NTHA1a1Z0azRCclAxd2c5LWtZekoxQXZSWnktTkFyQlBHR1dvSzA3bS1QVmNiVXNSZzJTSTRjckdRRGFMbTdMcWJ1X3FHMEpUWHo1aXJGYTRWM0hmMmQxSVNPdw?oc=5",
       "source": "テレ朝NEWS",
-      "category": "安全・事故",
+      "category": "道路・交通",
       "publishedAt": "2026-10-17T03:05:05.000Z"
     },
     {
@@ -353,15 +362,6 @@
       "publishedAt": "2026-10-17T03:05:05.000Z"
     },
     {
-      "id": "b331c49781d120c5",
-      "title": "佐久市の上信越道トンネル内、軽トラックが事故 運転の男性死亡",
-      "description": "信濃毎日新聞デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xNk1pRXBtZ3RzLXBSUlUyV3VrbHBsRkplZE1OYmRlQmxZZjJrUHVXVUN4cC1RaS1xV2ZhLWFQWW1COWdtT1U3Zkt6a3Exa2Q2eTAxOWY1VGwyTUVMWl9XRDBzUWFlUTBqdTc2TnZVRG0?oc=5",
-      "source": "信濃毎日新聞デジタル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-17T02:57:00.000Z"
-    },
-    {
       "id": "0c59790dff8a851e",
       "title": "速報＞大型トラックが軽乗用車に追突 軽乗用車の女性１人死亡 福島市の東北道下り線（福島民報）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -369,6 +369,15 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-17T02:51:55.000Z"
+    },
+    {
+      "id": "77c7da9fe1ff814a",
+      "title": "＜速報＞大型トラックが軽乗用車に追突 軽乗用車の女性１人死亡 福島市の東北道下り線",
+      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZVV0TndIV2V5YjNoOWxDX0dMMzA0cGRqeUZhellpQjhZVDFhMWc5SGJIQk5fR2hlU0dERGlXMEoyMTBtT0hzWTEyZ29kV28?oc=5",
+      "source": "福島民報デジタル",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T02:49:44.000Z"
     },
     {
       "id": "82a5a6c0c4f8f43c",
@@ -533,6 +542,15 @@
       "publishedAt": "2026-10-16T20:40:07.000Z"
     },
     {
+      "id": "5497f61e75c8beb5",
+      "title": "物流テック最前線",
+      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTGJvb3V4YVhSSkRsODdsd18zQkdPNmo4ZlRDZXhJNXpEVWlQNkxXdkZCZGVlUXpkRUtUOXhOODVta1ZQS3F2UGVuRTdYbW40dW0xV1pEQ2Qzck5yQl9wdnliZ1QzdmJPbkdQbndEYnVNWU85QnFXdzR5a1k2SjAwTHZzU1h0dXJsd0JnVlB2NWcwTmpoQ01vWDNVZ05YTk1uTjR3WDQ0YW5jSEFSZE12YjVTbDRyV1lRZml2RGpFeHBYMEc2a25iTA?oc=5",
+      "source": "日経クロステック",
+      "category": "物流",
+      "publishedAt": "2026-10-16T20:38:37.000Z"
+    },
+    {
       "id": "f1417cd1a7b90f41",
       "title": "共通デジタル荷札が広げる、物流業界改革の可能性",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -551,19 +569,19 @@
       "publishedAt": "2026-10-16T20:29:30.000Z"
     },
     {
-      "id": "5c6ee7984e45665d",
-      "title": "第4回物流DX会議、登壇23社・団体とテーマ決定",
+      "id": "3de0fc8d83feafa0",
+      "title": "ロジザードEXPO、物流改善「つなぐ」提案集結",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3TXMzbUlQb3VLcVlYTmRqRnlsZkVJT0wtYVJRRlR5RzhiMFRnZG5XN0RKOU8tUFVRLTBlRzVTLWlnNlBVeGRIMVdR0gFPQVVfeXFMT0xnMUZfN2RKTlllWGE1dVdFUXlTZVQ2Q2pYLUVOSEZZWGFvcWRHNk13R2ZERXBsTXV1WXAwbHRSWDlodGN5VUswSWd5NERjUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yakMweVlaVFoxYW9HdTNmNGdqR0QzazNvcjFoTU9kdWVqVUdVV2lzeFdsZXdVYUVMRnJ6RktDVmQ4NTd5WEw4cnRB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-16T20:29:30.000Z"
     },
     {
-      "id": "3de0fc8d83feafa0",
-      "title": "ロジザードEXPO、物流改善「つなぐ」提案集結",
+      "id": "5c6ee7984e45665d",
+      "title": "第4回物流DX会議、登壇23社・団体とテーマ決定",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yakMweVlaVFoxYW9HdTNmNGdqR0QzazNvcjFoTU9kdWVqVUdVV2lzeFdsZXdVYUVMRnJ6RktDVmQ4NTd5WEw4cnRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3TXMzbUlQb3VLcVlYTmRqRnlsZkVJT0wtYVJRRlR5RzhiMFRnZG5XN0RKOU8tUFVRLTBlRzVTLWlnNlBVeGRIMVdR0gFPQVVfeXFMT0xnMUZfN2RKTlllWGE1dVdFUXlTZVQ2Q2pYLUVOSEZZWGFvcWRHNk13R2ZERXBsTXV1WXAwbHRSWDlodGN5VUswSWd5NERjUQ?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-16T20:29:30.000Z"
@@ -702,24 +720,6 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-16T09:35:50.000Z"
-    },
-    {
-      "id": "2f818d235ee4d3ff",
-      "title": "物流大手 “ヤマト運輸” が中四国最大となる物流センターを公開 「輸送業界全体の労働環境改善につながる」【岡山】",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFV0ZVYk9zMzN2YWtFdFdvdlFYZHlqZzcwbW1lanVLa2hlLWZkSXJUMG9XcGFfS3BjUWpzVmxRWk5SRGlFcTkwWEtnVXZYSWZtWVFDU0Vzd3FHdnFNcHV5T0xUeEtSQVJ4VXFkVXlUWlZ5cTM0VEsxY09DdXFydDQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-16T09:30:35.000Z"
-    },
-    {
-      "id": "3600bc78a4f74de7",
-      "title": "日本ストライカー、横浜に大型機器対応の物流拠点",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uVTB5cnlvWXRaN29kem5VZDNSUnN1YlpNWWVXdXN1TkF4czVUTDhYNlY5OUxQX1o4UC0wTHpzZXR6bk9Bd2psTE5R?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-16T09:25:41.000Z"
     }
   ]
 }
