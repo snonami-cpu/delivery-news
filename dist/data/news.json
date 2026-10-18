@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-18T09:36:31.045Z",
+  "updatedAt": "2026-10-18T14:00:44.015Z",
   "articles": [
+    {
+      "id": "6e8457986259a467",
+      "title": "大型トラックの事故防いだ「３つの光」 後継はリミッターに",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tU2FVSHN3Nko3Xy1wVEJlel96dVhOa2cxdGw1c3MtSzNqa1ltX2RKd2VTcE15Y0Q2NzQ5Z3hFcEJsU0VPTlkza2REZkdwZw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-18T10:08:17.000Z"
+    },
+    {
+      "id": "91da53f984a20491",
+      "title": "軽トラックと車に挟まれ30代女性が両足切断 意識は回復 40代男を逮捕 東京・世田谷区三軒茶屋",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RYXBsd3NQWmNYb0VvbUd0VHZfRndzRlZJdlhQMUc3VUMtd3cxbnhCOWlDMjdZVkd2UXRvOUx2WHdCRGZUY2RROTZVdjhjclF3UmoyYWpRb2lKTlVsMVBadkpjRldCYWdWNVE4QjhTZ3N0WGQxbmtKa0FVYktIdEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-18T08:55:30.000Z"
+    },
     {
       "id": "5aa473f761028df0",
       "title": "シカ衝突で停車中の車に大型トラックが追突、車外にいた女性が巻き込まれ死亡 愛知県新城市の新東名",
@@ -11,15 +29,6 @@
       "publishedAt": "2026-10-18T08:35:00.000Z"
     },
     {
-      "id": "379fee86da40773c",
-      "title": "東広島呉道路の馬木IC―黒瀬IC間で通行止め 車が横転する事故",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xalY5S245RlhoVm1qSklLbC1jd1FHOV9xY2VCX1FNXzEwNjZPTkFJbEpFbi02U2FZYlJmMlN6N0tEVXAtdVZ5OW8yRQ?oc=5",
-      "source": "47NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-18T07:36:00.000Z"
-    },
-    {
       "id": "b31e988a5dab4e62",
       "title": "シカと衝突し停車中 乗用車に大型トラックが突っ込み女性死亡 愛知・新城市（中京テレビＮＥＷＳ）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -27,15 +36,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-18T06:36:00.000Z"
-    },
-    {
-      "id": "f7d809a157deaab7",
-      "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速（テレビ朝日系（ANN））",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40My1ueWpVQzBYNTJ0ZUpUaFVnRVRiSE1OMDYyMTNlWWlhbm5tTGhTam45QzZKRXVURHJNQ2ZpLVJYYVVsSXN0RWlUWmNTT1owZkU0c2ZoSkFFWjQ4eUNiU1lvelVTb2h3OUVJQUxtbWJqcmZodkc4TXVjenJrV2M?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-18T06:27:29.000Z"
     },
     {
       "id": "ce01d7b668689b81",
@@ -63,6 +63,24 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-10-18T04:40:00.000Z"
+    },
+    {
+      "id": "c5f0b5637bff9d7f",
+      "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUWdkU1lQV212bUN1N1huNUYwOC1MRHppTmllWVJFSEltc2VER2ZJa0VCblFObUVicnVSOHAxdHJYTHgwczFNbnlHVWlOQW5icllhNmhTeTBWTnBaM2dOcHZibUFoS041VDllNjFMTXJZZw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-18T03:14:24.000Z"
+    },
+    {
+      "id": "f7d809a157deaab7",
+      "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40My1ueWpVQzBYNTJ0ZUpUaFVnRVRiSE1OMDYyMTNlWWlhbm5tTGhTam45QzZKRXVURHJNQ2ZpLVJYYVVsSXN0RWlUWmNTT1owZkU0c2ZoSkFFWjQ4eUNiU1lvelVTb2h3OUVJQUxtbWJqcmZodkc4TXVjenJrV2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-18T03:14:24.000Z"
     },
     {
       "id": "97305a30fdda9f04",
@@ -128,15 +146,6 @@
       "publishedAt": "2026-10-18T01:22:24.000Z"
     },
     {
-      "id": "8fa87698466ffd72",
-      "title": "鹿衝突で停車中の車に大型トラックが追突、車外にいた女性が巻き込まれ死亡 愛知県新城市の新東名",
-      "description": "中日新聞Webが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX25EU25tR0tsYVZvdzRUbkFqRzNTZDZTa2cyM3hqR0F2Z3hWdnFSRWFCSmxocEhNU19DZnZyZHFjYmVyU3hDMXc1Wkw5MXQ0XzU1Zg?oc=5",
-      "source": "中日新聞Web",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-18T00:47:00.000Z"
-    },
-    {
       "id": "aa225272b477eff5",
       "title": "トラック業界の悲鳴〉「募集しても70代」「全盛期から手取り20〜30万円減った」中小運送会社で深刻化する人手不足…「もっと働いて稼ぎたい」30代ドライバーが語るジレンマ（集英社オンライン",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -146,13 +155,13 @@
       "publishedAt": "2026-10-18T00:00:35.000Z"
     },
     {
-      "id": "c4d164d5162951f3",
-      "title": "【新東名】新城市内でトラック追突死亡事故 7時間半強ぶり通行止め解除〈18日08:25現在〉",
+      "id": "0d840d6cd60af9e3",
+      "title": "【新東名】新城市内でトラック追突死亡事故 7時間半強ぶり通行止め解除（18日08:25現在）",
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtbkYzQVdQMmRyYjdabm5TalhDUnhPbmdyVTlwVFExSUY0LVM2b1hoLXUtZl9ITlMxX2tya1RscU5DYjVtQlR3X3pBNV9DX2VoRXpHbHdENkZRWVUwdjFhSHpidWo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdjJkZU9sa2lGUHRjODJFQjFGU2pQVGxZdVZqMXExUTdMWFV6NHJjOTlJY2ZXbl9FdEVKWDVna0FGel8tMjdxMG83NDh3dlVJNk9pdVlLU3kzaFpQU3dB?oc=5",
       "source": "千葉テレビ放送株式会社",
       "category": "道路・交通",
-      "publishedAt": "2026-10-17T23:50:48.000Z"
+      "publishedAt": "2026-10-17T23:51:04.000Z"
     },
     {
       "id": "215d88cc20210173",
@@ -279,15 +288,6 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-17T07:06:00.000Z"
-    },
-    {
-      "id": "2fc27fef08a3b1b1",
-      "title": "「仕事失うかも」「暴言」「今がチャンス」 今どきの荷主と運送会社の関係は",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pU0prZ1JxS09ZMHNxbWVuNU5lQkVYdHpSN1lNZmRwTGlQSDB2Q3NqakczaFFBUGJWSlFwMFpJTzZQTGc1eG42UnFSV0FkUQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-17T06:32:40.000Z"
     },
     {
       "id": "dfe3e02f7f2d8ced",
@@ -515,6 +515,15 @@
       "publishedAt": "2026-10-16T21:16:23.000Z"
     },
     {
+      "id": "c5088f327df0540a",
+      "title": "ギオン、大阪・高槻のオリックス不動産物流施設内に5700坪の新拠点開設 - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41ZkdjRTQxakxQU1BvcHZuVGY0RTY2SGpwRnpKWDBZYWlEaHBZQVg2a0VkdjJ2TTFjQWp5a1FSMXJuWDZOVFdvcFhUOA?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-10-16T21:00:11.000Z"
+    },
+    {
       "id": "d7ddbb2889845f0a",
       "title": "改正物効法11月施行へ、中継輸送の認定体制整備",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -587,6 +596,24 @@
       "publishedAt": "2026-10-16T20:25:36.000Z"
     },
     {
+      "id": "0991ee4a1c1e86a0",
+      "title": "GXO、仏3拠点目のアクション物流拠点を運営",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9heV9Jdi1BWXBQTVU1Y20yYWJIb2tGWnU1NDMtMUJHZUg0MDNwa3dSWVVfcElsb2toalJJNlpXV0JDYThUUjFrbExR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-16T20:25:36.000Z"
+    },
+    {
+      "id": "f41cd2c90db90cd3",
+      "title": "始動、物流DX",
+      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbzdIWGJyZUtMY3JpUkF0ZnNPdGlnY0JRZU5mVURxcHlSZngwODliX0JEYzBEY1J1WkwyYkFRakVUZ3BJVlJteDBoMFNJTUQ5VURzd1VWQ2xTNmJkaC16OVBzaVl3LUJxaEprR21wRzZ0UkJ0ajlEYUFOMGR3RmI0YWRLQnBoQkVxN2E5TDluNTNkSDFnaXhfVmlraUFZc2NFT3Q2X0NwTHE2Z1FPaTBrNEJmZWY2U21kc3VJUkxyUm5kNzRwZkI4dlc2dTItVF9VWV9TVUVlVjNId3ZkdFBFOGQtUk8yY29C?oc=5",
+      "source": "日経クロステック",
+      "category": "物流",
+      "publishedAt": "2026-10-16T18:30:35.000Z"
+    },
+    {
       "id": "6400a637d4464d14",
       "title": "書評『冷蔵庫 「冷やす箱」が起こした物流革命』ニコラ・トゥイリー著",
       "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -621,6 +648,15 @@
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-16T11:00:00.000Z"
+    },
+    {
+      "id": "598ae16f83ba7b40",
+      "title": "南さつま市の国道で軽乗用車とトラックが衝突 軽乗用車の70代女性が意識不明の重体 南さつま市加世田武田",
+      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTV0eWI1djI5WEswUXpVT21LTmg2a0V2OEJmRGZyRU9FLXdnb2pxcHNXVHRhZ3VNOEVvZGZncXFsZF9jSHhCY3NHTzFEYTllYzRnTWJCNXVteWZDM3RMM29HM0kwcmFvS3BKUDliMWRIaE9xWGxVbElad1VDdTVydGFoRjhNMW8?oc=5",
+      "source": "日テレNEWS NNN",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-16T10:31:00.000Z"
     },
     {
       "id": "cbe9b1da6a986ae3",
@@ -684,42 +720,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-16T09:25:41.000Z"
-    },
-    {
-      "id": "a7e9b468b4dcb3e8",
-      "title": "10歳男児とトラックが接触 男児が頭と左足にけが（山形・東根市）（テレビユー山形）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KZVBzbzVmT3BfQkxMcHBsUDBVQUFuVGljMDNScmVONXBXdnB5dWtDR3k2c1IxX2Jwb0NOVTlVVXRycjRwdFpWWTlyQW5vREE4OU1FTGxrajBMeEJ6UXItN3JYeUNoTGRJamoySkY1RXl0UnZNNXJsU01YV0dBSWs?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T09:22:14.000Z"
-    },
-    {
-      "id": "606a990539097072",
-      "title": "国道45号でシニアカーが軽トラックにはねられ シニアカーの90代男性が意識不明 宮城・南三陸町",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXUGdnMEtzR0x5S0hweXY0elZkLXhaVDd1S1dHMjJDVXc1Q2JiekllWTRmVWM3MnYtRXhCc2d6ckJ1MkoyWWJucksyS01kN2ptdTNReTJzd1BrNi12VDRYVk9VZVlMS1k?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T09:21:00.000Z"
-    },
-    {
-      "id": "3e5fa297a0805439",
-      "title": "バイト時給1.6%高1355円 9月、物流・建設の上昇目立つ",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VaWhXOUpUUkRQWXMwRXBLWWI0ZGNxSHFnR2NGYjM1WnZmc3pBUkdYNTV3ZkhRWC14T2VUQmNRUFZ3ZjJkdk15a0RBOXBlRWYxSm9UYmdtN2gzTzc1MXo4Y19wZXJsdk5DcVBBcw?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-16T09:17:00.000Z"
-    },
-    {
-      "id": "0810ea99189c1e0b",
-      "title": "トラック中継輸送促進する改正物効法、11月1日施行 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04UGxPMktKY2lyNG9ScTlVU2lTMVlMemhrUDNaczJIaG9nV0lyalJnQ3V5dWdkVjlaOThSTmRGekxabUdTajlBdlFwSQ?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-16T09:16:22.000Z"
     }
   ]
 }
