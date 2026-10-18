@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:22:00.202Z",
+  "updatedAt": "2026-10-18T20:40:53.872Z",
   "articles": [
     {
       "id": "6e8457986259a467",
@@ -65,21 +65,21 @@
       "publishedAt": "2026-10-18T04:40:00.000Z"
     },
     {
-      "id": "c5f0b5637bff9d7f",
-      "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUWdkU1lQV212bUN1N1huNUYwOC1MRHppTmllWVJFSEltc2VER2ZJa0VCblFObUVicnVSOHAxdHJYTHgwczFNbnlHVWlOQW5icllhNmhTeTBWTnBaM2dOcHZibUFoS041VDllNjFMTXJZZw?oc=5",
-      "source": "テレ朝NEWS",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-18T03:14:24.000Z"
-    },
-    {
       "id": "f7d809a157deaab7",
       "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速（テレビ朝日系（ANN））",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40My1ueWpVQzBYNTJ0ZUpUaFVnRVRiSE1OMDYyMTNlWWlhbm5tTGhTam45QzZKRXVURHJNQ2ZpLVJYYVVsSXN0RWlUWmNTT1owZkU0c2ZoSkFFWjQ4eUNiU1lvelVTb2h3OUVJQUxtbWJqcmZodkc4TXVjenJrV2M?oc=5",
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
+      "publishedAt": "2026-10-18T03:14:24.000Z"
+    },
+    {
+      "id": "c5f0b5637bff9d7f",
+      "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUWdkU1lQV212bUN1N1huNUYwOC1MRHppTmllWVJFSEltc2VER2ZJa0VCblFObUVicnVSOHAxdHJYTHgwczFNbnlHVWlOQW5icllhNmhTeTBWTnBaM2dOcHZibUFoS041VDllNjFMTXJZZw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "道路・交通",
       "publishedAt": "2026-10-18T03:14:24.000Z"
     },
     {
@@ -317,15 +317,6 @@
       "publishedAt": "2026-10-17T03:54:00.000Z"
     },
     {
-      "id": "3bdab07327172e09",
-      "title": "トンネル側壁に軽トラックが衝突し横転 上信越道の事故で死亡したのは上越市の７７歳男性 長野",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUkxmbDF6ZjA3UjZRcno3R2NSUHVXV1N0WV82RDI5MG1LTzFQOHliTkhYcmdDX2d5b3hiZkRpQ1RCaGhwaUd6ZDhLOFNvOV9VVm5pU3ZmaThMZw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-17T03:30:00.000Z"
-    },
-    {
       "id": "fd660dfca69ea75f",
       "title": "東北道で大型トラックが軽乗用車に追突 軽乗用車側の4人が死傷 福島飯坂IC〜桑折JCTが約10時間通行止め",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -340,7 +331,7 @@
       "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YMjJrVElUN0RfUUR3R01NTHA1a1Z0azRCclAxd2c5LWtZekoxQXZSWnktTkFyQlBHR1dvSzA3bS1QVmNiVXNSZzJTSTRjckdRRGFMbTdMcWJ1X3FHMEpUWHo1aXJGYTRWM0hmMmQxSVNPdw?oc=5",
       "source": "テレ朝NEWS",
-      "category": "道路・交通",
+      "category": "安全・事故",
       "publishedAt": "2026-10-17T03:05:05.000Z"
     },
     {
@@ -369,15 +360,6 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-10-17T02:51:55.000Z"
-    },
-    {
-      "id": "77c7da9fe1ff814a",
-      "title": "＜速報＞大型トラックが軽乗用車に追突 軽乗用車の女性１人死亡 福島市の東北道下り線",
-      "description": "福島民報デジタルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZVV0TndIV2V5YjNoOWxDX0dMMzA0cGRqeUZhellpQjhZVDFhMWc5SGJIQk5fR2hlU0dERGlXMEoyMTBtT0hzWTEyZ29kV28?oc=5",
-      "source": "福島民報デジタル",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-17T02:49:44.000Z"
     },
     {
       "id": "82a5a6c0c4f8f43c",
@@ -448,7 +430,7 @@
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HUFVLSUxLcUMwUUs1VFJ1blpqRTRMQXdIcmJiSmdpLVJJZ1JpZHRZa2NFRjlDZGJkcHBOSlQ2dV9FNTBtZjd0OXd3?oc=5",
       "source": "LOGISTICS TODAY",
-      "category": "物流",
+      "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-16T23:47:22.000Z"
     },
     {
@@ -512,7 +494,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiUkx1RDl6OERXaFJGTEdfc2pGRmQxZ1lRXzhWSVUwUUJ0bnJGNFI0SWh5ZUY0RE0zcVBhRFVzRTl0YjlTTjY4NjlDLUZuYkJRM1E?oc=5",
       "source": "山陽新聞",
       "category": "物流",
-      "publishedAt": "2026-10-16T22:06:05.000Z"
+      "publishedAt": "2026-10-16T22:00:00.000Z"
     },
     {
       "id": "8f7ee129e0f6f76f",
@@ -720,6 +702,24 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-16T09:35:50.000Z"
+    },
+    {
+      "id": "2f818d235ee4d3ff",
+      "title": "物流大手 “ヤマト運輸” が中四国最大となる物流センターを公開 「輸送業界全体の労働環境改善につながる」【岡山】",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFV0ZVYk9zMzN2YWtFdFdvdlFYZHlqZzcwbW1lanVLa2hlLWZkSXJUMG9XcGFfS3BjUWpzVmxRWk5SRGlFcTkwWEtnVXZYSWZtWVFDU0Vzd3FHdnFNcHV5T0xUeEtSQVJ4VXFkVXlUWlZ5cTM0VEsxY09DdXFydDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-16T09:30:35.000Z"
+    },
+    {
+      "id": "3600bc78a4f74de7",
+      "title": "日本ストライカー、横浜に大型機器対応の物流拠点",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uVTB5cnlvWXRaN29kem5VZDNSUnN1YlpNWWVXdXN1TkF4czVUTDhYNlY5OUxQX1o4UC0wTHpzZXR6bk9Bd2psTE5R?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-16T09:25:41.000Z"
     }
   ]
 }
