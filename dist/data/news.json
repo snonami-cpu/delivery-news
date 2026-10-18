@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-17T21:27:11.644Z",
+  "updatedAt": "2026-10-18T00:01:42.647Z",
   "articles": [
+    {
+      "id": "215d88cc20210173",
+      "title": "中国200都市で無人配送、累計5000台超を納入 白犀牛がシリーズCで160億円調達",
+      "description": "36Kr Japanが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1qLUNKbHZNUFpMbWRTMjZubENkQ0dYaTNqTE1mbnhrQnJucE4ybTZOb08yVXZrdTZPQS1R?oc=5",
+      "source": "36Kr Japan",
+      "category": "物流",
+      "publishedAt": "2026-10-17T23:05:28.000Z"
+    },
+    {
+      "id": "d5bec528b875602b",
+      "title": "シカと衝突し停車した乗用車に大型トラック突っ込み、社外に降りていた女性死亡 愛知・新城市の新東名高速道路",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUTRxZWtXXzJkbmphdnBUeG1od005bEtZM0NBdWNTMU9lV2RYbF92Wk14UUtwdnlxdFMxQ2dEMkNfM2lIQlZoajM5dGZmY0FSY19kUHoweVVZa2taVnBnLU5sWGJOWjQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-17T22:29:00.000Z"
+    },
+    {
+      "id": "5a9bd0dad18fc08d",
+      "title": "シカと衝突し20代男女が車外へ…新東名で停車中の乗用車にトラックが追突 弾みで女性が自分達の車にはねられ死亡",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qaTZSQ2h3LWxsSllHUlM4N21BS1dsdnRzaXVFamxLUGFYWmFQLWRyZy1VU1Q4emM1cWt2eHo5Tm1lVGJtY1V3TGZINHdMNGtwWFR5U05wclZ2U2pJT2xKdlNCdzJ1WDlLYnN1TGw1Qm1ZSkxiUFJFcXVJSnJ2bDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T22:07:46.000Z"
+    },
+    {
+      "id": "739bc779d7c4b32f",
+      "title": "東北道で軽にトラック追突、1人死亡 1人意識不明、2人重傷",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDRzQ2Z3eEpxYXpkTlJaS21tMDZJejRseXVDb0wwVnRRZEI3VjZoZGh0VEJITnI5RHZNSUc2WjZhajJhZnpldWNrYjdYak96dDcwa01tYk9RRDQyNUhhX0lJQzcyYjlUQkU2aXdmNXdrRzFmVDJRb2luVUg1OUtpVUdkemJNVmpZeERweNIBjAFBVV95cUxQcDRzQ2Z3eEpxYXpkTlJaS21tMDZJejRseXVDb0wwVnRRZEI3VjZoZGh0VEJITnI5RHZNSUc2WjZhajJhZnpldWNrYjdYak96dDcwa01tYk9RRDQyNUhhX0lJQzcyYjlUQkU2aXdmNXdrRzFmVDJRb2luVUg1OUtpVUdkemJNVmpZeERweA?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-17T22:00:00.000Z"
+    },
+    {
+      "id": "1fa21f60a9d5e77c",
+      "title": "新東名高速でシカとぶつかり停車中の車にトラック追突 車外に出ていた女性が巻き込まれ死亡 愛知・新城市",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFVGZUU1RnUHVLcHNIeHBxb296RE9fdm5ybjdDTVduX2hJYUZKaHVUM3ByTUYzRXdDb3UzNVFrNEhsd1p3ZkV4bzNsUC1LLTNzLUloZEpOUGpXajVzd3FyVGtUMXFwaG1XX3JBeEJQR3RZeVdJWVZwWUtsNzQxa2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T20:20:59.000Z"
+    },
     {
       "id": "f0b3debc61c15547",
       "title": "スロバキア東部、ウクライナ物流の新拠点に ポーランド経由を補完",
@@ -27,6 +72,15 @@
       "source": "Vietnam.vn",
       "category": "道路・交通",
       "publishedAt": "2026-10-17T14:35:28.000Z"
+    },
+    {
+      "id": "3b7da79b0481a0c4",
+      "title": "東北道 路肩に止まっていた軽乗用車にトラック追突 軽乗用車の県人4人が死傷 （ＡＴＶ青森テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMTJ1d2FMTWVDeGRHWVgydk0zSXctdW1qX2JNUnJlellndk80b0p3WC1mZFpudU5UUE95S3R1MW44Uko3SUNydV93M3FVa3pDQjRGWFotWlBHdVRsWUp5MHdweUtIUFlEdXZwTEM1OHJhdDk0djZEaGs3YXlkNVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-17T09:32:13.000Z"
     },
     {
       "id": "c6a4fc97e158313e",
@@ -90,15 +144,6 @@
       "source": "神戸新聞",
       "category": "安全・事故",
       "publishedAt": "2026-10-17T03:54:00.000Z"
-    },
-    {
-      "id": "6c8ba29f3579fe56",
-      "title": "【東北道/東北中央道】福島市内でトラック衝突死亡事故 通行止めは10時間ぶりすべて解除〈17日12:45現在〉",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43ZG9rdTlCVnc3ZDFFYlB4NTJ5T1JraXJ5Z25KU1QtVjBHU0ZzY0xNcUViV1pvcVo5aXhnVEtwV0plajNHa3Q1d24yV1B3dmJsZVhyWVJQSzUzT1VmeW9r?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-17T03:48:09.000Z"
     },
     {
       "id": "1c9acf07857a67de",
@@ -250,17 +295,8 @@
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HUFVLSUxLcUMwUUs1VFJ1blpqRTRMQXdIcmJiSmdpLVJJZ1JpZHRZa2NFRjlDZGJkcHBOSlQ2dV9FNTBtZjd0OXd3?oc=5",
       "source": "LOGISTICS TODAY",
-      "category": "物流",
+      "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-16T23:47:22.000Z"
-    },
-    {
-      "id": "53d4596710cb18bf",
-      "title": "【東北道】福島市内でトラック衝突死亡事故 通行止め解除には時間がかかる見込み（17日08:30現在）",
-      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fdGZrU2w4SDlpOW5rdmVhZllfLVZwVGw1RFYwSnVtS2Z5RWh0REpGQ1FaYTBoSWs0VjFQdVhCbVNrUlhqNi0zeEdxTGtLZkh6MnFVTVBRWXQxVHM4V0VV?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T23:38:33.000Z"
     },
     {
       "id": "5752f09671da6ea3",
@@ -332,7 +368,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiUkx1RDl6OERXaFJGTEdfc2pGRmQxZ1lRXzhWSVUwUUJ0bnJGNFI0SWh5ZUY0RE0zcVBhRFVzRTl0YjlTTjY4NjlDLUZuYkJRM1E?oc=5",
       "source": "山陽新聞",
       "category": "物流",
-      "publishedAt": "2026-10-16T22:00:00.000Z"
+      "publishedAt": "2026-10-16T22:06:05.000Z"
     },
     {
       "id": "8f7ee129e0f6f76f",
@@ -434,10 +470,10 @@
       "publishedAt": "2026-10-16T11:00:34.000Z"
     },
     {
-      "id": "1ce8c29e24b8550e",
+      "id": "323e3c77e1682726",
       "title": "【倒産】創業40年の貨物運送会社が破産開始決定 負債総額は約1億2000万円【東京商工リサーチ】",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05WVBGUm9TdDg3U3hacEdTeWVSeDFiLWpaWmZOYnNlYk5idVItRVpRbXA0a2ZhZWp1TXRtaVNzV3U4Q1NmTHVIZjFpajJITFpiZURpTWgtMWstZGNMQ2VyYmZuaExtdDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eWJRTnNtOHQ4LVkxcWFRTUNqUVZvSDJPeHk2Q2E3QWFoVW4xb0p4Wm9yTXp1cG9mcGdja1N3Nlp1SHVWQkpOdVZ3RDNXem1qeVN5c0djOEt4aUxyU1pBTg?oc=5",
       "source": "TBS NEWS DIG",
       "category": "物流",
       "publishedAt": "2026-10-16T11:00:00.000Z"
@@ -477,6 +513,15 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T10:10:00.000Z"
+    },
+    {
+      "id": "6fea7febafd7a5b2",
+      "title": "物流施設やモビリティハブで自動運転車両の受け入れ実証を開始へ - LOGI-BIZ online",
+      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXSWZ4RnhYeThuWHJuM2t2MmJuNUJNTk8yZjZONkkzMWJ2c1h4QlAxWEJJUko2d1BGVG5LSHcxdHhORGdpUTRmUzVGOA?oc=5",
+      "source": "LOGI-BIZ online",
+      "category": "物流",
+      "publishedAt": "2026-10-16T09:49:33.000Z"
     },
     {
       "id": "fa1d97c637e7b80f",
@@ -551,19 +596,10 @@
       "publishedAt": "2026-10-16T09:10:57.000Z"
     },
     {
-      "id": "b0401fa9d258a710",
+      "id": "cce8e6e599fc040c",
       "title": "トンネル内で軽自動車が転覆 高松自動車道の下り・引田～白鳥大内間で一時通行止め",
-      "description": "KSBニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rR08wbWxyNDFVeGlFcFJRVkJwMHlRekFyNWVrVmtUNDF2S3NDRk9yVVMtSDFnY2N5YU9USy1Pd1oxX21XZVV2Q0JLOEExWnd3?oc=5",
-      "source": "KSBニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T08:45:00.000Z"
-    },
-    {
-      "id": "dfb6ba54d9ec8d3f",
-      "title": "【速報】トンネル内で軽自動車が転覆 高松自動車道の下り・引田～白鳥大内間で通行止め",
       "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LMi1QNU1QTV9oS2plRWpzVldlWjB0bFpNVDY4bXZUVk11Qnk3ZEV5ZUJQUTAyNDE4SkdRVzAxR0MxVkliWmZxNDVZNkVxWkprdE16VzVfUFdOZG9pX0JuTXpfWdIBY0FVX3lxTE1LMi1QNU1QTV9oS2plRWpzVldlWjB0bFpNVDY4bXZUVk11Qnk3ZEV5ZUJQUTAyNDE4SkdRVzAxR0MxVkliWmZxNDVZNkVxWkprdE16VzVfUFdOZG9pX0JuTXpfWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSDhJM3VmMThDLVhjaG41TVoyWDJNaW1IMWRJZTI1RUZFVmdwMnBqRnJuRUotTzNNWFRsaXFUQ01WMGp3S3hhdmFxaXlVVjNydEIzNFdEUzNsMC1jV3fSAWNBVV95cUxNSzItUDVNUE1faEtqZUVqc1ZXZVowdGxaTVQ2OG12VFZNdUJ5N2RFeWVCUFEwMjQxOEpHUVcwMUdDMVZJYlpmcTQ1WTZFcVpKa3RNelc1X1BXTmRvaV9Cbk16X1k?oc=5",
       "source": "Infoseek",
       "category": "道路・交通",
       "publishedAt": "2026-10-16T08:45:00.000Z"
@@ -632,6 +668,15 @@
       "publishedAt": "2026-10-16T07:30:00.000Z"
     },
     {
+      "id": "d9d34f00fae6ab39",
+      "title": "加勢／子会社の加勢デリバリーサービス全株式譲渡で日本物流ファンドと基本合意",
+      "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XcUQwZjBQVXVmaGhOcEFBWTdyWmw2OGtNOUxKZWtJNkpieHZLbHZOWFdDb2x1OHpoNVlKdjV1ZHpuNjlnc0IyMy1rMmltQVJKZnJ2YQ?oc=5",
+      "source": "トラックニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-16T07:00:00.000Z"
+    },
+    {
       "id": "6f830c69b5a86e11",
       "title": "ギオン／大阪府高槻市に1.9万m2の拠点開設、関西の食品物流を強化",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -675,51 +720,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-16T05:20:00.000Z"
-    },
-    {
-      "id": "4ebb1a7af6a38720",
-      "title": "「すごい衝突事故…」 圏央道で「トラック複数台の大クラッシュ」瞬間を投稿！ 魔の「八王子城跡トンネル」で次々に衝突… 「車間距離を保って！」NEXCOが呼びかけ",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wek40eW8xT1I2MWVVNWgwQmNpVXNSeXpZN3pZc01QNjZiZUlydlZrN1hfWTBfcTRLeUpjWFBNemplbUk5cTFmY2pvSUJybG1EenBaSUhCTkVkVVdHb3dFU3d3ZGd4VTViQmhV0gFrQVVfeXFMTVZ6TjR5bzFPUjYxZVU1aDBCY2lVc1J5elk3ellzTVA2NmJlSXJ2Vms3WF9ZMF9xNEt5SmNYUE16amVtSTlxMWZjam9JQnJsbUR6cFpJSEJORWRVV0dvd0VTd3dkZ3hVNWJCaFU?oc=5",
-      "source": "Infoseek",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-16T05:20:00.000Z"
-    },
-    {
-      "id": "b72f7c35cfc32ba9",
-      "title": "決算:郵船、陸運など物流事業の経常益600億円超に 買収などで",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNjFWSC02dldLYTlDSmtMTjVNcnJLTDBVRXBpSUx3aXBCOEw4dWtQblFOd2xhYjY3Qm04Y0pnTnFodXA4Z1ZQeWY2SmNGSWY5SHRheUJfdHRKOWcyX0tud0phTmZwZU1CV0Rheg?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-16T05:00:00.000Z"
-    },
-    {
-      "id": "18f6980257f7f06a",
-      "title": "国交省／改正物流効率化法11月1日施行へ、トラック中継輸送を支援",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1V0xRMnBRMHBPYk1IRVVnMTc1V2hycjFXb25rTnZXVXo5YkhHS2NFQUpIcHpYdmptcElRUElwMEh5ZEt6T3dGNUxkamtQdERsbnJjSQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-16T04:56:42.000Z"
-    },
-    {
-      "id": "7dab82c8b68e9f40",
-      "title": "チュオンチン通りの交通規制により渋滞緩和へ｜60秒ニュース、2026年10月16日午前",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamtTWGxNQUZBZ213UVA1M2pnRGFUT09vQ2VzVHVnM2gxemxxbTQ5YzZqblktS1I4T3ppc0p0N0RHVGZ5X2hfY2FvNFRmUmZzcHNmd3U0MnRxSW5TamVQM19FMzlZeFJfVTNDX01LZ3ROdkRnMUlCdE9vZFprU0IzLVZFNW12OFAzWjVGY1RtbWJhUGl5RlkyQm1yYlRJbUhZNEs4ODlJNVdER2wyYk5v?oc=5",
-      "source": "Vietnam.vn",
-      "category": "道路・交通",
-      "publishedAt": "2026-10-16T04:39:36.000Z"
-    },
-    {
-      "id": "83b79cf79bab3520",
-      "title": "ANAHD、ANA／本社を八重洲へ移転、2030年春めど",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xXzVkQTljdDRmTzUtZ3ZOdUZCMEI4bmZXdzYxOGV5bVpxT3lFLTdQcVNJbFFCMzNuQmlTQnBmR0V2bHJHMGVqalF1RjlEem9vU0VQMQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-16T04:36:36.000Z"
     }
   ]
 }
