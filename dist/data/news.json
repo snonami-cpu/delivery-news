@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-10-23T18:19:46.983Z",
+  "updatedAt": "2026-10-23T22:09:03.583Z",
   "articles": [
     {
-      "id": "8bd2b36fdd0a0399",
-      "title": "APTとCBRE、倉庫自動化と中部物流不動産を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5panA5TFdwVUphQ200X3k2dV9lMml3bnEtM0lmUGRUd29pa0JUWEx5djVFRjlBOVRRZnFJYWtBeG41RnlfS1hYS0x3?oc=5",
-      "source": "LOGISTICS TODAY",
+      "id": "79f455c2db48bc19",
+      "title": "自民の本屋議連、トラック新法に基づく「適正原価」制度の段階的導入など求める要望書｜Infoseekニュース",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwQ3IwVFBSTVpuaGp3R2RQTmc0eHlKYUVmdDZYclFEN3RsdXNjbHJTTXV5NVgzYnNYeC1hT3UxdUx6TmVmWHBGejdvZHdDV3BBZWl2U2l5T29BckZsZWQ0a09rM2szcnVuTTg2MG8wOEJxZw?oc=5",
+      "source": "Infoseek",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-23T16:23:00.000Z"
+    },
+    {
+      "id": "979c5b802afcff5f",
+      "title": "運送業界の弊害「多層構造」 キーは「利用運送メイン」の大手？",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
+      "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-10-23T14:03:44.000Z"
+      "publishedAt": "2026-10-23T14:29:04.000Z"
+    },
+    {
+      "id": "c732b8b52fbb1dfe",
+      "title": "2026年10月22日／新規許認可運送事業者",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtMHJGZ01uVThrWERVX3JmSUlOTk5lbnNRMEpQc1phY3JkS1FkU09zTWgxdkFfUVItWEQzSDBPb3hFSm5MbUliZ1VpcmNnQXMzbkQta3Yxakk?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-23T14:04:04.000Z"
+    },
+    {
+      "id": "b8e4d0f4adee1715",
+      "title": "第748回物流川柳 2026年10月22日号｜物流川柳",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zQURKcGZBVU5XRGpKRFRQc2FzQVR1dkJxM0J3MWJ1eVJfQjRQRmdmQjZjbzU1R2dMUEFKeS1UWjNMZC02MVJTbVVzbXhNOS1wWUEzVkJkOA?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-23T14:04:01.000Z"
+    },
+    {
+      "id": "50452faab6c9f5c5",
+      "title": "「運送業界は自由市場じゃない」 特有の「しがらみ」に苦慮する転職者",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZW45a3JZdkhIanQ1Snd0VktxaUNkZHZDQ2NYdEhSZl9YUGF1cjlWZTdYUmNEdEx2QW9OX19JN29DX1J1Sks4VWp4ak11dw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-23T14:03:58.000Z"
     },
     {
       "id": "d8f10bddfddce6e1",
@@ -18,15 +54,6 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-23T14:03:43.000Z"
-    },
-    {
-      "id": "979c5b802afcff5f",
-      "title": "運送業界の弊害「多層構造」 キーは「利用運送メイン」の大手？",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-23T13:28:18.000Z"
     },
     {
       "id": "b5b69aa9f9aa9f81",
@@ -101,6 +128,15 @@
       "publishedAt": "2026-10-23T08:39:00.000Z"
     },
     {
+      "id": "d4b8b79a0501a164",
+      "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LbmJGdFd5MkNtOXBGaWxPTngwYy1DeW5jaFFjZ1NaS0xNbG16REcyV2M3MlN3dkZYdklscTY5dmdBZ3phczF5UUZuaU83WVo0STZoMQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-23T07:50:09.000Z"
+    },
+    {
       "id": "ad959fac9030fffe",
       "title": "外環自動車道 美女木ジャンクション付近でトラックとダンプカーの追突事故 トラック運転の男性死亡 埼玉・戸田市",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -128,13 +164,22 @@
       "publishedAt": "2026-10-23T07:18:00.000Z"
     },
     {
-      "id": "aa6314aef8b3dc2b",
-      "title": "大黒天物産が観音寺市に物流拠点整備へ 立地協定締結「四国のお客さんに今以上に安くて良い商品を」 香川",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTHJYSTlUMVVlTUZ2RXhlLXJWZGZMVTA2enE0LTdUU2ExVFNRdHRxekI5Y1NjbVdjQ0l6WHZMbUZoUXZIQVVHRFZTaUJTTklvRm1wYURoTWR2V0JWWFBmODdHTWxmOFNRcXJWYk0xMVM4eWxOZHhmT29XLXRwS0k?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "bc0a7af8920bad7a",
+      "title": "鴻池運輸／日印間でドライバー養成スキーム構築、第1期生15名の確保目指す",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvZDUybGxTVGhvaHFDUl9RQXlaTUx2OHh1SVFLdFZKem9oWTVWUHFrZFBXSDNLcFJabUFWYmc0VHdRN05MOHhyVnlHajA4al8xNXBUWA?oc=5",
+      "source": "物流ニュースのLNEWS",
       "category": "物流",
-      "publishedAt": "2026-10-23T07:09:04.000Z"
+      "publishedAt": "2026-10-23T07:10:35.000Z"
+    },
+    {
+      "id": "c72c0bdcd3842627",
+      "title": "大黒天物産が観音寺市に物流拠点整備へ 立地協定締結「四国のお客さんに今以上に安くて良い商品を」 香川",
+      "description": "KSBニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16a0M3T25WT3pGb0xMQkpJTThwX0Q4S3VMS2RUTDU3TUd4LXdpLVJSWENiRWdtTTdINXEtTjBnaTcyRXZORnoyTi1pS3QxMXdI?oc=5",
+      "source": "KSBニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-23T07:08:00.000Z"
     },
     {
       "id": "5475b2c71a1a1c38",
@@ -268,7 +313,7 @@
       "description": "中日BIZナビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWGI4NFFmVUNteFZLQ1JRMXFKQnBpdXFmV1lXaG5jNks2NkJ1emVHMnpBdk1PTjZLRDJwWGhDaEotcFcxc1k5eVczSndHbzRGZUJGeWpsbjVOZVlfWDl3?oc=5",
       "source": "中日BIZナビ",
-      "category": "物流",
+      "category": "法令・行政",
       "publishedAt": "2026-10-23T03:42:10.000Z"
     },
     {
@@ -288,6 +333,15 @@
       "source": "HTB 北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T02:48:00.000Z"
+    },
+    {
+      "id": "aecfac68524d442a",
+      "title": "県内の最新ニュース",
+      "description": "テレビ愛媛が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wV19tWXFPcVl6eDh0Q01mZUdCWENIaDQxUXVjQ0tsZGlLb0hyb3JzNHVHSXpEdThqbDJ0VGs0MUpLTlRHWUFqMXZWZDlUNDhtbnpkbElzMG40UFhiSGczYXZn?oc=5",
+      "source": "テレビ愛媛",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T02:41:54.000Z"
     },
     {
       "id": "a1b489493daeb78c",
@@ -389,15 +443,6 @@
       "publishedAt": "2026-10-22T23:01:00.000Z"
     },
     {
-      "id": "a5f92c245b52cba9",
-      "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が意識不明の重体 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUXJCU3Q0dzhNSmRlTWdPLUtlc0RlX1JUNktWcGIyLW13c29XNktoTDloOFBzN2doLVAtMUhxZ1NUWHEzU3F4ZWYwS3AtanVqUjE1YmZUZXc0UQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T23:01:00.000Z"
-    },
-    {
       "id": "e618970208518a5a",
       "title": "新潟県、関東圏巻き込み物流連携を広域化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -461,15 +506,6 @@
       "publishedAt": "2026-10-22T21:21:43.000Z"
     },
     {
-      "id": "35c7dc7895f31a5a",
-      "title": "物流倉庫の人手不足対策、外国人材活用を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NDN2QlRjYUtDRllUWFJyZWp3TXI0cVlpUEtXTDQxUTc4M2F5OU1OOGRsM3VDQ2VEelpJMXBNVHVaS2xCTF8xWEln?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-22T21:21:43.000Z"
-    },
-    {
       "id": "bbe2ff57d918254f",
       "title": "出光興産の“物流司令塔”実現した、人とAIの融合による配車時間23％減",
       "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -510,15 +546,6 @@
       "title": "米運輸省、官民連携で物流混雑の先読み強化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lNWlIZDFNd1k4SlBzeDh6Nkhxc3JtZUxiQzAwV1dORVhoS3d4LVBJbGdDNXRWZ3FkTXlOLWJtRWNkVENINXdDMTd3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-22T17:13:30.000Z"
-    },
-    {
-      "id": "035bf8bd2520f3e6",
-      "title": "CTP、ペプコの中東欧配送拠点を確保",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nZVRMY3kwVFBUZnotcTJab05DMDVTNkloQlo2Y2ZheU00b09maS1wOHdoMmlUQUdVUml0M2xvV2dLMTBxRTVvUHV3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-22T17:13:30.000Z"
@@ -584,7 +611,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkeWVVcHR5WUZLQUkzbVBnd3lidFNhak9YYXFCdTJQMHVkTWpYRWU4U0NYUi1aTERmNHJGUjIzeDJBck5aYWxFaW4xMGhpZw?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-10-22T10:07:53.000Z"
+      "publishedAt": "2026-10-22T10:08:04.000Z"
     },
     {
       "id": "96666cb7fd4226aa",
@@ -659,6 +686,15 @@
       "publishedAt": "2026-10-22T08:12:00.000Z"
     },
     {
+      "id": "b6839b389ead583f",
+      "title": "ちゃんみなさん運転の車がキックボードとトラックに相次ぎ接触 けが人なし 東京・渋谷区富ヶ谷の交差点付近",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nNnlMcnltWEt3akd2OGVLWHltTU5Wcmk0SG0xYVM2SU4zTzJKclFWamZLNE1ZVUtWWU5XT2kwZ1l1ck1OeF9yYVZtazUtUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-22T07:55:00.000Z"
+    },
+    {
       "id": "4f66cf41e6d0fc8b",
       "title": "日立とケーエスケー／医薬品配送DXで欠員時の代行実証を完了、11月から稼働開始へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -684,42 +720,6 @@
       "source": "Yahoo!ファイナンス",
       "category": "物流",
       "publishedAt": "2026-10-22T07:07:04.000Z"
-    },
-    {
-      "id": "3aa025b8fd73056b",
-      "title": "AnyMind Group／米国法人が10月設立、EC・物流など横断で事業成長を支援",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43ekVoODVjT3JvVDNyNFN5UXV6NjNEamZacTJwMlJHbW56N21WR3NKSkRrR0xSdnFPT1BlQ1ZkdDRwREd1RkNkY19sZUdBc0REekxEaw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-22T07:05:01.000Z"
-    },
-    {
-      "id": "fdd2d12e7c5769b7",
-      "title": "乾燥地帯で特産リンゴが収穫期、農家の増収けん引 中国寧夏・中衛市",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xcXFXUWljamptc3FIbHpYTjlObDduUF91Z0RmVmZ3WkQxZEdGeFZpMHQ0MXlwalRCWFNNUG9VNHNmTnNUcHdjaUJnalhqS08zVS02NlgyUGdVcnhYVDhJ?oc=5",
-      "source": "ライブドアニュース",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-22T06:46:02.000Z"
-    },
-    {
-      "id": "9fb6d3f98228d0cc",
-      "title": "日立とケーエスケーが医薬品配送DX、ルート自動編成で代行工数60％削減：サプライチェーン改革",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hd3d4WnRTRzI1UFdEdUp0QUlqWENFY08xNm5Za2xNTENnbVhZM05oYmtwSWhrT0lQRXh3OTFDa1JzZlY3TWQ5dC12TTIxaEVLdVd1dEJPNXVScmUyVTN4aW9SODE5M0Vnd0V2T0FuNA?oc=5",
-      "source": "MONOist",
-      "category": "物流",
-      "publishedAt": "2026-10-22T06:30:00.000Z"
-    },
-    {
-      "id": "2257d076bbba9a6f",
-      "title": "三菱地所物流リート投資法人[3481]：資金の借入れに関するお知らせ 2026年10月22日(適時開示) ：日経会社情報DIGITAL",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3BQSzdNazFKZnpDVXl2bUtlUWprZ1FyVGZvZVhGV1ZxTDU2dURJMFBhYjZla25KSno2ZlU0UXQwT002NHpUMmpBUFlsSDdqek9VajFlRFEyb0x5S0xTY0VYRFdjZWNKY2piaV9nSEwwcGkxTUNtT1lINWxWQ0YxVUp4cXpWRXc3aHBKQk91M1pPYXhjVkdSa2xZbWp3bmhyNTEwcE4yUUlOZm12MUNQNkt4OVFmU0VUR0c1WmQ1cXh4WmRzTkN5cXlDb2k?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-22T06:30:00.000Z"
     }
   ]
 }
