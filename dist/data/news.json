@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-23T13:24:54.037Z",
+  "updatedAt": "2026-10-23T18:19:46.983Z",
   "articles": [
+    {
+      "id": "8bd2b36fdd0a0399",
+      "title": "APTとCBRE、倉庫自動化と中部物流不動産を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5panA5TFdwVUphQ200X3k2dV9lMml3bnEtM0lmUGRUd29pa0JUWEx5djVFRjlBOVRRZnFJYWtBeG41RnlfS1hYS0x3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-23T14:03:44.000Z"
+    },
+    {
+      "id": "d8f10bddfddce6e1",
+      "title": "CRE、物流現場のAI通訳活用レポート公開",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zM2JNRXBmSFhpSDFJTVJMZUlXb1A5ZDJqbndGWWpLUUVQWTJUakRzeUZOZUhMa3AzR2hNc1h3M0owMnJJUjZXX0Jn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-23T14:03:43.000Z"
+    },
+    {
+      "id": "979c5b802afcff5f",
+      "title": "運送業界の弊害「多層構造」 キーは「利用運送メイン」の大手？",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-23T13:28:18.000Z"
+    },
     {
       "id": "b5b69aa9f9aa9f81",
       "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】（UX新潟テレビ21）",
@@ -25,7 +52,7 @@
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0SldkUGd4UFMwNENOaGVWODRRdkhZc0FVNGcxNDBFTlctRHQ4QVk1bWFxWGg5NjN5dmU0OFFkd0xyTWhYVlM1UlJ3?oc=5",
       "source": "LOGISTICS TODAY",
-      "category": "物流",
+      "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-23T10:59:49.000Z"
     },
     {
@@ -36,6 +63,24 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-23T10:59:48.000Z"
+    },
+    {
+      "id": "8fdb75d928a4b642",
+      "title": "朝の通勤通学時間帯に事故 松前町西高柳の県道交差点でトラックとバイク衝突、バイクの男性死亡 愛媛",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQZm12Q3BLbHVlZXRyRmtidGNFeVBvdzh6Rm1QZnBOT08wMHpVeTkwV2puazNrdU56ekE4RkVuRWxhYjlBQURpQWNVVnBWZ2pjZ0JuWER2RFVEVHp1TkJqS0ZIMXR6S28?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T10:04:00.000Z"
+    },
+    {
+      "id": "632c92832da4bfe3",
+      "title": "朝の通勤通学時間帯に事故 松前町西高柳の県道交差点でトラックとバイク衝突、バイクの男性死亡 愛媛（あいテレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZUYyLU9XdUhXSFNuMW4zYmlnYWhMUm81RlZjWTZxeHpQZzJadHhBOEhfQ0dOZWhFVzBBeUVHTUdOLWxENEI1cTN1U3ozb0x3TDNyX1NDLWpiUEQ3OFZRcTZaSC1zOEtFNVo1ODFHdHpvdjFpMXl5ZkpFZFlRQVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T10:02:41.000Z"
     },
     {
       "id": "306a8f9cf33fc8c5",
@@ -56,13 +101,13 @@
       "publishedAt": "2026-10-23T08:39:00.000Z"
     },
     {
-      "id": "c7dc5900b781e0cc",
+      "id": "ad959fac9030fffe",
       "title": "外環自動車道 美女木ジャンクション付近でトラックとダンプカーの追突事故 トラック運転の男性死亡 埼玉・戸田市",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZSWd5dTVCOHBlb3FjbVQtWFZoQjJLd3hfX1lsalRDNVIzSTRrSm90NEZNU1A3T1RXX1NnRnVaTGdCUWxVcVRWSWRRdTJhSkdYTmlISmFhSGtnX0FocWxRTlA1REZPYnFJdU16THBGTmhpbElm?oc=5",
-      "source": "Excite エキサイト",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWUEEwdEwwYTYwUmdSanZiY2JUeDRkQUVOdnVfenlOMy1LT2xXSGVJTmk0M0hodVY3dms4eWFhVEtwcUY0alAtTllMdEktMXNaQ3NPM1diM0EzN1hpbG44bFFxT19RaFhIdk56LTl2ME5SdlRaSTBlTGc1bnJRTlE?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-23T07:56:00.000Z"
+      "publishedAt": "2026-10-23T07:44:50.000Z"
     },
     {
       "id": "68a28ec096faa6ef",
@@ -119,15 +164,6 @@
       "publishedAt": "2026-10-23T06:42:00.000Z"
     },
     {
-      "id": "979c5b802afcff5f",
-      "title": "運送業界の弊害「多層構造」 キーは「利用運送メイン」の大手？",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-23T06:26:50.000Z"
-    },
-    {
       "id": "56911bc1a565c6ad",
       "title": "松前町の交差点でトラックが衝突 オートバイの男性死亡 身元は５０歳男性 警察が原因調べる【愛媛】",
       "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -144,6 +180,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T06:15:00.000Z"
+    },
+    {
+      "id": "83baea29db84e366",
+      "title": "東京外環道内回りでトラックが渋滞の車列に突っ込む 運転していた男性死亡",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eTlpSmd5UUl0dFhrcTY3NkhYamFMTlRBbVh6WTlfY281YUJGaFEzaW51V1R1RkdxT1ktRlZWdC10M0dXN1dsLWNGdXJNVHpycUV0X3JhUGZhSkk3RmZ2NDJjVkF4MHNoVGVkaHNET2lHUQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T05:53:37.000Z"
     },
     {
       "id": "dbb707d50505ea5e",
@@ -209,6 +254,15 @@
       "publishedAt": "2026-10-23T03:54:55.000Z"
     },
     {
+      "id": "7dd9d39d440a6e4c",
+      "title": "【衝撃】東京湾アクアラインでバイクと大型トラックが衝突…運転男性が死亡 上り線は通行止め、解除のめど立たず Virus Hantavirus Contagio (4SBUK8HHug)",
+      "description": "Unisba Mediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kaWJPZmpvSmpQeFBNbUN3MXNPajQ4N3RjYWZPMWpacUdWamd4LUtqZ01BOVFkQ1lvaEMxMmsxbGQ2UmZ5SlliOUdxempoZjU2WDlORVRvMlBXZXFsMHpsamw3MzV6Tm95N29F?oc=5",
+      "source": "Unisba Media",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-23T03:43:44.000Z"
+    },
+    {
       "id": "ebe24d872e706502",
       "title": "物流効率化 荷主も主体的に【シンクタンク発】：ニュース",
       "description": "中日BIZナビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -227,31 +281,13 @@
       "publishedAt": "2026-10-23T03:32:27.000Z"
     },
     {
-      "id": "6af0c1c7d902ded0",
-      "title": "新聞配達のバイクに車が追突 トラックにも接触し１人重体 北広島市の道道で３台絡む事故 北海道",
-      "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTlDRE93UUYyMkpESzlST1U2VGMtdWVwVEJMUHNfWXJRU3pGYzhDc0pZMTAzdVlJTktJQUJOZUdhZ3NtSUIzX2FHci04ZDdpdWtmbmQ2bmI5T25NNzR1aUFrSjU2VTlMM2ZNUWRCTUZUdEJUS05tZ1VRUE1XaElGdWRqUjBSZ0U?oc=5",
-      "source": "日テレNEWS NNN",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T02:55:00.000Z"
-    },
-    {
       "id": "6054df2b4c294ac2",
-      "title": "新聞配達のバイクが追突され対向トラックと衝突 40代男性が心肺停止 北広島市",
+      "title": "新聞配達のバイクが追突され対向トラックと衝突 40代男性が心肺停止 北広島市 HTB北海道ニュース",
       "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mMHVtZ1hmUVNYT1VQLTUzQnltUXpRTHdYd1l4WHViaWN1QklSWkRzUy1SbjFXckd5bkNyV2h1cVl2RWdfSHBxc3ZHMGxtdVRhZUd2TUE0YzAyUQ?oc=5",
       "source": "HTB 北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T02:48:00.000Z"
-    },
-    {
-      "id": "aecfac68524d442a",
-      "title": "県内の最新ニュース",
-      "description": "テレビ愛媛が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wV19tWXFPcVl6eDh0Q01mZUdCWENIaDQxUXVjQ0tsZGlLb0hyb3JzNHVHSXpEdThqbDJ0VGs0MUpLTlRHWUFqMXZWZDlUNDhtbnpkbElzMG40UFhiSGczYXZn?oc=5",
-      "source": "テレビ愛媛",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T02:41:54.000Z"
     },
     {
       "id": "a1b489493daeb78c",
@@ -308,15 +344,6 @@
       "publishedAt": "2026-10-23T01:53:56.000Z"
     },
     {
-      "id": "5d7658191ee93440",
-      "title": "助手席の荷物の落下に気を取られ…高松市で原付バイクと軽トラックが衝突事故 ８０歳女性が死亡【香川】",
-      "description": "OHK 岡山放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fRWxGQ0l5dzl3ZnZTU0dUNzI3YVVSRkk5bE95clRzQ2hleDZYNExkQ3BlTlk0b3ZfQWtXUDJscG5WOTVOUkRSUnBSV2FpcV9famFseFp5ak55aWltSFpnWFN3Y2c?oc=5",
-      "source": "OHK 岡山放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T00:54:08.000Z"
-    },
-    {
       "id": "f4c389424c57c973",
       "title": "【続報】大型トラックが作業車に衝突し4人搬送の事故 2人が骨折や肺を損傷する大けが 22日 秋田・大館市",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -324,15 +351,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T00:45:00.000Z"
-    },
-    {
-      "id": "ca47fd96b0d78cb0",
-      "title": "高松市で原付バイクと軽トラックが衝突事故 ８０歳の女性が意識不明の重体【香川】",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSE9LU0tENzFOS0lldkhJa1UzWENGMGdPVldoSXo3VEM2WlpFM0poSlRXUE5SN29iR3BkOGhNWmVBT3haVUgwSUVDc1RoTng3OGhoeWU1WWd5bkRyaXFHdmlEX0pNTE5DMlRCdkJzd3lHN0RNTmdjUWdKaHpUcnlycDdnUlA4eHFsT3o5bUJod0J6QTJ5M01BdDNJTEltUzhIdlp2b3NTWTM4UjhTeEFxR2VISDc3MUZNbmg3eGhQckhhQdIBckFVX3lxTE05LVpvbFNmME1jSW9teWVjMzA0aXVvbnI5ODlFcVVwOVBGZDVSejJfQUdpeE5sVmwzMlAwNVpXc18xVnBySG9qbHFBekxMb2poenFTNFQyV3l3QWlDWG5sZWdfbjRUdXFjNWRlYy1UdEZxZw?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T00:00:00.000Z"
     },
     {
       "id": "c36c9a635400d965",
@@ -357,6 +375,24 @@
       "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が死亡 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kS05MVnBiYkJzM3UwTmRLUGhxbW5aQTNiLV8zLWhZM1dlRU9lVFc1V1dfa0MwNExsNFhIZUhjYVg5YW05bENlUHJucTduXzZkOHRIVUVBTQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-22T23:01:00.000Z"
+    },
+    {
+      "id": "022c6fbf3a5499fd",
+      "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が意識不明の重体 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zZFdhMFFFTmQ4TnA5bFRMR1RVOEMtTFVmcVM4MEdqcU9XT3NTcHhiZlBJWGNwM1RQZzR1TjVPZnhfd0RVYWtkeFdPaTEteHJ4U1dLajFYa3Q3eGh3ejhB?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-22T23:01:00.000Z"
+    },
+    {
+      "id": "a5f92c245b52cba9",
+      "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が意識不明の重体 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUXJCU3Q0dzhNSmRlTWdPLUtlc0RlX1JUNktWcGIyLW13c29XNktoTDloOFBzN2doLVAtMUhxZ1NUWHEzU3F4ZWYwS3AtanVqUjE1YmZUZXc0UQ?oc=5",
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-22T23:01:00.000Z"
@@ -425,10 +461,19 @@
       "publishedAt": "2026-10-22T21:21:43.000Z"
     },
     {
-      "id": "8f4ddadcf0c80b5f",
-      "title": "出光興産の“物流司令塔”が実現した、人とAIの融合による配車時間23％減",
+      "id": "35c7dc7895f31a5a",
+      "title": "物流倉庫の人手不足対策、外国人材活用を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NDN2QlRjYUtDRllUWFJyZWp3TXI0cVlpUEtXTDQxUTc4M2F5OU1OOGRsM3VDQ2VEelpJMXBNVHVaS2xCTF8xWEln?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-22T21:21:43.000Z"
+    },
+    {
+      "id": "bbe2ff57d918254f",
+      "title": "出光興産の“物流司令塔”実現した、人とAIの融合による配車時間23％減",
       "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EN0diVWxod1NEMmJua1FJSDRNcjVrQ1JRU2ZRZE1kWU1XTkw4ZlkwWUQwOGR2b2hkc3YtUldwajhWUUtxXzRvcnNDMlExN1M1SHdMZXhZZDc1OXVxbi1zSFZVZnZSY1RQNjFqLW9Eaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZGdqMWpmLTk2WmI0ZkVrNkdTMzY5SnRtcTBHaDZQaEVGY09NRmNnZXJUb0JZVWlaWjVsdV95REFNcHlXZExfTzRsNi1qMDhIRkxJc05rRlNzUXBXeUN2bXFlTkgwQkYwMW1MdDdpcS05QQ?oc=5",
       "source": "MONOist",
       "category": "物流",
       "publishedAt": "2026-10-22T21:00:00.000Z"
@@ -465,6 +510,15 @@
       "title": "米運輸省、官民連携で物流混雑の先読み強化",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lNWlIZDFNd1k4SlBzeDh6Nkhxc3JtZUxiQzAwV1dORVhoS3d4LVBJbGdDNXRWZ3FkTXlOLWJtRWNkVENINXdDMTd3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-22T17:13:30.000Z"
+    },
+    {
+      "id": "035bf8bd2520f3e6",
+      "title": "CTP、ペプコの中東欧配送拠点を確保",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nZVRMY3kwVFBUZnotcTJab05DMDVTNkloQlo2Y2ZheU00b09maS1wOHdoMmlUQUdVUml0M2xvV2dLMTBxRTVvUHV3?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-22T17:13:30.000Z"
@@ -515,24 +569,6 @@
       "publishedAt": "2026-10-22T11:45:32.000Z"
     },
     {
-      "id": "63584a71cc732780",
-      "title": "軽トラックとバイクが事故 バイクの運転手を救急搬送 容体は不明 高松市",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPNlF0RE9FX3VBRWgzZ0pyOEM5UmZSdlB0VnRINlRQWTRPZ3VRUlZGejNDYTl0ZVZ2aG5XRFV1ZXNFTmF3ZUlFc1JWYWpFWDhjMDk4TzdVMHljSVRVaVHSAWNBVV95cUxPMXBUVkxVZnE3RTJ1a2lZRGhTaFdOa3dZV0dOQmpGVTJqQ2xEdVpTSkN3UUg2U0toOXd6eEFvREVGUDFHTHl2VVptRzFkckR3MVpVYzFfcXFFSXJMTGNDTHhwcGs?oc=5",
-      "source": "Infoseek",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T11:41:00.000Z"
-    },
-    {
-      "id": "28b8cfd114119e30",
-      "title": "【速報】軽トラックとバイクが事故 バイクの運転手を救急搬送 容体は不明 高松市",
-      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bWxiTVE5Wmp3Z3ZST2MzMXZ6My1YWnhlNUo5bkcxdW9HdEQydmlxLVRRNDc3RTFqMmtyVzloVkkzTDRRdm9KdWlLanNsMFhwa1p6RGdlcG5CVjhkR21F?oc=5",
-      "source": "ライブドアニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T11:41:00.000Z"
-    },
-    {
       "id": "0118626298014961",
       "title": "市道で軽トラックと原付バイクが衝突 バイクの80歳女性が死亡 高松市（KSB瀬戸内海放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -549,15 +585,6 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-22T10:07:53.000Z"
-    },
-    {
-      "id": "fb8a4ec80af7a6d1",
-      "title": "'アッシュアイランド♥' チャンミナ、東京で交通事故..キックボード・トラックとの衝突",
-      "description": "스타뉴스が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQTdJQUJVSGNQN21OLThGb3JzZTVoYW5id3lMVndTNkdFRDlkS2VQYWJTWmRzOEJ3aUx6eFBOV0NxWGpGSFhfTzBVTHE5RzFwTWVETlVsaGpiN3hBeUpRZ18tZ09zalNqdXlkbnhtdjlULWlna1RZ?oc=5",
-      "source": "스타뉴스",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T09:29:57.000Z"
     },
     {
       "id": "96666cb7fd4226aa",
@@ -632,15 +659,6 @@
       "publishedAt": "2026-10-22T08:12:00.000Z"
     },
     {
-      "id": "b6839b389ead583f",
-      "title": "ちゃんみなさん運転の車がキックボードとトラックに相次ぎ接触 けが人なし 東京・渋谷区富ヶ谷の交差点付近",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nNnlMcnltWEt3akd2OGVLWHltTU5Wcmk0SG0xYVM2SU4zTzJKclFWamZLNE1ZVUtWWU5XT2kwZ1l1ck1OeF9yYVZtazUtUQ?oc=5",
-      "source": "FNNプライムオンライン",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T07:55:00.000Z"
-    },
-    {
       "id": "4f66cf41e6d0fc8b",
       "title": "日立とケーエスケー／医薬品配送DXで欠員時の代行実証を完了、11月から稼働開始へ",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-22T06:30:00.000Z"
-    },
-    {
-      "id": "438fa06583555f15",
-      "title": "軽貨物ロジスティクス協会／10月24日は「軽貨物の日」、業界改革を加速",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sallpV2tRY0NDSjdGdXhoRnVDMWNucmZnNmlIZUtBZHBxVEozSWgwb3FmS2hwanFwQU5JYWZqUFdwNUdheEJ3cll3NU9WMGtFeml5Vw?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-22T06:00:47.000Z"
-    },
-    {
-      "id": "43926e8e9a3d33af",
-      "title": "オプティマインド／ADLと物流データ活用・CLO軸の組織設計を解説",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IakRGVEVzNzBrR2RwelhhTVFVNEp0YW1ST0VuVlZNQ3pxcmFhbWtiZFVYZVZhYVdfQWZ4SDFma3BRMUMweWtPVVNKMEJfMENkeDBwQg?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-22T05:43:46.000Z"
     }
   ]
 }
