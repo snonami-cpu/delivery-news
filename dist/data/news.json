@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T22:09:03.583Z",
+  "updatedAt": "2026-10-24T00:40:32.718Z",
   "articles": [
     {
-      "id": "79f455c2db48bc19",
-      "title": "自民の本屋議連、トラック新法に基づく「適正原価」制度の段階的導入など求める要望書｜Infoseekニュース",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwQ3IwVFBSTVpuaGp3R2RQTmc0eHlKYUVmdDZYclFEN3RsdXNjbHJTTXV5NVgzYnNYeC1hT3UxdUx6TmVmWHBGejdvZHdDV3BBZWl2U2l5T29BckZsZWQ0a09rM2szcnVuTTg2MG8wOEJxZw?oc=5",
-      "source": "Infoseek",
-      "category": "法令・行政",
-      "publishedAt": "2026-10-23T16:23:00.000Z"
+      "id": "cc8623d9a54980a8",
+      "title": "丸中運送、四国初のISO31512で低温物流強化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0SldkUGd4UFMwNENOaGVWODRRdkhZc0FVNGcxNDBFTlctRHQ4QVk1bWFxWGg5NjN5dmU0OFFkd0xyTWhYVlM1UlJ3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-23T22:06:46.000Z"
     },
     {
       "id": "979c5b802afcff5f",
@@ -17,7 +17,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-10-23T14:29:04.000Z"
+      "publishedAt": "2026-10-23T14:32:01.000Z"
     },
     {
       "id": "c732b8b52fbb1dfe",
@@ -47,15 +47,6 @@
       "publishedAt": "2026-10-23T14:03:58.000Z"
     },
     {
-      "id": "d8f10bddfddce6e1",
-      "title": "CRE、物流現場のAI通訳活用レポート公開",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zM2JNRXBmSFhpSDFJTVJMZUlXb1A5ZDJqbndGWWpLUUVQWTJUakRzeUZOZUhMa3AzR2hNc1h3M0owMnJJUjZXX0Jn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-23T14:03:43.000Z"
-    },
-    {
       "id": "b5b69aa9f9aa9f81",
       "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】（UX新潟テレビ21）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -74,15 +65,6 @@
       "publishedAt": "2026-10-23T11:50:00.000Z"
     },
     {
-      "id": "cc8623d9a54980a8",
-      "title": "丸中運送、四国初のISO31512で低温物流強化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0SldkUGd4UFMwNENOaGVWODRRdkhZc0FVNGcxNDBFTlctRHQ4QVk1bWFxWGg5NjN5dmU0OFFkd0xyTWhYVlM1UlJ3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-23T10:59:49.000Z"
-    },
-    {
       "id": "79cc746ff1ab2f5f",
       "title": "自動物流道路、実装へケース試算条件を検討",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -90,6 +72,15 @@
       "source": "LOGISTICS TODAY",
       "category": "物流",
       "publishedAt": "2026-10-23T10:59:48.000Z"
+    },
+    {
+      "id": "aae8d1e5c3efa85a",
+      "title": "物流企画サポート株式会社が運営するトラックドライバー求人サイト「ブルル」が中小運送会社向け「輸送会」の会員サービスに採用、「輸送会」会員は、追加の求人掲載料なしで利用可能 (＠Press［PR］)",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUdpb2MtTlRrX200VC1ZTEVHZ0UtWGoxRmFqeThhUHRmWU5qWFNNa095cU5IcGt3Tm9LcXZQNWE5ZnNiTndTQnk2N1E2MTdXeEl2ZDU1b3llcHo4bmtjTUU1S240UEIyMERsU2U2U3ZrSHRaMUlPUkNRclZUVlBSZlF6cF9aWVhuS0dfRmVR?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-23T10:12:34.000Z"
     },
     {
       "id": "8fdb75d928a4b642",
@@ -162,15 +153,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T07:18:00.000Z"
-    },
-    {
-      "id": "bc0a7af8920bad7a",
-      "title": "鴻池運輸／日印間でドライバー養成スキーム構築、第1期生15名の確保目指す",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvZDUybGxTVGhvaHFDUl9RQXlaTUx2OHh1SVFLdFZKem9oWTVWUHFrZFBXSDNLcFJabUFWYmc0VHdRN05MOHhyVnlHajA4al8xNXBUWA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-23T07:10:35.000Z"
     },
     {
       "id": "c72c0bdcd3842627",
@@ -313,7 +295,7 @@
       "description": "中日BIZナビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWGI4NFFmVUNteFZLQ1JRMXFKQnBpdXFmV1lXaG5jNks2NkJ1emVHMnpBdk1PTjZLRDJwWGhDaEotcFcxc1k5eVczSndHbzRGZUJGeWpsbjVOZVlfWDl3?oc=5",
       "source": "中日BIZナビ",
-      "category": "法令・行政",
+      "category": "物流",
       "publishedAt": "2026-10-23T03:42:10.000Z"
     },
     {
@@ -327,7 +309,7 @@
     },
     {
       "id": "6054df2b4c294ac2",
-      "title": "新聞配達のバイクが追突され対向トラックと衝突 40代男性が心肺停止 北広島市 HTB北海道ニュース",
+      "title": "新聞配達のバイクが追突され対向トラックと衝突 40代男性が心肺停止 北広島市",
       "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mMHVtZ1hmUVNYT1VQLTUzQnltUXpRTHdYd1l4WHViaWN1QklSWkRzUy1SbjFXckd5bkNyV2h1cVl2RWdfSHBxc3ZHMGxtdVRhZUd2TUE0YzAyUQ?oc=5",
       "source": "HTB 北海道テレビ",
@@ -587,10 +569,10 @@
       "publishedAt": "2026-10-22T15:04:54.000Z"
     },
     {
-      "id": "dc75cfaf7fe5a2c4",
+      "id": "f827ec1a2c57be61",
       "title": "10月24日は「軽貨物の日」",
       "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSklaV1Bub25ZUURmQUxVLUc4X1JvZHpiOXZFX1A2dXlnaDEwQjNpNjRyQTd5dF80Q1FXbUhuTDhqVDlHNlNWUXhOSXYyVTRUOVJRdQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnZEd4ZGl4c0FVNTctRGVPTjNvODZTY0RDaTA0aWE3VlROTHp2TDNjTW1SZS13WEZtX1NFWXVHamQ0RnBqMEVlYjJ1c0stQ1ZpbjBaLVNuUVZIWVZHcXFWN0pmaEE1WE9TcEhYS21DRlk2S2toUS14ZXZkUQ?oc=5",
       "source": "ニコニコニュース",
       "category": "法令・行政",
       "publishedAt": "2026-10-22T11:45:32.000Z"
@@ -720,6 +702,24 @@
       "source": "Yahoo!ファイナンス",
       "category": "物流",
       "publishedAt": "2026-10-22T07:07:04.000Z"
+    },
+    {
+      "id": "3aa025b8fd73056b",
+      "title": "AnyMind Group／米国法人が10月設立、EC・物流など横断で事業成長を支援",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43ekVoODVjT3JvVDNyNFN5UXV6NjNEamZacTJwMlJHbW56N21WR3NKSkRrR0xSdnFPT1BlQ1ZkdDRwREd1RkNkY19sZUdBc0REekxEaw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-22T07:05:01.000Z"
+    },
+    {
+      "id": "fdd2d12e7c5769b7",
+      "title": "乾燥地帯で特産リンゴが収穫期、農家の増収けん引 中国寧夏・中衛市",
+      "description": "ライブドアニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xcXFXUWljamptc3FIbHpYTjlObDduUF91Z0RmVmZ3WkQxZEdGeFZpMHQ0MXlwalRCWFNNUG9VNHNmTnNUcHdjaUJnalhqS08zVS02NlgyUGdVcnhYVDhJ?oc=5",
+      "source": "ライブドアニュース",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-22T06:46:02.000Z"
     }
   ]
 }
