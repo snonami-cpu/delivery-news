@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:31:12.672Z",
+  "updatedAt": "2026-10-24T18:07:50.571Z",
   "articles": [
     {
       "id": "19bf103ad0e4f367",
@@ -56,6 +56,15 @@
       "publishedAt": "2026-10-24T05:18:00.000Z"
     },
     {
+      "id": "9a8860b41bd79a7e",
+      "title": "車で自転車に追突し現場から逃げた疑い 会社員の男（71）を逮捕 香川県警",
+      "description": "KSBニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxSmw4d2piQTdqWlJGWHh3Z0JlbVY4U1B6T3dMMUZkSnJTNnlCWXd2azRFV1pBNzItUWdiTENqYV9sQUFVZm0zZVV5UVd1TjFp?oc=5",
+      "source": "KSBニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-24T00:47:00.000Z"
+    },
+    {
       "id": "b59b76402d43cb26",
       "title": "逮捕の23歳男から基準値2.5倍超のアルコール 赤信号無視でトラックに衝突の瞬間 「当時の記憶が抜けている」と容疑否認 福岡",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -72,15 +81,6 @@
       "source": "LOGISTICS TODAY",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-23T22:06:46.000Z"
-    },
-    {
-      "id": "979c5b802afcff5f",
-      "title": "運送業界の弊害「多層構造」 キーは「利用運送メイン」の大手？",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEa1UxaXFLb3dPVHVwS0tnQzVBbVdURjRUNDVLanFzT2ZwTmplSnRKZFY4SnNEWC1NLVJoMUU0dzRyeGhDZ1d1QXpjRFVSdw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-23T21:46:14.000Z"
     },
     {
       "id": "79f455c2db48bc19",
@@ -153,15 +153,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T11:50:36.000Z"
-    },
-    {
-      "id": "4b1d312c07116b19",
-      "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNnZfcjRyLUxFcWludk1RdUg1M0hrd01kMV9oVnFad2I5OHNjcmxiRVNwQjhocV84Ukh5dEM2aGFwSmpXOVdpWkkxV3pBSTlzM3NfdlpicHRpY1lVWl92NGhYTXVNZ0p0TFIyaDd4Ums5WktGNFZv0gF3QVVfeXFMT2M2dl9yNHItTEVxaW52TVF1SDUzSGt3TWQxX2hWcVp3Yjk4c2NybGJFU3BCOGhxXzhSSHl0QzZoYXBKalc5V2laSTFXekFJOXMzc192WmJwdGljWVVaX3Y0aFhNdU1nSnRMUjJoN3hSazlaS0Y0Vm8?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T11:50:00.000Z"
     },
     {
       "id": "4c115b8ac915ce54",
@@ -632,15 +623,6 @@
       "publishedAt": "2026-10-22T21:21:43.000Z"
     },
     {
-      "id": "8f4ddadcf0c80b5f",
-      "title": "出光興産の“物流司令塔”が実現した、人とAIの融合による配車時間23％減",
-      "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EN0diVWxod1NEMmJua1FJSDRNcjVrQ1JRU2ZRZE1kWU1XTkw4ZlkwWUQwOGR2b2hkc3YtUldwajhWUUtxXzRvcnNDMlExN1M1SHdMZXhZZDc1OXVxbi1zSFZVZnZSY1RQNjFqLW9Eaw?oc=5",
-      "source": "MONOist",
-      "category": "物流",
-      "publishedAt": "2026-10-22T21:00:00.000Z"
-    },
-    {
       "id": "bbe2ff57d918254f",
       "title": "出光興産の“物流司令塔”実現した、人とAIの融合による配車時間23％減",
       "description": "MONOistが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +702,24 @@
       "source": "物流ウィークリー",
       "category": "物流",
       "publishedAt": "2026-10-22T15:04:54.000Z"
+    },
+    {
+      "id": "f5897951f964a8e2",
+      "title": "Orboh、物流ヒューマノイドの実装課題を検証",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10Wms2OGVDanpMeVNjS045MGdyVHNjWEpOQ1JyN0dGa2tEMDk0WmJzVTRTc2NjVVJaUUVFc3VIRHQ2WGh5TG1UbjFB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-22T14:06:38.000Z"
+    },
+    {
+      "id": "dc75cfaf7fe5a2c4",
+      "title": "10月24日は「軽貨物の日」",
+      "description": "ニコニコニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSklaV1Bub25ZUURmQUxVLUc4X1JvZHpiOXZFX1A2dXlnaDEwQjNpNjRyQTd5dF80Q1FXbUhuTDhqVDlHNlNWUXhOSXYyVTRUOVJRdQ?oc=5",
+      "source": "ニコニコニュース",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-22T11:45:32.000Z"
     }
   ]
 }
