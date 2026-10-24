@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:47:21.229Z",
+  "updatedAt": "2026-10-24T23:12:31.612Z",
   "articles": [
     {
       "id": "19bf103ad0e4f367",
@@ -90,24 +90,6 @@
       "source": "Infoseek",
       "category": "法令・行政",
       "publishedAt": "2026-10-23T16:23:00.000Z"
-    },
-    {
-      "id": "8bd2b36fdd0a0399",
-      "title": "APTとCBRE、倉庫自動化と中部物流不動産を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5panA5TFdwVUphQ200X3k2dV9lMml3bnEtM0lmUGRUd29pa0JUWEx5djVFRjlBOVRRZnFJYWtBeG41RnlfS1hYS0x3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-23T14:03:44.000Z"
-    },
-    {
-      "id": "d8f10bddfddce6e1",
-      "title": "CRE、物流現場のAI通訳活用レポート公開",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zM2JNRXBmSFhpSDFJTVJMZUlXb1A5ZDJqbndGWWpLUUVQWTJUakRzeUZOZUhMa3AzR2hNc1h3M0owMnJJUjZXX0Jn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-23T14:03:43.000Z"
     },
     {
       "id": "20e828eb8edb1456",
@@ -335,19 +317,19 @@
       "publishedAt": "2026-10-23T05:39:42.000Z"
     },
     {
-      "id": "c411aa0c5f3e5cc6",
-      "title": "船井総研／運送会社経営者向けセミナー「年商10億円の壁を突破する」11月19日、東京で開催",
+      "id": "ddafbbaa475afc32",
+      "title": "ハコベル／「トラック簿」に自動バース割り当て機能、物流施設の省人化を支援",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdDU4NXFnVXJBYXVWUERscVRQVHZSVmtSUFJjRjVwTnRfMXFiclowT0kxYmlIU0xEWV9oMWM3U1k2ejNKSWNKTmt6a25iMUlORDZaeQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySkRmbmNiNGY0ZGx6dDR4VGNvVGd2NzZpdS0tQXdET0pQRlRjODNNenBLTUlrMGFTMU1YY1JWUHE5YnNIWjBQR2xZTFUwZkxyQkctbw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T04:44:31.000Z"
     },
     {
-      "id": "ddafbbaa475afc32",
-      "title": "ハコベル／「トラック簿」に自動バース割り当て機能、物流施設の省人化を支援",
+      "id": "c411aa0c5f3e5cc6",
+      "title": "船井総研／運送会社経営者向けセミナー「年商10億円の壁を突破する」11月19日、東京で開催",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySkRmbmNiNGY0ZGx6dDR4VGNvVGd2NzZpdS0tQXdET0pQRlRjODNNenBLTUlrMGFTMU1YY1JWUHE5YnNIWjBQR2xZTFUwZkxyQkctbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdDU4NXFnVXJBYXVWUERscVRQVHZSVmtSUFJjRjVwTnRfMXFiclowT0kxYmlIU0xEWV9oMWM3U1k2ejNKSWNKTmt6a25iMUlORDZaeQ?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T04:44:31.000Z"
@@ -452,6 +434,15 @@
       "publishedAt": "2026-10-23T02:29:00.000Z"
     },
     {
+      "id": "f98f001f86d7d981",
+      "title": "始動、物流DX",
+      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjVxeDdZTDlVV1YyT2ZBZHJEYktPVS1ydVUwN20wSWI5Rk5vRWZjX0JleEswanBSUWJNQk1MVktEOXQ4QURhaFZKYVlfb21YN2k2RWZuSnNFMW8zOWNQSHB5X3RBWEFvaWNSNU5HcDNxbjJEeUhlTU1wN29KRENGbGNRdzYydlNveXNuRlNOVnpFTUprNl9hdUMzbVlOaVk5NzdLTFAtNjdkcnhfXzljcFNKMGUycDdXUHNmSGlYZmJ1bGdaVXZsa25HdDk4ZnM?oc=5",
+      "source": "日経クロステック",
+      "category": "物流",
+      "publishedAt": "2026-10-23T02:27:16.000Z"
+    },
+    {
       "id": "58e9ddcae039cfb1",
       "title": "北海道運輸局／26年10月、一般貨物自動車運送事業者6者新規許可",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -479,15 +470,6 @@
       "publishedAt": "2026-10-23T01:53:56.000Z"
     },
     {
-      "id": "258458f270961034",
-      "title": "始動、物流DX",
-      "description": "日経クロステックが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDFkQUh4S0cybnUxbHI3M00tSkFhbWJJNGlFb1NQTWQzRS1FTjlRRjdLV0IzRjFnRk83XzZib1Y2ZlR6WklHdnU0R0NXUGE4VEN1RjBBRTJUYm5NZU5HWHBfMkNDWVRZNlZhbEdTYXM4bl9Ya0FKelZFWHZDOEdZdE42eDhwZmdkeHdKX2M3XzgwQlBtMk9CcnMtSllJc1duVHJtNkVkTjN3dUotVndQd0lFak5LUC04dzNTY3czS18zMmlQRmVtaDg0bV9IenYt?oc=5",
-      "source": "日経クロステック",
-      "category": "物流",
-      "publishedAt": "2026-10-23T01:06:11.000Z"
-    },
-    {
       "id": "5d7658191ee93440",
       "title": "助手席の荷物の落下に気を取られ…高松市で原付バイクと軽トラックが衝突事故 ８０歳女性が死亡【香川】",
       "description": "OHK 岡山放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -503,6 +485,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVBrbm9OS0tFSVdRNXIwWDhuMEJEVlZzaFZBVXVXcjV2SzF5WW9feVFUS2hRRk9qOVpYTzFXMllncFV1ZFpWYzRKV093VlRRSWo0VDhkcHNIejQ3RTAtU0kyUjFyQ1Zwam5YSGVDUFlMRERfX1J6TjFaNGpXZjdwTl9TNG1qNW8?oc=5",
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
+      "publishedAt": "2026-10-23T00:45:00.000Z"
+    },
+    {
+      "id": "66fde7f0645328a2",
+      "title": "【続報】大型トラックが作業車に衝突し4人搬送の事故 2人が骨折や肺を損傷する大けが 22日 秋田・大館市（ABS秋田放送）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdnBCYUJXdDNHN0NTYzR6SkFDZ2hRbk15aEJWUWEwWnBNSnY4MmliSHRwWGhvbkEtcmNVNExlVjFTd0pkMW56R3NfV2RBYk5POW9UQ2lzVlhPeDVvOEhlMEdkRktPOUtObEdlQUVGYzdheTZiNW94RVFJOEdlT1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "道路・交通",
       "publishedAt": "2026-10-23T00:45:00.000Z"
     },
     {
@@ -659,15 +650,6 @@
       "publishedAt": "2026-10-22T17:07:23.000Z"
     },
     {
-      "id": "bf05c583233320d8",
-      "title": "ワクチン保冷保管ボックス市場、2035年までの見通し：予防接種の拡大が成長を牽引 - ニュースと統計",
-      "description": "IndexBoxが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFLWUZPcnlJajJlR3BNYnBqWDc5TXcyWWwwV196aW9UMjFPNkxBOTI2Wmc3OUQ0V0ZsWFUwWEZmOGdITERZWmZsb0Z3bnhoMlhvSEY0MmpkamVBLTA3QkNibEltemF3VGEwbGJ6cEZ0Q29vSC15U2xiOUMtM1c3U25rWmlKamhYRUVaLUpvd24wbi1ZOGpmVlRKLXVsUndMckw4R2Q3cm9rVVNxVTY2aUV0bHk5S2IzMVNfbHFTVU5BeDJyMnN5QVdOcHc1MHFBNFE?oc=5",
-      "source": "IndexBox",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-22T15:36:04.000Z"
-    },
-    {
       "id": "e81a64c225875680",
       "title": "採用支援のジャパニーズドリーム 「繰り返し」からの脱却を",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -720,6 +702,24 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-22T08:25:00.000Z"
+    },
+    {
+      "id": "04140fb2c4eac8fa",
+      "title": "公取委／王子コンテナーに勧告、下請事業者140名に印版等の保管費用を負担させる",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuMk03TnA3NFhpVGlEOTJ5bGllY09ydy1lVUpDNkRPWldDdGZJSElWQTVES0hSQUN1MUdFR1E0UXM2WFlMLUlCQmtOS1RvaEVtY0FQMg?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-22T08:20:18.000Z"
+    },
+    {
+      "id": "aa6777f30c09a64f",
+      "title": "イオンネクスト／八王子CFCが稼働、自動化導入と配送エリア強化へ",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiSzNZS1VoU05iUDJrTkpsbGwtbzZZSVA3MVI1bFJsUTNNT1BNcWFXeU0xVUZSZW8zT2lka3MzUGJpTmlna3RvWTdodjJ4M3JpeWVKXw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-10-22T08:17:19.000Z"
     }
   ]
 }
