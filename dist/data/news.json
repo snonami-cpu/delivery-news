@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-10-25T01:09:05.030Z",
+  "updatedAt": "2026-10-25T06:06:22.136Z",
   "articles": [
     {
-      "id": "4cad1a5541e4c6f1",
+      "id": "3a08c58331fbeba8",
+      "title": "【速報】乗用車とトラックの事故で高齢男性３人けが 北海道月形町の国道２７５号 現場周辺で交通規制",
+      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeDY1OVlMMWhzd1ZZNTFTYU85LTZLbTJaT25lcDhZc01FZTIxbUxnVFdLQTlOb2tnSF9QOXR3S1otdUlzYVg2U3hRbjh6ekNlNUJSVmFUc0d0dw?oc=5",
+      "source": "HTB 北海道テレビ",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-25T03:46:00.000Z"
+    },
+    {
+      "id": "1901e4cc8f727a7e",
+      "title": "高速冷蔵倉庫用ドアの世界市場（2026年～2032年）、市場規模（高速シャッター、スライドドア、スイングドア、その他）・分析レポートを発表",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZeWJMaGRINDZxNTZkai1iNUhiRlJNNlJBZ0VKUF9vYThrcmx5QmdvLVBITVN1VWMwYlV0VHV2a0dyZERqOTNzWHRfeWZtRkU?oc=5",
+      "source": "Newscast.jp",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-25T03:30:00.000Z"
+    },
+    {
+      "id": "173f6d6dead2efb0",
       "title": "カタログギフトの大和が実現できた「オーダーメードギフト物流」での顧客対応力のすごさ",
       "description": "SmartNewsが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYXRQWFRPbjF3RllMR1Ewd0w3b3I3SWF4Yi1rRUdMWV9uZk53Q2s2T1R5TUtYOExyMG5lQllPVk5UamU3YWNDM3dSMlpsTDdqUjZRVXE2U2k2dXBwc1VSTFlXeEF0MDA0bWQ2RUJjYndqYzlkM25RZ29heEh1ZExBSTB6VWRwWlBHUHBkblg5alJ0RU1qa0JIZVpLZUZLcWUtNFpEeWVQVFlhLVctWFdRV1BDWDZZX2Q4bEdYOHoxa21JX2J1V0NvYnpVRW9YS19JQ3BSekhXZmI4ZkUwcEFlMzRUTXdzM2ViS0NoUVE5cGkzb3k5c0VxeS1lQ2tFNVBQd2o5THBJeExtbHBsd011SjlzT1dOTmduZG5LS1JzU21EbXo0WnN6NHBWLW9OWm5xcDlfbmpxYjJYNXBzSjV5R01GcFM0a3FNajhpUWhlcElVLXVWRktsNldVUHFOVlN2bG5KVDZuNnhKZ1MwUjU1ZjFCX2t2N0Z3c1hrdXBmdnFxS3puVmtfaW5EZ2dFbFhTSVRwRHhqWHk1YThLMkRtaWVMRVBNMVM2M0xOYzk3Zmlhb2RBckdIUW5zOEZvY0ZBM0FrdGhCT2xGN1JOQThfNy1qTHNXTFBDOGxHQmRqU1k1blFTdGdWSFkxVUZ1NnRIb2hfMHhjVVZLamZQWU5IUVE2MTBJUGFKdlNVT0VKZlZhTnNJTVBscnhyNm5VWlhEeE5ZTHFYelEwRnVILVVsaVdnWFRfR0dPXzVYRFdxUTBPRmN3V29ubzkzbkJBbXpQY0lNQlhQNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41N2Y1Q0xOOGxTQUtHNUFlS01hTXR3YjhYczJZSzcxUXMzdkcwWldpd1ZZcUdzTzUzR3N0TFJnMXg4cTFUR3RNMWh1WmNuZXV5dTFjUmZWODJkaE1vLVFjQUNfQjR0bWhYdUE?oc=5",
       "source": "SmartNews",
       "category": "物流",
       "publishedAt": "2026-10-24T21:55:00.000Z"
+    },
+    {
+      "id": "7b2a4f9c72951f84",
+      "title": "ザライ省は、日本の経験から学び、海洋マグロの価値を高めようとしている。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJTMW4wVXFTYTRSdDRvY2RHcFN3V1hkS2dxckJUcHZVVVdsMmZITWc2eGp5dEdJb1F4RC03WmZNLXlXOTl5SDhkekl1SW5JYzl0RnRzSnk4SlpMZ1lqU2EzZGdJT3R2NGNVTHlpUDl3aC12M3hSQ1RoWXdmbEdDRDdMaDJNQm5Xb3FObzI5c2ZpX0Rkc3c?oc=5",
+      "source": "Vietnam.vn",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-24T21:04:08.000Z"
     },
     {
       "id": "19bf103ad0e4f367",
@@ -128,6 +155,15 @@
       "publishedAt": "2026-10-23T14:03:43.000Z"
     },
     {
+      "id": "323e3cc761aad5c7",
+      "title": "ホーチミン高速道路西支線の改良工事を円滑に進めるための交通管理。",
+      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGh2MHJ5TGtFQklsWnJ4MXNZU01TaGJQU3BoZzlnTlh4b2NIWXhXb0c3WG01dWM2akN1dkkyUUc2TzluZWdHZzlnV3hZcUoyWGg0czd2NmJQR01UQ2pYTVlDTGpuSVNVdmEyS3J2d1lURkQtci0wUmFMblNnYTFUWDFhSFhpT3BGTnJfTmYtU0J4TklWWkpKS0RmYVg3UExsQmc?oc=5",
+      "source": "Vietnam.vn",
+      "category": "道路・交通",
+      "publishedAt": "2026-10-23T12:40:13.000Z"
+    },
+    {
       "id": "20e828eb8edb1456",
       "title": "会津坂下町でトラックと軽自動車が正面衝突 男性（22）死亡（ふくしまNEWS -KFBデジタル-）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -137,6 +173,15 @@
       "publishedAt": "2026-10-23T11:53:26.000Z"
     },
     {
+      "id": "1a0df39aca94d299",
+      "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】",
+      "description": "UX新潟テレビ21が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tekVSVWlQeFpZdmRjU3hPRGEyT3ppQ0N3NGhQTGlhVHEtREhoOTQwSkRqUlpmU21Wb0FEdnhxeTF2bjlzNWMxbW9KbTdLVlRFWnlyQnFiUEJPWEU?oc=5",
+      "source": "UX新潟テレビ21",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T11:52:30.000Z"
+    },
+    {
       "id": "b5b69aa9f9aa9f81",
       "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】（UX新潟テレビ21）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -144,15 +189,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-23T11:50:36.000Z"
-    },
-    {
-      "id": "4b1d312c07116b19",
-      "title": "軽トラックが女性をはねる事故 運転手の男を過失運転致傷の疑いで現行犯逮捕【新潟・佐渡市】",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNnZfcjRyLUxFcWludk1RdUg1M0hrd01kMV9oVnFad2I5OHNjcmxiRVNwQjhocV84Ukh5dEM2aGFwSmpXOVdpWkkxV3pBSTlzM3NfdlpicHRpY1lVWl92NGhYTXVNZ0p0TFIyaDd4Ums5WktGNFZv0gF3QVVfeXFMT2M2dl9yNHItTEVxaW52TVF1SDUzSGt3TWQxX2hWcVp3Yjk4c2NybGJFU3BCOGhxXzhSSHl0QzZoYXBKalc5V2laSTFXekFJOXMzc192WmJwdGljWVVaX3Y0aFhNdU1nSnRMUjJoN3hSazlaS0Y0Vm8?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T11:50:00.000Z"
     },
     {
       "id": "4c115b8ac915ce54",
@@ -245,6 +281,15 @@
       "publishedAt": "2026-10-23T08:39:00.000Z"
     },
     {
+      "id": "4660633e46029145",
+      "title": "外環自動車道 美女木ジャンクション付近でトラックとダンプカーの追突事故 トラック運転の男性死亡 埼玉・戸田市",
+      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TEhWMFNOMS0yRDljXzU0bGRLTmU0a3d6M3JaVW9RbkVjb3ViclFhcHc5OVIzVktqSUQ5dGRDa1JLQ1dfM2NpM0FHZzR6cWpPbTlDVFhzd1hwR0FqenRwLUhqUXpqR2Y4QlA5RXMxVmQ5N2M?oc=5",
+      "source": "Excite エキサイト",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-23T07:56:00.000Z"
+    },
+    {
       "id": "d4b8b79a0501a164",
       "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -252,15 +297,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T07:50:09.000Z"
-    },
-    {
-      "id": "6b5ccd8e9e3ef7db",
-      "title": "外環自動車道 美女木ジャンクション付近でトラックとダンプカーの追突事故 トラック運転の男性死亡 埼玉・戸田市",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5neFVTQ3pJYWx2YXA2Vy1nbVAtWGdTb2EtN1p2YXpnMWRJd3d5SDJVR2RXdGFpd0dhR0NLaTk5RmFUV2o5bVg4OW0zMGpHeWVicDVRaVlXSQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-23T07:45:49.000Z"
     },
     {
       "id": "68a28ec096faa6ef",
@@ -380,19 +416,19 @@
       "publishedAt": "2026-10-23T05:23:57.000Z"
     },
     {
-      "id": "ddafbbaa475afc32",
-      "title": "ハコベル／「トラック簿」に自動バース割り当て機能、物流施設の省人化を支援",
+      "id": "c411aa0c5f3e5cc6",
+      "title": "船井総研／運送会社経営者向けセミナー「年商10億円の壁を突破する」11月19日、東京で開催",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySkRmbmNiNGY0ZGx6dDR4VGNvVGd2NzZpdS0tQXdET0pQRlRjODNNenBLTUlrMGFTMU1YY1JWUHE5YnNIWjBQR2xZTFUwZkxyQkctbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdDU4NXFnVXJBYXVWUERscVRQVHZSVmtSUFJjRjVwTnRfMXFiclowT0kxYmlIU0xEWV9oMWM3U1k2ejNKSWNKTmt6a25iMUlORDZaeQ?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T04:44:31.000Z"
     },
     {
-      "id": "c411aa0c5f3e5cc6",
-      "title": "船井総研／運送会社経営者向けセミナー「年商10億円の壁を突破する」11月19日、東京で開催",
+      "id": "ddafbbaa475afc32",
+      "title": "ハコベル／「トラック簿」に自動バース割り当て機能、物流施設の省人化を支援",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdDU4NXFnVXJBYXVWUERscVRQVHZSVmtSUFJjRjVwTnRfMXFiclowT0kxYmlIU0xEWV9oMWM3U1k2ejNKSWNKTmt6a25iMUlORDZaeQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySkRmbmNiNGY0ZGx6dDR4VGNvVGd2NzZpdS0tQXdET0pQRlRjODNNenBLTUlrMGFTMU1YY1JWUHE5YnNIWjBQR2xZTFUwZkxyQkctbw?oc=5",
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T04:44:31.000Z"
@@ -488,6 +524,15 @@
       "publishedAt": "2026-10-23T02:30:00.000Z"
     },
     {
+      "id": "46ffc6c6242d42a1",
+      "title": "月面輸送から宇宙物流インフラへ：月着陸船・地月圏物流市場、2035年に83億米ドル規模へ拡大",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QUhUUHVXTEw2bUxENXk2UHliNUxhWDZrUTVIN1BBY0pkYlB6WVBqdjdDWldNVEdGenZQNTJPZmpVLU03OGpXdkJONzN1dDA?oc=5",
+      "source": "Newscast.jp",
+      "category": "物流",
+      "publishedAt": "2026-10-23T02:29:00.000Z"
+    },
+    {
       "id": "58e9ddcae039cfb1",
       "title": "北海道運輸局／26年10月、一般貨物自動車運送事業者6者新規許可",
       "description": "トラックニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -497,11 +542,11 @@
       "publishedAt": "2026-10-23T02:13:00.000Z"
     },
     {
-      "id": "3d421a706ffc1f8a",
+      "id": "4cf37b15908c3e05",
       "title": "タイのコールドチェーン物流：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
-      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vVnc1ekxaYlRWTS02Mk9HYkJ1R0twMG1ucFNhOUZ2N2ZlcWRTM0k1ZHRRV2pVYTJDQ2x6WkY5aENqNkNlMndNZ2JCN1FMUQ?oc=5",
-      "source": "アットプレス",
+      "description": "Newscast.jpが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KZjltdXNvMDlPZEprbWNISkVHZHdIdjk2S3M5OThvbV9EVGd4MjFqWXMySFZXM1ZXQ1A3MElsYkRVTUFpRjVFZ3U2b0tkQ28?oc=5",
+      "source": "Newscast.jp",
       "category": "冷凍・冷蔵",
       "publishedAt": "2026-10-23T02:00:00.000Z"
     },
@@ -675,51 +720,6 @@
       "source": "日本経済新聞",
       "category": "物流",
       "publishedAt": "2026-10-22T20:00:00.000Z"
-    },
-    {
-      "id": "b54d3359498e58fd",
-      "title": "ネット混乱、暮らし直撃 銀行・外食・物流…気象庁サイトも ＰＨＰ",
-      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5ckF4WGNhcTF4QkdocVFkQ1dlN003YWVHaWVsMjA0V1J6T0YwbTFVRmpTOEJTWk4wSFhsTk1wMTRyalpUa2wyNlhKRVhxaFZscnFhamJxNlFjMnAw?oc=5",
-      "source": "朝日新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-22T20:00:00.000Z"
-    },
-    {
-      "id": "ded6083aef43dec2",
-      "title": "DSCP、米国向け化粧品物流を東西2拠点で展開",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFUUhGVEJzU2JGdjEwblduM2kybVlmZ1V6Qm9nWHBERUFHejJLRW9fc1BVRTRzekJkaklRS3duOENUcnhIb1V0ejBB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-22T17:13:30.000Z"
-    },
-    {
-      "id": "d0d56bd020c5e36b",
-      "title": "日立とKSK、医薬品配送再編で代行工数6割削減",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KaDdvVnh0QnlBS3B0NFFwWG5QZDUzSU03UE1VTndteUFqT2xiMk5Pa09IZGh3VVl6NXVFeHZDZlVMUjM2Q2xVb25B?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-22T17:07:23.000Z"
-    },
-    {
-      "id": "fe061e823194f09c",
-      "title": "安田倉庫、茨木で動物用医薬品物流に参入",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZSHFJUTlSWTUzR0M3M0FPUmRXN0ZJTm5TS3F5WW9zSm1aSXNYYnN1Q3ZXeWd4VHpaTWgyMU40NmRKdWpxY0pSWkVB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-22T17:07:23.000Z"
-    },
-    {
-      "id": "e81a64c225875680",
-      "title": "採用支援のジャパニーズドリーム 「繰り返し」からの脱却を",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yVFgxWXRteXlHTktxOVJHZHhZZnhXVG9IME9WeUVvLVBTOUZiU0VkU01IZGVsam04N2lUVUE0Umxza2ZqSl9SUnh4YWJQZw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-22T15:04:54.000Z"
     }
   ]
 }
