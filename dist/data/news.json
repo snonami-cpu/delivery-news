@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T16:16:02.717Z",
+  "updatedAt": "2026-10-25T19:05:12.559Z",
   "articles": [
     {
       "id": "38b9485e35661b22",
@@ -35,7 +35,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwS2R1VHprNmNGclBpQUpSbGtSYlc0SG1mQjB5X19hMUxNY05aYXZqdlUtaHpjanZqVnZNZ1lKdk5iNU02RFBwQzM3OVRLQQ?oc=5",
       "source": "物流ウィークリー",
       "category": "安全・事故",
-      "publishedAt": "2026-10-25T08:04:12.000Z"
+      "publishedAt": "2026-10-25T07:57:08.000Z"
     },
     {
       "id": "3582dfc21e9bb67a",
@@ -83,6 +83,15 @@
       "publishedAt": "2026-10-25T03:30:00.000Z"
     },
     {
+      "id": "bf99e07658b04d6f",
+      "title": "【磐越道】阿賀町内でトラック事故 一部通行止め解除（25日01:10現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXX19memZOQzhEREJCakNKdjZKNGNYcVRfcnlEMlBXTkppVzh4aVVucU1hdEEtaUdpMzc1V1dEb2dtd1Eyck9kRWJJREY1QnJIMXNoVVBMcW9yNDV1bHZN?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-25T02:04:22.000Z"
+    },
+    {
       "id": "5239c8eddfe6f81f",
       "title": "磐越自動車道でトラックがガードレールに衝突 運転手の55歳男性が死亡 死因は致死性不整脈【新潟】（UX新潟テレビ21）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -99,15 +108,6 @@
       "source": "SmartNews",
       "category": "物流",
       "publishedAt": "2026-10-24T21:55:00.000Z"
-    },
-    {
-      "id": "7b2a4f9c72951f84",
-      "title": "ザライ省は、日本の経験から学び、海洋マグロの価値を高めようとしている。",
-      "description": "Vietnam.vnが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJTMW4wVXFTYTRSdDRvY2RHcFN3V1hkS2dxckJUcHZVVVdsMmZITWc2eGp5dEdJb1F4RC03WmZNLXlXOTl5SDhkekl1SW5JYzl0RnRzSnk4SlpMZ1lqU2EzZGdJT3R2NGNVTHlpUDl3aC12M3hSQ1RoWXdmbEdDRDdMaDJNQm5Xb3FObzI5c2ZpX0Rkc3c?oc=5",
-      "source": "Vietnam.vn",
-      "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-24T21:04:08.000Z"
     },
     {
       "id": "0f4f36083fd54bd3",
@@ -362,15 +362,6 @@
       "publishedAt": "2026-10-23T07:56:00.000Z"
     },
     {
-      "id": "d4b8b79a0501a164",
-      "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
-      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LbmJGdFd5MkNtOXBGaWxPTngwYy1DeW5jaFFjZ1NaS0xNbG16REcyV2M3MlN3dkZYdklscTY5dmdBZ3phczF5UUZuaU83WVo0STZoMQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "category": "物流",
-      "publishedAt": "2026-10-23T07:50:09.000Z"
-    },
-    {
       "id": "68a28ec096faa6ef",
       "title": "ヒガシHD 決算／4～9月の売上高12.1％増、物流拠点稼働で増収増益",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -412,15 +403,6 @@
       "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kYUpkMnBGSkt1aWx3aE4zTXg1bUx4TEFwcTBGNDJNQ0txWjQzQWtyMFM2ek1VWWlsbFYycWNmeWs3NUVBeGR3OVc1S1FWTksxbTUwZmE4M21pU0s0NVpVSDhnOVFhU3M?oc=5",
       "source": "朝日新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-23T07:00:00.000Z"
-    },
-    {
-      "id": "9ac9070c1dc454fe",
-      "title": "❝物流の要 港湾整備を推進❞港湾整備関係の会合が相次ぎました。",
-      "description": "選挙ドットコムが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFSkJfRmpZZFJqQTd6SjZSTWl3ZEJHS1B2NGwtajYtVkVxWllfUGI2WVJkaGJRYWk1UFFJRllmT3ppNEIzVVhtMHh3bzZkMXNCVlJUdmttV2tneVBaNjRZ?oc=5",
-      "source": "選挙ドットコム",
       "category": "物流",
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
@@ -522,6 +504,15 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-23T04:44:31.000Z"
+    },
+    {
+      "id": "b6471d64d64b934d",
+      "title": "エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択",
+      "description": "ドローンジャーナルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHQzlXcFhWdzBrUGRkMVM1a2pUVUdZeDc3ZXR2RG5hajJ4LUladXVJQzBuN0J1R2hrM3hnaEJWRlNNWXJlQXhRRDZNYjBqSGU5Um9XYzlmRnl1TkFiNmF2SV9vUWtUeXlwdkE?oc=5",
+      "source": "ドローンジャーナル",
+      "category": "物流",
+      "publishedAt": "2026-10-23T04:20:26.000Z"
     },
     {
       "id": "bd6e11c43b8a1b76",
@@ -704,6 +695,15 @@
       "publishedAt": "2026-10-22T23:01:00.000Z"
     },
     {
+      "id": "c6d373603b14c2b4",
+      "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が死亡 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町 | 岡山・香川のニュース | 天気 | RSK山陽放送 (2ページ)",
+      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4S1R2MU1jZmJiQmIxZ2FEbjcwNGc5RV84RlhsZ2wteVNIYXAzbUl3RjBfaVlsR1ZpRGpCbXhwSWl0ZlI4YUJ4bWtEeWNOZFlYTXRCYXJZZUFNOXIxRFZxOHQ2dw?oc=5",
+      "source": "TBS NEWS DIG",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-22T23:01:00.000Z"
+    },
+    {
       "id": "e71430da57643b17",
       "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が意識不明の重体 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町",
       "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -713,13 +713,13 @@
       "publishedAt": "2026-10-22T23:01:00.000Z"
     },
     {
-      "id": "c6d373603b14c2b4",
-      "title": "原付バイクと軽トラックが衝突事故 原付バイクの女性が死亡 車の運転手の男（28）を過失運転傷害の疑いで現行犯逮捕 高松市西ハゼ町 | 岡山・香川のニュース | 天気 | RSK山陽放送 (2ページ)",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4S1R2MU1jZmJiQmIxZ2FEbjcwNGc5RV84RlhsZ2wteVNIYXAzbUl3RjBfaVlsR1ZpRGpCbXhwSWl0ZlI4YUJ4bWtEeWNOZFlYTXRCYXJZZUFNOXIxRFZxOHQ2dw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-22T23:01:00.000Z"
+      "id": "e618970208518a5a",
+      "title": "新潟県、関東圏巻き込み物流連携を広域化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLSlExRTVjZEhrUU9zcnV4MVRxTTgtcnJ2YWtMUy0yR2ozVExSRmw2eHNsbkJYbUZIcnhsT25JYl82a1FGNlhyM21n?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-22T22:38:05.000Z"
     }
   ]
 }
