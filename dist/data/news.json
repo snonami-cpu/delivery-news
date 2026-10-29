@@ -1,6 +1,141 @@
 {
-  "updatedAt": "2026-10-28T21:02:42.300Z",
+  "updatedAt": "2026-10-29T00:54:26.517Z",
   "articles": [
+    {
+      "id": "0d783fd3eb2fd033",
+      "title": "日本GLP、大阪市内にあらた専用物流施設完成",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1RmVyOUswN1l4NEpMb2R2bFJwdTEwT2otejlxY3RTRVpRRG5zUGdCUlBNZkpIWGx4elptUS1HbFZXYnBVTzNEVUlB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T23:12:44.000Z"
+    },
+    {
+      "id": "82948018bc3131e4",
+      "title": "CRE、キユーピーの共同輸配送戦略を解説",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82Mjh5UXdiek12X1ItUW82bDFjYjFiMDk5MTc2aEZ3STJCcUgtTDFPT1JTYkVDTTdlOUFuYUUwd0dSSmVuQUlaR0xn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T23:04:41.000Z"
+    },
+    {
+      "id": "c3b7cccfe193c8a8",
+      "title": "三菱ケミカルインフラ、食品物流の温度管理支援",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YS2hLYTNCcmQtUW41bmREd3RTU0xrTzR4YTNvVE9RakNMM2h2NE5TV0drNHdTMTJpNHVhUmFTRlJRRXNsRVh2TVp3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T23:04:41.000Z"
+    },
+    {
+      "id": "8792a7da0796c2f5",
+      "title": "「すごい火災事故…」 新東名で「トラックが炎上」する火災発生！ トンネルから\"黒煙\"吹き出し路肩に荷物が散乱… 現場の状況はどうなっている？",
+      "description": "くるまのニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sdnJwemRDNlVXQUw1OTlnUFcxaXNsUjVNTzZfSUUxUzFVbFlUd21XSWdDU2xqU2NKa0I2SjlydndwSEpsVTdWemxpVzg?oc=5",
+      "source": "くるまのニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-28T22:41:10.000Z"
+    },
+    {
+      "id": "5674f621a6061991",
+      "title": "白河でトラック単独事故、運転手が重体:福島ニュース",
+      "description": "福島民友新聞社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nRGR5czBYN0h4THBTdXNxNUZBN1B2dHNpVmhjZHZ2TXZzRzdYdTlfMUhaZk5VWFFsVXJCVFBhSFVxV0tPTldxX01hVlBORm1RZk03Qm5GOXlVSGRaaFk0eUN0ZnE4SGJz?oc=5",
+      "source": "福島民友新聞社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-28T22:30:00.000Z"
+    },
+    {
+      "id": "741a221570a0b554",
+      "title": "白河でトラック単独事故、運転手が重体",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ubU8tdEJYZzl2V1dEdGYza1pvMjF2R255RngwU0dTSkRUNnFicGNtTGpPVE04YVlucFhCVmxhb3hVZWtFV3Y4TlZlbw?oc=5",
+      "source": "47NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-28T22:30:00.000Z"
+    },
+    {
+      "id": "9ced4721dc00f82a",
+      "title": "LIGO調査、運送会社選びはエリア重視",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MR1FPWFVrTkJfMy04akozOW9VcktOcmg0WklJRXVTbkJDTDM1aEh4dHl6R2tlU2NwT3Fka1phSGpTRFpVUmt2XzJ3?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T22:24:25.000Z"
+    },
+    {
+      "id": "50194b88cb85695b",
+      "title": "パスコ、固定ルート配送の配車作成を効率化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6Y2ROMGxKYThaSWJqclpIN1g1YlBtSXppMFBfYmdtSjBqTDBIN29uZ0o2cVJyalFOMUd2Qi1ldFE4MVRoZ0lXUlJR?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T22:24:25.000Z"
+    },
+    {
+      "id": "9c2009e3ff349346",
+      "title": "ロジフォワード、EVトラック3台を配送に導入",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GZzkzTW43YUpCa1BLS2wzLTBHcERUUFpPSUZsR3hyUk1oNkFYN25teTQySW1FaGV0SmtwOVFuV1BRRkd3LU02UGFn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T21:06:03.000Z"
+    },
+    {
+      "id": "0dd71438898bed4d",
+      "title": "ヤマト、軽貨物チャーターを即時オンライン化",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4ZVFOLXI3UzNDZzQyUWlTa2hBWWI2Tk80VEtOVWV5aGdmLVVLQ1RHalYyeDR5WlBoNE9LV01yNEJrcFpFZUVjQUVn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T21:06:03.000Z"
+    },
+    {
+      "id": "e28a4b867e9afd06",
+      "title": "日硝ハイウエー 北九州に「新若松物流センター」開設",
+      "description": "カーゴニュースオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Yb3VxUVlRZFBzUjJ2cEk0dHlST2U5a2RhM2hmc1MzVVVkWE5lMDI5RUZmWnZ5Um9tb2lMUHRhWXh6YkRic28wOTUxZHVVX21hSUdsQ1dPUFFENTRER0pn?oc=5",
+      "source": "カーゴニュースオンライン",
+      "category": "物流",
+      "publishedAt": "2026-10-28T21:04:45.000Z"
+    },
+    {
+      "id": "ada5f3851f0e88ac",
+      "title": "「ようやくたどり着いた」ヤマト運輸が10年越し開設、新型物流拠点の「立地」が絶妙なワケ",
+      "description": "ダイヤモンド・オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03b1dOVndlZmJpWGdPQ19oTzVuRVJWeTlkMUxmRERlR0NFR2hpUXJ1TjFoVUdUNUtLYTY1dFZTX251UUdlSk8wanBSSXDSAU9BVV95cUxPbXk4Z1BpU29QSHRqRU1fekwxTmFMSGw1c2FFTm1ibUpaRWlXbW1nakstN3lrd2hkMUoxU0x0Z1g0YmpKcU5vX2JsZlZVTm9v?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "category": "物流",
+      "publishedAt": "2026-10-28T21:00:00.000Z"
+    },
+    {
+      "id": "6230959972ef1735",
+      "title": "物流／ロジスティクスの視点から見た6Gへの期待【第1回】",
+      "description": "デジタルクロスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HQzhWYjZETzkyX294SUlHZENueWZJdHh5dmp4NU9uV1llM1NlUjNtZFB5ek5uaERFNFZHem1lRlNLbkFkeWUwYl9VVFF3UHNUeDRaV21pV2FieHVBbGw2MFRqSVVVUmZGaGtlMkQ2SkJzOHk1NlE?oc=5",
+      "source": "デジタルクロス",
+      "category": "物流",
+      "publishedAt": "2026-10-28T21:00:00.000Z"
+    },
+    {
+      "id": "57cdc4bc8b735896",
+      "title": "ウズベキスタン投資環境紹介、物流・製造特区も",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10RmxjN1czMkh3U2JTdHJPN295dHNseloxWWllWDJEVnNWeEJmTVZSMTlHNi0zSGNrT2lTdEp4UXVOQU5wRmUxampB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T18:59:25.000Z"
+    },
+    {
+      "id": "0bd54ee3acd59d86",
+      "title": "三井物産都市開発、仙台東IC近くに物流施設",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ueHc3dF9XNG9HVlRMeWE5UGFIRFpMSkpFbnAyYmQ3Sk1LNGtwWmc4MDBBM21EdkM2T0FRVFpXTUlUR1ZQU1Q5VVRn?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-10-28T17:44:06.000Z"
+    },
     {
       "id": "55f71bcf2e7fb3ca",
       "title": "北極圏物流回廊で欧亜接続、DPワールドなど3者",
@@ -8,7 +143,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TYjdfQ1lNdU9vSkktakw2NFNnUmxVcTFhNnFZX2FlbVdNVmJYREtDWWRnWmZTY1BuZHg0R1NoX2FKRklZdVFOWndB?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "物流",
-      "publishedAt": "2026-10-28T17:37:30.000Z"
+      "publishedAt": "2026-10-28T17:44:04.000Z"
     },
     {
       "id": "e6a4fc1a9899302e",
@@ -17,16 +152,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuZXFfdHRGMmFXekJsWVpFNVBpTzF5czY3cXUzb3dJMm5iNmR4enBvRENjbUhSaHJYZWZDbjhraml6QWF3Z1Voa3Bn?oc=5",
       "source": "LOGISTICS TODAY",
       "category": "冷凍・冷蔵",
-      "publishedAt": "2026-10-28T17:37:30.000Z"
-    },
-    {
-      "id": "0872f3ea5f7bf688",
-      "title": "事故トラックから酒の缶を押収 富山・北陸道の作業員死亡",
-      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWldfLXNRZElaOWNTaGNrb1M5Q25QeTloU1ZvQUdlTjF6dUg3cVlpUXJOX3F5eG1TRk5Tb0EtRmlfcTgxczdsd2o4ZGZsUVU3N25UWEttNllodw?oc=5",
-      "source": "山陽新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-28T15:51:27.000Z"
+      "publishedAt": "2026-10-28T17:39:07.000Z"
     },
     {
       "id": "b01b0e898471bc4d",
@@ -38,11 +164,20 @@
       "publishedAt": "2026-10-28T15:01:27.000Z"
     },
     {
-      "id": "e76bb0380ad4b3ff",
-      "title": "「都内なら30分以内」ヤマトが物流新拠点を公開 人手不足解消につなげる狙いも",
-      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTEJ5Tm9Xak43YnRXN1l1WXlmSVhqZFRtS190NjdhMXhYNHBiWVZHS28wdVVCdEVuSmt5U3VSTEdjYTJSenFDZ3JpSmZPQUdMNlp2TmJyTkNaOWlSbDhGRDJjQ0NHUDNiUXh0TXdjYi01dw?oc=5",
-      "source": "テレ朝NEWS",
+      "id": "1460b7203b544d26",
+      "title": "イオンネクスト 八王子ＣＦＣが稼働 首都圏の配送を効率化",
+      "description": "タウンニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05dV93R1BSYnpXVEtlNUhLaXlkX0MtOHNXN1VodmJKMGdmd0dzdmxraDBEX0ZuVFJhUDZEZFZ1cmNpVFU2TVVtZXRISXFnbVdRNFdONU9SZW9Ba2I0OXVweEtMYVY?oc=5",
+      "source": "タウンニュース",
+      "category": "物流",
+      "publishedAt": "2026-10-28T15:00:00.000Z"
+    },
+    {
+      "id": "84caed77e30f4069",
+      "title": "「都内なら30分以内」ヤマトが物流新拠点を公開 人手不足解消につなげる狙いも（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zM2VkSDNPRXBrRDI0M2gzSy1pY0V0b2tZX1Ffb1NScDdEM0V5Y1FPVk1VODFKWU1YLTBXQlFQeld0NlJZTXY1N2RuLVpLUnNpZXRxU1VMYTgwVFBHRHpUVFpwZlZYWHZWZFRuWVlwbW9GdjN1eU9qRVZfRlBxWVE?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-10-28T12:34:21.000Z"
     },
@@ -56,13 +191,13 @@
       "publishedAt": "2026-10-28T12:04:00.000Z"
     },
     {
-      "id": "f6c68319e12fab96",
-      "title": "八木建設 埼玉県久喜市に「ＤＶＣ久喜物流センター」竣工、設計から施工まで一貫受託｜物流ニュース",
+      "id": "6e1c45cba3a5bcb6",
+      "title": "「無料」→「サブスク」？？ 狙われる運送事業者 悪質求人業者に注意",
       "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYnRnTF9uNzhUb0lZNVZtckl5RGxPSjdWbWNYTXpkaVBiTmZWN0FjaFd5Snc5SG4tTkJ2UnR2VV9EWWFPZ05CZHJzcm9WUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aTnlXMGtOWFNvQk5rNUVodEszQ1VLNU5wc3NfQ013Y1VTRUJqUTgtQk14VUtBNkN4NlNaWEhsc2pyaTh3N3lKRXVUYlduQQ?oc=5",
       "source": "物流ウィークリー",
       "category": "物流",
-      "publishedAt": "2026-10-28T11:56:05.000Z"
+      "publishedAt": "2026-10-28T12:03:12.000Z"
     },
     {
       "id": "86173528acfe82f7",
@@ -83,15 +218,6 @@
       "publishedAt": "2026-10-28T11:50:10.000Z"
     },
     {
-      "id": "6e1c45cba3a5bcb6",
-      "title": "「無料」→「サブスク」？？ 狙われる運送事業者 悪質求人業者に注意",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aTnlXMGtOWFNvQk5rNUVodEszQ1VLNU5wc3NfQ013Y1VTRUJqUTgtQk14VUtBNkN4NlNaWEhsc2pyaTh3N3lKRXVUYlduQQ?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-10-28T11:50:08.000Z"
-    },
-    {
       "id": "c577ce61e8ab87ea",
       "title": "【倒産情報】ドライバー不足や燃料高が打撃 運送業者が破産手続き開始決定 負債総額4764万円【帝国データバンク】",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -110,6 +236,15 @@
       "publishedAt": "2026-10-28T11:27:00.000Z"
     },
     {
+      "id": "f6c68319e12fab96",
+      "title": "八木建設 埼玉県久喜市に「ＤＶＣ久喜物流センター」竣工、設計から施工まで一貫受託｜物流ニュース",
+      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYnRnTF9uNzhUb0lZNVZtckl5RGxPSjdWbWNYTXpkaVBiTmZWN0FjaFd5Snc5SG4tTkJ2UnR2VV9EWWFPZ05CZHJzcm9WUQ?oc=5",
+      "source": "物流ウィークリー",
+      "category": "物流",
+      "publishedAt": "2026-10-28T11:23:16.000Z"
+    },
+    {
       "id": "6a3b1c41fe11acdd",
       "title": "上武道路事故 トラック運転手と会社に賠償請求 口頭弁論（群馬テレビ）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -117,15 +252,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-28T11:12:27.000Z"
-    },
-    {
-      "id": "706476c7f63bed71",
-      "title": "【速報】新名神の6人死亡事故 トラックを運転していた女に拘禁刑7年の判決 女はスマホ見ながら時速約82キロで運転 遺族｢やっぱり腑に落ちない｣ 津地裁 三重",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhcFBmMmRfY3NmSVVta2Z0M2xieENtVU03R0k1dzFrYmc4b21qNGlUZnBCY3o3TloxSUpjWlo1aUxYWHE0V0RVQ1B6SGRiRFoybENOUmJQNnB5d25pb0Fz?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-28T10:17:00.000Z"
     },
     {
       "id": "2497d10f463190a0",
@@ -173,24 +299,6 @@
       "publishedAt": "2026-10-28T09:13:00.000Z"
     },
     {
-      "id": "0d783fd3eb2fd033",
-      "title": "日本GLP、大阪市内にあらた専用物流施設完成",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1RmVyOUswN1l4NEpMb2R2bFJwdTEwT2otejlxY3RTRVpRRG5zUGdCUlBNZkpIWGx4elptUS1HbFZXYnBVTzNEVUlB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T08:44:30.000Z"
-    },
-    {
-      "id": "50194b88cb85695b",
-      "title": "パスコ、固定ルート配送の配車作成を効率化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6Y2ROMGxKYThaSWJqclpIN1g1YlBtSXppMFBfYmdtSjBqTDBIN29uZ0o2cVJyalFOMUd2Qi1ldFE4MVRoZ0lXUlJR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T08:44:27.000Z"
-    },
-    {
       "id": "097a8614585a9d38",
       "title": "小松島市の国道55号でトラック横転 近くの県道が3キロ渋滞【徳島】（JRT四国放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -207,15 +315,6 @@
       "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-28T08:43:00.000Z"
-    },
-    {
-      "id": "0bd54ee3acd59d86",
-      "title": "三井物産都市開発、仙台東IC近くに物流施設",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ueHc3dF9XNG9HVlRMeWE5UGFIRFpMSkpFbnAyYmQ3Sk1LNGtwWmc4MDBBM21EdkM2T0FRVFpXTUlUR1ZQU1Q5VVRn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T08:40:26.000Z"
     },
     {
       "id": "68d109be27d5dc86",
@@ -243,24 +342,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-28T08:28:19.000Z"
-    },
-    {
-      "id": "9c2009e3ff349346",
-      "title": "ロジフォワード、EVトラック3台を配送に導入",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GZzkzTW43YUpCa1BLS2wzLTBHcERUUFpPSUZsR3hyUk1oNkFYN25teTQySW1FaGV0SmtwOVFuV1BRRkd3LU02UGFn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T08:12:20.000Z"
-    },
-    {
-      "id": "752abac87ea253fa",
-      "title": "センコーグループが千葉に新たな物流センター開設、冷凍・冷蔵のランテックが運営 - LOGI-BIZ online",
-      "description": "LOGI-BIZ onlineが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BeHN6d0xpS1BVT2NZMmpqTnNhUlJwZHNCQUZLNHRmSFlwaWl6ZnRDYVluaHdnMDNjcjFXMzB3MjR3NVBKd0taSjBibw?oc=5",
-      "source": "LOGI-BIZ online",
-      "category": "物流",
-      "publishedAt": "2026-10-28T08:04:22.000Z"
     },
     {
       "id": "3b5ae0247979823d",
@@ -308,6 +389,15 @@
       "publishedAt": "2026-10-28T07:05:53.000Z"
     },
     {
+      "id": "1344611e09590912",
+      "title": "サードパーティロジスティクス市場―2026年～2032年の世界市場予測",
+      "description": "アットプレスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KNk5TaWJnblppUkZTX0lsbzBjVVd3MEtoQWphTV9VbjZzbF9OalVibkwxSGZCUmQ3Y1huMlN1RHdtcjUyS3AtUDBfRUM3Zw?oc=5",
+      "source": "アットプレス",
+      "category": "冷凍・冷蔵",
+      "publishedAt": "2026-10-28T07:04:00.000Z"
+    },
+    {
       "id": "4f0c2683e305e328",
       "title": "24時間365日、緊急配送やスポット配送などの多様なニーズに迅速に対応する「クロネコ軽貨物チャーター」を提供開始",
       "description": "ヤマトホールディングス株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -353,15 +443,6 @@
       "publishedAt": "2026-10-28T05:51:37.000Z"
     },
     {
-      "id": "57cdc4bc8b735896",
-      "title": "ウズベキスタン投資環境紹介、物流・製造特区も",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10RmxjN1czMkh3U2JTdHJPN295dHNseloxWWllWDJEVnNWeEJmTVZSMTlHNi0zSGNrT2lTdEp4UXVOQU5wRmUxampB?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T05:51:37.000Z"
-    },
-    {
       "id": "ba5877a5eecf0686",
       "title": "センコー／千葉湾岸エリアに冷凍・冷蔵物流センター竣工、ランテックが運営",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -380,15 +461,6 @@
       "publishedAt": "2026-10-28T05:30:03.000Z"
     },
     {
-      "id": "82948018bc3131e4",
-      "title": "CRE、キユーピーの共同輸配送戦略を解説",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82Mjh5UXdiek12X1ItUW82bDFjYjFiMDk5MTc2aEZ3STJCcUgtTDFPT1JTYkVDTTdlOUFuYUUwd0dSSmVuQUlaR0xn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T05:26:58.000Z"
-    },
-    {
       "id": "50d578110b1f4d95",
       "title": "ロジエンスコンサルティング／荷主・物流会社向け無料セミナー、11月に全4回",
       "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -405,15 +477,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-10-28T05:17:36.000Z"
-    },
-    {
-      "id": "9ced4721dc00f82a",
-      "title": "LIGO調査、運送会社選びはエリア重視",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MR1FPWFVrTkJfMy04akozOW9VcktOcmg0WklJRXVTbkJDTDM1aEh4dHl6R2tlU2NwT3Fka1phSGpTRFpVUmt2XzJ3?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T05:16:49.000Z"
     },
     {
       "id": "1adda12dfb44fd98",
@@ -461,15 +524,6 @@
       "publishedAt": "2026-10-28T04:31:33.000Z"
     },
     {
-      "id": "0dd71438898bed4d",
-      "title": "ヤマト、軽貨物チャーターを即時オンライン化",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4ZVFOLXI3UzNDZzQyUWlTa2hBWWI2Tk80VEtOVWV5aGdmLVVLQ1RHalYyeDR5WlBoNE9LV01yNEJrcFpFZUVjQUVn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-28T04:18:30.000Z"
-    },
-    {
       "id": "b65e1e9b1271df36",
       "title": "日本のコールドチェーン市場規模と動向",
       "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -497,20 +551,11 @@
       "publishedAt": "2026-10-28T03:14:00.000Z"
     },
     {
-      "id": "d98fb2217b50cb30",
-      "title": "10歳の子どもがトラックにはねられる事故が1日に2件 下校中の女児が横断歩道で…自転車に乗った男児が… 静岡県 （LOOK）",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzOXNfQUtoS3p6dkFwakZsWW54SkI0YThFR0l1VlhxSXJqTTFBTi1vQXpnMEFYNEZZa2Y5b09lYnpjY0FTX3NRcU1VVzdwaE1WNHpiXzg2VVJsbkZ3VldKMmtMbGFzZ1NpVV9zZS1fbXQ?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-28T03:11:00.000Z"
-    },
-    {
-      "id": "3f6c802efc5bcb20",
+      "id": "481e7310b2609b1b",
       "title": "静岡県内で小学生が横断歩道でトラックにはねられる事故相次ぐ いずれも命に別条なし 警察でいずれも運転手を逮捕（静岡）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zN2wxRnlDR2M4WkZIbERoWWpTTFJ5QVM3TTVObDJ1MktsQV85WHBHTVJxY09YTzZwZDNtUFdHeG10WXE4Y3FjbzdWN1R4RWpqUG01YTRaazVkM0VUck94amdVb2hzSFdyMjhhbnB3MmpIcEQ5OXc4bE8wd3hGc2M?oc=5",
-      "source": "Yahoo!ニュース",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUg5c1I1YWhwdVI0S212YUFrVEowc005VVBuc3VGNnlaaWFuMWRyMDVwbk5LUXlackV4WU5QWWlTNENHM1NsRklmMlUwZjVMQVNad0ZBcE1GSVBwYndrTGVIMGtlUkw2V3NZc1l3elctWHJUY3cyclFFS0o4WkRMVNIBhgFBVV95cUxPbnBTZkpyVUdIRUxSY251eE5HbkJVbjhnZS1MQnNSUzJwRDBiSzhlUTNZaEFFX01kdjA4elpVZURnWGtaeTNQcTFRQ3FYQ0o0Z0J1TTRBQ0g2cHlZTERGVGFvcVp0MlIyMkZZYlRXZGxmWGRiY09ZUVFHcEx5N0JLbWhsenN0UQ?oc=5",
+      "source": "ｄメニューニュース",
       "category": "安全・事故",
       "publishedAt": "2026-10-28T03:08:00.000Z"
     },
@@ -632,6 +677,15 @@
       "publishedAt": "2026-10-27T23:16:37.000Z"
     },
     {
+      "id": "540e3b824d2a678f",
+      "title": "【速報】「サービスエリアで飲んだ」酒酔い状態で大型トラックを運転して衝突事故起こし男女２人にケガをさせた疑い \"危険運転”の疑いで長距離トラックの48歳運転手を逮捕 兵庫・西宮市",
+      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ER3hlUW1lX0J5RFpfRDlTZ3ZtQndxVmY2eEp0Uk4zSlE1SllGZHU1YW9QZzVWSnBCT0E2SVZBSnJERE5HeXVaWVRYZnprMnoycXBHYVhGV1VfcVk2U1p3U2xaLVY0cVF5ODBlNERsYWFVZmZmV2dnbHpR0gF_QVVfeXFMTlI3engtMUNtVzhtZ29DTUlIQi12NVNxanFURW15S3dWNEpETENGQnNDajQwaHhiSkdWRWk5OWJpdWU3SUxyclVPUjU4UjdvYXpQeUIzcmc5YTE4bW8xRzBiVWZ5YjZNWjQxeFRlVXp6UnhuYWJSMEZEa1h0MWNuQQ?oc=5",
+      "source": "ｄメニューニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-27T22:56:49.000Z"
+    },
+    {
       "id": "b3713113b5fe8082",
       "title": "【続報】はねられた自転車に乗っていた男性（70）死亡 トラック運転のさいたま市の男（32）逮捕 宮城・栗原市",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -666,60 +720,6 @@
       "source": "ビジネス+IT",
       "category": "物流",
       "publishedAt": "2026-10-27T22:00:00.000Z"
-    },
-    {
-      "id": "edf03647d57a1b30",
-      "title": "仙台市内の国道で自衛隊の大型トラックが中央分離帯に衝突 運転していた３０代隊員に減給１カ月の懲戒処分（仙台放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rODNOVWdpaU9LTWFVV3JDWUNwNkY1YVlQVjI0aW16a2NzOGhWcFUtWHJLZ3VYbEttQmgxUWpBMWRnUmNRYVZvMFJJVVRjeDJIc3J1SWFjUFlXdDU5S0FYajl3aFBOS0ZZZlZtS0QwTmRtbEpPVzhzcVp5czdpeFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-27T20:50:01.000Z"
-    },
-    {
-      "id": "3aa308f0ba160df4",
-      "title": "トラックが電柱に衝突 運転していた男性（６７）死亡 札幌市",
-      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ZVE3VkJDMTE5bzdBN3RXWUh6U2lTSWtqOTF5SXNuY1BKY1Z2NEZDOXVvOTBkZE5mU1ZnbmQxX3VKcnVpSk9FS3JERTd0RmQySUFlZmgxWmZLVXMyVE5iUktETnEtdnpDVEcxSmVNdndLZ9IBckFVX3lxTE50ZVE3VkJDMTE5bzdBN3RXWUh6U2lTSWtqOTF5SXNuY1BKY1Z2NEZDOXVvOTBkZE5mU1ZnbmQxX3VKcnVpSk9FS3JERTd0RmQySUFlZmgxWmZLVXMyVE5iUktETnEtdnpDVEcxSmVNdndLZw?oc=5",
-      "source": "Infoseek",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-27T20:28:19.000Z"
-    },
-    {
-      "id": "bcac27b2200cb70e",
-      "title": "トラックが電柱に衝突 運転していた男性（６７）死亡 札幌市（STVニュース北海道）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NWFyeW9IcHJsYlZSUlBTWlpYenV5YnhWX0g0WDBidTdCbjFNU0ZRUnM1QzZBUUdxRmFtYzRNNVd1alU0WlcwX0dBcVVsazNZUnNGeGZ6UUVwNjhIcWtKdWU1b3VNdndJaUc4U08yTlRvdlZLeEhkQkdzOTdadGc?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-27T20:26:00.000Z"
-    },
-    {
-      "id": "6c8157aaa37d6ad4",
-      "title": "日本物流団体連合会の長沢会長「物流データ基盤、国が整備を」",
-      "description": "日本経済新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZ1NMeG1BZ0dZRzdyS2ZmeHVBWjZWWnhvNHpVODFGekhDLVdES29LMzBxYmtRb09ibnd4TmFPSFJxM1pjaGRSOERiNklRb1hZUW5WVTlYSzdGbXV4aWFMWkpxSHJWY2ZoUWdhWQ?oc=5",
-      "source": "日本経済新聞",
-      "category": "物流",
-      "publishedAt": "2026-10-27T20:00:00.000Z"
-    },
-    {
-      "id": "540e3b824d2a678f",
-      "title": "【速報】「サービスエリアで飲んだ」酒酔い状態で大型トラックを運転して衝突事故起こし男女２人にケガをさせた疑い \"危険運転”の疑いで長距離トラックの48歳運転手を逮捕 兵庫・西宮市",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ER3hlUW1lX0J5RFpfRDlTZ3ZtQndxVmY2eEp0Uk4zSlE1SllGZHU1YW9QZzVWSnBCT0E2SVZBSnJERE5HeXVaWVRYZnprMnoycXBHYVhGV1VfcVk2U1p3U2xaLVY0cVF5ODBlNERsYWFVZmZmV2dnbHpR0gF_QVVfeXFMTlI3engtMUNtVzhtZ29DTUlIQi12NVNxanFURW15S3dWNEpETENGQnNDajQwaHhiSkdWRWk5OWJpdWU3SUxyclVPUjU4UjdvYXpQeUIzcmc5YTE4bW8xRzBiVWZ5YjZNWjQxeFRlVXp6UnhuYWJSMEZEa1h0MWNuQQ?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-27T19:55:17.000Z"
-    },
-    {
-      "id": "d2d80c04e532a590",
-      "title": "青森県ト協、運送事業者向けにCO2算定研修",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2OGxtbE9EakE1NEFfYllTdVpfbDY5ZkdLeFNQZnh6MjZVaFBWWUMtZXdxTzdlV3VBOXFVSkdpQWxkMW1iT3BQWndR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-10-27T19:03:27.000Z"
     }
   ]
 }
