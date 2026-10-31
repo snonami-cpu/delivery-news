@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:58:09.773Z",
+  "updatedAt": "2026-10-31T23:23:10.506Z",
   "articles": [
     {
       "id": "5dd5557986e0547e",
@@ -29,6 +29,24 @@
       "publishedAt": "2026-10-31T10:02:29.000Z"
     },
     {
+      "id": "756cfe4ace5d84b0",
+      "title": "京葉道路でトラックなど絡む玉突き事故、3人軽傷 前方不注意による事故か 千葉県警高速隊",
+      "description": "au Webポータルが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bE5OS3B2dEdxTmMwYmVSSURVRTc4cGRHdmsxekk0TngtaWhuXzlBaXd0STBIcTNTSnYwZlVRVVpXR2c3aDVxeElEZkhlUGt1OW5Gek50WHhUR2NtRWc4YVVnR2hsUDBpbXBVQzhR?oc=5",
+      "source": "au Webポータル",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-31T10:00:00.000Z"
+    },
+    {
+      "id": "4f56ce51bc0fdc06",
+      "title": "未明の路上で大型トラックにはねられ男性死亡 横断歩道のない場所で接触か…42歳のトラック運転手を過失運転致傷容疑で現行犯逮捕 大阪・西成区（関西テレビ）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaOTNfbzN4c3Uwc1J1ei0tM0lvUXB6aHBVRUV5akhHQm9xVUN1Vl9PT3Ffdjdpd25JcnBadGZoVDJRdmlFTTZHb1k1S3dtZjlhT2hwZjlwVGJ0clRvOS1vV3Zxc3ZxT25hbFlvVThNOVhVOFpxX0tDVGlQV2R2MjQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-31T09:06:02.000Z"
+    },
+    {
       "id": "99bc4e7bcd7459a1",
       "title": "国内バイオ医薬品宅配便市場の現状と今後",
       "description": "pando.lifeが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -56,40 +74,22 @@
       "publishedAt": "2026-10-31T04:03:48.000Z"
     },
     {
-      "id": "7f61145cbf8a5015",
+      "id": "186fe4ed1ff710eb",
       "title": "国道でトラックなど3台絡む多重事故「急に飛び出してきた」バイク同乗の21歳男性が死亡 兵庫・伊丹市",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFNTR1RZUTQ5bFU1aERRS2NXX2hmc2E1bjZlNEVTMExLVzR3R3NFTU5FaEZoY0N2cUdoOWdLeXJTbTVDX3BPblJiNWR6ZUVFX0xDX1FDNUZIa21RUGpWcFJ1TWh0Ukc5VUk0RURFUHF5MFlQUVJObzB6MDVST3VNZmNR0gGCAUFVX3lxTE90U1NHVFlRNDlsVTVoRFFLY1dfaGZzYTVuNmU0RVMwTEtXNHdHc0VNTkVoRmhjQ3ZxR2g5Z0t5clNtNUNfcE9uUmI1ZHplRUVfTENfUUM1RkhrbVFQalZwUnVNaHRSRzlVSTRFREVQcXkwWVBRUk5vMHowNVJPdU1mY1E?oc=5",
-      "source": "ｄメニューニュース",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZW5EZGFiMlBEeWN0N2FUeVdOTUh4dlAzM2tLWUx0bVdNSzU5QjYwR3NraDBlUU0zSkdfRWVlVUJpdEdtUnVnYXFHRWRjWFFTNVFBOHZjRlF0OXlYTXNOX1o2ejduQTYtZmxqc0w3clVlZWRhaGVaR2ZLN1NlZVE?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-10-31T03:07:00.000Z"
+      "publishedAt": "2026-10-31T03:06:10.000Z"
     },
     {
-      "id": "79de3547479c7203",
+      "id": "50923aa592a5b518",
       "title": "国道でトラックなど3台絡む事故、オートバイの2人死傷 伊丹",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5seGRfTHEyQzkzMEl5TmNScWpzSzB1Q29Va0VkUE0yTDZaYzUxT1d1LUhrQzBGSEQydVlrR1p6Wm5PcXZPTllXdDdqSXRvZGNLUTlvNlk0Ri1wbVlJelFQQW0wQ2lQSFRMa2R0M1dXT3JjWW5zTEFGYkd6ZlTSAXxBVV95cUxObHhkX0xxMkM5MzBJeU5jUnFqc0swdUNvVWtFZFBNMkw2WmM1MU9XdS1Ia0MwRkhEMnVZa0daelpuT3F2T05ZV3Q3akl0b2RjS1E5bzZZNEYtcG1ZSXpRUEFtMENpUEhUTGtkdDNXV09yY1luc0xBRmJHemZU?oc=5",
-      "source": "ｄメニューニュース",
+      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53c3F2YkNubmVEVzdrNGFud0VMbXcyMzFHOEdYc09QNGoxa3RoM2dIYUFQSDN5ZFRCWmxOODl2Uzk3dGExaFFQTGdudw?oc=5",
+      "source": "47NEWS",
       "category": "安全・事故",
-      "publishedAt": "2026-10-31T01:20:00.000Z"
-    },
-    {
-      "id": "0872f3ea5f7bf688",
-      "title": "事故トラックから酒の缶を押収 富山・北陸道の作業員死亡",
-      "description": "山陽新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWldfLXNRZElaOWNTaGNrb1M5Q25QeTloU1ZvQUdlTjF6dUg3cVlpUXJOX3F5eG1TRk5Tb0EtRmlfcTgxczdsd2o4ZGZsUVU3N25UWEttNllodw?oc=5",
-      "source": "山陽新聞",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-31T01:13:02.000Z"
-    },
-    {
-      "id": "ab39fbf3cb21a024",
-      "title": "WalmartとSymboticが物流自動化の提携を拡大 米国25配送拠点、約60億ドルを追加投資（10/30）",
-      "description": "LALALA USAが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xbV9CNHZ6TEJGRGczWDBIQnlLeEsxdWE4dlhoa21kTy1BY1hXdVJxeVBHM1VWUlZoVzExYl9yVUJ0ekZLSFVRX2JGXzI?oc=5",
-      "source": "LALALA USA",
-      "category": "物流",
-      "publishedAt": "2026-10-31T01:09:27.000Z"
+      "publishedAt": "2026-10-31T01:10:00.000Z"
     },
     {
       "id": "ecfa01a041530686",
@@ -182,22 +182,13 @@
       "publishedAt": "2026-10-30T22:57:58.000Z"
     },
     {
-      "id": "ff71912a02b3380e",
+      "id": "1613f270e00cd13b",
       "title": "大阪市西成区で交通死亡事故 トラックが歩行者はね男性死亡",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96TUhVMzNDUDd5a2kwbzlwSlVkS3l1MGZQMU5CdXVfbGF3QmRic1dPbWxoMWhFYVdJcGJyVU5QVWlJdmdiSXZzd2tpUHlwb3ZOWEtlNUpUNWZETFFRSWNRSHRndDQ1RHRWenVqTkNwU1BpNWxzZVpONVVqLXXSAXxBVV95cUxPek1IVTMzQ1A3eWtpMG85cEpVZEt5dTBmUDFOQnV1X2xhd0JkYnNXT21saDFoRWFXSXBiclVOUFVpSXZnYkl2c3draVB5cG92TlhLZTVKVDVmRExRUUljUUh0Z3Q0NUR0Vnp1ak5DcFNQaTVsc2VaTjVVai11?oc=5",
-      "source": "ｄメニューニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-10-30T22:34:00.000Z"
-    },
-    {
-      "id": "7018d02f08c20b7b",
-      "title": "「商品を探し回る必要がない」…韓国・ロボットが動き回る物流センターを訪ねてみた（KOREA WAVE）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMDVLWkxBTWlwRGVwNDY4V0pMeHkwa1hyblVaSVhtcmZtM1pQRkxFaWZ6c0pCdTJIbmJLeWhpS0ZvY1FpdlNBbVZ0TkhmbXFTaDdLRkJ1NmlGNi03TUR4NXoxMk9JYTV0TDdkclZSaXdCaHFvMVNzRVVKN2dWYXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRGtQcHBoZGVqdXN0NndYdGEyTFRqNmpQbWk3YVRIYXNReHhrbHU2RGpTNWlLM1Y5MzNxd0xFcC1RVW15bkNIUlF4QzRSVThqc21jWEpodHUxSlNYRFlDX3BUelBVQmRaSGVZSHN1T18tTEZVZTNRY3NCQUdJV2c?oc=5",
       "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-10-30T22:22:02.000Z"
+      "category": "安全・事故",
+      "publishedAt": "2026-10-30T22:34:50.000Z"
     },
     {
       "id": "ccc6ced80456ac45",
@@ -218,21 +209,21 @@
       "publishedAt": "2026-10-30T22:16:26.000Z"
     },
     {
+      "id": "3cdeb8a96359bdeb",
+      "title": "大宇建設の核心事業、加徳島空港の着工が不透明に…国土交通省は「年内契約を目指す」",
+      "description": "亜州日報が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41akQxYXB6Vk9MZGJUVS1INTkyZjNQTndwcERnaUVhYjlRYUppMlBXVi1jTkhGaUZLaHptTkVzQ1U4Q1lLblgza2o3LVNpaERrMmMzNndUYjZuUTQ?oc=5",
+      "source": "亜州日報",
+      "category": "法令・行政",
+      "publishedAt": "2026-10-30T21:04:00.000Z"
+    },
+    {
       "id": "fd1898fc3c618e21",
       "title": "日本の「物流機器」が海外で爆売れ！売上2600億円を支える「意外なニーズ」とは？",
       "description": "ダイヤモンド・オンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVkRMT2dNWVhOZ2xIcUV2eVlqcWFuYTYwSEFNMlVjNC13WVZjY3pUOVU2cGFDQlhreV9XelRwNU5sRjZDZ29Ga0hZZDPSAU9BVV95cUxNSXBUcmVJLTV5M2h4ekNjMlo0WDRDRHBDeTdaSEtKU0ttS0lJVy14S3BtT0JzS29vckxDQURSZExlSlF2M01KbEV0TlZZbTJF?oc=5",
       "source": "ダイヤモンド・オンライン",
       "category": "物流",
-      "publishedAt": "2026-10-30T21:00:00.000Z"
-    },
-    {
-      "id": "d02c7c3b0fa79d08",
-      "title": "【事故】トラックにはねられ８９歳の女性死亡/山口市の県道",
-      "description": "山口新聞 電子版が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRVkwbTlEMU9rYk5rRVRqX3VDaHlqOWtDRFhfQlpkX25BWW51cTREVkFMMzZCd0JiYU93eEZETkl6ZEJCTVlZM3NydDdUemxKUzNQckpoc1VXdkdwX3I2SG1UWlVYYU8yWVE?oc=5",
-      "source": "山口新聞 電子版",
-      "category": "安全・事故",
       "publishedAt": "2026-10-30T21:00:00.000Z"
     },
     {
@@ -308,13 +299,13 @@
       "publishedAt": "2026-10-30T10:11:55.000Z"
     },
     {
-      "id": "d9511773ea50beed",
-      "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に（福島テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJWjNycFh4OThIY1RXaEQ0clpaTTVFU1J0bHUwcGdKbGM2TGZVSEZ6S3hQTFltcExGTHRTaVd6eVVmZnpMTjVhNEJ2WTlnc29MUnd5NDBTMktEdXZVUUMxWGRTeDlKMzc0VjFOTDlhVnpVZ2c2Y0RBTXQwODdncjQ?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "b91a3ee39c8a1084",
+      "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に：ニュース",
+      "description": "FTV 福島テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5ZUd0MGlhTFFTZ2hHZ01Cc3ZSZVczV2U1UUllMjlDVmtHZjRvNVhLeElfUzh3Q3Y4dDBkTVdGVzY2TmFJU055RGh4R1lDZHhuRWlWazd1ZXI4d0JDYlY4X2VlTktOUXA0c2hGWHdBNnFfTThDbzUySklR?oc=5",
+      "source": "FTV 福島テレビ",
       "category": "安全・事故",
-      "publishedAt": "2026-10-30T10:08:02.000Z"
+      "publishedAt": "2026-10-30T10:08:00.000Z"
     },
     {
       "id": "e76053939434a6de",
@@ -720,6 +711,15 @@
       "source": "TBS NEWS DIG",
       "category": "安全・事故",
       "publishedAt": "2026-10-30T00:05:00.000Z"
+    },
+    {
+      "id": "e2c3a3298749fbb6",
+      "title": "【舞鶴若狭道】綾部市内でトラック衝突事故 通行止め解除には時間がかかる見込み（30日09:00現在）",
+      "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeUhXYmxoNmI4RFBreGlFLVY5bnZ5VmdTWGxWdU5LZ2NlaHF4SXI2Y3ZMYlJGMzlOeVFjNURUbkxZSG1YbmJFdnZwbkdobXpOS3U5SUhJVHlMRmZtcVk4?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "category": "安全・事故",
+      "publishedAt": "2026-10-30T00:00:29.000Z"
     }
   ]
 }
