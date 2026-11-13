@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-11-13T16:20:05.386Z",
+  "updatedAt": "2026-11-13T22:36:08.692Z",
   "articles": [
+    {
+      "id": "c9233c9c5575f8d9",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認",
+      "description": "朝日新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyV1FhMjVfQWVLem8?oc=5",
+      "source": "朝日新聞",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T21:27:36.000Z"
+    },
+    {
+      "id": "f894bc578f80369a",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認（朝日新聞）",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oTVdmRUw1T0FhLURzNFkxRkxUTjdsTVZ6QXBBMVlSWENxZXJSQmJkRXNSVUl5LTdHYWkxelhFM2dvejFaVGw4amRDbmlxeDFuLURHYWM1Y2NVNE1VeFhLeXBsZkFfSmlvVTlLN2FpWmE0VmtoVy1Ed21XWkhhamc?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T20:21:18.000Z"
+    },
+    {
+      "id": "8467fd399b54056d",
+      "title": "三菱地所物流リート投資法人【3481】：株価・株式情報（夜間PTS含む）",
+      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBMjB3QWE4Vmo1YVozTS1PN2IweHJsRjZoTXhTbXVubHNEbXEya3Jxa2x2eGFmLWQ1el9lRGlBbmd2RTBwRk1FSTlKcGthQzVkcGc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "category": "物流",
+      "publishedAt": "2026-11-13T19:56:30.000Z"
+    },
     {
       "id": "a4dc159fe4979b15",
       "title": "トラック運送費「３割上昇が必要」、国交省が初の試算…「適正原価」検討会・荷主側は「想定より高水準」",
@@ -29,6 +56,15 @@
       "publishedAt": "2026-11-13T14:59:00.000Z"
     },
     {
+      "id": "97d775bd7ba22d9c",
+      "title": "海老名市で高齢女性2人死亡ひき逃げ事件 逃走したとみられるトラック発見",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLTlZ6aUVoMDBaY3d5WlpoX3FNSWo4elVEa0djVFhiUW4yRVhhZEN2Znl1bDdvU2VrcHNkY2FOVTUxR2N2Q1doRnJzbjlFQmduMGVuNEZsSHFBNFVyMzNCcDVBTGxrcF92dzdIdkZNelJKdw?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T14:55:37.000Z"
+    },
+    {
       "id": "812717d84513c607",
       "title": "高齢女性2人死亡ひき逃げ “逃走”トラック発見 乗っていた男性から事情聞く（2026年11月13日掲載）｜日テレNEWS NNN",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -36,6 +72,15 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-11-13T13:23:01.000Z"
+    },
+    {
+      "id": "7e231e920e44bc21",
+      "title": "海老名市内でトラックがひき逃げか 高齢女性２人が死亡｜tvkNEWSアーカイブ",
+      "description": "テレビ神奈川が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EREE1aFBJYWhjaGFWT1h3ZHhvQzc0aFBWa3JhVml1ME1VTi1GQVlfQ1JPVnNuQUNtTDkzQnpCWkJWRzN0cHNDejFfQnRXS3ZPYUNoUUstc1VtOWREejNMTkxUVHZscFljZ0NtRWdPR2ZJc2M?oc=5",
+      "source": "テレビ神奈川",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T13:23:00.000Z"
     },
     {
       "id": "0da02e22e77a0c68",
@@ -110,13 +155,13 @@
       "publishedAt": "2026-11-13T10:51:36.000Z"
     },
     {
-      "id": "389b607e205545ad",
+      "id": "f103b13d74314894",
       "title": "ひき逃げで80代女性2人死亡 現場からトラックが逃走中 JR海老名駅から約1キロの交差点 神奈川",
-      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40bFZuZF82VTJESGl3RTJLMHNwWnRnR1NBQU42RHh2SmdyekhHbHExc0VvWnFLZVhpR0dhSTBqVjJCbV9ucjBKSjBEd0Rjdw?oc=5",
-      "source": "FNNプライムオンライン",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PU2dQUGVXaFlrRjhfbEpzTDFCalJBc1J0eWVJUTBkVloxRFhzMTMxeWxDcmd3aWJXYVNsMnVxSElvZFVWRFd5eHppWFBNTjVfN25VUm1JTDJIbVhjb1dvZjJDQms2QkVreXN1ZFM4MHFzeXZaVVR2ZlRHT3RaWVk?oc=5",
+      "source": "Yahoo!ニュース",
       "category": "安全・事故",
-      "publishedAt": "2026-11-13T10:36:00.000Z"
+      "publishedAt": "2026-11-13T10:37:17.000Z"
     },
     {
       "id": "f7ab08bcaab6c197",
@@ -128,31 +173,13 @@
       "publishedAt": "2026-11-13T10:29:19.000Z"
     },
     {
-      "id": "8467fd399b54056d",
-      "title": "三菱地所物流リート投資法人【3481】：株価・株式情報（夜間PTS含む）",
-      "description": "Yahoo!ファイナンスが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBMjB3QWE4Vmo1YVozTS1PN2IweHJsRjZoTXhTbXVubHNEbXEya3Jxa2x2eGFmLWQ1el9lRGlBbmd2RTBwRk1FSTlKcGthQzVkcGc?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "category": "物流",
-      "publishedAt": "2026-11-13T10:06:10.000Z"
-    },
-    {
-      "id": "92a794162c543487",
+      "id": "8f61152f5322a8e7",
       "title": "衝突事故で高齢女性2人死亡 トラックは厚木市などを流れる相模川の方向に逃走か",
-      "description": "Excite エキサイトが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRll0M1pScVVER0lGN0o5Q2RKUUFILUp4RlNmSnJ3VmZyM2lCaXdmcXJMSXUtQm1ZSUZnZjhwRkh0c0d3NDkzWUxtODN2dEhGS0V1VWgtaG8xT01KbHVQVFlaZ2pJSkxwNEFqbGVn?oc=5",
-      "source": "Excite エキサイト",
+      "description": "Infoseekが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80eWxfdUJHNU9LU1piWVB4aWMtQnJyN0JBUWhKbVdESE1YaVhqVllYbXpUUEpqSmVyOFJDVmtqX2pJTzhoekZTdWdLOGEzX0MxbDlXV002ZS1SOTcxYVpEWWwtNG1fQjA?oc=5",
+      "source": "Infoseek",
       "category": "安全・事故",
-      "publishedAt": "2026-11-13T10:06:00.000Z"
-    },
-    {
-      "id": "87918ff15438bd3c",
-      "title": "海老名・国道２４６号高架下の交差点、女性２人がひかれ死亡 トラック走り去る（カナロコ by 神奈川新聞）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TV2xWT1YxREdQcjRWdFJwSU5waG1TSF9qNmE5ZnJIUzFjVGJTS2ZOcjg1Z2tJNXM2VkExQ09CZlpEWVoxZHhOUmt1TEdTelNPd0ZEdEZFeENhR0RtZllkM3BGNWxCNVFDaW5IcEZucDRhWmxNU05RcnJzSzdCRmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-13T10:00:48.000Z"
+      "publishedAt": "2026-11-13T10:05:00.000Z"
     },
     {
       "id": "6a737b18c56272a9",
@@ -254,6 +281,15 @@
       "publishedAt": "2026-11-13T08:30:38.000Z"
     },
     {
+      "id": "24dfa9c323e2c3bf",
+      "title": "野村不動産／11月25～27日「第6回 名古屋スマート物流EXPO」に出展",
+      "description": "物流ニュースのLNEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95dmtWdnZzc2RkOEJqVDdBQUUxNWx4RTd4OWJwVHJmZW1XUlcwNTdLRzd6amQ1LTl1enRMMDhqZ2Vid215WFJINndYRkEtUmI4OVdTdw?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "category": "物流",
+      "publishedAt": "2026-11-13T08:23:41.000Z"
+    },
+    {
       "id": "64dd3f0c9adf4093",
       "title": "女性2人死亡 トラックひき逃げか",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -317,6 +353,15 @@
       "publishedAt": "2026-11-13T07:43:01.000Z"
     },
     {
+      "id": "6280599d302e106e",
+      "title": "海老名市でトラックと歩行者2人が交通事故 歩行者2人は死亡 トラックは現場から逃走中",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vV3YtUzl1Q2F6S1ZBY0JHSDQ5WVBxamd6ckM1Vk9oLWw0clVrVjdoZUo3MUZZRU5USmpBTGRDOGZLaWhrQmp5RlhjaHJJQ094ajNaTlRsbVRHRWs0ak5hMU9mazVBa09QNUk2NlBuUHV3QQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T07:35:51.000Z"
+    },
+    {
       "id": "b900942b6752e3a5",
       "title": "海老名市でトラックと歩行者2人が交通事故 歩行者2人は死亡 トラックは現場から逃走中｜Quebee キュエビー",
       "description": "QAB 琉球朝日放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -324,15 +369,6 @@
       "source": "QAB 琉球朝日放送",
       "category": "安全・事故",
       "publishedAt": "2026-11-13T07:35:51.000Z"
-    },
-    {
-      "id": "0fb694422b0b2401",
-      "title": "海老名市でトラックと歩行者2人が交通事故 歩行者2人は死亡 トラックは現場から逃走中",
-      "description": "KFB福島放送が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlNVlOOEE1SkZwQnZVVG1DWFVKamh4MDY4YmtDdi1DbHJPRmlwdkFRTV9tN1l1Ml8wZGhJNnVnN2txWGtGS3NBQnNqSmpSSXhHQTZBU2Z3?oc=5",
-      "source": "KFB福島放送",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-13T07:35:00.000Z"
     },
     {
       "id": "82c730f07ffb8d6b",
@@ -405,15 +441,6 @@
       "source": "物流ニュースのLNEWS",
       "category": "物流",
       "publishedAt": "2026-11-13T05:52:41.000Z"
-    },
-    {
-      "id": "ad2dd534a93bdf92",
-      "title": "福西電機、物流2拠点を京田辺に集約",
-      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwTWdDWjZyZGZQc2NLYW45VmhrSFdpLVlNZ3dBaEdvRzVJazhvdzVFZTVtUl9jVWVHVFZOTzhaMXhLb0tPR1pxak5n?oc=5",
-      "source": "LOGISTICS TODAY",
-      "category": "物流",
-      "publishedAt": "2026-11-13T05:44:21.000Z"
     },
     {
       "id": "fd0d6c061c5bab63",
@@ -497,15 +524,6 @@
       "publishedAt": "2026-11-13T02:45:46.000Z"
     },
     {
-      "id": "7977be67fb2efcc0",
-      "title": "名阪国道のPA付近で停車中の大型トラックに追突したトラックが炎上 運転席から性別不明の1人の遺体見つかる（東海テレビ）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KaG1DdGlMUWk2TGR4X0dHdmFrZ1pUUzU0cG4tcnFERmZqazg1LUdaTDBmcTRBNlV1Zmc2VWt1WDROTHZpcHhXRi1nOHpRNEpDR0ppc1BtNTYzQnBnLWhSVVFzelNKYUVwb25EMkFEemlLNmFzUElsMlZnQTloelk?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-13T02:35:14.000Z"
-    },
-    {
       "id": "1d323b27181e86c7",
       "title": "伊賀市の名阪国道でトラックの追突事故 1人死亡 通行止め続く",
       "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -513,6 +531,15 @@
       "source": "NHKニュース",
       "category": "安全・事故",
       "publishedAt": "2026-11-13T01:59:07.000Z"
+    },
+    {
+      "id": "6bc2483870c48c7f",
+      "title": "伊賀市の名阪国道でトラックの追突事故 1人死亡 通行止め解除",
+      "description": "NHKニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96V2N4dWdGU1c2Vld4T2FESVF6TllULTljSG5QM2EtbG1nZ2NSbklaMHhPajlCR2dXdnhYS01BQjJyWHRvZWxvbFZYZVdiR0ZUNDVUd2hQa3VOUmRNQ084?oc=5",
+      "source": "NHKニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-13T01:55:00.000Z"
     },
     {
       "id": "0b08a211034d7edb",
@@ -659,15 +686,6 @@
       "publishedAt": "2026-11-12T11:46:04.000Z"
     },
     {
-      "id": "736ed4bf9b50cc76",
-      "title": "トップページ",
-      "description": "全農が配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tYkhOVXBGeGs2MVBwbk5MT0ZjNlRScFN4STBzSU93T3hRa1V0QWJYLV9PcThoa3V6NkxmR1RFQWtyUTByLXJ5dlZwSnYxUEd0cWNjWjFMYXRCUGVTLUtwdg?oc=5",
-      "source": "全農",
-      "category": "物流",
-      "publishedAt": "2026-11-12T11:17:43.000Z"
-    },
-    {
       "id": "74f4c0d135058abf",
       "title": "京都に延べ16万m2の物流施設着工、三井不動産と日鉄興和不動産 Iと合わせ約24万m2：ロジスティクス",
       "description": "ITmediaが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -702,24 +720,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-11-12T09:55:01.000Z"
-    },
-    {
-      "id": "62dc5b7077d57544",
-      "title": "「車は止まる気配なかった、何かおかしいぞ…」ドライブレコーダーが捉えた事故の瞬間…トラックがスピード緩めることなく前方の車に追突、車が次々と玉突き衝突…長野・佐久市の国道で7台が絡む事故、3人けが（ＳＢＣ信越放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tejRRVVNGSVFBZGlXYkRVUXI5Z25MTDQyTEQyeUtNTFlPajlHbE4wNTlENWU5VjlPLU16VUJaZkxZMDZJNzEwTmd0b0VIQkI4aEhaUm9YS2V4TWlwMXhYSVNLY1MyRW5GVTQ4eHIzMkVEWUdGZTNHaVVoS2hUQTQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-12T09:45:30.000Z"
-    },
-    {
-      "id": "4b5f9a9540b74b20",
-      "title": "【事故】尾道市因島で軽トラックにはねられ女性死亡",
-      "description": "47NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YSlZaZG1CUWRiZ2FYclEyZ0FGcEhqRXd3UFRHRlRMeVlrOFJzWndTQWlWMUJCdDM5T0JqYmZWMDVxZEZuVjFhNGg2cw?oc=5",
-      "source": "47NEWS",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-12T09:25:24.000Z"
     }
   ]
 }
