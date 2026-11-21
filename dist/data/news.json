@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:29:41.958Z",
+  "updatedAt": "2026-11-21T23:13:56.744Z",
   "articles": [
     {
       "id": "e2b7c12adc249b0a",
@@ -20,15 +20,6 @@
       "publishedAt": "2026-11-21T09:16:06.000Z"
     },
     {
-      "id": "b0982a247c650b56",
-      "title": "雪によるスリップか軽乗用車“くの字”に大破 大型トラックと衝突 ２２歳男性意識不明の重体 伊達市",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SeDN2RnJZR25ZMjBNQXZzdnRGeWRpME4zc0ZPOW5RSzZoUHhzMXdEWnd2SVhXSVJrSV8tUzkzVlJ1a284dE1VcHFPMW9pcl9McFpPc3RzVlB2NWd2cUljeDNCSmVFdDhxN3BjSGVRVVhSb2NSWEZjZmpDLUFRVVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-21T09:14:23.000Z"
-    },
-    {
       "id": "9dfc9efad9cf87f8",
       "title": "警察官が運転する車が軽トラックに衝突 72歳女性が意識不明の重体 上市町の交差点",
       "description": "日テレNEWS NNNが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -36,15 +27,6 @@
       "source": "日テレNEWS NNN",
       "category": "安全・事故",
       "publishedAt": "2026-11-21T09:07:00.000Z"
-    },
-    {
-      "id": "46d3b84c8f6f5344",
-      "title": "現在も延焼中 ポンプ車など15台が出動し消火活動続く 埼玉・三郷市の物流倉庫で火事 今のところけが人なし",
-      "description": "TBS NEWS DIGが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FTG9BS3FJd2haTEYxbmswVXFZdUE3SzZUYWE2QmJhcGt5SlJXUEtTUWpfVUc2LWZuc0FWUlYxLXFVd2pBalZUVHNsU3hIbjRoblh4MTgwaw?oc=5",
-      "source": "TBS NEWS DIG",
-      "category": "物流",
-      "publishedAt": "2026-11-21T08:50:34.000Z"
     },
     {
       "id": "c0d9f4a7eb45c06f",
@@ -90,6 +72,15 @@
       "source": "Yahoo!ニュース",
       "category": "物流",
       "publishedAt": "2026-11-21T03:19:19.000Z"
+    },
+    {
+      "id": "e32f5e564f6b54d1",
+      "title": "物流倉庫で火事 鎮火めどたたず 三郷JCT近く けが人なし",
+      "description": "FNNプライムオンラインが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00VWZIbldxQmFBYmQzUVB1bU5pM01sV0dEU205cF9GcXliWEVia2VCNDljNnNGU3R4c05YX0lqOGtjWGRlcllJOURmSmxxQQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "category": "物流",
+      "publishedAt": "2026-11-21T03:18:00.000Z"
     },
     {
       "id": "924ce88c1355212f",
@@ -180,24 +171,6 @@
       "source": "Yahoo!ニュース",
       "category": "道路・交通",
       "publishedAt": "2026-11-21T01:48:52.000Z"
-    },
-    {
-      "id": "bfeb8dcfdd8b7aed",
-      "title": "スリップ原因か 伊達の国道で大型トラックと軽乗用車が正面衝突 男性１人重体 路面はシャーベット状態",
-      "description": "HTB 北海道テレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTLUVmXzgyTHlLbUZjQlc3eTJpd3kxNDBtMk4ydzlFSFhGTUZmQzRXN19hS2QxQVY0UHBJUnR3ZXdsR3lQY1p6Q25iOXVubi1rcHNCemJNQXZjUQ?oc=5",
-      "source": "HTB 北海道テレビ",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-21T01:47:00.000Z"
-    },
-    {
-      "id": "1d963dce3a3fbfbc",
-      "title": "埼玉・三郷の物流施設で火災 5階建て、負傷・延焼なし（共同通信）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcVBWNk5ZSk9XVEF4d0dDQ3JudWZENkxCVDhranZEc1JEWHRvc2E5eTRnY0JrQVFkel9xRlluOV8wNzNzQWVVd3BWU2tQQ1FiTkdXQzkwdmVWamNPcVI4NlYxbjk1bThFaWYzU1FobE02eUtIenFVbE5fdVZyYlU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "物流",
-      "publishedAt": "2026-11-21T01:40:03.000Z"
     },
     {
       "id": "2864b03e278f2a0f",
@@ -398,6 +371,15 @@
       "publishedAt": "2026-11-20T22:03:38.000Z"
     },
     {
+      "id": "9b8ecaf874cc21cf",
+      "title": "アイディオット、CLO支援の機能拡充に弾み",
+      "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Wa0FTclAxRzJqby1NMVRBS0kyNTRuTG5FcGhLaW9xSkxEZ3RHUzMwcjBpRjhaaXEzNmd1SWlSbVh6Z2pBYkRNTGRB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "category": "物流",
+      "publishedAt": "2026-11-20T22:03:38.000Z"
+    },
+    {
       "id": "9bc8cf7c37e8835b",
       "title": "EU・印尼貿易協定、関税撤廃で物流拡大に弾み",
       "description": "LOGISTICS TODAYが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -479,6 +461,15 @@
       "publishedAt": "2026-11-20T11:13:30.000Z"
     },
     {
+      "id": "a1ed1c4bd49ad450",
+      "title": "群馬・伊勢崎市3人死亡事故 トラック運転手が上告せず懲役20年判決確定（ANNニュース）",
+      "description": "www.nagoyatv.comが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Cdm9UYy1kcUY0RGNKOEEtVDl6YTA3Nk92bUxsYTNwTmxFWWR0UUxqeW54V3R2UlozY3JDM3JieUZDRjZlNDZaNDkwQ2FmekZBUDZXd3F1UTZnU1ZtVGZGaC1DUTI?oc=5",
+      "source": "www.nagoyatv.com",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-20T10:53:00.000Z"
+    },
+    {
       "id": "c5e33e1d4fd1674e",
       "title": "「七曲り」でトラックの単独事故 復旧めど立たず【長野】（abn長野朝日放送）",
       "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
@@ -495,6 +486,15 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-11-20T10:39:02.000Z"
+    },
+    {
+      "id": "881dc6d06339364c",
+      "title": "働かずに3年間生計立てる “無施錠のシンゴ”配送車狙い窃盗",
+      "description": "テレ朝NEWSが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5V3NkV19mRmgwUlVWc3UtZGJ1MHVWYnlVdHRRX1pJZXVwTFdqdnNmMDFBeFY5anNZX1VlQlROSTAwMGtFWjgzbHcxWVlfU2xybklCSG4ySFVBQlZUM09SZTFwU2JRa01KUGMyMnRrNmN5QQ?oc=5",
+      "source": "テレ朝NEWS",
+      "category": "物流",
+      "publishedAt": "2026-11-20T10:03:47.000Z"
     },
     {
       "id": "f17bed7935320828",
@@ -578,11 +578,29 @@
       "publishedAt": "2026-11-20T08:26:00.000Z"
     },
     {
-      "id": "384f2d7e6ee8e848",
+      "id": "d16614a74dcba0b1",
+      "title": "【通行止め解除】高知自動車道 高知ＩＣ―伊野ＩＣの上下線",
+      "description": "高知新聞が配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoR2JMbTY4WGlSTWVTa1NYMU9abk5nd1FweVBwSUE0WmtwNm9JM0ZGU3lPT3VyaXlaX2VDT0ZiY3ZtcF9GRTZUMmJsbEtISGFUckxHa3dKa1hpVkRYM3Fv?oc=5",
+      "source": "高知新聞",
+      "category": "道路・交通",
+      "publishedAt": "2026-11-20T08:17:00.000Z"
+    },
+    {
+      "id": "40d41eb6c2feb1b7",
+      "title": "群馬・伊勢崎市3人死亡事故 トラック運転手が上告せず懲役20年判決確定（テレビ朝日系（ANN））",
+      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83aEp1YWZZd25ycHpscWg5MXlQYmNfVFk1YkpKTENrY3ExWEo2U0NxeDdMOVlGYTFTZE5JMjhrOEd6ZDUtdWM3VXRpYzdDakRJTWNNUEJtM2g4SFo1cnZqOU5USHFtQWZhQ2loUnVMbWRyUzNTVHFwU2RIbUhhSWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "category": "安全・事故",
+      "publishedAt": "2026-11-20T07:14:44.000Z"
+    },
+    {
+      "id": "f95895498817caeb",
       "title": "群馬・伊勢崎市3人死亡事故 トラック運転手が上告せず懲役20年判決確定",
-      "description": "ｄメニューニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcV9LdXphS1pGWDNaR2FXVjVWNW1qQmVwdEFmY25WMHBjMjhDVG8wckxpYmlkVkNnR3FaajFnQ1poa05ZZ3ROLVRtZ050VHdkTXI5aUZRUWt1bkZaV2k3QTFiRTBTOGhRUHRTZGJUTjJBekVXWjBXWVZSM3dSTDVKOWpxMHU3NWvSAYwBQVVfeXFMUGptY0s1Z3hRRVNIWWtvcThBeHJqSXYyeWNwMkx3X3RFcmYweHdQS3g4WktaNjRGVmpMdndJTThwTGp3Q2xELXhheDQ1LVpiWXNXbEpwSlpoRGVNWnh2c0JpVW96RHZSSG9UQmktUExGelR6bzNQdlg2WmZ4WkJYeGliX3ducGQ0WVlrbjg?oc=5",
-      "source": "ｄメニューニュース",
+      "description": "HOME広島ホームテレビが配信した最新記事です。詳しい内容は記事元でご確認ください。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMmhQY2VZX0llMWg3WHdCSDY5ODY2QWFTMFNfOVg4SEFKZldaeDRHUnlsQlIzUmRUTGNjdjZrTXphbHlKb1AxUEhqTnY1M2U1ZGs5WVcxMFV2Q0pBekp2X3hXN3d5RWRW?oc=5",
+      "source": "HOME広島ホームテレビ",
       "category": "安全・事故",
       "publishedAt": "2026-11-20T07:14:00.000Z"
     },
@@ -673,7 +691,7 @@
       "description": "千葉テレビ放送株式会社が配信した最新記事です。詳しい内容は記事元でご確認ください。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aTmNOOVhBbWhxM2lxSDBjM0J3bHRsLUFtZlMzbVJKNTFkZ3pVYTBIZzJuMVVGQldaOUlVV2ZMc2piZFpfWTd2NFc5OVV2YURyLWliS1Q3X05mRG9ETFVj?oc=5",
       "source": "千葉テレビ放送株式会社",
-      "category": "安全・事故",
+      "category": "道路・交通",
       "publishedAt": "2026-11-20T03:20:51.000Z"
     },
     {
@@ -684,15 +702,6 @@
       "source": "Yahoo!ニュース",
       "category": "安全・事故",
       "publishedAt": "2026-11-20T03:10:02.000Z"
-    },
-    {
-      "id": "4055809e75aa0a8e",
-      "title": "助手席の58歳男性が死亡 トラックが右カーブを曲がり切れず、スノーシェッドなどに衝突 運転の58歳男性は軽傷 現場はつづら折りの道が続く「七曲り」通行止めを継続中 長野市（NBS長野放送）",
-      "description": "Yahoo!ニュースが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTnhVU2dsaFdNaXhTZlNncXZXbGZmRDVNTFFMUUpHQ1ZsYnVLSTJ2c0JrVFpYWGlLSHZUUUpkd0dWWUlnakR4RG5SdGlOS3RJY1hZdGVqdXNxN0F4SDFETVFzdm54TnpNaTZGX3NXemRRc0FIV0laTU1TdGNVcFU?oc=5",
-      "source": "Yahoo!ニュース",
-      "category": "安全・事故",
-      "publishedAt": "2026-11-20T02:56:02.000Z"
     },
     {
       "id": "6ce6a52b183b2a54",
@@ -711,15 +720,6 @@
       "source": "HTB 北海道テレビ",
       "category": "安全・事故",
       "publishedAt": "2026-11-20T02:45:00.000Z"
-    },
-    {
-      "id": "a8f87f0e0ec99c31",
-      "title": "採用に奔走も「万策尽きた」 人が来ない運送業界に未来はあるか",
-      "description": "物流ウィークリーが配信した最新記事です。詳しい内容は記事元でご確認ください。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJS0JBYTRyUHVlYUVuMy1XQzlGSlgxaHl0ZXRZRW5GRkZjTHVVZlpjOHgtVFFpWWNJdnRXei1XeGZ2aHJheGtIdDFQNnF4dw?oc=5",
-      "source": "物流ウィークリー",
-      "category": "物流",
-      "publishedAt": "2026-11-20T02:36:12.000Z"
     }
   ]
 }
